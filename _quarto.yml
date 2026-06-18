@@ -1,0 +1,107 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - .nojekyll
+
+website:
+  title: "Bhagavad Gita"
+  search: false
+  page-navigation: true
+  navbar:
+    left:
+      - text: "Chapters"
+        menu:
+          - text: "1 · Arjuna Vishada Yoga"
+            href: chapters/chapter-01.qmd
+          - text: "2 · Sankhya Yoga"
+            href: chapters/chapter-02.qmd
+          - text: "3 · Karma Yoga"
+            href: chapters/chapter-03.qmd
+          - text: "4 · Jnana-Karma-Sannyasa Yoga"
+            href: chapters/chapter-04.qmd
+          - text: "5 · Sannyasa Yoga"
+            href: chapters/chapter-05.qmd
+          - text: "6 · Atma-Samyama Yoga"
+            href: chapters/chapter-06.qmd
+          - text: "7 · Jnana-Vijnana Yoga"
+            href: chapters/chapter-07.qmd
+          - text: "8 · Akshara-Brahma Yoga"
+            href: chapters/chapter-08.qmd
+          - text: "9 · Raja-Vidya Raja-Guhya Yoga"
+            href: chapters/chapter-09.qmd
+          - text: "10 · Vibhuti Yoga"
+            href: chapters/chapter-10.qmd
+          - text: "11 · Vishvarupa-Darshana Yoga"
+            href: chapters/chapter-11.qmd
+          - text: "12 · Bhakti Yoga"
+            href: chapters/chapter-12.qmd
+          - text: "13 · Kshetra-Kshetrajna Vibhaga Yoga"
+            href: chapters/chapter-13.qmd
+          - text: "14 · Guna-Traya Vibhaga Yoga"
+            href: chapters/chapter-14.qmd
+          - text: "15 · Purushottama Yoga"
+            href: chapters/chapter-15.qmd
+          - text: "16 · Daivasura-Sampad Vibhaga Yoga"
+            href: chapters/chapter-16.qmd
+          - text: "17 · Shraddha-Traya Vibhaga Yoga"
+            href: chapters/chapter-17.qmd
+          - text: "18 · Moksha-Sannyasa Yoga"
+            href: chapters/chapter-18.qmd
+      - text: "Glossary"
+        href: glossary.qmd
+  sidebar:
+    style: docked
+    collapse-level: 1
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Glossary"
+        href: glossary.qmd
+      - section: "English"
+        contents:
+          - text: "1 · Arjuna Vishada Yoga"
+            href: chapters/chapter-01.qmd
+          - text: "2 · Sankhya Yoga"
+            href: chapters/chapter-02.qmd
+          - text: "3 · Karma Yoga"
+            href: chapters/chapter-03.qmd
+          - text: "4 · Jnana-Karma-Sannyasa Yoga"
+            href: chapters/chapter-04.qmd
+          - text: "5 · Sannyasa Yoga"
+            href: chapters/chapter-05.qmd
+          - text: "6 · Atma-Samyama Yoga"
+            href: chapters/chapter-06.qmd
+          - text: "7 · Jnana-Vijnana Yoga"
+            href: chapters/chapter-07.qmd
+          - text: "8 · Akshara-Brahma Yoga"
+            href: chapters/chapter-08.qmd
+          - text: "9 · Raja-Vidya Raja-Guhya Yoga"
+            href: chapters/chapter-09.qmd
+          - text: "10 · Vibhuti Yoga"
+            href: chapters/chapter-10.qmd
+          - text: "11 · Vishvarupa-Darshana Yoga"
+            href: chapters/chapter-11.qmd
+          - text: "12 · Bhakti Yoga"
+            href: chapters/chapter-12.qmd
+          - text: "13 · Kshetra-Kshetrajna Vibhaga Yoga"
+            href: chapters/chapter-13.qmd
+          - text: "14 · Guna-Traya Vibhaga Yoga"
+            href: chapters/chapter-14.qmd
+          - text: "15 · Purushottama Yoga"
+            href: chapters/chapter-15.qmd
+          - text: "16 · Daivasura-Sampad Vibhaga Yoga"
+            href: chapters/chapter-16.qmd
+          - text: "17 · Shraddha-Traya Vibhaga Yoga"
+            href: chapters/chapter-17.qmd
+          - text: "18 · Moksha-Sannyasa Yoga"
+            href: chapters/chapter-18.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    anchor-sections: false
+    link-external-newwindow: true

@@ -1,0 +1,7 @@
+_site/
+.quarto/
+__pycache__/
+*.pyc
+*.Rproj
+
+/.quarto/

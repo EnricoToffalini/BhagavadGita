@@ -1,0 +1,291 @@
+---
+title: "Chapter 15 - Purushottama Yoga"
+---
+
+<div class="chapter-title-sanskrit">पुरुषोत्तमयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-14.html">Previous chapter</a><a href="chapter-16.html">Next chapter</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-15-1" data-reference="15.1">
+<header class="verse-head">
+<a class="ref" href="#v-15-1">15.1</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">They speak of the imperishable ashwatha tree with roots above and branches below; its leaves are the hymns of the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>. One who knows it knows the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।<br>
+छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-2" data-reference="15.2">
+<header class="verse-head">
+<a class="ref" href="#v-15-2">15.2</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Its branches extend downward and upward, nourished by the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>; the buds are objects of the senses.<br>
+And below, its roots continue spreading, binding people through action in the human world.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अधश्चोर्ध्वं प्रसृतास्तस्य शाखा<br>
+गुणप्रवृद्धा विषयप्रवालाः ।<br>
+अधश्च मूलान्यनुसन्ततानि<br>
+कर्मानुबन्धीनि मनुष्यलोके ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-3" data-reference="15.3">
+<header class="verse-head">
+<a class="ref" href="#v-15-3">15.3</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Its form is not perceived here as such;<br>
+it has neither end nor beginning, nor any present basis.<br>
+Having cut down this deeply rooted ashvattha with the firm weapon of non-attachment,</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न रूपमस्येह तथोपलभ्यते<br>
+नान्तो न चादिर्न च सम्प्रतिष्ठा ।<br>
+अश्वत्थमेनं सुविरूढमूलं<br>
+असङ्गशस्त्रेण दृढेन छित्त्वा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-4" data-reference="15.4">
+<header class="verse-head">
+<a class="ref" href="#v-15-4">15.4</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Then the state must be sought,<br>
+from which, once gone, they do not return again.<br>
+I seek refuge in that same primal <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span>,<br>
+from whom this ancient activity has spread forth.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ततः पदं तत्परिमार्गितव्यं<br>
+यस्मिन्गता न निवर्तन्ति भूयः ।<br>
+तमेव चाद्यं पुरुषं प्रपद्ये ।<br>
+यतः प्रवृत्तिः प्रसृता पुराणी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-5" data-reference="15.5">
+<header class="verse-head">
+<a class="ref" href="#v-15-5">15.5</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Free from delusion and pride, having conquered the fault of attachment, ever devoted to the Self, having renounced desire, and freed from the pairs of opposites called pleasure and pain, the undeluded attain that imperishable state.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">निर्मानमोहा जितसङ्गदोषा<br>
+अध्यात्मनित्या विनिवृत्तकामाः ।<br>
+द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै-<br>
+र्गच्छन्त्यमूढाः पदमव्ययं तत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-6" data-reference="15.6">
+<header class="verse-head">
+<a class="ref" href="#v-15-6">15.6</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Neither the sun, nor the moon, nor fire illumines that;<br>
+having gone there, they do not return—that is My supreme abode.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न तद्भासयते सूर्यो न शशाङ्को न पावकः ।<br>
+यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-7" data-reference="15.7">
+<header class="verse-head">
+<a class="ref" href="#v-15-7">15.7</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">An eternal portion of Me in the world of living beings becomes the jiva and draws the mind as the sixth, together with the senses, which abide in <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ममैवांशो जीवलोके जीवभूतः सनातनः ।<br>
+मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-8" data-reference="15.8">
+<header class="verse-head">
+<a class="ref" href="#v-15-8">15.8</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">As the wind takes fragrances from their source and carries them away, so the Lord, taking these from the body, departs with them when He acquires a body and when He leaves it.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।<br>
+गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-9" data-reference="15.9">
+<header class="verse-head">
+<a class="ref" href="#v-15-9">15.9</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Taking possession of hearing, sight, touch, taste, and smell, and also the mind, he experiences the objects of the senses.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च ।<br>
+अधिष्ठाय मनश्चायं विषयानुपसेवते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-10" data-reference="15.10">
+<header class="verse-head">
+<a class="ref" href="#v-15-10">15.10</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The deluded do not see Him departing, abiding, or enjoying, while those with the eye of knowledge do see.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् ।<br>
+विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-11" data-reference="15.11">
+<header class="verse-head">
+<a class="ref" href="#v-15-11">15.11</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Striving yogis see Him abiding in the self; those whose selves are untrained and who lack discernment do not see Him, even though they strive.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।<br>
+यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-12" data-reference="15.12">
+<header class="verse-head">
+<a class="ref" href="#v-15-12">15.12</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Know that the splendor which, dwelling in the sun, illumines the whole world, and that which is in the moon and in fire—that splendor is Mine.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।<br>
+यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-13" data-reference="15.13">
+<header class="verse-head">
+<a class="ref" href="#v-15-13">15.13</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Entering the earth, I sustain all beings by My power; becoming Soma, of the nature of sap, I nourish all herbs.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">गामाविश्य च भूतानि धारयाम्यहमोजसा ।<br>
+पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-14" data-reference="15.14">
+<header class="verse-head">
+<a class="ref" href="#v-15-14">15.14</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I, becoming the fire of digestion and abiding in the bodies of living beings, unite with prana and apana and digest the four kinds of food.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।<br>
+प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-15" data-reference="15.15">
+<header class="verse-head">
+<a class="ref" href="#v-15-15">15.15</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am seated in the heart of all beings;<br>
+from Me come memory, knowledge, and their loss.<br>
+I am indeed what is to be known through all the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>;<br>
+I am the maker of Vedanta and the knower of the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वस्य चाहं हृदि सन्निविष्टो<br>
+मत्तः स्मृतिर्ज्ञानमपोहनञ्च ।<br>
+वेदैश्च सर्वैरहमेव वेद्यो<br>
+वेदान्तकृद्वेदविदेव चाहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-16" data-reference="15.16">
+<header class="verse-head">
+<a class="ref" href="#v-15-16">15.16</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">There are two purushas in this world: the perishable and the imperishable. The perishable is all beings; the unchanging is called the imperishable.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।<br>
+क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-17" data-reference="15.17">
+<header class="verse-head">
+<a class="ref" href="#v-15-17">15.17</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The supreme <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span> is another, spoken of as the Paramatman: the imperishable Lord who enters the three worlds and sustains them.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।<br>
+यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-18" data-reference="15.18">
+<header class="verse-head">
+<a class="ref" href="#v-15-18">15.18</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Because I transcend the perishable, and am even superior to the imperishable, I am therefore renowned in the world and in the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span> as the supreme <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।<br>
+अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-19" data-reference="15.19">
+<header class="verse-head">
+<a class="ref" href="#v-15-19">15.19</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">He who, being undeluded, thus knows Me as the Supreme <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span>, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, worships Me with all his being; he is all-knowing.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।<br>
+स सर्वविद्भजति मां सर्वभावेन भारत ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-20" data-reference="15.20">
+<header class="verse-head">
+<a class="ref" href="#v-15-20">15.20</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Thus I have taught you this most secret teaching, O sinless one.<br>
+Knowing this, one becomes wise and has accomplished what is to be done, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।<br>
+एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥</div>
+</details>
+</article>
+
+</div>

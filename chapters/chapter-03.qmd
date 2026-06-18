@@ -1,0 +1,580 @@
+---
+title: "Chapter 3 - Karma Yoga"
+---
+
+<div class="chapter-title-sanskrit">कर्मयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-02.html">Previous chapter</a><a href="chapter-04.html">Next chapter</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-3-1" data-reference="3.1">
+<header class="verse-head">
+<a class="ref" href="#v-3-1">3.1</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, if you think that understanding is superior to action, then why, <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keśava</span>, do you urge me to this dreadful action?</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।<br>
+तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-2" data-reference="3.2">
+<header class="verse-head">
+<a class="ref" href="#v-3-2">3.2</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">With your seemingly confused words, you appear to bewilder my understanding. Tell me that one thing, definitely, by which I may attain the highest good.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।<br>
+तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-3" data-reference="3.3">
+<header class="verse-head">
+<a class="ref" href="#v-3-3">3.3</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">In this world, O sinless one, I previously declared a twofold path: the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of knowledge for the <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sāṅkhyas</span>, and the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of action for the yogins.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।<br>
+ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-4" data-reference="3.4">
+<header class="verse-head">
+<a class="ref" href="#v-3-4">3.4</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">A person does not attain freedom from action by abstaining from action, nor does one reach perfection by mere renunciation.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।<br>
+न च संन्यसनादेव सिद्धिं समधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-5" data-reference="3.5">
+<header class="verse-head">
+<a class="ref" href="#v-3-5">3.5</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For no one ever remains even for a moment without doing action; indeed, everyone is made to act helplessly by the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> born of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।<br>
+कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-6" data-reference="3.6">
+<header class="verse-head">
+<a class="ref" href="#v-3-6">3.6</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">One who restrains the organs of action yet sits dwelling in the mind on sense objects, with a deluded self, is called a hypocrite.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।<br>
+इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-7" data-reference="3.7">
+<header class="verse-head">
+<a class="ref" href="#v-3-7">3.7</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But one who, controlling the senses with the mind, begins, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of action with the organs of action, unattached, excels.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।<br>
+कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-8" data-reference="3.8">
+<header class="verse-head">
+<a class="ref" href="#v-3-8">3.8</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Perform the prescribed action; action is indeed better than inaction. Even the maintenance of the body would not be accomplished by inaction.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।<br>
+शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-9" data-reference="3.9">
+<header class="verse-head">
+<a class="ref" href="#v-3-9">3.9</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">This world is bound by action done for any purpose other than <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>. Therefore, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, perform action for that purpose, free from attachment.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।<br>
+तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-10" data-reference="3.10">
+<header class="verse-head">
+<a class="ref" href="#v-3-10">3.10</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Having created beings together with <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>, Prajapati said of old:<br>
+“By this you shall multiply; let this be the cow that yields your desired objects.”</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।<br>
+अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-11" data-reference="3.11">
+<header class="verse-head">
+<a class="ref" href="#v-3-11">3.11</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">By this, nourish the devas, and let those devas nourish you; nourishing one another, you will attain the highest good.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">देवान्भावयतानेन ते देवा भावयन्तु वः ।<br>
+परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-12" data-reference="3.12">
+<header class="verse-head">
+<a class="ref" href="#v-3-12">3.12</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The devas, nourished by <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>, will indeed grant you the enjoyed pleasures you desire.<br>
+But one who enjoys what has been given by them, without offering back to them, is surely a thief.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।<br>
+तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-13" data-reference="3.13">
+<header class="verse-head">
+<a class="ref" href="#v-3-13">3.13</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Those who eat the remnants of <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span> are freed from all sins; but those sinful men who cook for their own sake eat only sin.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।<br>
+भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-14" data-reference="3.14">
+<header class="verse-head">
+<a class="ref" href="#v-3-14">3.14</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">From food come beings; from rain comes food.<br>
+From sacrifice comes rain; sacrifice is born of action.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।<br>
+यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-15" data-reference="3.15">
+<header class="verse-head">
+<a class="ref" href="#v-3-15">3.15</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Know that <span class="glossary-term" tabindex="0" data-gloss="karma: Action, deed, or the consequences bound to action." aria-label="karma: Action, deed, or the consequences bound to action." title="karma: Action, deed, or the consequences bound to action." data-glossary-id="karma">karma</span> arises from <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, and <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> arises from the imperishable. Therefore the all-pervading <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is eternally established in <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।<br>
+तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-16" data-reference="3.16">
+<header class="verse-head">
+<a class="ref" href="#v-3-16">3.16</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Thus, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, one who does not follow this wheel set in motion in this world, delighting only in the senses, lives in vain.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।<br>
+अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-17" data-reference="3.17">
+<header class="verse-head">
+<a class="ref" href="#v-3-17">3.17</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But for the person who rejoices in the Self alone, and is content with the Self, and is satisfied in the Self alone, there is nothing to be done.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।<br>
+आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-18" data-reference="3.18">
+<header class="verse-head">
+<a class="ref" href="#v-3-18">3.18</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For him, there is no purpose in what is done or not done here; nor does he depend on anyone or anything among all beings.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।<br>
+न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-19" data-reference="3.19">
+<header class="verse-head">
+<a class="ref" href="#v-3-19">3.19</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Therefore, remain unattached and always perform the action that must be done; for by acting without attachment, a person attains the highest.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तस्मादसक्तः सततं कार्यं कर्म समाचर ।<br>
+असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-20" data-reference="3.20">
+<header class="verse-head">
+<a class="ref" href="#v-3-20">3.20</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For only by action did Janaka and others attain perfection; and considering the holding-together of the world, you too should act.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।<br>
+लोकसङ्ग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-21" data-reference="3.21">
+<header class="verse-head">
+<a class="ref" href="#v-3-21">3.21</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Whatever a श्रेष्ठ person does, that is what other people do.<br>
+Whatever standard he sets, the world follows that.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।<br>
+स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-22" data-reference="3.22">
+<header class="verse-head">
+<a class="ref" href="#v-3-22">3.22</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, there is nothing in the three worlds that I must do, nor anything unattained that I must attain; yet I remain engaged in action.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।<br>
+नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-23" data-reference="3.23">
+<header class="verse-head">
+<a class="ref" href="#v-3-23">3.23</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For if I were ever to cease acting, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, remaining unwearied in action, people would in every way follow my path.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।<br>
+मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-24" data-reference="3.24">
+<header class="verse-head">
+<a class="ref" href="#v-3-24">3.24</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">If I did not perform action, these worlds would perish; and I would be the cause of confusion and the destruction of these beings.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।<br>
+सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-25" data-reference="3.25">
+<header class="verse-head">
+<a class="ref" href="#v-3-25">3.25</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">As the ignorant act with attachment to action, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, so should the wise act, unattached, desiring to maintain the welfare of the world.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।<br>
+कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्ग्रहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-26" data-reference="3.26">
+<header class="verse-head">
+<a class="ref" href="#v-3-26">3.26</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">A wise person, acting with discipline, should not create confusion in the understanding of those who are ignorant and attached to action, but should encourage them to perform all actions properly.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।<br>
+जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-27" data-reference="3.27">
+<header class="verse-head">
+<a class="ref" href="#v-3-27">3.27</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">All actions are carried out in every way by the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.<br>
+One whose self is deluded by ego thinks, “I am the doer.”</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।<br>
+अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-28" data-reference="3.28">
+<header class="verse-head">
+<a class="ref" href="#v-3-28">3.28</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But one who knows the truth, O mighty-armed one, about the division of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> and actions does not become attached, thinking, “The <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> act among the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>.”</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।<br>
+गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-29" data-reference="3.29">
+<header class="verse-head">
+<a class="ref" href="#v-3-29">3.29</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Deluded by the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, they become attached to actions born of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>. One who knows the whole should not unsettle those who do not know the whole, the dull-minded.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।<br>
+तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-30" data-reference="3.30">
+<header class="verse-head">
+<a class="ref" href="#v-3-30">3.30</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">With the mind fixed on the Self, renouncing all actions in Me, free from desire and free from possessiveness, fight, without fever.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।<br>
+निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-31" data-reference="3.31">
+<header class="verse-head">
+<a class="ref" href="#v-3-31">3.31</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Those human beings who consistently follow this teaching of Mine, full of faith and free from censure, are also released from their <span class="glossary-term" tabindex="0" data-gloss="karma: Action, deed, or the consequences bound to action." aria-label="karma: Action, deed, or the consequences bound to action." title="karma: Action, deed, or the consequences bound to action." data-glossary-id="karma">karma</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।<br>
+श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-32" data-reference="3.32">
+<header class="verse-head">
+<a class="ref" href="#v-3-32">3.32</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But those who, finding fault with this, do not follow my teaching—know them to be deluded in all knowledge and of ruined understanding.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।<br>
+सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-33" data-reference="3.33">
+<header class="verse-head">
+<a class="ref" href="#v-3-33">3.33</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Even a man of knowledge acts according to his own nature;<br>
+beings follow their nature—what will restraint accomplish?</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।<br>
+प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-34" data-reference="3.34">
+<header class="verse-head">
+<a class="ref" href="#v-3-34">3.34</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For each sense, attraction and aversion are fixed upon its objects. One should not come under their sway, for they are one’s enemies.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।<br>
+तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-35" data-reference="3.35">
+<header class="verse-head">
+<a class="ref" href="#v-3-35">3.35</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Better is one’s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, though imperfectly performed, than another’s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> well performed.<br>
+Better death in one’s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>; another’s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> is fraught with fear.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।<br>
+स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-36" data-reference="3.36">
+<header class="verse-head">
+<a class="ref" href="#v-3-36">3.36</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Then by what is this person impelled to commit sin, O Vārṣṇeya, as if driven by force, even though unwilling?</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।<br>
+अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-37" data-reference="3.37">
+<header class="verse-head">
+<a class="ref" href="#v-3-37">3.37</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">This desire, this anger, born of <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span>,<br>
+is all-devouring and greatly sinful;<br>
+know this here to be the enemy.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">काम एष क्रोध एष रजोगुणसमुद्भवः ।<br>
+महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-38" data-reference="3.38">
+<header class="verse-head">
+<a class="ref" href="#v-3-38">3.38</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">As fire is covered by smoke, and a mirror by dust, so is this enveloped by that.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।<br>
+यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-39" data-reference="3.39">
+<header class="verse-head">
+<a class="ref" href="#v-3-39">3.39</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Knowledge is veiled by this eternal enemy of the wise, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, in the form of desire, which is insatiable like fire.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।<br>
+कामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-40" data-reference="3.40">
+<header class="verse-head">
+<a class="ref" href="#v-3-40">3.40</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The senses, the mind, and the intellect are said to be its seat.<br>
+By these it deludes the embodied one, obscuring his knowledge.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।<br>
+एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-41" data-reference="3.41">
+<header class="verse-head">
+<a class="ref" href="#v-3-41">3.41</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Therefore, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bhāratas</span>, first restrain your senses, and then cast away this sinful foe, the destroyer of knowledge and wisdom.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।<br>
+पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-42" data-reference="3.42">
+<header class="verse-head">
+<a class="ref" href="#v-3-42">3.42</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The senses, they say, are superior; superior to the senses is the mind.<br>
+Superior to the mind is the intellect; but superior to the intellect is That.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।<br>
+मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-43" data-reference="3.43">
+<header class="verse-head">
+<a class="ref" href="#v-3-43">3.43</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Thus, understanding the Self to be beyond the intellect, steady the self by the self. O mighty-armed one, slay this enemy, hard to overcome, who takes the form of desire.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।<br>
+जहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥</div>
+</details>
+</article>
+
+</div>

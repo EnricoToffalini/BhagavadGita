@@ -1,0 +1,261 @@
+---
+title: "Glossary"
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic
+- styles.css for visual style
+
+Then run:
+    run_all.bat
+-->
+
+
+<div class="site-note glossary-note">
+A compact guide to transliterated Sanskrit terms and recurring names used in the English rendering.
+</div>
+
+## Concepts
+
+<div class="glossary-list">
+<section class="glossary-entry" id="glossary-atman">
+<h3>Atman</h3>
+<p>Self or inner principle; kept distinct from ordinary ego or personality.</p>
+<p class="glossary-variants">Forms in the text: Atman, Ātman</p>
+</section>
+<section class="glossary-entry" id="glossary-bhakti">
+<h3>bhakti</h3>
+<p>Devotion or devoted participation, especially toward the divine.</p>
+<p class="glossary-variants">Forms in the text: bhakti, bhakti-yoga</p>
+</section>
+<section class="glossary-entry" id="glossary-brahman">
+<h3>Brahman</h3>
+<p>The ultimate reality or absolute principle.</p>
+<p class="glossary-variants">Forms in the text: Brahma-nirvana, Brahma-sūtra, Brahma-yoga, Brahman, Brahman-nirvana, Brahman-realization</p>
+</section>
+<section class="glossary-entry" id="glossary-buddhi">
+<h3>buddhi</h3>
+<p>Intellect, discernment, or decisive understanding.</p>
+<p class="glossary-variants">Forms in the text: buddhi, buddhi-yoga</p>
+</section>
+<section class="glossary-entry" id="glossary-dharma">
+<h3>dharma</h3>
+<p>Order, duty, law, or right conduct; the exact sense depends on context.</p>
+<p class="glossary-variants">Forms in the text: dharma, dharma-field</p>
+</section>
+<section class="glossary-entry" id="glossary-guna">
+<h3>guna</h3>
+<p>A quality or constituent tendency of prakriti: sattva, rajas, and tamas.</p>
+<p class="glossary-variants">Forms in the text: guna, gunas, guṇa, guṇas</p>
+</section>
+<section class="glossary-entry" id="glossary-karma">
+<h3>karma</h3>
+<p>Action, deed, or the consequences bound to action.</p>
+<p class="glossary-variants">Forms in the text: karma, karma-yoga</p>
+</section>
+<section class="glossary-entry" id="glossary-kshetra">
+<h3>kshetra</h3>
+<p>Field, especially the body or field of experience in Chapter 13.</p>
+<p class="glossary-variants">Forms in the text: kshetra, kṣetra</p>
+</section>
+<section class="glossary-entry" id="glossary-kshetrajna">
+<h3>kshetrajna</h3>
+<p>Knower of the field; the conscious principle related to kshetra.</p>
+<p class="glossary-variants">Forms in the text: kshetrajna, kṣetrajña</p>
+</section>
+<section class="glossary-entry" id="glossary-maya">
+<h3>maya</h3>
+<p>Power of appearance, concealment, or manifestation; context-dependent.</p>
+<p class="glossary-variants">Forms in the text: maya, Maya, Māyā, māyā, yoga-maya</p>
+</section>
+<section class="glossary-entry" id="glossary-nirvana">
+<h3>nirvana</h3>
+<p>Extinction, peace, or release; here often linked with Brahman.</p>
+<p class="glossary-variants">Forms in the text: Brahma-nirvana, Brahman-nirvana, nirvana, nirvāṇa</p>
+</section>
+<section class="glossary-entry" id="glossary-prakriti">
+<h3>prakriti</h3>
+<p>Nature, material process, or the field of change and manifestation.</p>
+<p class="glossary-variants">Forms in the text: Prakriti, prakriti, prakṛti, Prakṛti</p>
+</section>
+<section class="glossary-entry" id="glossary-purusha">
+<h3>purusha</h3>
+<p>Person, spirit, or conscious principle; meaning varies by passage.</p>
+<p class="glossary-variants">Forms in the text: Purusha, purusha, Purushottama, puruṣa, Puruṣa</p>
+</section>
+<section class="glossary-entry" id="glossary-rajas">
+<h3>rajas</h3>
+<p>The guna associated with activity, passion, impulse, and restlessness.</p>
+<p class="glossary-variants">Forms in the text: Rajas, rajas, rājasika</p>
+</section>
+<section class="glossary-entry" id="glossary-samsara">
+<h3>samsara</h3>
+<p>The ongoing cycle of worldly becoming, birth, death, and attachment.</p>
+<p class="glossary-variants">Forms in the text: samsara, saṃsāra</p>
+</section>
+<section class="glossary-entry" id="glossary-sankhya">
+<h3>Sankhya</h3>
+<p>A path or framework of discriminative knowledge; here not always a formal school label.</p>
+<p class="glossary-variants">Forms in the text: Sankhya, Sāṅkhya, Sāṅkhya-yoga, Sāṅkhyas</p>
+</section>
+<section class="glossary-entry" id="glossary-sannyasa">
+<h3>sannyasa</h3>
+<p>Renunciation or giving up, especially of possessive attachment to action.</p>
+<p class="glossary-variants">Forms in the text: sannyasa, sannyāsa</p>
+</section>
+<section class="glossary-entry" id="glossary-sattva">
+<h3>sattva</h3>
+<p>The guna associated with clarity, balance, and illumination.</p>
+<p class="glossary-variants">Forms in the text: sattva, Sattva, sāttvika</p>
+</section>
+<section class="glossary-entry" id="glossary-tamas">
+<h3>tamas</h3>
+<p>The guna associated with inertia, dullness, confusion, and obstruction.</p>
+<p class="glossary-variants">Forms in the text: Tamas, tamas, tāmasika</p>
+</section>
+<section class="glossary-entry" id="glossary-tyaga">
+<h3>tyaga</h3>
+<p>Abandonment, renunciation, or relinquishing attachment to the fruits of action.</p>
+<p class="glossary-variants">Forms in the text: tyaga, tyāga</p>
+</section>
+<section class="glossary-entry" id="glossary-yoga">
+<h3>yoga</h3>
+<p>Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;).</p>
+<p class="glossary-variants">Forms in the text: bhakti-yoga, buddhi-yoga, karma-yoga, practice-yoga, Sāṅkhya-yoga, yoga, yoga-maya, yogi, yogī</p>
+</section>
+</div>
+
+## Social and ritual terms
+
+<div class="glossary-list">
+<section class="glossary-entry" id="glossary-acharya">
+<h3>acharya</h3>
+<p>Teacher or preceptor.</p>
+<p class="glossary-variants">Forms in the text: acharya, ācārya</p>
+</section>
+<section class="glossary-entry" id="glossary-brahmin">
+<h3>Brahmin</h3>
+<p>A member of the priestly or learned class; Sanskrit brāhmaṇa.</p>
+<p class="glossary-variants">Forms in the text: Brahmin, brahmin, brāhmaṇa, brāhmaṇas</p>
+</section>
+<section class="glossary-entry" id="glossary-kshatriya">
+<h3>kshatriya</h3>
+<p>Member of the warrior or ruling class.</p>
+<p class="glossary-variants">Forms in the text: kshatriya, kṣatriya</p>
+</section>
+<section class="glossary-entry" id="glossary-om">
+<h3>Om</h3>
+<p>Sacred syllable used as a concise sign of the absolute or divine.</p>
+<p class="glossary-variants">Forms in the text: AUM, Om</p>
+</section>
+<section class="glossary-entry" id="glossary-shudra">
+<h3>shudra</h3>
+<p>Member of the service class in the traditional varna scheme.</p>
+<p class="glossary-variants">Forms in the text: shudra, shudras, śūdra, śūdras</p>
+</section>
+<section class="glossary-entry" id="glossary-vaishya">
+<h3>vaishya</h3>
+<p>Member of the class associated with trade, agriculture, and herding.</p>
+<p class="glossary-variants">Forms in the text: vaishya, vaishyas, vaiśya, vaiśyas</p>
+</section>
+<section class="glossary-entry" id="glossary-veda">
+<h3>Vedas</h3>
+<p>Ancient sacred texts of the Vedic tradition.</p>
+<p class="glossary-variants">Forms in the text: Bṛhat-sāma, Gāyatrī, Sāma, Veda, Vedas, Ṛg</p>
+</section>
+<section class="glossary-entry" id="glossary-yajna">
+<h3>yajna</h3>
+<p>Sacrifice, ritual offering, or consecrated action.</p>
+<p class="glossary-variants">Forms in the text: adhiyajña, yajna, yajña</p>
+</section>
+</div>
+
+## Names and epithets
+
+<div class="glossary-list">
+<section class="glossary-entry" id="glossary-acyuta">
+<h3>Acyuta</h3>
+<p>Epithet of Krishna, often glossed as the unfailing one.</p>
+<p class="glossary-variants">Forms in the text: Acyuta</p>
+</section>
+<section class="glossary-entry" id="glossary-arjuna">
+<h3>Arjuna</h3>
+<p>Arjuna, the warrior addressed by Krishna.</p>
+<p class="glossary-variants">Forms in the text: Arjuna</p>
+</section>
+<section class="glossary-entry" id="glossary-bharata">
+<h3>Bharata</h3>
+<p>A dynastic or ancestral name, often used as an address.</p>
+<p class="glossary-variants">Forms in the text: Bharata, Bharatas, Bhārata, Bhāratas</p>
+</section>
+<section class="glossary-entry" id="glossary-dhananjaya">
+<h3>Dhananjaya</h3>
+<p>Epithet of Arjuna, often understood as winner of wealth.</p>
+<p class="glossary-variants">Forms in the text: Dhananjaya, Dhanañjaya</p>
+</section>
+<section class="glossary-entry" id="glossary-govinda">
+<h3>Govinda</h3>
+<p>Epithet of Krishna.</p>
+<p class="glossary-variants">Forms in the text: Govinda</p>
+</section>
+<section class="glossary-entry" id="glossary-gudakesha">
+<h3>Gudakesha</h3>
+<p>Epithet of Arjuna, commonly linked with mastery over sleep.</p>
+<p class="glossary-variants">Forms in the text: Gudakesha, Guḍākeśa</p>
+</section>
+<section class="glossary-entry" id="glossary-hrishikesha">
+<h3>Hrishikesha</h3>
+<p>Epithet of Krishna, often understood as lord of the senses.</p>
+<p class="glossary-variants">Forms in the text: Hrishikesha, Hṛṣīkeśa</p>
+</section>
+<section class="glossary-entry" id="glossary-janardana">
+<h3>Janardana</h3>
+<p>Epithet of Krishna.</p>
+<p class="glossary-variants">Forms in the text: Janardana, Janārdana</p>
+</section>
+<section class="glossary-entry" id="glossary-kaunteya">
+<h3>Kaunteya</h3>
+<p>Epithet of Arjuna: son of Kunti.</p>
+<p class="glossary-variants">Forms in the text: Kaunteya, Kunti</p>
+</section>
+<section class="glossary-entry" id="glossary-keshava">
+<h3>Keshava</h3>
+<p>Epithet of Krishna.</p>
+<p class="glossary-variants">Forms in the text: Keshava, Keśava</p>
+</section>
+<section class="glossary-entry" id="glossary-krishna">
+<h3>Krishna</h3>
+<p>Krishna, speaker of the teaching to Arjuna.</p>
+<p class="glossary-variants">Forms in the text: Krishna, Kṛṣṇa</p>
+</section>
+<section class="glossary-entry" id="glossary-madhava">
+<h3>Madhava</h3>
+<p>Epithet of Krishna.</p>
+<p class="glossary-variants">Forms in the text: Madhava, Mādhava</p>
+</section>
+<section class="glossary-entry" id="glossary-madhusudana">
+<h3>Madhusudana</h3>
+<p>Epithet of Krishna: slayer of Madhu.</p>
+<p class="glossary-variants">Forms in the text: Madhusudana, Madhusūdana</p>
+</section>
+<section class="glossary-entry" id="glossary-pandava">
+<h3>Pandava</h3>
+<p>One of the sons or descendants of Pandu; often refers to Arjuna and his brothers.</p>
+<p class="glossary-variants">Forms in the text: Pandava, Pandavas, Pāṇḍava, Pāṇḍavas, Pāṇḍu</p>
+</section>
+<section class="glossary-entry" id="glossary-partha">
+<h3>Partha</h3>
+<p>Epithet of Arjuna: son of Pritha/Kunti.</p>
+<p class="glossary-variants">Forms in the text: Partha, Pārtha, Pṛthā</p>
+</section>
+<section class="glossary-entry" id="glossary-vasudeva">
+<h3>Vasudeva</h3>
+<p>Name or epithet of Krishna, son of Vasudeva.</p>
+<p class="glossary-variants">Forms in the text: Vasudeva, Vāsudeva</p>
+</section>
+</div>

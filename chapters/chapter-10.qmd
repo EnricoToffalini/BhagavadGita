@@ -1,0 +1,569 @@
+---
+title: "Chapter 10 - Vibhuti Yoga"
+---
+
+<div class="chapter-title-sanskrit">विभूतियोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-09.html">Previous chapter</a><a href="chapter-11.html">Next chapter</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-10-1" data-reference="10.1">
+<header class="verse-head">
+<a class="ref" href="#v-10-1">10.1</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Once again, O mighty-armed one, hear my supreme word. Out of desire for your welfare, I shall speak to you, who are dear to me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">भूय एव महाबाहो श‍ृणु मे परमं वचः ।<br>
+यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-2" data-reference="10.2">
+<header class="verse-head">
+<a class="ref" href="#v-10-2">10.2</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Neither the hosts of the devas nor the great sages know My source; for I am indeed the origin of the devas and of the great sages in every respect.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न मे विदुः सुरगणाः प्रभवं न महर्षयः ।<br>
+अहमादिर्हि देवानां महर्षीणां च सर्वशः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-3" data-reference="10.3">
+<header class="verse-head">
+<a class="ref" href="#v-10-3">10.3</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">He who knows Me as unborn and without beginning, and as the great Lord of the worlds, undeluded among mortals, is released from all sins.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यो मामजमनादिं च वेत्ति लोकमहेश्वरम् ।<br>
+असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-4" data-reference="10.4">
+<header class="verse-head">
+<a class="ref" href="#v-10-4">10.4</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Intelligence, knowledge, non-delusion, forgiveness, truth, self-restraint, and calmness;<br>
+pleasure and pain, being and non-being, fear and fearlessness.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः ।<br>
+सुखं दुःखं भवोऽभावो भयं चाभयमेव च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-5" data-reference="10.5">
+<header class="verse-head">
+<a class="ref" href="#v-10-5">10.5</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Nonviolence, equanimity, contentment, austerity, charity, and fame and infamy—these diverse dispositions of beings arise from Me alone.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः ।<br>
+भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-6" data-reference="10.6">
+<header class="verse-head">
+<a class="ref" href="#v-10-6">10.6</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The seven great sages of old, and the four Manus as well, were born of My mind; from them these creatures of the world have come forth.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा ।<br>
+मद्भावा मानसा जाता येषां लोक इमाः प्रजाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-7" data-reference="10.7">
+<header class="verse-head">
+<a class="ref" href="#v-10-7">10.7</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">He who truly knows this glory of Mine and this <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span><br>
+is united with unwavering <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>; there is no doubt about it.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः ।<br>
+सोऽविकम्पेन योगेन युज्यते नात्र संशयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-8" data-reference="10.8">
+<header class="verse-head">
+<a class="ref" href="#v-10-8">10.8</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am the source of all; from Me everything proceeds. Knowing this, the wise, endowed with true feeling, worship Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते ।<br>
+इति मत्वा भजन्ते मां बुधा भावसमन्विताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-9" data-reference="10.9">
+<header class="verse-head">
+<a class="ref" href="#v-10-9">10.9</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">With their minds fixed on Me, their lives devoted to Me, enlightening one another and ever speaking of Me, they are content and rejoicing.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् ।<br>
+कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-10" data-reference="10.10">
+<header class="verse-head">
+<a class="ref" href="#v-10-10">10.10</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">To those who are ever devoted and worship Me with love, I give the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of understanding by which they come to Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।<br>
+ददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-11" data-reference="10.11">
+<header class="verse-head">
+<a class="ref" href="#v-10-11">10.11</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Out of compassion for them, I, abiding in their inner being, destroy the darkness born of ignorance with the shining lamp of knowledge.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तेषामेवानुकम्पार्थमहमज्ञानजं तमः ।<br>
+नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-12" data-reference="10.12">
+<header class="verse-head">
+<a class="ref" href="#v-10-12">10.12</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">You are the Supreme <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, the supreme abode, the supremely pure one; the eternal, divine <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span>, the primal God, unborn and all-pervading.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">परं ब्रह्म परं धाम पवित्रं परमं भवान् ।<br>
+पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-13" data-reference="10.13">
+<header class="verse-head">
+<a class="ref" href="#v-10-13">10.13</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">All the sages, as well as the devarṣi Nārada, Asita, Devala, and Vyāsa, have said this of You, and You yourself are saying it to me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा ।<br>
+असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-14" data-reference="10.14">
+<header class="verse-head">
+<a class="ref" href="#v-10-14">10.14</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I consider all this that you speak to me as true, O <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keśava</span>; for neither the devas nor the dānavas know Your manifestation, O Bhagavan.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वमेतदृतं मन्ये यन्मां वदसि केशव ।<br>
+न हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-15" data-reference="10.15">
+<header class="verse-head">
+<a class="ref" href="#v-10-15">10.15</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">You yourself know yourself by yourself, O <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purushottama</span>.<br>
+O source of all beings, lord of beings, god of gods, lord of the world.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम ।<br>
+भूतभावन भूतेश देवदेव जगत्पते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-16" data-reference="10.16">
+<header class="verse-head">
+<a class="ref" href="#v-10-16">10.16</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">You should speak in full of your divine manifestations, by which you pervade these worlds and abide in them.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः ।<br>
+याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-17" data-reference="10.17">
+<header class="verse-head">
+<a class="ref" href="#v-10-17">10.17</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">How am I to know You, O yogin, by constantly contemplating You? And in what, and in what states, should You be contemplated by me, O Bhagavan?</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् ।<br>
+केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-18" data-reference="10.18">
+<header class="verse-head">
+<a class="ref" href="#v-10-18">10.18</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janārdana</span>, tell me once more in detail of your <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> and your manifestations, for I am not yet satisfied with hearing this nectar.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">विस्तरेणात्मनो योगं विभूतिं च जनार्दन ।<br>
+भूयः कथय तृप्तिर्हि श‍ृण्वतो नास्ति मेऽमृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-19" data-reference="10.19">
+<header class="verse-head">
+<a class="ref" href="#v-10-19">10.19</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Well, I will tell you of my divine manifestations, chief among them, O best of the Kurus; there is no end to the विस्तार of mine.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः ।<br>
+प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-20" data-reference="10.20">
+<header class="verse-head">
+<a class="ref" href="#v-10-20">10.20</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." aria-label="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." title="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." data-glossary-id="gudakesha">Gudakesha</span>, I am the <span class="glossary-term" tabindex="0" data-gloss="Atman: Self or inner principle; kept distinct from ordinary ego or personality." aria-label="Atman: Self or inner principle; kept distinct from ordinary ego or personality." title="Atman: Self or inner principle; kept distinct from ordinary ego or personality." data-glossary-id="atman">Atman</span> dwelling in the heart of all beings. I am the beginning, the middle, and also the end of beings.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहमात्मा गुडाकेश सर्वभूताशयस्थितः ।<br>
+अहमादिश्च मध्यं च भूतानामन्त एव च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-21" data-reference="10.21">
+<header class="verse-head">
+<a class="ref" href="#v-10-21">10.21</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the Ādityas I am Viṣṇu; among lights, the radiant sun.<br>
+Among the Maruts I am Marīci; among the stars I am the moon.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।<br>
+मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-22" data-reference="10.22">
+<header class="verse-head">
+<a class="ref" href="#v-10-22">10.22</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span> I am the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Sāma</span> <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Veda</span>; among the gods I am Vāsava.<br>
+Among the senses I am the mind, and among beings I am consciousness.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।<br>
+इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-23" data-reference="10.23">
+<header class="verse-head">
+<a class="ref" href="#v-10-23">10.23</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the Rudras I am Shankara, and among the Yakshas and Rakshasas I am the lord of wealth; among the Vasus I am fire, and among mountains I am Meru.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् ।<br>
+वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-24" data-reference="10.24">
+<header class="verse-head">
+<a class="ref" href="#v-10-24">10.24</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among priests, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, know Me to be Bṛhaspati, the chief; among army commanders, I am Skanda; among lakes, I am the ocean.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् ।<br>
+सेनानीनामहं स्कन्दः सरसामस्मि सागरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-25" data-reference="10.25">
+<header class="verse-head">
+<a class="ref" href="#v-10-25">10.25</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the great sages, I am Bhṛgu; among utterances, the single syllable; among sacrifices, I am the sacrifice of japa; among the immovable, I am the Himalayas.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् ।<br>
+यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-26" data-reference="10.26">
+<header class="verse-head">
+<a class="ref" href="#v-10-26">10.26</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among all trees, I am the aśvattha; among the divine sages, I am Nārada.<br>
+Among the Gandharvas, I am Citraratha; among the Siddhas, I am the sage Kapila.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः ।<br>
+गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-27" data-reference="10.27">
+<header class="verse-head">
+<a class="ref" href="#v-10-27">10.27</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Know Me as Ucchaihshravas among horses, born of nectar; among lordly elephants, Airavata; and among men, the king.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् ।<br>
+ऐरावतं गजेन्द्राणां नराणां च नराधिपम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-28" data-reference="10.28">
+<header class="verse-head">
+<a class="ref" href="#v-10-28">10.28</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among weapons, I am the thunderbolt; among cows, I am Kamadhuk.<br>
+Among those who produce offspring, I am Kandarpa; among serpents, I am Vāsuki.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">आयुधानामहं वज्रं धेनूनामस्मि कामधुक् ।<br>
+प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-29" data-reference="10.29">
+<header class="verse-head">
+<a class="ref" href="#v-10-29">10.29</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the nāgas I am Ananta, and among the aquatic beings I am Varuṇa.<br>
+Among the ancestors I am Aryaman, and among those who restrain I am Yama.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अनन्तश्चास्मि नागानां वरुणो यादसामहम् ।<br>
+पितॄणामर्यमा चास्मि यमः संयमतामहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-30" data-reference="10.30">
+<header class="verse-head">
+<a class="ref" href="#v-10-30">10.30</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the daityas I am Prahlada, and among those who measure, I am Time. Among beasts I am the lord of beasts, and among birds I am Vainateya.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् ।<br>
+मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-31" data-reference="10.31">
+<header class="verse-head">
+<a class="ref" href="#v-10-31">10.31</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the winds I am Vayu, among the wielders of weapons I am Rama; among fishes I am the makara, and among rivers I am the Jahnavi.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">पवनः पवतामस्मि रामः शस्त्रभृतामहम् ।<br>
+झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-32" data-reference="10.32">
+<header class="verse-head">
+<a class="ref" href="#v-10-32">10.32</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, among creations I am the beginning, the end, and the middle. Among knowledges, I am the knowledge of the self; among disputants, I am the debate.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन ।<br>
+अध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-33" data-reference="10.33">
+<header class="verse-head">
+<a class="ref" href="#v-10-33">10.33</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among letters I am A, and of compounds I am the dual;<br>
+I am also inexhaustible Time, the sustainer, and the one with faces everywhere.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च ।<br>
+अहमेवाक्षयः कालो धाताहं विश्वतोमुखः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-34" data-reference="10.34">
+<header class="verse-head">
+<a class="ref" href="#v-10-34">10.34</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am Death, the all-seizer, and the source of what is yet to come.<br>
+Among women, I am fame, splendor, speech, memory, intelligence, steadfastness, and forgiveness.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् ।<br>
+कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-35" data-reference="10.35">
+<header class="verse-head">
+<a class="ref" href="#v-10-35">10.35</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Sāma</span> hymns I am the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Bṛhat-sāma</span>; among meters, I am <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Gāyatrī</span>. Among months I am Mārgaśīrṣa, and among the seasons I am spring, the season of flowers.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।<br>
+मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-36" data-reference="10.36">
+<header class="verse-head">
+<a class="ref" href="#v-10-36">10.36</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am the gambling of cheaters, and I am the splendor of the splendid. I am victory, I am resolve, and I am the <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattva</span> of those possessed of <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattva</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् ।<br>
+जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-37" data-reference="10.37">
+<header class="verse-head">
+<a class="ref" href="#v-10-37">10.37</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among the Vṛṣṇis, I am <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vāsudeva</span>; among the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍavas</span>, I am <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>.<br>
+Among the sages, I am Vyāsa; among the poets, I am Uśanas, the poet.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः ।<br>
+मुनीनामप्यहं व्यासः कवीनामुशना कविः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-38" data-reference="10.38">
+<header class="verse-head">
+<a class="ref" href="#v-10-38">10.38</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Among those who punish, I am punishment; among those who seek victory, I am policy.<br>
+Among secrets, I am silence; among the wise, I am knowledge.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् ।<br>
+मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-39" data-reference="10.39">
+<header class="verse-head">
+<a class="ref" href="#v-10-39">10.39</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">And I am also the seed of all beings, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>;<br>
+there is nothing moving or unmoving that could exist without Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यच्चापि सर्वभूतानां बीजं तदहमर्जुन ।<br>
+न तदस्ति विना यत्स्यान्मया भूतं चराचरम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-40" data-reference="10.40">
+<header class="verse-head">
+<a class="ref" href="#v-10-40">10.40</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O scorcher of foes, there is no end to My divine manifestations. This has been spoken by Me only in summary of the विस्तार of My opulences.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप ।<br>
+एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-41" data-reference="10.41">
+<header class="verse-head">
+<a class="ref" href="#v-10-41">10.41</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Whatever being is glorious, prosperous, or powerful, know that it is born from a part of My splendor.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।<br>
+तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-10-42" data-reference="10.42">
+<header class="verse-head">
+<a class="ref" href="#v-10-42">10.42</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Or what is the use of knowing all this, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>? I stand pervading this entire world with a single fraction of myself.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अथवा बहुनैतेन किं ज्ञातेन तवार्जुन ।<br>
+विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥</div>
+</details>
+</article>
+
+</div>

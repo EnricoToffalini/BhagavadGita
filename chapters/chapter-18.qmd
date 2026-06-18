@@ -1,0 +1,1033 @@
+---
+title: "Chapter 18 - Moksha-Sannyasa Yoga"
+---
+
+<div class="chapter-title-sanskrit">मोक्षसंन्यासयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-17.html">Previous chapter</a><span></span></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-18-1" data-reference="18.1">
+<header class="verse-head">
+<a class="ref" href="#v-18-1">18.1</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Mighty-armed one, I wish to know the true nature of renunciation and of <span class="glossary-term" tabindex="0" data-gloss="tyaga: Abandonment, renunciation, or relinquishing attachment to the fruits of action." aria-label="tyaga: Abandonment, renunciation, or relinquishing attachment to the fruits of action." title="tyaga: Abandonment, renunciation, or relinquishing attachment to the fruits of action." data-glossary-id="tyaga">tyāga</span> separately, O <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hṛṣīkeśa</span>, slayer of Keśin.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् ।<br>
+त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-2" data-reference="18.2">
+<header class="verse-head">
+<a class="ref" href="#v-18-2">18.2</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The wise understand renunciation to be the giving up of desire-motivated actions. The discerning declare that <span class="glossary-term" tabindex="0" data-gloss="tyaga: Abandonment, renunciation, or relinquishing attachment to the fruits of action." aria-label="tyaga: Abandonment, renunciation, or relinquishing attachment to the fruits of action." title="tyaga: Abandonment, renunciation, or relinquishing attachment to the fruits of action." data-glossary-id="tyaga">tyaga</span> is the relinquishment of the fruits of all actions.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।<br>
+सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-3" data-reference="18.3">
+<header class="verse-head">
+<a class="ref" href="#v-18-3">18.3</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Some sages say that action should be abandoned as defective; others say that the acts of sacrifice, charity, and austerity should not be abandoned.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः ।<br>
+यज्ञदानतपःकर्म न त्याज्यमिति चापरे ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-4" data-reference="18.4">
+<header class="verse-head">
+<a class="ref" href="#v-18-4">18.4</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Listen from me now to the certainty regarding that renunciation, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.<br>
+For renunciation, O tiger among men, is said to be of three kinds.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">निश्चयं श‍ृणु मे तत्र त्यागे भरतसत्तम ।<br>
+त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-5" data-reference="18.5">
+<header class="verse-head">
+<a class="ref" href="#v-18-5">18.5</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Sacrifice, charity, and austerity should not be abandoned; they must indeed be performed. For the wise, sacrifice, charity, and austerity are purifying acts.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् ।<br>
+यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-6" data-reference="18.6">
+<header class="verse-head">
+<a class="ref" href="#v-18-6">18.6</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But even these actions should be performed, giving up attachment and the fruits of action. This is, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, my firm and highest opinion.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च ।<br>
+कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-7" data-reference="18.7">
+<header class="verse-head">
+<a class="ref" href="#v-18-7">18.7</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But renunciation of prescribed action is not proper; abandoning it out of delusion is said to be tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।<br>
+मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-8" data-reference="18.8">
+<header class="verse-head">
+<a class="ref" href="#v-18-8">18.8</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">If one abandons action because it is painful, from fear of bodily strain, he performs rajasic renunciation and does not obtain the fruit of renunciation.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।<br>
+स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-9" data-reference="18.9">
+<header class="verse-head">
+<a class="ref" href="#v-18-9">18.9</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, that prescribed action which is performed simply because it ought to be done, abandoning attachment and also the fruit, is regarded as sattvic renunciation.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन ।<br>
+सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-10" data-reference="18.10">
+<header class="verse-head">
+<a class="ref" href="#v-18-10">18.10</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">He does not hate unwholesome action, nor is he attached to wholesome action. The renunciant, filled with <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattva</span>, is wise, and his doubts are cut away.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते ।<br>
+त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-11" data-reference="18.11">
+<header class="verse-head">
+<a class="ref" href="#v-18-11">18.11</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For the embodied one, it is indeed not possible to renounce actions entirely. But one who renounces the fruits of action is called a renouncer.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।<br>
+यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-12" data-reference="18.12">
+<header class="verse-head">
+<a class="ref" href="#v-18-12">18.12</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For those who have not renounced, after death there are three kinds of the fruit of action: undesirable, desirable, and mixed; but for those who have renounced, there is none at all.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।<br>
+भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-13" data-reference="18.13">
+<header class="verse-head">
+<a class="ref" href="#v-18-13">18.13</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O mighty-armed one, learn from Me these five causes, as taught in <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sāṅkhya</span> for the accomplishment of all actions.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">पञ्चैतानि महाबाहो कारणानि निबोध मे ।<br>
+साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-14" data-reference="18.14">
+<header class="verse-head">
+<a class="ref" href="#v-18-14">18.14</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The basis, the agent, and the various instruments, and the many and different kinds of action, and also fate as the fifth.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् ।<br>
+विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-15" data-reference="18.15">
+<header class="verse-head">
+<a class="ref" href="#v-18-15">18.15</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Whatever action a person undertakes with the body, speech, and mind, whether right or wrong, these five are its causes.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः ।<br>
+न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-16" data-reference="18.16">
+<header class="verse-head">
+<a class="ref" href="#v-18-16">18.16</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Therefore, in this matter, one who, because of undeveloped understanding, sees the Self alone as the sole doer—he, of confused mind, does not see.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तत्रैवं सति कर्तारमात्मानं केवलं तु यः ।<br>
+पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-17" data-reference="18.17">
+<header class="verse-head">
+<a class="ref" href="#v-18-17">18.17</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">One whose sense of ego is absent, whose intelligence is not tainted, even if he kills all these worlds, he does not kill, and is not bound.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यस्य नाहङ्कृतो भावो बुद्धिर्यस्य न लिप्यते ।<br>
+हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-18" data-reference="18.18">
+<header class="verse-head">
+<a class="ref" href="#v-18-18">18.18</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Knowledge, the knowable, and the knower—these are the threefold impulse to action.<br>
+The doer, the act, and the instrument are the threefold basis of <span class="glossary-term" tabindex="0" data-gloss="karma: Action, deed, or the consequences bound to action." aria-label="karma: Action, deed, or the consequences bound to action." title="karma: Action, deed, or the consequences bound to action." data-glossary-id="karma">karma</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना ।<br>
+करणं कर्म कर्तेति त्रिविधः कर्मसङ्ग्रहः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-19" data-reference="18.19">
+<header class="verse-head">
+<a class="ref" href="#v-18-19">18.19</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Knowledge, action, and the doer are likewise said, in the classification of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, to be threefold according to the distinctions among the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>. Listen also to them as they are.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः ।<br>
+प्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-20" data-reference="18.20">
+<header class="verse-head">
+<a class="ref" href="#v-18-20">18.20</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Know that knowledge to be sattvic by which one sees the one imperishable reality in all beings, the undivided in the divided.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।<br>
+अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-21" data-reference="18.21">
+<header class="verse-head">
+<a class="ref" href="#v-18-21">18.21</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But that knowledge by which one sees separate, diverse existences in all beings, know that knowledge to be rajasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।<br>
+वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-22" data-reference="18.22">
+<header class="verse-head">
+<a class="ref" href="#v-18-22">18.22</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But that which, clinging to a single task as if it were the whole, is groundless, and which is trivial and without regard for true purpose—that is said to be tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।<br>
+अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-23" data-reference="18.23">
+<header class="verse-head">
+<a class="ref" href="#v-18-23">18.23</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Action that is obligatory, done without attachment and without desire or aversion to results, is said to be sattvic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">नियतं सङ्गरहितमरागद्वेषतः कृतम् ।<br>
+अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-24" data-reference="18.24">
+<header class="verse-head">
+<a class="ref" href="#v-18-24">18.24</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But whatever action is performed by one who desires pleasure, or again by egotism, and is done with great effort, that is called <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः ।<br>
+क्रियते बहुलायासं तद्राजसमुदाहृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-25" data-reference="18.25">
+<header class="verse-head">
+<a class="ref" href="#v-18-25">18.25</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Action that is undertaken out of delusion, without regard for consequence, loss, injury, or one’s own capacity, is said to be tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् ।<br>
+मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-26" data-reference="18.26">
+<header class="verse-head">
+<a class="ref" href="#v-18-26">18.26</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Free from attachment, free from egoism, endowed with firmness and enthusiasm, and unchanged in success and failure, such a doer is said to be sattvic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।<br>
+सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-27" data-reference="18.27">
+<header class="verse-head">
+<a class="ref" href="#v-18-27">18.27</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Passionate, seeking the fruits of action, greedy, violent, and impure, elated and sorrowful, such a doer is said to be rajasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।<br>
+हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-28" data-reference="18.28">
+<header class="verse-head">
+<a class="ref" href="#v-18-28">18.28</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Undisciplined, crude, obstinate, deceitful, dishonest, lazy, despondent, and procrastinating: such a doer is said to be tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।<br>
+विषादी दीर्घसूत्री च कर्ता तामस उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-29" data-reference="18.29">
+<header class="verse-head">
+<a class="ref" href="#v-18-29">18.29</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Hear now, O <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>, in full and distinctly, the threefold distinction of <span class="glossary-term" tabindex="0" data-gloss="buddhi: Intellect, discernment, or decisive understanding." aria-label="buddhi: Intellect, discernment, or decisive understanding." title="buddhi: Intellect, discernment, or decisive understanding." data-glossary-id="buddhi">buddhi</span> and dhriti according to the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं श‍ृणु ।<br>
+प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-30" data-reference="18.30">
+<header class="verse-head">
+<a class="ref" href="#v-18-30">18.30</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">And, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, that intellect is sattvic which understands engagement and renunciation, what should be done and what should not be done, fear and fearlessness, bondage and liberation.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।<br>
+बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-31" data-reference="18.31">
+<header class="verse-head">
+<a class="ref" href="#v-18-31">18.31</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">That intellect by which one does not truly know <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> and adharma, and what should be done and what should not be done—that intellect, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is rajasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।<br>
+अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-32" data-reference="18.32">
+<header class="verse-head">
+<a class="ref" href="#v-18-32">18.32</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">That intellect, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, which is veiled by <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamas</span>, mistakes adharma for <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> and regards all things in contrary ways, is tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अधर्मं धर्ममिति या मन्यते तमसावृता ।<br>
+सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-33" data-reference="18.33">
+<header class="verse-head">
+<a class="ref" href="#v-18-33">18.33</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The steadfastness by which one sustains the activities of the mind, the life-force, and the senses through unwavering <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>—that steadfastness, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is sattvic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।<br>
+योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-34" data-reference="18.34">
+<header class="verse-head">
+<a class="ref" href="#v-18-34">18.34</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But that firmness, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, by which one upholds <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, kama, and artha with attachment to results, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is rajasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।<br>
+प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-35" data-reference="18.35">
+<header class="verse-head">
+<a class="ref" href="#v-18-35">18.35</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The steadfastness by which the dull-minded does not abandon sleep, fear, sorrow, dejection, and also delusion, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, that steadfastness is tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यया स्वप्नं भयं शोकं विषादं मदमेव च ।<br>
+न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-36" data-reference="18.36">
+<header class="verse-head">
+<a class="ref" href="#v-18-36">18.36</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Now hear from me, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>, the threefold happiness: that in which one takes delight through practice and comes to the end of suffering.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सुखं त्विदानीं त्रिविधं श‍ृणु मे भरतर्षभ ।<br>
+अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-37" data-reference="18.37">
+<header class="verse-head">
+<a class="ref" href="#v-18-37">18.37</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">That pleasure which at first is like poison but in the end is like nectar is said to be sattvic, born of the clarity of self-understanding.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।<br>
+तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-38" data-reference="18.38">
+<header class="verse-head">
+<a class="ref" href="#v-18-38">18.38</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">That pleasure which arises from the contact of the senses with their objects, appearing like nectar at first, but like poison in the end, is remembered as rajasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।<br>
+परिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-39" data-reference="18.39">
+<header class="verse-head">
+<a class="ref" href="#v-18-39">18.39</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">That happiness which, at first and in the end, deludes the self, and which arises from sleep, laziness, and negligence—that is said to be tamasic.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।<br>
+निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-40" data-reference="18.40">
+<header class="verse-head">
+<a class="ref" href="#v-18-40">18.40</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">There is nothing on earth, or in heaven among the devas, that is free from these three <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> born of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।<br>
+सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-41" data-reference="18.41">
+<header class="verse-head">
+<a class="ref" href="#v-18-41">18.41</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O scorcher of enemies, the duties of the <span class="glossary-term" tabindex="0" data-gloss="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." aria-label="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." title="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." data-glossary-id="brahmin">brāhmaṇas</span>, kshatriyas, <span class="glossary-term" tabindex="0" data-gloss="vaishya: Member of the class associated with trade, agriculture, and herding." aria-label="vaishya: Member of the class associated with trade, agriculture, and herding." title="vaishya: Member of the class associated with trade, agriculture, and herding." data-glossary-id="vaishya">vaishyas</span>, and <span class="glossary-term" tabindex="0" data-gloss="shudra: Member of the service class in the traditional varna scheme." aria-label="shudra: Member of the service class in the traditional varna scheme." title="shudra: Member of the service class in the traditional varna scheme." data-glossary-id="shudra">śūdras</span> are divided according to the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">guṇas</span> born of their own nature.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।<br>
+कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-42" data-reference="18.42">
+<header class="verse-head">
+<a class="ref" href="#v-18-42">18.42</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Tranquility, self-restraint, austerity, purity, forbearance, and straightforwardness,<br>
+knowledge, realization, faith, and the duties proper to a <span class="glossary-term" tabindex="0" data-gloss="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." aria-label="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." title="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." data-glossary-id="brahmin">Brahmin</span>, born of one’s own nature.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।<br>
+ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-43" data-reference="18.43">
+<header class="verse-head">
+<a class="ref" href="#v-18-43">18.43</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Valor, splendor, steadfastness, dexterity, and not fleeing in battle, generosity, and lordly bearing—these are the natural duties of a <span class="glossary-term" tabindex="0" data-gloss="kshatriya: Member of the warrior or ruling class." aria-label="kshatriya: Member of the warrior or ruling class." title="kshatriya: Member of the warrior or ruling class." data-glossary-id="kshatriya">kshatriya</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।<br>
+दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-44" data-reference="18.44">
+<header class="verse-head">
+<a class="ref" href="#v-18-44">18.44</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Agriculture, cattle-rearing, and trade are the natural duties of the vaisya; and service is the natural duty even of the <span class="glossary-term" tabindex="0" data-gloss="shudra: Member of the service class in the traditional varna scheme." aria-label="shudra: Member of the service class in the traditional varna scheme." title="shudra: Member of the service class in the traditional varna scheme." data-glossary-id="shudra">shudra</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।<br>
+परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-45" data-reference="18.45">
+<header class="verse-head">
+<a class="ref" href="#v-18-45">18.45</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">A person, devoted to his own duty, attains perfection. Hear now how one devoted to his own duty attains success.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।<br>
+स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-46" data-reference="18.46">
+<header class="verse-head">
+<a class="ref" href="#v-18-46">18.46</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">From whom the movement of all beings has arisen, and by whom all this is pervaded, by worshiping Him through one’s own action, a human being attains perfection.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।<br>
+स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-47" data-reference="18.47">
+<header class="verse-head">
+<a class="ref" href="#v-18-47">18.47</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Better is one’s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, though imperfect, than another’s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> well performed. By doing the <span class="glossary-term" tabindex="0" data-gloss="karma: Action, deed, or the consequences bound to action." aria-label="karma: Action, deed, or the consequences bound to action." title="karma: Action, deed, or the consequences bound to action." data-glossary-id="karma">karma</span> ordained by one’s own nature, one incurs no sin.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।<br>
+स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-48" data-reference="18.48">
+<header class="verse-head">
+<a class="ref" href="#v-18-48">18.48</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, one should not abandon the action born of one’s nature, even if it has faults.<br>
+For all undertakings are covered by defect, as fire is by smoke.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।<br>
+सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-49" data-reference="18.49">
+<header class="verse-head">
+<a class="ref" href="#v-18-49">18.49</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">One whose understanding is unattached everywhere, who has subdued the self, and who is free from longing, attains the highest perfection of non-action through renunciation.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।<br>
+नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-50" data-reference="18.50">
+<header class="verse-head">
+<a class="ref" href="#v-18-50">18.50</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Listen from me, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, how one who has attained siddhi likewise attains <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, in brief—the supreme consummation of knowledge.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।<br>
+समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-51" data-reference="18.51">
+<header class="verse-head">
+<a class="ref" href="#v-18-51">18.51</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Endowed with purified intellect and restraining the self with steadfastness, having cast aside sense objects such as sound, and having given up attachment and aversion,</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च ।<br>
+शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-52" data-reference="18.52">
+<header class="verse-head">
+<a class="ref" href="#v-18-52">18.52</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">One who dwells in solitude, eats lightly, and has controlled speech, body, and mind; ever devoted to meditation and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, and established in detachment.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।<br>
+ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-53" data-reference="18.53">
+<header class="verse-head">
+<a class="ref" href="#v-18-53">18.53</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Free from ego, strength, arrogance, lust, anger, and possessiveness, and without a sense of “mine,” one becomes fit for the state of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम् ।<br>
+विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-54" data-reference="18.54">
+<header class="verse-head">
+<a class="ref" href="#v-18-54">18.54</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">One who has become <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> and is of serene self neither grieves nor desires; being equal to all beings, he attains supreme devotion to Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।<br>
+समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-55" data-reference="18.55">
+<header class="verse-head">
+<a class="ref" href="#v-18-55">18.55</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">By devotion he comes to know Me, as I am in truth; and then, knowing Me in truth, he enters into Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।<br>
+ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-56" data-reference="18.56">
+<header class="verse-head">
+<a class="ref" href="#v-18-56">18.56</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Always performing all actions, taking refuge in Me, he attains by My grace the eternal, imperishable state.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः ।<br>
+मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-57" data-reference="18.57">
+<header class="verse-head">
+<a class="ref" href="#v-18-57">18.57</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">With your mind surrendering all actions to Me, intent on Me, take refuge in <span class="glossary-term" tabindex="0" data-gloss="buddhi: Intellect, discernment, or decisive understanding." aria-label="buddhi: Intellect, discernment, or decisive understanding." title="buddhi: Intellect, discernment, or decisive understanding." data-glossary-id="buddhi">buddhi-yoga</span> and always keep your mind fixed on Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।<br>
+बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-58" data-reference="18.58">
+<header class="verse-head">
+<a class="ref" href="#v-18-58">18.58</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">With your mind set on Me, by My grace you will cross over all obstacles. But if, because of egoism, you do not listen, you will perish.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।<br>
+अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-59" data-reference="18.59">
+<header class="verse-head">
+<a class="ref" href="#v-18-59">18.59</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">If, relying on ego, you think, “I will not fight,” this resolve of yours is vain; <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> will compel you.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे ।<br>
+मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-60" data-reference="18.60">
+<header class="verse-head">
+<a class="ref" href="#v-18-60">18.60</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, bound by your own <span class="glossary-term" tabindex="0" data-gloss="karma: Action, deed, or the consequences bound to action." aria-label="karma: Action, deed, or the consequences bound to action." title="karma: Action, deed, or the consequences bound to action." data-glossary-id="karma">karma</span>, born of your own nature, you do not wish to do that which, through delusion, you will nevertheless do, even against your will.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।<br>
+कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-61" data-reference="18.61">
+<header class="verse-head">
+<a class="ref" href="#v-18-61">18.61</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The Lord dwells in the heart-region of all beings, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, causing all beings to revolve, as if mounted on a machine, by means of <span class="glossary-term" tabindex="0" data-gloss="maya: Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।<br>
+भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-62" data-reference="18.62">
+<header class="verse-head">
+<a class="ref" href="#v-18-62">18.62</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Take refuge in Him alone with all your being, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>; by His grace you will attain supreme peace and the eternal abode.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तमेव शरणं गच्छ सर्वभावेन भारत ।<br>
+तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-63" data-reference="18.63">
+<header class="verse-head">
+<a class="ref" href="#v-18-63">18.63</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Thus I have explained to you this knowledge, more secret than all secrets.<br>
+Reflect on this fully, and then do as you wish.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।<br>
+विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-64" data-reference="18.64">
+<header class="verse-head">
+<a class="ref" href="#v-18-64">18.64</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Listen again to My supreme, most secret words. You are dear to Me, and so I shall speak to you what is for your good.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वगुह्यतमं भूयः श‍ृणु मे परमं वचः ।<br>
+इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-65" data-reference="18.65">
+<header class="verse-head">
+<a class="ref" href="#v-18-65">18.65</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Fix your mind on Me, be devoted to Me, sacrifice to Me, and bow down to Me.<br>
+You will surely come to Me; I promise you truly, for you are dear to Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।<br>
+मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-66" data-reference="18.66">
+<header class="verse-head">
+<a class="ref" href="#v-18-66">18.66</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Abandon all dharmas and take refuge in Me alone. I will मुक्त you from all sins; do not grieve.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।<br>
+अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-67" data-reference="18.67">
+<header class="verse-head">
+<a class="ref" href="#v-18-67">18.67</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">This is never to be spoken by you to one who is not disciplined, to one who is not devoted, nor to one who does not listen in service, nor to one who finds fault with me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इदं ते नातपस्काय नाभक्ताय कदाचन ।<br>
+न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-68" data-reference="18.68">
+<header class="verse-head">
+<a class="ref" href="#v-18-68">18.68</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Whoever shall declare this supreme secret among My devotees, having shown supreme devotion to Me, will surely come to Me without doubt.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति ।<br>
+भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-69" data-reference="18.69">
+<header class="verse-head">
+<a class="ref" href="#v-18-69">18.69</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">And among all humans, there is none who does more for Me; nor will there ever be on earth anyone dearer to Me than he.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।<br>
+भविता न च मे तस्मादन्यः प्रियतरो भुवि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-70" data-reference="18.70">
+<header class="verse-head">
+<a class="ref" href="#v-18-70">18.70</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">And whoever studies this righteous dialogue of ours, by the <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span> of knowledge, to him I shall be worshiped in this way—such is my view.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अध्येष्यते च य इमं धर्म्यं संवादमावयोः ।<br>
+ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-71" data-reference="18.71">
+<header class="verse-head">
+<a class="ref" href="#v-18-71">18.71</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Any man who hears this, with faith and without jealousy,<br>
+he too, being freed, will attain the auspicious worlds of those who perform meritorious deeds.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">श्रद्धावाननसूयश्च श‍ृणुयादपि यो नरः ।<br>
+सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-72" data-reference="18.72">
+<header class="verse-head">
+<a class="ref" href="#v-18-72">18.72</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O son of <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pṛthā</span>, have you heard this with an attentive mind?<br>
+O <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>, has your delusion born of ignorance been dispelled?</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।<br>
+कच्चिदज्ञानसम्मोहः प्रनष्टस्ते धनञ्जय ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-73" data-reference="18.73">
+<header class="verse-head">
+<a class="ref" href="#v-18-73">18.73</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">My delusion is destroyed, and my memory has returned by your grace, O <span class="glossary-term" tabindex="0" data-gloss="Acyuta: Epithet of Krishna, often glossed as the unfailing one." aria-label="Acyuta: Epithet of Krishna, often glossed as the unfailing one." title="Acyuta: Epithet of Krishna, often glossed as the unfailing one." data-glossary-id="acyuta">Acyuta</span>. I stand firm, free from doubt; I will do your word.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।<br>
+स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-74" data-reference="18.74">
+<header class="verse-head">
+<a class="ref" href="#v-18-74">18.74</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Thus I heard this wondrous, thrilling dialogue between <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vāsudeva</span> and the great-souled <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।<br>
+संवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-75" data-reference="18.75">
+<header class="verse-head">
+<a class="ref" href="#v-18-75">18.75</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-en" data-lang="en">By the grace of Vyāsa I have heard this supreme, most secret <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> directly from <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Kṛṣṇa</span>, the lord of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, who spoke it himself.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम् ।<br>
+योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-76" data-reference="18.76">
+<header class="verse-head">
+<a class="ref" href="#v-18-76">18.76</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O King, remembering again and again this wondrous conversation of <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keshava</span> and <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, I rejoice again and again.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् ।<br>
+केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-77" data-reference="18.77">
+<header class="verse-head">
+<a class="ref" href="#v-18-77">18.77</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Remembering that wondrous form of Hari again and again,<br>
+great is my amazement, O King, and I rejoice again and again.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।<br>
+विस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-18-78" data-reference="18.78">
+<header class="verse-head">
+<a class="ref" href="#v-18-78">18.78</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Wherever <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, the lord of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, is, and wherever <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, the archer, is, there are prosperity, victory, splendor, and steadfast policy; that is my conviction.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।<br>
+तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥</div>
+</details>
+</article>
+
+</div>

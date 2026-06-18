@@ -1,0 +1,36 @@
+---
+title: "Bhagavad Gita"
+---
+
+<div class="site-note">
+The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output and revised with GPT-5.4 mini.
+</div>
+
+<div class="site-usage">
+Lightly marked Sanskrit terms show a short gloss on hover or tap.
+</div>
+
+<div class="site-download">
+<a href="bhagavad-gita.pdf">Download PDF</a>
+</div>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="chapters/chapter-01.html"><span class="chapter-number">Chapter 1</span><span class="chapter-title">Arjuna Vishada Yoga</span><span class="chapter-count">47 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-02.html"><span class="chapter-number">Chapter 2</span><span class="chapter-title">Sankhya Yoga</span><span class="chapter-count">72 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-03.html"><span class="chapter-number">Chapter 3</span><span class="chapter-title">Karma Yoga</span><span class="chapter-count">43 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-04.html"><span class="chapter-number">Chapter 4</span><span class="chapter-title">Jnana-Karma-Sannyasa Yoga</span><span class="chapter-count">42 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-05.html"><span class="chapter-number">Chapter 5</span><span class="chapter-title">Sannyasa Yoga</span><span class="chapter-count">29 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-06.html"><span class="chapter-number">Chapter 6</span><span class="chapter-title">Atma-Samyama Yoga</span><span class="chapter-count">47 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-07.html"><span class="chapter-number">Chapter 7</span><span class="chapter-title">Jnana-Vijnana Yoga</span><span class="chapter-count">30 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-08.html"><span class="chapter-number">Chapter 8</span><span class="chapter-title">Akshara-Brahma Yoga</span><span class="chapter-count">28 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-09.html"><span class="chapter-number">Chapter 9</span><span class="chapter-title">Raja-Vidya Raja-Guhya Yoga</span><span class="chapter-count">34 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-10.html"><span class="chapter-number">Chapter 10</span><span class="chapter-title">Vibhuti Yoga</span><span class="chapter-count">42 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-11.html"><span class="chapter-number">Chapter 11</span><span class="chapter-title">Vishvarupa-Darshana Yoga</span><span class="chapter-count">55 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-12.html"><span class="chapter-number">Chapter 12</span><span class="chapter-title">Bhakti Yoga</span><span class="chapter-count">20 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-13.html"><span class="chapter-number">Chapter 13</span><span class="chapter-title">Kshetra-Kshetrajna Vibhaga Yoga</span><span class="chapter-count">35 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-14.html"><span class="chapter-number">Chapter 14</span><span class="chapter-title">Guna-Traya Vibhaga Yoga</span><span class="chapter-count">27 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-15.html"><span class="chapter-number">Chapter 15</span><span class="chapter-title">Purushottama Yoga</span><span class="chapter-count">20 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-16.html"><span class="chapter-number">Chapter 16</span><span class="chapter-title">Daivasura-Sampad Vibhaga Yoga</span><span class="chapter-count">24 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-17.html"><span class="chapter-number">Chapter 17</span><span class="chapter-title">Shraddha-Traya Vibhaga Yoga</span><span class="chapter-count">28 verses</span></a>
+<a class="chapter-card" href="chapters/chapter-18.html"><span class="chapter-number">Chapter 18</span><span class="chapter-title">Moksha-Sannyasa Yoga</span><span class="chapter-count">78 verses</span></a>
+</div>

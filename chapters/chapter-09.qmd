@@ -1,0 +1,464 @@
+---
+title: "Chapter 9 - Raja-Vidya Raja-Guhya Yoga"
+---
+
+<div class="chapter-title-sanskrit">राजविद्याराजगुह्ययोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-08.html">Previous chapter</a><a href="chapter-10.html">Next chapter</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-9-1" data-reference="9.1">
+<header class="verse-head">
+<a class="ref" href="#v-9-1">9.1</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But to you, who are free from envy, I shall declare this most secret knowledge, together with realization, knowing which you will be freed from inauspiciousness.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।<br>
+ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-2" data-reference="9.2">
+<header class="verse-head">
+<a class="ref" href="#v-9-2">9.2</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">This is the royal knowledge, the royal secret, the supreme purifier. It is directly realized, in accord with <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, very easy to practice, and imperishable.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।<br>
+प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-3" data-reference="9.3">
+<header class="verse-head">
+<a class="ref" href="#v-9-3">9.3</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Men who have no faith in this <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, O Parantapa, return to the path of death and <span class="glossary-term" tabindex="0" data-gloss="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." aria-label="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." title="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." data-glossary-id="samsara">samsara</span> without attaining Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप ।<br>
+अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-4" data-reference="9.4">
+<header class="verse-head">
+<a class="ref" href="#v-9-4">9.4</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">By Me, in My unmanifest form, this entire universe is pervaded. All beings abide in Me, but I do not abide in them.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।<br>
+मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-5" data-reference="9.5">
+<header class="verse-head">
+<a class="ref" href="#v-9-5">9.5</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">And yet beings do not abide in Me. Behold My divine <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>: My Self, the sustainer of beings, is not established in beings, though it supports all beings.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।<br>
+भूतभृन्न च भूतस्थो ममात्मा भूतभावनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-6" data-reference="9.6">
+<header class="verse-head">
+<a class="ref" href="#v-9-6">9.6</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">As the mighty wind, abiding everywhere in the sky, ever moves through all space, so understand that all beings abide in Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् ।<br>
+तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-7" data-reference="9.7">
+<header class="verse-head">
+<a class="ref" href="#v-9-7">9.7</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, all beings enter into My <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> at the end of a kalpa; and at the beginning of a kalpa, I send them forth again.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।<br>
+कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-8" data-reference="9.8">
+<header class="verse-head">
+<a class="ref" href="#v-9-8">9.8</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Holding fast to My own <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, I again and again send forth this entire multitude of beings, helpless under the sway of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः ।<br>
+भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-9" data-reference="9.9">
+<header class="verse-head">
+<a class="ref" href="#v-9-9">9.9</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Nor do those actions bind Me, O <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>, as I sit detached, like one unconcerned, with regard to those actions.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">न च मां तानि कर्माणि निबध्नन्ति धनञ्जय ।<br>
+उदासीनवदासीनमसक्तं तेषु कर्मसु ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-10" data-reference="9.10">
+<header class="verse-head">
+<a class="ref" href="#v-9-10">9.10</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Under My supervision, <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> brings forth the moving and the unmoving.<br>
+O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, by this cause the world revolves.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् ।<br>
+हेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-11" data-reference="9.11">
+<header class="verse-head">
+<a class="ref" href="#v-9-11">9.11</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The foolish despise Me when I have taken on a human body, not knowing My higher nature as the great Lord of beings.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।<br>
+परं भावमजानन्तो मम भूतमहेश्वरम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-12" data-reference="9.12">
+<header class="verse-head">
+<a class="ref" href="#v-9-12">9.12</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Their hopes are futile, their actions futile, their knowledge futile, and they are deluded in mind. Taking refuge in the deluding, demonic nature, they too follow it.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः ।<br>
+राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-13" data-reference="9.13">
+<header class="verse-head">
+<a class="ref" href="#v-9-13">9.13</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">But the great souls, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, taking refuge in My divine <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, worship Me with undivided minds, knowing Me as the imperishable source of beings.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः ।<br>
+भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-14" data-reference="9.14">
+<header class="verse-head">
+<a class="ref" href="#v-9-14">9.14</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Always glorifying Me and striving with firm vows, bowing to Me with devotion, ever steadfast, they worship Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः ।<br>
+नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-15" data-reference="9.15">
+<header class="verse-head">
+<a class="ref" href="#v-9-15">9.15</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Others, worshiping Me by the sacrifice of knowledge, also devote themselves to Me, perceiving Me as one, as separate, and as having many faces in all directions.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते ।<br>
+एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-16" data-reference="9.16">
+<header class="verse-head">
+<a class="ref" href="#v-9-16">9.16</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am the ritual; I am the sacrifice; I am the offering to the ancestors; I am the herb.<br>
+I am the mantra; I am the clarified butter; I am the fire; I am the oblation.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् ।<br>
+मन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-17" data-reference="9.17">
+<header class="verse-head">
+<a class="ref" href="#v-9-17">9.17</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am the father of this universe, the mother, the upholder, and the grandfather; the knowable, the purifier, the syllable <span class="glossary-term" tabindex="0" data-gloss="Om: Sacred syllable used as a concise sign of the absolute or divine." aria-label="Om: Sacred syllable used as a concise sign of the absolute or divine." title="Om: Sacred syllable used as a concise sign of the absolute or divine." data-glossary-id="om">Om</span>, and also the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Ṛg</span>, <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Sāma</span>, and Yajur <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">पिताहमस्य जगतो माता धाता पितामहः ।<br>
+वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-18" data-reference="9.18">
+<header class="verse-head">
+<a class="ref" href="#v-9-18">9.18</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The goal, the sustainer, the Lord, the witness, the abode, the refuge, and the well-wisher; the source, the dissolution, the resting place, the treasury, and the imperishable seed.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् ।<br>
+प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-19" data-reference="9.19">
+<header class="verse-head">
+<a class="ref" href="#v-9-19">9.19</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I send forth heat, I withhold the rain and release it.<br>
+I am immortality and death, being and nonbeing, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च ।<br>
+अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-20" data-reference="9.20">
+<header class="verse-head">
+<a class="ref" href="#v-9-20">9.20</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">The knowers of the three <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, drinkers of soma, purified of sin, worship Me with sacrifices and pray for access to heaven. Having attained merit, they reach the world of Indra and enjoy the divine pleasures of the gods in heaven.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">त्रैविद्या मां सोमपाः पूतपापा<br>
+यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।<br>
+ते पुण्यमासाद्य सुरेन्द्रलोक-<br>
+मश्नन्ति दिव्यान्दिवि देवभोगान् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-21" data-reference="9.21">
+<header class="verse-head">
+<a class="ref" href="#v-9-21">9.21</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Having enjoyed that vast heavenly world, when their merit is exhausted, they enter the world of mortals. Thus, adhering to the <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> of the three <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, those desirous of pleasures attain the state of coming and going.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">ते तं भुक्त्वा स्वर्गलोकं विशालं<br>
+क्षीणे पुण्ये मर्त्यलोकं विशन्ति ।<br>
+एवं त्रयीधर्ममनुप्रपन्ना<br>
+गतागतं कामकामा लभन्ते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-22" data-reference="9.22">
+<header class="verse-head">
+<a class="ref" href="#v-9-22">9.22</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Those who, thinking of Me as the sole object, worship Me with exclusive devotion—I carry what they lack and preserve what they have.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।<br>
+तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-23" data-reference="9.23">
+<header class="verse-head">
+<a class="ref" href="#v-9-23">9.23</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Those devotees of other deities who worship with faith, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, also worship Me alone, though not according to the proper method.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विताः ।<br>
+तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-24" data-reference="9.24">
+<header class="verse-head">
+<a class="ref" href="#v-9-24">9.24</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For I am indeed the enjoyer and also the lord of all yajnas; but they do not know Me in truth, and therefore they fall away.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।<br>
+न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-25" data-reference="9.25">
+<header class="verse-head">
+<a class="ref" href="#v-9-25">9.25</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Those devoted to the devas go to the devas; those devoted to the pitṛs go to the pitṛs. Those who worship the beings go to the beings; those who worship Me come to Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यान्ति देवव्रता देवान्पितॄन्यान्ति पितृव्रताः ।<br>
+भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-26" data-reference="9.26">
+<header class="verse-head">
+<a class="ref" href="#v-9-26">9.26</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Whoever offers Me, with devotion, a leaf, a flower, a fruit, or water,<br>
+I accept that devoted offering from the self-disciplined one.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।<br>
+तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-27" data-reference="9.27">
+<header class="verse-head">
+<a class="ref" href="#v-9-27">9.27</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Whatever you do, whatever you eat, whatever you offer, whatever you give, whatever austerities you perform, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, do that as an offering to Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।<br>
+यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-28" data-reference="9.28">
+<header class="verse-head">
+<a class="ref" href="#v-9-28">9.28</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Thus you will be freed from the bondage of action, with its good and evil results.<br>
+With the self disciplined by the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of renunciation, you will come to Me, मुक्त from bondage.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः ।<br>
+संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-29" data-reference="9.29">
+<header class="verse-head">
+<a class="ref" href="#v-9-29">9.29</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">I am equal toward all beings; there is none hateful to Me and none dear.<br>
+But those who worship Me with devotion are in Me, and I too am in them.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।<br>
+ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-30" data-reference="9.30">
+<header class="verse-head">
+<a class="ref" href="#v-9-30">9.30</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Even if one of very wicked conduct worships Me with undivided devotion, he should indeed be regarded as righteous, for he has rightly resolved.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।<br>
+साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-31" data-reference="9.31">
+<header class="verse-head">
+<a class="ref" href="#v-9-31">9.31</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Soon he becomes righteous in soul and attains lasting peace.<br>
+O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, proclaim it: My devotee never perishes.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।<br>
+कौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-32" data-reference="9.32">
+<header class="verse-head">
+<a class="ref" href="#v-9-32">9.32</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">For, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, those who take refuge in Me, even if they are born from a sinful womb—women, <span class="glossary-term" tabindex="0" data-gloss="vaishya: Member of the class associated with trade, agriculture, and herding." aria-label="vaishya: Member of the class associated with trade, agriculture, and herding." title="vaishya: Member of the class associated with trade, agriculture, and herding." data-glossary-id="vaishya">vaiśyas</span>, and <span class="glossary-term" tabindex="0" data-gloss="shudra: Member of the service class in the traditional varna scheme." aria-label="shudra: Member of the service class in the traditional varna scheme." title="shudra: Member of the service class in the traditional varna scheme." data-glossary-id="shudra">śūdras</span>—even they attain the supreme goal.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।<br>
+स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-33" data-reference="9.33">
+<header class="verse-head">
+<a class="ref" href="#v-9-33">9.33</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">How much more, then, pious <span class="glossary-term" tabindex="0" data-gloss="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." aria-label="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." title="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." data-glossary-id="brahmin">brāhmaṇas</span> and devoted royal sages! Having attained this impermanent, joyless world, worship Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा ।<br>
+अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-9-34" data-reference="9.34">
+<header class="verse-head">
+<a class="ref" href="#v-9-34">9.34</a>
+<span class="speaker">(Shri Bhagavan Krishna)</span>
+</header>
+<p class="translation translation-en" data-lang="en">Fix your mind on Me, be devoted to Me, sacrifice to Me, bow to Me.<br>
+Thus, with your self intent on Me as your supreme goal, you will come to Me.</p>
+<details class="sanskrit">
+<summary>Sanskrit</summary>
+<div class="sanskrit-text">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।<br>
+मामेवैष्यसि युक्त्वैवमात्मानं मत्परायणः ॥</div>
+</details>
+</article>
+
+</div>

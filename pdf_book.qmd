@@ -1,0 +1,5066 @@
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/bhagavadgita_ai_refined.xlsx for verse text
+- data/glossary.csv for glossary entries
+- tools/2_generate_pdf_book.py for PDF generation logic
+
+Then run:
+    python tools\2_generate_pdf_book.py
+    quarto render pdf_book.qmd --to pdf
+-->
+
+---
+title: "Bhagavad Gita"
+subtitle: "English draft"
+output-file: "bhagavad-gita"
+format:
+  pdf:
+    documentclass: scrartcl
+    pdf-engine: xelatex
+    papersize: a5
+    fontsize: 10.5pt
+    toc: true
+    toc-depth: 1
+    number-sections: false
+    colorlinks: true
+    geometry:
+      - top=15mm
+      - bottom=17mm
+      - inner=16mm
+      - outer=14mm
+    include-in-header: pdf/pdf-preamble.tex
+---
+
+The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output and revised with GPT-5.4 mini.
+
+\clearpage
+
+\clearpage
+# Chapter 1 - Arjuna Vishada Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.1} \textit{(Dhritarashtra)}\par
+In the field of dharma, at Kurukshetra, gathered together and eager to fight, what did my men and the Pāṇḍavas do, O Sanjaya?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.2} \textit{(Sanjaya)}\par
+Then, seeing the Pāṇḍava army drawn up in battle formation, King Duryodhana approached his teacher and spoke these words.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.3} \textit{(Sanjaya)}\par
+O teacher, behold this great army of the sons of Pāṇḍu, arrayed by your wise disciple, the son of Drupada.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.4} \textit{(Sanjaya)}\par
+Here are heroes, mighty archers, equal in battle to Bhīma and Arjuna: Yuyudhāna, Virāṭa, and Drupada, the great chariot-warrior.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.5} \textit{(Sanjaya)}\par
+And Dhrishtaketu, Chekitana, the valiant king of Kāśi, Purujit, Kuntibhoja, and Śaibya, the foremost among men.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.6} \textit{(Sanjaya)}\par
+The valiant Yudhamanyu and the courageous Uttamauja, Saubhadra and the sons of Draupadi—all were great warriors.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.7} \textit{(Sanjaya)}\par
+O best of the twice-born, know now those who are the foremost among us. For your information, I shall name to you the leaders of my army.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.8} \textit{(Sanjaya)}\par
+You yourself, Bhīṣma, Karṇa, Kṛpa, and Samitijaya, as well as Aśvatthāmā, Vikarṇa, and Saumadatti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.9} \textit{(Sanjaya)}\par
+And many other heroes, who have given up their lives for my sake, are armed with various weapons; all are skilled in warfare.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.10} \textit{(Sanjaya)}\par
+Our force, protected by Bhīṣma, is inadequate; but the force of these men, protected by Bhīma, is adequate.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.11} \textit{(Sanjaya)}\par
+Station yourselves at your respective positions in all the divisions of the army, and protect Bhīṣma alone, all of you.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.12} \textit{(Sanjaya)}\par
+Then the elder of the Kurus, the mighty grandfather, arousing his joy, blew his conch with a loud lion’s roar.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.13} \textit{(Sanjaya)}\par
+Then the conchshells, drums, panavas, and gomukhas were suddenly sounded, and the din became tumultuous.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.14} \textit{(Sanjaya)}\par
+Then, stationed in the great chariot yoked with white horses, Mādhava and Pāṇḍava blew their divine conches.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.15} \textit{(Sanjaya)}\par
+Hṛṣīkeśa blew Pāñcajanya, Dhanañjaya blew Devadatta, and Vṛkodara, whose deeds are mighty, blew the great conch Pauṇḍra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.16} \textit{(Sanjaya)}\par
+King Yudhishthira, son of Kunti, blew the Anantavijaya; Nakula and Sahadeva blew Sughosha and Manipushpaka.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.17} \textit{(Sanjaya)}\par
+Kāśya, the supreme archer, and Śikhaṇḍin, the great chariot-warrior; Dṛṣṭadyumna, Virāṭa, and the unconquerable Sātyaki.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.18} \textit{(Sanjaya)}\par
+Drupada, the sons of Draupadi, and Saubhadra, the mighty-armed, each separately blew their conches, O lord of the earth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.19} \textit{(Sanjaya)}\par
+That tumultuous cry pierced the hearts of the sons of Dhṛtarāṣṭra, resounding through the sky and the earth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.20} \textit{(Sanjaya)}\par
+Then, seeing the sons of Dhṛtarāṣṭra arrayed in position, the monkey-bannered Pāṇḍava lifted his bow as the clash of weapons was about to begin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.21} \textit{(Arjuna)}\par
+Then Arjuna spoke these words to Hṛṣīkeśa, O king: “O Acyuta, place my chariot between the two armies.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.22} \textit{(Arjuna)}\par
+While I observe these men, standing ready to fight, with whom am I to fight in this undertaking of battle?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.23} \textit{(Arjuna)}\par
+I see those who have gathered here, ready to fight, seeking to please the ill-intentioned son of Dhritarashtra in battle.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.24} \textit{(Sanjaya)}\par
+Thus addressed by Guḍākeśa, Hṛṣīkeśa, O Bharata, placed the finest of chariots between the two armies.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.25} \textit{(Sanjaya)}\par
+In the presence of Bhishma and Drona, and of all the rulers of the earth, he said: “O Partha, behold these assembled Kurus.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.26} \textit{(Sanjaya)}\par
+There Partha saw fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and also friends.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.27} \textit{(Sanjaya)}\par
+Seeing there fathers-in-law and friends in both armies, the son of Kunti saw all those relatives standing arrayed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.28} \textit{(Arjuna)}\par
+Overwhelmed with compassion and distressed, he said this:
+\par
+“O Kṛṣṇa, seeing my own kinsmen assembled here, eager to fight,”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.29} \textit{(Arjuna)}\par
+My limbs are sinking, and my mouth is dry; my body trembles, and my hair stands on end.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.30} \textit{(Arjuna)}\par
+Gandiva slips from my hand, and my skin is burning too. I cannot stand steady, and my mind seems to reel.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.31} \textit{(Arjuna)}\par
+And I see contrary omens, O Keshava. Nor do I see any good in killing my own people in battle.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.32} \textit{(Arjuna)}\par
+I do not desire victory, Krishna, nor kingdom, nor pleasures. What is a kingdom to us, Govinda, or pleasures, or even life?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.33} \textit{(Arjuna)}\par
+For whose sake we desire kingdom, pleasures, and comforts—these stand here in battle, having given up their lives and wealth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.34} \textit{(Arjuna)}\par
+Teachers, fathers, sons, and also grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and likewise other relatives.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.35} \textit{(Arjuna)}\par
+O Madhusudana, I do not wish to kill these, even if they would kill me, even for the sake of dominion over the three worlds; what then of the earth?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.36} \textit{(Arjuna)}\par
+O Janardana, what joy would we have in killing the sons of Dhritarashtra? By killing these aggressors, only sin would come upon us.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.37} \textit{(Arjuna)}\par
+Therefore we are not right to kill the sons of Dhṛtarāṣṭra, our own kinsmen. For how could we be happy after killing our own people, O Mādhava?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.38} \textit{(Arjuna)}\par
+Though these men, with minds overcome by greed, do not see the fault in destroying a family and the sin in betraying friends,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.39} \textit{(Arjuna)}\par
+How should we not know to turn away from this sin, O Janardana, when we clearly see the fault caused by the destruction of the family?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.40} \textit{(Arjuna)}\par
+When the family is ruined, the eternal family dharmas perish; and when dharma is destroyed, adharma overwhelms the whole family.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.41} \textit{(Arjuna)}\par
+O Kṛṣṇa, when irreligion prevails, the women of the family become corrupted; O Vārṣṇeya, when women are corrupted, there arises social confusion.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.42} \textit{(Arjuna)}\par
+Confusion of caste leads indeed to hell for the destroyers of the family and for the family itself. Their ancestors fall, deprived of the rites of offering of rice-balls and water.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.43} \textit{(Arjuna)}\par
+By these faults of the family-destroyers, which bring about the mixing of the varnas, the eternal dharmas of the caste and the family are destroyed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.44} \textit{(Arjuna)}\par
+O Janardana, we have heard that for men whose family dharma has been destroyed, dwelling in hell is निश्चित.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.45} \textit{(Arjuna)}\par
+Alas, we are resolved to commit a great sin, namely to slay our own kinsmen out of greed for the pleasures of a kingdom.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.46} \textit{(Arjuna)}\par
+If the sons of Dhritarashtra, weapons in hand, should kill me in battle while I remain unresisting and unarmed, that would be better for me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.47} \textit{(Sanjaya)}\par
+Having said this in battle, Arjuna sat down on the chariot seat, casting aside his bow and arrows, his mind overwhelmed with grief.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 2 - Sankhya Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.1} \textit{(Sanjaya)}\par
+Seeing him thus overwhelmed by compassion, with his eyes full of tears and troubled, Madhusūdana spoke these words to the despondent one.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.2} \textit{(Shri Bhagavan Krishna)}\par
+From where has this delusion come upon you in this critical moment, Arjuna? It is not fit for noble men, nor does it lead to heaven or fame.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.3} \textit{(Shri Bhagavan Krishna)}\par
+Do not yield to unmanliness, Pārtha; it does not befit you. Casting off this petty weakness of heart, rise up, Parantapa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.4} \textit{(Arjuna)}\par
+How can I fight in battle against Bhishma and Drona with arrows, O Madhusudana, since they are worthy of worship, O destroyer of enemies?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.5} \textit{(Arjuna)}\par
+For it is better in this world to live on alms than to kill these great-souled teachers. If I were to kill these teachers who seek wealth and pleasure here, I would enjoy pleasures stained with blood.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.6} \textit{(Arjuna)}\par
+We do not know which is better for us: whether we should conquer them, or they should conquer us. Those sons of Dhṛtarāṣṭra, standing before us, would be the ones we would not wish to live after killing.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.7} \textit{(Arjuna)}\par
+My nature is overcome by weakness, my mind confused about dharma. I ask You: tell me decisively what is best for me. I am Your disciple; I have taken refuge in You. Instruct me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.8} \textit{(Arjuna)}\par
+For I do not see what could dispel my grief, which is drying up my senses, even if I were to obtain a prosperous, unrivaled kingdom on earth and lordship over the gods.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.9} \textit{(Sanjaya)}\par
+Having thus spoken to Hṛṣīkeśa, Guḍākeśa, scorcher of foes, saying to Govinda, “I will not fight,” fell silent.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.10} \textit{(Sanjaya)}\par
+Sanjaya said:
+\par
+Hṛṣīkeśa spoke to him, as if smiling, in the midst of the two armies, while he was thus despondent: “O Bharata, these words.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.11} \textit{(Shri Bhagavan Krishna)}\par
+You grieve for those who should not be grieved for, and yet you speak words of wisdom. The wise do not grieve for the departed or for the living.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.12} \textit{(Shri Bhagavan Krishna)}\par
+Never indeed was I not, nor were you, nor were these lords of men; and never shall we all cease to be hereafter.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.13} \textit{(Shri Bhagavan Krishna)}\par
+Just as in this body the embodied one passes through childhood, youth, and old age, so too does he acquire another body; the steady person is not deluded by that.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.14} \textit{(Shri Bhagavan Krishna)}\par
+O son of Kunti, the contacts of the senses with their objects bring cold and heat, pleasure and pain. These come and go; they are impermanent. Endure them, O Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.15} \textit{(Shri Bhagavan Krishna)}\par
+For whom these do not distress, O best of men—who is even-minded in pain and pleasure, steadfast—he is fit for immortality.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.16} \textit{(Shri Bhagavan Krishna)}\par
+The unreal has no being; the real has no nonbeing. The seers of truth have seen the end of both.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.17} \textit{(Shri Bhagavan Krishna)}\par
+Know that to be indestructible by which all this is pervaded; no one is able to destroy this imperishable being.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.18} \textit{(Shri Bhagavan Krishna)}\par
+These embodied selves’ bodies are said to be finite, but the embodied self is eternal, indestructible, and immeasurable; therefore, fight, O Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.19} \textit{(Shri Bhagavan Krishna)}\par
+He who thinks of this one as a killer, and he who thinks of this one as killed—both of them do not understand; this one neither kills nor is killed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.20} \textit{(Shri Bhagavan Krishna)}\par
+He is never born, and he never dies; having once been, he will never again cease to be. This one is unborn, eternal, everlasting, ancient; he is not slain when the body is slain.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.21} \textit{(Shri Bhagavan Krishna)}\par
+He who knows this self as indestructible, eternal, unborn, and imperishable—how can that person, O Pārtha, kill anyone, or cause anyone to be killed?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.22} \textit{(Shri Bhagavan Krishna)}\par
+As a person casts off worn-out garments and takes up others that are new, so the embodied one casts off worn-out bodies and enters others that are new.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.23} \textit{(Shri Bhagavan Krishna)}\par
+Weapons do not cut It, fire does not burn It; water does not wet It, nor does wind dry It.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.24} \textit{(Shri Bhagavan Krishna)}\par
+It cannot be cut, burned, wetted, or dried; it is eternal, all-pervading, स्थाणु, immovable, and ancient.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.25} \textit{(Shri Bhagavan Krishna)}\par
+This is said to be unmanifest, unthinkable, and unchanging. Therefore, knowing him as such, you should not grieve.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.26} \textit{(Shri Bhagavan Krishna)}\par
+And even if you think of him as constantly born, or constantly dead, still, O mighty-armed one, you should not grieve in this way.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.27} \textit{(Shri Bhagavan Krishna)}\par
+For one who is born, death is certain; for one who has died, birth is certain. Therefore, over what is unavoidable, you should not grieve.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.28} \textit{(Shri Bhagavan Krishna)}\par
+O Bharata, beings are unmanifest in their beginning, manifest in their middle, and again unmanifest in their end. What cause is there for lamentation in this?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.29} \textit{(Shri Bhagavan Krishna)}\par
+One sees this as a wonder; another speaks of it as a wonder; another hears of it as a wonder; and yet, even after hearing, no one truly knows it.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.30} \textit{(Shri Bhagavan Krishna)}\par
+O Bharata, the embodied one in the body of all is eternally indestructible. Therefore you should not grieve for any being.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.31} \textit{(Shri Bhagavan Krishna)}\par
+Considering also your own dharma, you ought not to tremble. For a kshatriya, there is nothing better than a battle in accord with dharma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.32} \textit{(Shri Bhagavan Krishna)}\par
+By chance, they have come upon an open gate to heaven. Happy are the kshatriyas, O Partha, who obtain a battle like this.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.33} \textit{(Shri Bhagavan Krishna)}\par
+But if you will not fight this righteous battle, then, abandoning your own dharma and honor, you will incur sin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.34} \textit{(Shri Bhagavan Krishna)}\par
+And people will speak of your imperishable disgrace. For one who has been honored, disgrace is worse than death.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.35} \textit{(Shri Bhagavan Krishna)}\par
+The great warriors will think that you have withdrawn from battle out of fear, and, having been held in high esteem by them, you will come to be regarded lightly.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.36} \textit{(Shri Bhagavan Krishna)}\par
+Your enemies will speak many unseemly words, disparaging your ability. What could be more painful than that?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.37} \textit{(Shri Bhagavan Krishna)}\par
+If slain, you will attain heaven; if victorious, you will enjoy the earth. Therefore, O Kaunteya, rise up, resolved for battle.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.38} \textit{(Shri Bhagavan Krishna)}\par
+Treat pleasure and pain alike, gain and loss, victory and defeat. Then prepare for battle; thus you will not incur sin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.39} \textit{(Shri Bhagavan Krishna)}\par
+I have now declared to you the understanding of Sāṅkhya; now hear this understanding in yoga. Endowed with this understanding, O Pārtha, you will cast off the bondage of karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.40} \textit{(Shri Bhagavan Krishna)}\par
+In this endeavor, there is no loss, and there is no harm. Even a little of this dharma protects one from great fear.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.41} \textit{(Shri Bhagavan Krishna)}\par
+O son of the Kurus, here in this matter there is only one resolute understanding; but the understandings of the indecisive are many-branched and endless.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.42} \textit{(Shri Bhagavan Krishna)}\par
+The unwise, delighting in the words of the Vedas, speak this flowery speech, O Partha, saying that there is nothing else.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.43} \textit{(Shri Bhagavan Krishna)}\par
+Those whose minds are full of desire, devoted to heaven, speak of the flowery words of ritual actions that grant birth and the fruits of action, with many special ceremonies aimed at pleasure and lordly power.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.44} \textit{(Shri Bhagavan Krishna)}\par
+For those attached to enjoyment and lordship, whose minds are carried away by that, the resolute intellect is not established in samadhi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.45} \textit{(Shri Bhagavan Krishna)}\par
+The Vedas deal with the three gunas, O Arjuna. Be free from the three gunas, free from duality, ever established in sattva, and आत्मवान.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.46} \textit{(Shri Bhagavan Krishna)}\par
+As much use is there in a well when water is flooded on all sides, so much use is there in all the Vedas for a brahmin who knows.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.47} \textit{(Shri Bhagavan Krishna)}\par
+Your right is to action alone, never to its fruits. Do not let the fruits of action be your motive, and do not be attached to inaction.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.48} \textit{(Shri Bhagavan Krishna)}\par
+Established in yoga, perform actions, abandoning attachment, O Dhananjaya. Being even-minded in success and failure is called yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.49} \textit{(Shri Bhagavan Krishna)}\par
+Action is far inferior, O Dhananjaya, to the yoga of buddhi. Seek refuge in buddhi; those who desire the fruits are miserly.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.50} \textit{(Shri Bhagavan Krishna)}\par
+One who is endowed with intelligence abandons both good and evil deeds in this world. Therefore, devote yourself to yoga; yoga is skill in action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.51} \textit{(Shri Bhagavan Krishna)}\par
+The wise, united with buddhi, renounce the fruit born of action; freed from the bondage of birth, they go to the flawless state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.52} \textit{(Shri Bhagavan Krishna)}\par
+When your बुद्धि has crossed beyond the thicket of delusion, then you will become dispassionate toward what is to be heard and what has been heard.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.53} \textit{(Shri Bhagavan Krishna)}\par
+When your understanding, confused by the Vedic teachings, stands firm and unshaken in samadhi, then you will attain yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.54} \textit{(Arjuna)}\par
+What is the mark of one whose wisdom is steady, O Keśava, who is in samadhi? How does one of steady mind speak, sit, or walk?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.55} \textit{(Shri Bhagavan Krishna)}\par
+When a person gives up all desires that arise in the mind, O Pārtha, and is content in the Self alone through the Self, that person is called one स्थिितप्रज्ञ.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.56} \textit{(Shri Bhagavan Krishna)}\par
+One whose mind is not disturbed amid sorrows, who is free from longing amid pleasures, and who is free from attachment, fear, and anger is called a sage of steady wisdom.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.57} \textit{(Shri Bhagavan Krishna)}\par
+One who is unattached everywhere, and who, on attaining this or that—whether good or evil—does not rejoice or hate, his understanding is steady.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.58} \textit{(Shri Bhagavan Krishna)}\par
+When, like a tortoise withdrawing its limbs on every side, one completely draws in the senses from their objects, that person’s wisdom is firmly established.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.59} \textit{(Shri Bhagavan Krishna)}\par
+The sense objects turn away from the embodied one who abstains; the taste for them remains, but even that taste turns away upon seeing the Supreme.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.60} \textit{(Shri Bhagavan Krishna)}\par
+For even as he strives, O Kaunteya, the turbulent senses forcibly carry away the mind of a discerning person.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.61} \textit{(Shri Bhagavan Krishna)}\par
+Controlling all of them, let him sit steadfast, intent on Me. For one whose senses are under control, his wisdom is firmly established.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.62} \textit{(Shri Bhagavan Krishna)}\par
+When a person dwells on sense objects, attachment to them arises. From attachment arises desire; from desire, anger is born.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.63} \textit{(Shri Bhagavan Krishna)}\par
+From anger arises delusion; from delusion, confusion of memory. From loss of memory comes loss of discernment; from loss of discernment, one is destroyed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.64} \textit{(Shri Bhagavan Krishna)}\par
+But one who moves among sense-objects with the senses under control, free from attachment and aversion, and with the self disciplined, attains serenity.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.65} \textit{(Shri Bhagavan Krishna)}\par
+With the arising of serenity, all sufferings are destroyed; for one whose mind is serene, the intellect quickly becomes steadfast.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.66} \textit{(Shri Bhagavan Krishna)}\par
+For one who is not disciplined, there is no wisdom, and for one who is not disciplined, there is no steady contemplation. And for one who does not contemplate, there is no peace; how, then, can there be happiness for one without peace?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.67} \textit{(Shri Bhagavan Krishna)}\par
+For the mind, when it follows after the wandering senses, carries away his understanding, as the wind carries away a boat on the water.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.68} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, O mighty-armed one, the senses of one whose senses are restrained from all sides by the sense-objects—his wisdom is established.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.69} \textit{(Shri Bhagavan Krishna)}\par
+What is night for all beings is the waking time of the self-controlled one; what is waking time for beings is night for the sage who sees.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.70} \textit{(Shri Bhagavan Krishna)}\par
+As waters enter the ocean, which remains unmoved and ever full, so all desires enter him. He attains peace, not the one who longs for desires.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.71} \textit{(Shri Bhagavan Krishna)}\par
+A person who has given up all desires moves about free from longing; free from possessiveness and free from egoism, that person attains peace.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.72} \textit{(Shri Bhagavan Krishna)}\par
+This is the Brahmic state, O Partha; having attained it, one is not deluded. Established in it even at the end of life, one attains Brahma-nirvana.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 3 - Karma Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.1} \textit{(Arjuna)}\par
+Janardana, if you think that understanding is superior to action, then why, Keśava, do you urge me to this dreadful action?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.2} \textit{(Arjuna)}\par
+With your seemingly confused words, you appear to bewilder my understanding. Tell me that one thing, definitely, by which I may attain the highest good.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.3} \textit{(Shri Bhagavan Krishna)}\par
+In this world, O sinless one, I previously declared a twofold path: the yoga of knowledge for the Sāṅkhyas, and the yoga of action for the yogins.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.4} \textit{(Shri Bhagavan Krishna)}\par
+A person does not attain freedom from action by abstaining from action, nor does one reach perfection by mere renunciation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.5} \textit{(Shri Bhagavan Krishna)}\par
+For no one ever remains even for a moment without doing action; indeed, everyone is made to act helplessly by the gunas born of prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.6} \textit{(Shri Bhagavan Krishna)}\par
+One who restrains the organs of action yet sits dwelling in the mind on sense objects, with a deluded self, is called a hypocrite.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.7} \textit{(Shri Bhagavan Krishna)}\par
+But one who, controlling the senses with the mind, begins, O Arjuna, the yoga of action with the organs of action, unattached, excels.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.8} \textit{(Shri Bhagavan Krishna)}\par
+Perform the prescribed action; action is indeed better than inaction. Even the maintenance of the body would not be accomplished by inaction.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.9} \textit{(Shri Bhagavan Krishna)}\par
+This world is bound by action done for any purpose other than yajna. Therefore, O Kaunteya, perform action for that purpose, free from attachment.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.10} \textit{(Shri Bhagavan Krishna)}\par
+Having created beings together with yajna, Prajapati said of old: “By this you shall multiply; let this be the cow that yields your desired objects.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.11} \textit{(Shri Bhagavan Krishna)}\par
+By this, nourish the devas, and let those devas nourish you; nourishing one another, you will attain the highest good.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.12} \textit{(Shri Bhagavan Krishna)}\par
+The devas, nourished by yajna, will indeed grant you the enjoyed pleasures you desire. But one who enjoys what has been given by them, without offering back to them, is surely a thief.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.13} \textit{(Shri Bhagavan Krishna)}\par
+Those who eat the remnants of yajna are freed from all sins; but those sinful men who cook for their own sake eat only sin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.14} \textit{(Shri Bhagavan Krishna)}\par
+From food come beings; from rain comes food. From sacrifice comes rain; sacrifice is born of action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.15} \textit{(Shri Bhagavan Krishna)}\par
+Know that karma arises from Brahman, and Brahman arises from the imperishable. Therefore the all-pervading Brahman is eternally established in yajna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.16} \textit{(Shri Bhagavan Krishna)}\par
+Thus, O Pārtha, one who does not follow this wheel set in motion in this world, delighting only in the senses, lives in vain.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.17} \textit{(Shri Bhagavan Krishna)}\par
+But for the person who rejoices in the Self alone, and is content with the Self, and is satisfied in the Self alone, there is nothing to be done.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.18} \textit{(Shri Bhagavan Krishna)}\par
+For him, there is no purpose in what is done or not done here; nor does he depend on anyone or anything among all beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.19} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, remain unattached and always perform the action that must be done; for by acting without attachment, a person attains the highest.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.20} \textit{(Shri Bhagavan Krishna)}\par
+For only by action did Janaka and others attain perfection; and considering the holding-together of the world, you too should act.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.21} \textit{(Shri Bhagavan Krishna)}\par
+Whatever a श्रेष्ठ person does, that is what other people do. Whatever standard he sets, the world follows that.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.22} \textit{(Shri Bhagavan Krishna)}\par
+O Pārtha, there is nothing in the three worlds that I must do, nor anything unattained that I must attain; yet I remain engaged in action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.23} \textit{(Shri Bhagavan Krishna)}\par
+For if I were ever to cease acting, O Partha, remaining unwearied in action, people would in every way follow my path.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.24} \textit{(Shri Bhagavan Krishna)}\par
+If I did not perform action, these worlds would perish; and I would be the cause of confusion and the destruction of these beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.25} \textit{(Shri Bhagavan Krishna)}\par
+As the ignorant act with attachment to action, O Bharata, so should the wise act, unattached, desiring to maintain the welfare of the world.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.26} \textit{(Shri Bhagavan Krishna)}\par
+A wise person, acting with discipline, should not create confusion in the understanding of those who are ignorant and attached to action, but should encourage them to perform all actions properly.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.27} \textit{(Shri Bhagavan Krishna)}\par
+All actions are carried out in every way by the gunas of prakriti. One whose self is deluded by ego thinks, “I am the doer.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.28} \textit{(Shri Bhagavan Krishna)}\par
+But one who knows the truth, O mighty-armed one, about the division of the gunas and actions does not become attached, thinking, “The gunas act among the gunas.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.29} \textit{(Shri Bhagavan Krishna)}\par
+Deluded by the gunas of prakriti, they become attached to actions born of the gunas. One who knows the whole should not unsettle those who do not know the whole, the dull-minded.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.30} \textit{(Shri Bhagavan Krishna)}\par
+With the mind fixed on the Self, renouncing all actions in Me, free from desire and free from possessiveness, fight, without fever.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.31} \textit{(Shri Bhagavan Krishna)}\par
+Those human beings who consistently follow this teaching of Mine, full of faith and free from censure, are also released from their karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.32} \textit{(Shri Bhagavan Krishna)}\par
+But those who, finding fault with this, do not follow my teaching—know them to be deluded in all knowledge and of ruined understanding.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.33} \textit{(Shri Bhagavan Krishna)}\par
+Even a man of knowledge acts according to his own nature; beings follow their nature—what will restraint accomplish?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.34} \textit{(Shri Bhagavan Krishna)}\par
+For each sense, attraction and aversion are fixed upon its objects. One should not come under their sway, for they are one’s enemies.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.35} \textit{(Shri Bhagavan Krishna)}\par
+Better is one’s own dharma, though imperfectly performed, than another’s dharma well performed. Better death in one’s own dharma; another’s dharma is fraught with fear.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.36} \textit{(Arjuna)}\par
+Then by what is this person impelled to commit sin, O Vārṣṇeya, as if driven by force, even though unwilling?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.37} \textit{(Shri Bhagavan Krishna)}\par
+This desire, this anger, born of rajas, is all-devouring and greatly sinful; know this here to be the enemy.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.38} \textit{(Shri Bhagavan Krishna)}\par
+As fire is covered by smoke, and a mirror by dust, so is this enveloped by that.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.39} \textit{(Shri Bhagavan Krishna)}\par
+Knowledge is veiled by this eternal enemy of the wise, O Kaunteya, in the form of desire, which is insatiable like fire.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.40} \textit{(Shri Bhagavan Krishna)}\par
+The senses, the mind, and the intellect are said to be its seat. By these it deludes the embodied one, obscuring his knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.41} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, O best of the Bhāratas, first restrain your senses, and then cast away this sinful foe, the destroyer of knowledge and wisdom.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.42} \textit{(Shri Bhagavan Krishna)}\par
+The senses, they say, are superior; superior to the senses is the mind. Superior to the mind is the intellect; but superior to the intellect is That.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.43} \textit{(Shri Bhagavan Krishna)}\par
+Thus, understanding the Self to be beyond the intellect, steady the self by the self. O mighty-armed one, slay this enemy, hard to overcome, who takes the form of desire.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 4 - Jnana-Karma-Sannyasa Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.1} \textit{(Shri Bhagavan Krishna)}\par
+I taught this imperishable yoga to Vivasvān; Vivasvān taught it to Manu, and Manu spoke it to Ikṣvāku.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.2} \textit{(Shri Bhagavan Krishna)}\par
+Thus, this yoga was received through the succession of royal sages; the rajarsis knew it in this way. But, O scorcher of foes, in the course of a great time, this yoga has been lost here.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.3} \textit{(Shri Bhagavan Krishna)}\par
+This very same ancient yoga has today been declared by me to you, for you are my devotee and my friend; indeed, this is the supreme secret.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.4} \textit{(Arjuna)}\par
+Your birth is later, and the birth of Vivasvān is earlier. How am I to understand this—that You spoke it in the beginning?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.5} \textit{(Shri Bhagavan Krishna)}\par
+Many births of mine and yours have passed, O Arjuna; I know them all, but you do not, O scorcher of enemies.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.6} \textit{(Shri Bhagavan Krishna)}\par
+Though I am unborn and imperishable, and though I am the Lord of beings, yet, relying on My own prakriti, I manifest Myself by My own maya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.7} \textit{(Shri Bhagavan Krishna)}\par
+Whenever there is a decline of dharma, O Bhārata, and a rise of adharma, then I manifest Myself.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.8} \textit{(Shri Bhagavan Krishna)}\par
+For the protection of the good and for the destruction of the wicked, and for the establishment of dharma, I manifest myself age after age.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.9} \textit{(Shri Bhagavan Krishna)}\par
+He who truly knows My divine birth and action thus does not, upon leaving the body, take birth again; he comes to Me, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.10} \textit{(Shri Bhagavan Krishna)}\par
+Freed from attachment, fear, and anger, absorbed in Me and taking refuge in Me, many have been purified by the austerity of knowledge and have attained My state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.11} \textit{(Shri Bhagavan Krishna)}\par
+As people approach Me, so do I respond to them. Men, O Partha, follow My path in every way.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.12} \textit{(Shri Bhagavan Krishna)}\par
+Desiring success in their actions, men here worship the devas. For in the human world, success born of action comes quickly.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.13} \textit{(Shri Bhagavan Krishna)}\par
+The four varnas were created by Me according to the distinctions of guna and action. Know Me to be the non-doer, though imperishable and the doer thereof.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.14} \textit{(Shri Bhagavan Krishna)}\par
+Actions do not taint Me, nor is there in Me any desire for the fruits of action. One who thus knows Me is not bound by actions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.15} \textit{(Shri Bhagavan Krishna)}\par
+Having known this, even the ancient seekers of liberation performed action. Therefore do action, as the ancients did of old.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.16} \textit{(Shri Bhagavan Krishna)}\par
+What is action? What is inaction? Even the wise are perplexed about this. I shall explain to you that action, knowing which you will be freed from misfortune.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.17} \textit{(Shri Bhagavan Krishna)}\par
+One should understand action, and one should also understand forbidden action; and one should understand inaction as well, for the course of karma is profound.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.18} \textit{(Shri Bhagavan Krishna)}\par
+He who sees action in inaction, and inaction in action, is wise among men; he is disciplined and a doer of all action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.19} \textit{(Shri Bhagavan Krishna)}\par
+Those whose every undertaking is free from desire and intention, whose actions have been burnt by the fire of knowledge, the wise call them learned.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.20} \textit{(Shri Bhagavan Krishna)}\par
+Having renounced attachment to the fruits of action, ever content and निर्निराश्रय, he, though fully engaged in action, does nothing at all.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.21} \textit{(Shri Bhagavan Krishna)}\par
+Free from hope, with mind and self controlled, and having relinquished all possessions, he performs only bodily action and does not incur sin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.22} \textit{(Shri Bhagavan Krishna)}\par
+Content with gain that comes by chance, beyond the pairs of opposites, free from envy, equal in success and failure, he is not bound even though he acts.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.23} \textit{(Shri Bhagavan Krishna)}\par
+For one who is free from attachment, liberated, and whose mind is established in knowledge, all action undertaken as yajna dissolves completely.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.24} \textit{(Shri Bhagavan Krishna)}\par
+The offering is Brahman, the oblation is Brahman, offered into the fire of Brahman by Brahman; he by whom Brahman-action is attained is to be reached only through Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.25} \textit{(Shri Bhagavan Krishna)}\par
+Some yogis perform sacrifice to the devas; others offer sacrifice by means of sacrifice itself in the fire of Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.26} \textit{(Shri Bhagavan Krishna)}\par
+Others offer the senses, beginning with hearing, into the fires of restraint; others offer sound and other sense-objects into the fires of the senses.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.27} \textit{(Shri Bhagavan Krishna)}\par
+Others offer all the functions of the senses and the functions of the life-force into the fire of self-control and yoga, kindled by knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.28} \textit{(Shri Bhagavan Krishna)}\par
+There are others who perform sacrifices of wealth, sacrifices of austerity, sacrifices of yoga, and, likewise, sacrifices of self-study and knowledge; these are disciplined ascetics, committed to strict vows.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.29} \textit{(Shri Bhagavan Krishna)}\par
+Others offer the prana into the apana, and others the apana into the prana; still others, having restrained the movements of prana and apana, are devoted to pranayama.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.30} \textit{(Shri Bhagavan Krishna)}\par
+Others, with regulated diet, offer the vital airs into the vital airs. All these, indeed, know sacrifice and are cleansed of sin through sacrifice.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.31} \textit{(Shri Bhagavan Krishna)}\par
+Those who partake of the nectar remaining from yajna go to the eternal Brahman. O best of the Kurus, for one who does not perform yajna, there is no world here, let alone another.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.32} \textit{(Shri Bhagavan Krishna)}\par
+Thus many kinds of yajnas are spread out in the mouth of Brahman. Know them all to be born of action; knowing this, you will be liberated.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.33} \textit{(Shri Bhagavan Krishna)}\par
+The sacrifice of knowledge is better than a sacrifice of material things, O scorcher of foes. All action in its entirety, O Pārtha, culminates in knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.34} \textit{(Shri Bhagavan Krishna)}\par
+Know that by prostration, by inquiry, and by service; the knowers of truth, who see reality, will instruct you in knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.35} \textit{(Shri Bhagavan Krishna)}\par
+Having known this, O Pāṇḍava, you will not again fall into such delusion. By this, you will behold all beings, without exception, in the Self, and then in Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.36} \textit{(Shri Bhagavan Krishna)}\par
+Even if you are the greatest sinner among all sinners, you will cross over all wrongdoing by the boat of knowledge alone.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.37} \textit{(Shri Bhagavan Krishna)}\par
+As a blazing fire reduces fuel to ashes, O Arjuna, so the fire of knowledge reduces all karma to ashes.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.38} \textit{(Shri Bhagavan Krishna)}\par
+Certainly no purifier here exists equal to knowledge; one who has attained perfection in yoga finds that within the self in time.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.39} \textit{(Shri Bhagavan Krishna)}\par
+One who is full of faith, devoted to it, and has controlled the senses attains knowledge. Having attained knowledge, he quickly attains supreme peace.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.40} \textit{(Shri Bhagavan Krishna)}\par
+The ignorant and the faithless, and the one whose self is full of doubt, perish. For the doubting self, there is neither this world nor the next, nor happiness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.41} \textit{(Shri Bhagavan Krishna)}\par
+Actions do not bind one who has renounced action through yoga, whose doubts have been cut away by knowledge, and who is self-possessed, O Dhananjaya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.42} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, with the sword of knowledge, cut away this doubt in your own heart, born of ignorance. Arise, O Bharata, and take up yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 5 - Sannyasa Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.1} \textit{(Arjuna)}\par
+O Kṛṣṇa, you praise renunciation of action and also yoga. Tell me with certainty which of the two is better.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.2} \textit{(Shri Bhagavan Krishna)}\par
+Renunciation and karma-yoga both lead to the highest good, but of the two, karma-yoga is superior to renunciation of action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.3} \textit{(Shri Bhagavan Krishna)}\par
+He should be known as a perpetual renunciant who neither hates nor desires; free from duality, O mighty-armed one, he is easily freed from bondage.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.4} \textit{(Shri Bhagavan Krishna)}\par
+Children speak of Sāṅkhya and Yoga as separate; the wise do not. One who is rightly established in either attains the फल of both.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.5} \textit{(Shri Bhagavan Krishna)}\par
+What is attained by Sāṅkhya is also attained by Yoga. He who sees Sāṅkhya and Yoga as one, he sees.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.6} \textit{(Shri Bhagavan Krishna)}\par
+But renunciation, O mighty-armed one, is hard to attain without yoga; the sage who is devoted to yoga soon attains Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.7} \textit{(Shri Bhagavan Krishna)}\par
+United in yoga, with a purified self, self-controlled, and with the senses conquered, he, whose self has become the self of all beings, is not tainted even while acting.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.8} \textit{(Shri Bhagavan Krishna)}\par
+The one who is disciplined and knows the truth should think, “I do nothing at all,” while seeing, hearing, touching, smelling, eating, walking, sleeping, and breathing.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.9} \textit{(Shri Bhagavan Krishna)}\par
+Speaking, releasing, grasping, opening and closing the eyes, he should hold that the senses are moving among the objects of the senses.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.10} \textit{(Shri Bhagavan Krishna)}\par
+One who performs actions, having renounced attachment, and placing them in Brahman, is not tainted by sin, just as a lotus leaf is not tainted by water.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.11} \textit{(Shri Bhagavan Krishna)}\par
+With the body, mind, intellect, and even the senses alone, yogis perform action, having renounced attachment, for the purification of the self.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.12} \textit{(Shri Bhagavan Krishna)}\par
+One who is disciplined, having renounced the fruit of action, attains steady peace; one who is undisciplined, attached to the fruit through desire, is bound.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.13} \textit{(Shri Bhagavan Krishna)}\par
+Having renounced all actions in the mind, the embodied one dwells happily, self-controlled, in the city of nine gates, neither acting nor causing action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.14} \textit{(Shri Bhagavan Krishna)}\par
+The Lord does not create agency, nor actions, nor the connection of action with its fruits for the world; but nature itself proceeds.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.15} \textit{(Shri Bhagavan Krishna)}\par
+The all-pervading Lord does not take anyone’s sin or merit. Knowledge is veiled by ignorance; therefore beings are deluded.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.16} \textit{(Shri Bhagavan Krishna)}\par
+But in those whose ignorance has been destroyed by knowledge of the Self, that knowledge reveals the Supreme like the sun.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.17} \textit{(Shri Bhagavan Krishna)}\par
+Those whose understanding is directed toward That, whose self is grounded in That, whose steadiness is in That, and whose final aim is That, go to the state from which there is no return, their impurities having been washed away by knowledge
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.18} \textit{(Shri Bhagavan Krishna)}\par
+The wise see with equal vision a learned and humble Brahmin, a cow, an elephant, a dog, and one who eats dogs
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.19} \textit{(Shri Bhagavan Krishna)}\par
+Here in this world itself, creation is conquered by those whose mind rests in equanimity. For Brahman is indeed flawless and even; therefore they are established in Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.20} \textit{(Shri Bhagavan Krishna)}\par
+One should not rejoice on obtaining what is pleasant, nor become agitated on obtaining what is unpleasant; with steady understanding, undeluded, a knower of Brahman, established in Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.21} \textit{(Shri Bhagavan Krishna)}\par
+With the self unattached to external contacts, one finds the happiness that is in the self. That one, with the self engaged in Brahma-yoga, attains inexhaustible happiness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.22} \textit{(Shri Bhagavan Krishna)}\par
+For the pleasures born of contact are indeed sources of suffering; they have a beginning and an end, O Kaunteya, and the wise do not delight in them.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.23} \textit{(Shri Bhagavan Krishna)}\par
+He who is able, while still in this body, to endure the surge born of desire and anger, is a disciplined man; he is a happy man.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.24} \textit{(Shri Bhagavan Krishna)}\par
+One who is सुख within, रमण within, and whose light is within—having become Brahman, he attains Brahman-nirvana.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.25} \textit{(Shri Bhagavan Krishna)}\par
+The sages, whose sins have been destroyed, whose doubts are cut away, who are self-controlled, and who delight in the welfare of all beings, attain Brahma-nirvana.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.26} \textit{(Shri Bhagavan Krishna)}\par
+For those ascetics who are free from lust and anger, who have controlled their minds and know the Self, Brahman-nirvana lies all around.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.27} \textit{(Shri Bhagavan Krishna)}\par
+Having placed external contacts outside, and the eyes between the eyebrows, and keeping the inhalation and exhalation balanced, moving within the nostrils,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.28} \textit{(Shri Bhagavan Krishna)}\par
+A sage who has controlled the senses, mind, and intellect, and is devoted to liberation, whose desire, fear, and anger have departed—he is ever मुक्त, indeed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.29} \textit{(Shri Bhagavan Krishna)}\par
+Knowing Me as the enjoyer of sacrifices and austerities, the great Lord of all the worlds, and the friend of all beings, one attains peace.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 6 - Atma-Samyama Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.1} \textit{(Shri Bhagavan Krishna)}\par
+He who performs the action that should be done, without relying on the fruit of action, is both a renunciant and a yogi, not one without fire and not one without action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.2} \textit{(Shri Bhagavan Krishna)}\par
+Understand that what they call renunciation is yoga, O Pāṇḍava; for no one becomes a yogī without renouncing intention.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.3} \textit{(Shri Bhagavan Krishna)}\par
+For a sage who seeks to ascend to yoga, action is said to be the means; for the same one, when established in yoga, stillness is said to be the means.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.4} \textit{(Shri Bhagavan Krishna)}\par
+For when one is not attached to sense-objects or to actions, and has renounced all intentions, then one is said to have ascended to yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.5} \textit{(Shri Bhagavan Krishna)}\par
+One should lift the self by the self; one should not bring the self down. For the self is indeed the self’s friend, and the self is also the self’s enemy.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.6} \textit{(Shri Bhagavan Krishna)}\par
+For that person, the self is the friend of the self by whom the self has been conquered by the self; but for one whose self is not conquered, the self alone acts as an enemy, like an enemy.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.7} \textit{(Shri Bhagavan Krishna)}\par
+For one who has conquered the self and is tranquil, the Supreme Self is well settled, in cold and heat, and in pleasure and pain, as well as in honor and dishonor.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.8} \textit{(Shri Bhagavan Krishna)}\par
+The yogi whose self is satisfied with knowledge and realization, who is steadfast and has conquered the senses, and to whom a lump of earth, a stone, and gold are the same, is called integrated.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.9} \textit{(Shri Bhagavan Krishna)}\par
+He is distinguished by equal-mindedness toward benefactors, friends, enemies, the indifferent, mediators, the hateful, relatives, the righteous, and the sinful.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.10} \textit{(Shri Bhagavan Krishna)}\par
+The yogin should constantly discipline himself, dwelling in solitude, alone, with mind and self controlled, free from desire and free from possessions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.11} \textit{(Shri Bhagavan Krishna)}\par
+Having set up for oneself a firm seat in a clean place, neither too high nor too low, made of cloth, deerskin, and kusa grass.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.12} \textit{(Shri Bhagavan Krishna)}\par
+There, having made the mind one-pointed and having restrained the activities of mind and senses, one should sit on the seat and practice yoga for the purification of the self.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.13} \textit{(Shri Bhagavan Krishna)}\par
+Holding the body, head, and neck straight and still, fixed, steady, gazing at the tip of his own nose, not looking around.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.14} \textit{(Shri Bhagavan Krishna)}\par
+With mind शांत and free from fear, established in the vow of celibacy, controlling the mind, with consciousness fixed on Me, let him sit, devoted to Me as the supreme.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.15} \textit{(Shri Bhagavan Krishna)}\par
+Thus, constantly disciplining the self in this way, the yogī with a controlled mind attains peace, the supreme nirvāṇa, abiding in Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.16} \textit{(Shri Bhagavan Krishna)}\par
+Yoga is not for one who eats too much, nor for one who does not eat at all; nor for one who sleeps too much, nor for one who is always awake, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.17} \textit{(Shri Bhagavan Krishna)}\par
+For one whose eating and recreation are regulated, whose actions are regulated, and whose sleep and waking are regulated, yoga becomes the destroyer of sorrow.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.18} \textit{(Shri Bhagavan Krishna)}\par
+When the disciplined mind remains fixed solely in the Self, then he is said to be free from craving and established in yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.19} \textit{(Shri Bhagavan Krishna)}\par
+As a lamp in a windless place does not flicker, so is the yogin of controlled mind, practicing yoga of the Self.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.20} \textit{(Shri Bhagavan Krishna)}\par
+When the mind, restrained by the practice of yoga, becomes still, and when, seeing the self by the self, one is content in the self.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.21} \textit{(Shri Bhagavan Krishna)}\par
+That supreme happiness, which is grasped by the intellect and beyond the senses, which one knows there, and from which one does not depart in truth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.22} \textit{(Shri Bhagavan Krishna)}\par
+Having obtained that, he considers no other gain greater than it; established in which, he is not shaken even by the heaviest sorrow.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.23} \textit{(Shri Bhagavan Krishna)}\par
+Know that yoga to be the severance of union with suffering; that yoga should be practiced with resolute determination and a mind that does not lose heart.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.24} \textit{(Shri Bhagavan Krishna)}\par
+Abandoning completely all desires born of resolve, and restraining the whole group of senses on every side by the mind alone.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.25} \textit{(Shri Bhagavan Krishna)}\par
+Little by little, with the intellect held firm by steadiness, one should bring the mind to rest in the Self and think of nothing at all.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.26} \textit{(Shri Bhagavan Krishna)}\par
+Whenever the restless, unsteady mind wanders away, one should restrain it from that and bring it back under the control of the Atman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.27} \textit{(Shri Bhagavan Krishna)}\par
+For the yogin whose mind is peaceful, whose rajas has been quieted, who is free from sin and become Brahman, supreme happiness comes to him.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.28} \textit{(Shri Bhagavan Krishna)}\par
+Thus, constantly disciplining the self, the yogi, freed from impurity, easily attains supreme bliss through contact with Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.29} \textit{(Shri Bhagavan Krishna)}\par
+The one whose self is disciplined by yoga sees the Self abiding in all beings, and all beings in the Self, and sees equally everywhere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.30} \textit{(Shri Bhagavan Krishna)}\par
+One who sees Me everywhere and sees everything in Me, for him I am not lost, and he is not lost to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.31} \textit{(Shri Bhagavan Krishna)}\par
+The yogī who is established in unity worships Me, dwelling in all beings. In all conditions, he abides in Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.32} \textit{(Shri Bhagavan Krishna)}\par
+Arjuna, the yogi who sees everything as equal everywhere, by comparing it with his own self—whether happiness or sorrow—is regarded as the highest.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.33} \textit{(Arjuna)}\par
+O Madhusūdana, this yoga that you have spoken of as evenness, I do not see its enduring steadiness, because of the restlessness of the mind.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.34} \textit{(Arjuna)}\par
+For the mind is restless, Kṛṣṇa, turbulent, powerful, and stubborn; I regard its restraint as difficult as restraining the wind.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.35} \textit{(Shri Bhagavan Krishna)}\par
+Undoubtedly, O mighty-armed one, the mind is difficult to restrain and restless. But, O Kaunteya, it is brought under control by practice and by detachment.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.36} \textit{(Shri Bhagavan Krishna)}\par
+Yoga is difficult to attain for one whose self is not controlled; but for one who has self-control and strives, it can be attained by proper means, in my view.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.37} \textit{(Arjuna)}\par
+Arjuna said: If one is not self-controlled but is endowed with faith, and whose mind has strayed from yoga, O Krishna, what destination does he attain, having failed to reach perfection in yoga?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.38} \textit{(Arjuna)}\par
+Does such a one, fallen from both, not perish like a shattered cloud, deprived of support, O mighty-armed one, deluded on the path of Brahman?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.39} \textit{(Arjuna)}\par
+O Kṛṣṇa, you are indeed fit to dispel this doubt of mine completely. No one else besides you is capable of removing this doubt.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.40} \textit{(Shri Bhagavan Krishna)}\par
+Partha, there is no destruction for him, neither here nor hereafter. For no one who does good, my dear, ever comes to a bad end.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.41} \textit{(Shri Bhagavan Krishna)}\par
+Having attained the worlds of the righteous and dwelling there for many long years, the one who has fallen from yoga is born in the house of the pure and the prosperous.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.42} \textit{(Shri Bhagavan Krishna)}\par
+Or else he is born in the family of wise yogis; for such a birth is very difficult to obtain in this world.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.43} \textit{(Shri Bhagavan Krishna)}\par
+There he regains that union of understanding from a former body, and then, O Kurunandana, he strives onward again toward perfection.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.44} \textit{(Shri Bhagavan Krishna)}\par
+By that very prior practice, he is drawn on, even against his will; even the seeker of yoga goes beyond the Brahman of sound.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.45} \textit{(Shri Bhagavan Krishna)}\par
+But the yogi, striving diligently and purified of all blemishes, perfected through many births, then attains the supreme goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.46} \textit{(Shri Bhagavan Krishna)}\par
+The yogi is greater than ascetics, and is thought to be greater than the jnanis as well. The yogi is greater than those devoted to action; therefore, Arjuna, become a yogi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.47} \textit{(Shri Bhagavan Krishna)}\par
+Among all yogis too, the one who worships Me with faith, with his inner self devoted to Me, is regarded by Me as the most closely united.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 7 - Jnana-Vijnana Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.1} \textit{(Shri Bhagavan Krishna)}\par
+O Partha, with your mind attached to me, taking refuge in me, practice yoga; listen as I tell you how you will know me completely and without doubt.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.2} \textit{(Shri Bhagavan Krishna)}\par
+I shall now declare to you this knowledge together with realization, in full; knowing it, nothing further remains here to be known.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.3} \textit{(Shri Bhagavan Krishna)}\par
+Among thousands of human beings, perhaps one strives for perfection; and even among those who have attained perfection and strive, perhaps one knows Me in truth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.4} \textit{(Shri Bhagavan Krishna)}\par
+Earth, water, fire, air, ether, mind, intellect, and ego—thus is My prakriti divided eightfold.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.5} \textit{(Shri Bhagavan Krishna)}\par
+This is my lower nature; know, O mighty-armed one, that there is another nature of mine, the higher one, the living principle, by which this whole world is upheld.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.6} \textit{(Shri Bhagavan Krishna)}\par
+Understand that all beings have these as their source. I am the origin and also the dissolution of the entire universe.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.7} \textit{(Shri Bhagavan Krishna)}\par
+There is nothing else higher than Me, O Dhananjaya. All this is strung on Me, like rows of gems on a thread.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.8} \textit{(Shri Bhagavan Krishna)}\par
+I am the taste in water, O Kaunteya, the radiance in the moon and the sun; I am the om in all the Vedas, the sound in space, and the manliness in men.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.9} \textit{(Shri Bhagavan Krishna)}\par
+I am the pure fragrance in the earth, and the radiance in fire. I am the life in all beings, and the austerity in ascetics.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.10} \textit{(Shri Bhagavan Krishna)}\par
+O Pārtha, know Me as the eternal seed of all beings. Among the intelligent, I am intelligence; among the radiant, I am radiance.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.11} \textit{(Shri Bhagavan Krishna)}\par
+I am the strength of the strong, free from desire and passion. O chief of the Bharatas, in beings I am desire that is not opposed to dharma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.12} \textit{(Shri Bhagavan Krishna)}\par
+Whatever states are sāttvika, rājasika, or tāmasika—know them all as arising from Me; but I am not in them, while they are in Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.13} \textit{(Shri Bhagavan Krishna)}\par
+This whole world, deluded by these three states made of the gunas, does not know Me, who am beyond them and imperishable.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.14} \textit{(Shri Bhagavan Krishna)}\par
+This divine Maya of Mine, made of the gunas, is hard to overcome. But those who take refuge in Me alone cross beyond this Maya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.15} \textit{(Shri Bhagavan Krishna)}\par
+The wicked and deluded, the lowest among men, whose knowledge has been carried away by maya and who have taken refuge in demoniac nature, do not surrender to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.16} \textit{(Shri Bhagavan Krishna)}\par
+Four kinds of people of good deeds worship Me, Arjuna: the distressed, the seeker of knowledge, the seeker of gain, and the wise, O best of the Bharatas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.17} \textit{(Shri Bhagavan Krishna)}\par
+Among them, the man of wisdom, ever steadfast and devoted to one alone, is श्रेष्ठ. For I am exceedingly dear to the wise one, and he is dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.18} \textit{(Shri Bhagavan Krishna)}\par
+All of these are indeed noble; but I regard the wise one as My very self. For, steadfast in self, he is established in Me alone as the supreme goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.19} \textit{(Shri Bhagavan Krishna)}\par
+At the end of many births, the wise one comes to Me. That great soul who knows, “Vāsudeva is all,” is very rare.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.20} \textit{(Shri Bhagavan Krishna)}\par
+Those whose knowledge has been carried away by those various desires take refuge in other deities; following this and that rule, they are constrained by their own nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.21} \textit{(Shri Bhagavan Krishna)}\par
+Whatever form, whatever body, a devotee wishes to worship with faith, I make that very faith firm in him.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.22} \textit{(Shri Bhagavan Krishna)}\par
+Endowed with that faith, he seeks to worship that one; then he obtains those desires, as indeed they are ordained by Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.23} \textit{(Shri Bhagavan Krishna)}\par
+But the fruit obtained by those of limited understanding is perishable. Those who worship the devas go to the devas, while My devotees come to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.24} \textit{(Shri Bhagavan Krishna)}\par
+The unwise think of Me, the unmanifest, as having assumed manifest form, not knowing My imperishable, supreme nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.25} \textit{(Shri Bhagavan Krishna)}\par
+I am not manifest to all, being veiled by my yoga-maya. This deluded world does not know me as unborn and imperishable.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.26} \textit{(Shri Bhagavan Krishna)}\par
+I know the beings of the past, the present, and the future, O Arjuna; but no one knows Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.27} \textit{(Shri Bhagavan Krishna)}\par
+O Bharata, all beings are deluded at birth by the delusion of duality, arising from desire and aversion, O scorcher of foes.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.28} \textit{(Shri Bhagavan Krishna)}\par
+But those whose sins have come to an end, who have acted righteously, are freed from the delusion of duality; with firm resolve, they worship Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.29} \textit{(Shri Bhagavan Krishna)}\par
+Those who take refuge in Me and strive for release from old age and death know Brahman, the whole of adhyatma, and all karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.30} \textit{(Shri Bhagavan Krishna)}\par
+Those who know Me together with the adhibhūta, the adhidaiva, and the adhiyajña—those steadfast in mind know Me even at the time of death.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 8 - Akshara-Brahma Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.1} \textit{(Arjuna)}\par
+Arjuna said: What is that Brahman? What is adhyatma? What is karma, O Purushottama? What is called adhibhuta, and what is meant by adhidaiva?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.2} \textit{(Arjuna)}\par
+How, and who, is the adhiyajna in this body, O Madhusūdana? And how are You to be known at the time of death by the self-controlled?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.3} \textit{(Shri Bhagavan Krishna)}\par
+The imperishable is Brahman, the supreme; svabhava is called adhyatma. The offering that brings about the arising of beings is called karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.4} \textit{(Shri Bhagavan Krishna)}\par
+Adhibhuta is the perishable nature, and the Purusha is Adhidaivata; and in this body, I alone am the Adhiyajna, O best of embodied beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.5} \textit{(Shri Bhagavan Krishna)}\par
+And at the time of death, whoever, remembering Me alone, leaves the body and departs, attains My state; there is no doubt about it.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.6} \textit{(Shri Bhagavan Krishna)}\par
+Whatever state one remembers when leaving the body at the end, O Kaunteya, one attains that very state, being always absorbed in that state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.7} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, remember Me at all times and fight. With mind and intellect offered to Me, you will surely come to Me, without doubt.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.8} \textit{(Shri Bhagavan Krishna)}\par
+With the mind fixed in practice and yoga, not wandering elsewhere, one attains the supreme divine Purusha by constant contemplation, O Pārtha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.9} \textit{(Shri Bhagavan Krishna)}\par
+Whoever remembers the omniscient, ancient, ruler of all, subtler than the subtle, the supporter of all, of inconceivable form, radiant like the sun, beyond darkness,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.10} \textit{(Shri Bhagavan Krishna)}\par
+At the time of departure, with the mind unmoving, and endowed with devotion and indeed with the power of yoga, properly fixing the life-breath between the eyebrows, one attains that divine Supreme Person.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.11} \textit{(Shri Bhagavan Krishna)}\par
+I shall now briefly explain to you that imperishable state which the knowers of the Veda call the imperishable, into which the ascetics enter free from attachment, and which those who seek it practice brahmacharya to attain.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.12} \textit{(Shri Bhagavan Krishna)}\par
+Restraining all the gates, and confining the mind in the heart, placing the life-breath in the head, he remains steadfast in yoga concentration.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.13} \textit{(Shri Bhagavan Krishna)}\par
+Uttering the one-syllable Brahman, Om, and remembering Me, he who departs, leaving the body, attains the supreme goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.14} \textit{(Shri Bhagavan Krishna)}\par
+For the yogi who, with an undivided mind, constantly and always remembers Me, I am easy to attain, O Partha, for one who is ever devoted.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.15} \textit{(Shri Bhagavan Krishna)}\par
+Having attained Me, the great-souled ones no longer come to rebirth, which is a home of sorrow and impermanence; they have attained the supreme perfection.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.16} \textit{(Shri Bhagavan Krishna)}\par
+Arjuna, all worlds up to the realm of Brahma are subject to return; but having come to Me, O son of Kunti, there is no rebirth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.17} \textit{(Shri Bhagavan Krishna)}\par
+Those who know the day of Brahman declare it to last for a thousand yugas, and the night, for the end of a thousand yugas; those are the people who know day and night.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.18} \textit{(Shri Bhagavan Krishna)}\par
+At the coming of day, all manifestations arise from the unmanifest; and at the coming of night, they dissolve back into that same unmanifest.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.19} \textit{(Shri Bhagavan Krishna)}\par
+This same multitude of beings, again and again coming into being, is dissolved; at the coming of night it is helpless, O Pārtha, and at the coming of day it comes forth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.20} \textit{(Shri Bhagavan Krishna)}\par
+But beyond that is another, unmanifest, eternal reality, which is higher than the unmanifest. It does not perish when all beings perish.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.21} \textit{(Shri Bhagavan Krishna)}\par
+The unmanifest is called the imperishable; they speak of it as the supreme goal. Attaining it, they do not return—that is My supreme abode.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.22} \textit{(Shri Bhagavan Krishna)}\par
+That Supreme Person, O Partha, is attainable by single-minded devotion. All beings dwell within Him, and by Him all this is pervaded.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.23} \textit{(Shri Bhagavan Krishna)}\par
+I shall tell you, O best of the Bhāratas, of the time when the yogins who depart attain non-return, and also the time when they return.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.24} \textit{(Shri Bhagavan Krishna)}\par
+Fire, light, day, the bright fortnight, the six months of the northward course—by these, those who depart and know Brahman go to Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.25} \textit{(Shri Bhagavan Krishna)}\par
+Smoke, night, and likewise the dark fortnight, and the six months of the southern course—there the yogī, attaining the lunar light, returns.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.26} \textit{(Shri Bhagavan Krishna)}\par
+These two, the bright and the dark, are indeed held to be the world’s eternal paths; by one one goes on without returning, by the other one returns again.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.27} \textit{(Shri Bhagavan Krishna)}\par
+O Pārtha, no yogin who knows these two paths is deluded. Therefore, be united with yoga at all times, O Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.28} \textit{(Shri Bhagavan Krishna)}\par
+Whatever meritorious fruit is declared in the Vedas, in sacrifices, in austerities, and in gifts—having known all this, the yogi surpasses it all and attains the supreme, primordial abode.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 9 - Raja-Vidya Raja-Guhya Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.1} \textit{(Shri Bhagavan Krishna)}\par
+But to you, who are free from envy, I shall declare this most secret knowledge, together with realization, knowing which you will be freed from inauspiciousness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.2} \textit{(Shri Bhagavan Krishna)}\par
+This is the royal knowledge, the royal secret, the supreme purifier. It is directly realized, in accord with dharma, very easy to practice, and imperishable.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.3} \textit{(Shri Bhagavan Krishna)}\par
+Men who have no faith in this dharma, O Parantapa, return to the path of death and samsara without attaining Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.4} \textit{(Shri Bhagavan Krishna)}\par
+By Me, in My unmanifest form, this entire universe is pervaded. All beings abide in Me, but I do not abide in them.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.5} \textit{(Shri Bhagavan Krishna)}\par
+And yet beings do not abide in Me. Behold My divine yoga: My Self, the sustainer of beings, is not established in beings, though it supports all beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.6} \textit{(Shri Bhagavan Krishna)}\par
+As the mighty wind, abiding everywhere in the sky, ever moves through all space, so understand that all beings abide in Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.7} \textit{(Shri Bhagavan Krishna)}\par
+O son of Kunti, all beings enter into My prakriti at the end of a kalpa; and at the beginning of a kalpa, I send them forth again.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.8} \textit{(Shri Bhagavan Krishna)}\par
+Holding fast to My own prakriti, I again and again send forth this entire multitude of beings, helpless under the sway of prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.9} \textit{(Shri Bhagavan Krishna)}\par
+Nor do those actions bind Me, O Dhananjaya, as I sit detached, like one unconcerned, with regard to those actions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.10} \textit{(Shri Bhagavan Krishna)}\par
+Under My supervision, prakriti brings forth the moving and the unmoving. O Kaunteya, by this cause the world revolves.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.11} \textit{(Shri Bhagavan Krishna)}\par
+The foolish despise Me when I have taken on a human body, not knowing My higher nature as the great Lord of beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.12} \textit{(Shri Bhagavan Krishna)}\par
+Their hopes are futile, their actions futile, their knowledge futile, and they are deluded in mind. Taking refuge in the deluding, demonic nature, they too follow it.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.13} \textit{(Shri Bhagavan Krishna)}\par
+But the great souls, O Pārtha, taking refuge in My divine prakriti, worship Me with undivided minds, knowing Me as the imperishable source of beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.14} \textit{(Shri Bhagavan Krishna)}\par
+Always glorifying Me and striving with firm vows, bowing to Me with devotion, ever steadfast, they worship Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.15} \textit{(Shri Bhagavan Krishna)}\par
+Others, worshiping Me by the sacrifice of knowledge, also devote themselves to Me, perceiving Me as one, as separate, and as having many faces in all directions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.16} \textit{(Shri Bhagavan Krishna)}\par
+I am the ritual; I am the sacrifice; I am the offering to the ancestors; I am the herb. I am the mantra; I am the clarified butter; I am the fire; I am the oblation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.17} \textit{(Shri Bhagavan Krishna)}\par
+I am the father of this universe, the mother, the upholder, and the grandfather; the knowable, the purifier, the syllable Om, and also the Ṛg, Sāma, and Yajur Vedas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.18} \textit{(Shri Bhagavan Krishna)}\par
+The goal, the sustainer, the Lord, the witness, the abode, the refuge, and the well-wisher; the source, the dissolution, the resting place, the treasury, and the imperishable seed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.19} \textit{(Shri Bhagavan Krishna)}\par
+I send forth heat, I withhold the rain and release it. I am immortality and death, being and nonbeing, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.20} \textit{(Shri Bhagavan Krishna)}\par
+The knowers of the three Vedas, drinkers of soma, purified of sin, worship Me with sacrifices and pray for access to heaven. Having attained merit, they reach the world of Indra and enjoy the divine pleasures of the gods in heaven.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.21} \textit{(Shri Bhagavan Krishna)}\par
+Having enjoyed that vast heavenly world, when their merit is exhausted, they enter the world of mortals. Thus, adhering to the dharma of the three Vedas, those desirous of pleasures attain the state of coming and going.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.22} \textit{(Shri Bhagavan Krishna)}\par
+Those who, thinking of Me as the sole object, worship Me with exclusive devotion—I carry what they lack and preserve what they have.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.23} \textit{(Shri Bhagavan Krishna)}\par
+Those devotees of other deities who worship with faith, O Kaunteya, also worship Me alone, though not according to the proper method.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.24} \textit{(Shri Bhagavan Krishna)}\par
+For I am indeed the enjoyer and also the lord of all yajnas; but they do not know Me in truth, and therefore they fall away.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.25} \textit{(Shri Bhagavan Krishna)}\par
+Those devoted to the devas go to the devas; those devoted to the pitṛs go to the pitṛs. Those who worship the beings go to the beings; those who worship Me come to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.26} \textit{(Shri Bhagavan Krishna)}\par
+Whoever offers Me, with devotion, a leaf, a flower, a fruit, or water, I accept that devoted offering from the self-disciplined one.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.27} \textit{(Shri Bhagavan Krishna)}\par
+Whatever you do, whatever you eat, whatever you offer, whatever you give, whatever austerities you perform, O Kaunteya, do that as an offering to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.28} \textit{(Shri Bhagavan Krishna)}\par
+Thus you will be freed from the bondage of action, with its good and evil results. With the self disciplined by the yoga of renunciation, you will come to Me, मुक्त from bondage.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.29} \textit{(Shri Bhagavan Krishna)}\par
+I am equal toward all beings; there is none hateful to Me and none dear. But those who worship Me with devotion are in Me, and I too am in them.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.30} \textit{(Shri Bhagavan Krishna)}\par
+Even if one of very wicked conduct worships Me with undivided devotion, he should indeed be regarded as righteous, for he has rightly resolved.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.31} \textit{(Shri Bhagavan Krishna)}\par
+Soon he becomes righteous in soul and attains lasting peace. O Kaunteya, proclaim it: My devotee never perishes.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.32} \textit{(Shri Bhagavan Krishna)}\par
+For, O Pārtha, those who take refuge in Me, even if they are born from a sinful womb—women, vaiśyas, and śūdras—even they attain the supreme goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.33} \textit{(Shri Bhagavan Krishna)}\par
+How much more, then, pious brāhmaṇas and devoted royal sages! Having attained this impermanent, joyless world, worship Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.34} \textit{(Shri Bhagavan Krishna)}\par
+Fix your mind on Me, be devoted to Me, sacrifice to Me, bow to Me. Thus, with your self intent on Me as your supreme goal, you will come to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 10 - Vibhuti Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.1} \textit{(Shri Bhagavan Krishna)}\par
+Once again, O mighty-armed one, hear my supreme word. Out of desire for your welfare, I shall speak to you, who are dear to me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.2} \textit{(Shri Bhagavan Krishna)}\par
+Neither the hosts of the devas nor the great sages know My source; for I am indeed the origin of the devas and of the great sages in every respect.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.3} \textit{(Shri Bhagavan Krishna)}\par
+He who knows Me as unborn and without beginning, and as the great Lord of the worlds, undeluded among mortals, is released from all sins.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.4} \textit{(Shri Bhagavan Krishna)}\par
+Intelligence, knowledge, non-delusion, forgiveness, truth, self-restraint, and calmness; pleasure and pain, being and non-being, fear and fearlessness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.5} \textit{(Shri Bhagavan Krishna)}\par
+Nonviolence, equanimity, contentment, austerity, charity, and fame and infamy—these diverse dispositions of beings arise from Me alone.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.6} \textit{(Shri Bhagavan Krishna)}\par
+The seven great sages of old, and the four Manus as well, were born of My mind; from them these creatures of the world have come forth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.7} \textit{(Shri Bhagavan Krishna)}\par
+He who truly knows this glory of Mine and this yoga is united with unwavering yoga; there is no doubt about it.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.8} \textit{(Shri Bhagavan Krishna)}\par
+I am the source of all; from Me everything proceeds. Knowing this, the wise, endowed with true feeling, worship Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.9} \textit{(Shri Bhagavan Krishna)}\par
+With their minds fixed on Me, their lives devoted to Me, enlightening one another and ever speaking of Me, they are content and rejoicing.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.10} \textit{(Shri Bhagavan Krishna)}\par
+To those who are ever devoted and worship Me with love, I give the yoga of understanding by which they come to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.11} \textit{(Shri Bhagavan Krishna)}\par
+Out of compassion for them, I, abiding in their inner being, destroy the darkness born of ignorance with the shining lamp of knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.12} \textit{(Arjuna)}\par
+You are the Supreme Brahman, the supreme abode, the supremely pure one; the eternal, divine Purusha, the primal God, unborn and all-pervading.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.13} \textit{(Arjuna)}\par
+All the sages, as well as the devarṣi Nārada, Asita, Devala, and Vyāsa, have said this of You, and You yourself are saying it to me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.14} \textit{(Arjuna)}\par
+I consider all this that you speak to me as true, O Keśava; for neither the devas nor the dānavas know Your manifestation, O Bhagavan.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.15} \textit{(Arjuna)}\par
+You yourself know yourself by yourself, O Purushottama. O source of all beings, lord of beings, god of gods, lord of the world.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.16} \textit{(Arjuna)}\par
+You should speak in full of your divine manifestations, by which you pervade these worlds and abide in them.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.17} \textit{(Arjuna)}\par
+How am I to know You, O yogin, by constantly contemplating You? And in what, and in what states, should You be contemplated by me, O Bhagavan?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.18} \textit{(Arjuna)}\par
+O Janārdana, tell me once more in detail of your yoga and your manifestations, for I am not yet satisfied with hearing this nectar.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.19} \textit{(Shri Bhagavan Krishna)}\par
+Well, I will tell you of my divine manifestations, chief among them, O best of the Kurus; there is no end to the विस्तार of mine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.20} \textit{(Shri Bhagavan Krishna)}\par
+O Gudakesha, I am the Atman dwelling in the heart of all beings. I am the beginning, the middle, and also the end of beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.21} \textit{(Shri Bhagavan Krishna)}\par
+Among the Ādityas I am Viṣṇu; among lights, the radiant sun. Among the Maruts I am Marīci; among the stars I am the moon.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.22} \textit{(Shri Bhagavan Krishna)}\par
+Among the Vedas I am the Sāma Veda; among the gods I am Vāsava. Among the senses I am the mind, and among beings I am consciousness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.23} \textit{(Shri Bhagavan Krishna)}\par
+Among the Rudras I am Shankara, and among the Yakshas and Rakshasas I am the lord of wealth; among the Vasus I am fire, and among mountains I am Meru.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.24} \textit{(Shri Bhagavan Krishna)}\par
+Among priests, O Pārtha, know Me to be Bṛhaspati, the chief; among army commanders, I am Skanda; among lakes, I am the ocean.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.25} \textit{(Shri Bhagavan Krishna)}\par
+Among the great sages, I am Bhṛgu; among utterances, the single syllable; among sacrifices, I am the sacrifice of japa; among the immovable, I am the Himalayas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.26} \textit{(Shri Bhagavan Krishna)}\par
+Among all trees, I am the aśvattha; among the divine sages, I am Nārada. Among the Gandharvas, I am Citraratha; among the Siddhas, I am the sage Kapila.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.27} \textit{(Shri Bhagavan Krishna)}\par
+Know Me as Ucchaihshravas among horses, born of nectar; among lordly elephants, Airavata; and among men, the king.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.28} \textit{(Shri Bhagavan Krishna)}\par
+Among weapons, I am the thunderbolt; among cows, I am Kamadhuk. Among those who produce offspring, I am Kandarpa; among serpents, I am Vāsuki.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.29} \textit{(Shri Bhagavan Krishna)}\par
+Among the nāgas I am Ananta, and among the aquatic beings I am Varuṇa. Among the ancestors I am Aryaman, and among those who restrain I am Yama.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.30} \textit{(Shri Bhagavan Krishna)}\par
+Among the daityas I am Prahlada, and among those who measure, I am Time. Among beasts I am the lord of beasts, and among birds I am Vainateya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.31} \textit{(Shri Bhagavan Krishna)}\par
+Among the winds I am Vayu, among the wielders of weapons I am Rama; among fishes I am the makara, and among rivers I am the Jahnavi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.32} \textit{(Shri Bhagavan Krishna)}\par
+O Arjuna, among creations I am the beginning, the end, and the middle. Among knowledges, I am the knowledge of the self; among disputants, I am the debate.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.33} \textit{(Shri Bhagavan Krishna)}\par
+Among letters I am A, and of compounds I am the dual; I am also inexhaustible Time, the sustainer, and the one with faces everywhere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.34} \textit{(Shri Bhagavan Krishna)}\par
+I am Death, the all-seizer, and the source of what is yet to come. Among women, I am fame, splendor, speech, memory, intelligence, steadfastness, and forgiveness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.35} \textit{(Shri Bhagavan Krishna)}\par
+Among the Sāma hymns I am the Bṛhat-sāma; among meters, I am Gāyatrī. Among months I am Mārgaśīrṣa, and among the seasons I am spring, the season of flowers.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.36} \textit{(Shri Bhagavan Krishna)}\par
+I am the gambling of cheaters, and I am the splendor of the splendid. I am victory, I am resolve, and I am the sattva of those possessed of sattva.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.37} \textit{(Shri Bhagavan Krishna)}\par
+Among the Vṛṣṇis, I am Vāsudeva; among the Pāṇḍavas, I am Dhananjaya. Among the sages, I am Vyāsa; among the poets, I am Uśanas, the poet.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.38} \textit{(Shri Bhagavan Krishna)}\par
+Among those who punish, I am punishment; among those who seek victory, I am policy. Among secrets, I am silence; among the wise, I am knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.39} \textit{(Shri Bhagavan Krishna)}\par
+And I am also the seed of all beings, Arjuna; there is nothing moving or unmoving that could exist without Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.40} \textit{(Shri Bhagavan Krishna)}\par
+O scorcher of foes, there is no end to My divine manifestations. This has been spoken by Me only in summary of the विस्तार of My opulences.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.41} \textit{(Shri Bhagavan Krishna)}\par
+Whatever being is glorious, prosperous, or powerful, know that it is born from a part of My splendor.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.42} \textit{(Shri Bhagavan Krishna)}\par
+Or what is the use of knowing all this, Arjuna? I stand pervading this entire world with a single fraction of myself.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 11 - Vishvarupa-Darshana Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.1} \textit{(Arjuna)}\par
+Out of grace toward me, you have spoken this supreme secret, known as the teaching of the Self; by those words, this delusion of mine has now been dispelled.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.2} \textit{(Arjuna)}\par
+I have heard in detail from you of the arising and dissolution of beings, and also of your unfailing majesty, O lotus-eyed one.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.3} \textit{(Arjuna)}\par
+Thus, as You describe Yourself, O supreme Lord, I wish to see Your divine form, O Purushottama.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.4} \textit{(Arjuna)}\par
+If you think that I can see it, O Lord, then show me your imperishable Self, O Yogeshvara.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.5} \textit{(Shri Bhagavan Krishna)}\par
+Behold, O Partha, my forms in hundreds and thousands, of many kinds, divine, and of many colors and shapes.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.6} \textit{(Shri Bhagavan Krishna)}\par
+See the Adityas, the Vasus, the Rudras, the Aśvins, and the Maruts as well. O Bharata, see many wonders never seen before.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.7} \textit{(Shri Bhagavan Krishna)}\par
+Here, in one place, see today the whole universe, with all that moves and does not move, O Guḍākeśa; and whatever else you wish to see in My body.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.8} \textit{(Shri Bhagavan Krishna)}\par
+But you cannot see Me with these, your own eyes. I give you divine vision; behold My divine yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.9} \textit{(Sanjaya)}\par
+Having spoken thus, O king, Hari, the great Lord of yoga, then showed to Partha His supreme divine form.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.10} \textit{(Sanjaya)}\par
+with many faces and eyes, and many wondrous forms; adorned with many divine ornaments, and bearing many uplifted divine weapons.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.11} \textit{(Sanjaya)}\par
+Wearing divine garlands and garments, anointed with divine fragrances, the wondrous god, infinite, with faces on every side.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.12} \textit{(Sanjaya)}\par
+If a thousand suns were to rise together in the sky, that might be like the splendor of that great soul.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.13} \textit{(Sanjaya)}\par
+There, the Pāṇḍava then saw the entire universe, all in one place, yet divided in many ways, in the body of the god of gods.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.14} \textit{(Sanjaya)}\par
+Then Dhananjaya, filled with wonder, his hair standing on end, bowed his head to the Deva with joined palms and spoke.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.15} \textit{(Arjuna)}\par
+I see all the gods in your body, O God, and all the diverse host of beings; Brahma seated on the lotus, the sages, and all the divine serpents.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.16} \textit{(Arjuna)}\par
+I see You with many arms, bellies, mouths, and eyes, with forms unending on every side. I see no end, no middle, and no beginning of You, O Lord of the universe, O universal form.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.17} \textit{(Arjuna)}\par
+I see you with a crown, a mace, and a discus, a mass of radiance, shining on all sides, hard to gaze upon from every direction, immeasurable in splendor, like blazing fire and the sun.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.18} \textit{(Arjuna)}\par
+You are the imperishable supreme reality to be known; You are the ultimate refuge of this universe. You are the imperishable guardian of eternal dharma; I regard You as the eternal Purusha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.19} \textit{(Arjuna)}\par
+I see you as without beginning, middle, or end, of infinite power, with endless arms and with eyes like the moon and the sun, with a face of blazing fire, scorching this entire universe with your own radiance.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.20} \textit{(Arjuna)}\par
+Indeed, this whole space between heaven and earth and all the directions is pervaded by you alone. Seeing this wondrous, terrible form of yours, the three worlds are shaken, O Mahātman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.21} \textit{(Arjuna)}\par
+Indeed, these hosts of the gods enter you; some, भयभीत, with folded hands praise you. The hosts of great sages and Siddhas, saying “svasti,” extol you with abundant hymns.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.22} \textit{(Arjuna)}\par
+The Rudras, the Adityas, the Vasus, and the Sadhyas, the Viśve, the Aśvins, the Maruts, and the Uṣmapās; the Gandharvas, Yakshas, Asuras, and Siddhas— all of them gaze at you in wonder.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.23} \textit{(Arjuna)}\par
+Your great form, O mighty-armed one, has many faces and eyes, many arms, thighs, and feet; many bellies, and terrible with many teeth. Seeing this, the worlds are shaken, and so am I.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.24} \textit{(Arjuna)}\par
+Touching the sky, blazing, of many colors, with open mouths and blazing, vast eyes, seeing you, my inner self is shaken; I find neither steadiness nor peace, O Vishnu.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.25} \textit{(Arjuna)}\par
+Seeing your faces, terrible with fangs and resembling the fire of time, I know not the directions and find no peace. Be gracious, O Lord of the gods, abode of the universe.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.26} \textit{(Arjuna)}\par
+And these, the sons of Dhritarashtra, all together with the hosts of kings of the earth: Bhishma, Drona, and also that son of Suta, together with our chief warriors.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.27} \textit{(Arjuna)}\par
+I see Your mouths, terrible with fangs, swallowing them in haste; some are seen with their heads crushed, caught between the spaces of the teeth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.28} \textit{(Arjuna)}\par
+As many currents of rivers rush toward the sea, so these heroes of the human world enter your blazing mouths.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.29} \textit{(Arjuna)}\par
+As moths with great speed enter a blazing flame to their destruction, so too the worlds, with great speed, enter your mouths to destruction.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.30} \textit{(Arjuna)}\par
+You are licking up all the worlds on every side with your flaming mouths, filling the entire universe with your radiance. Your fierce rays are scorching the whole world, O Vishnu.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.31} \textit{(Arjuna)}\par
+Tell me who you are, O fierce-formed one. Homage to you, best of the devas; be gracious. I wish to know you, the primal one; for I do not understand your activity.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.32} \textit{(Shri Bhagavan Krishna)}\par
+I am Time, grown to maturity, the destroyer of the worlds, engaged here in gathering the worlds together. Even without you, all the warriors stationed in the opposing armies will not survive.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.33} \textit{(Shri Bhagavan Krishna)}\par
+Therefore arise and win renown; conquer your enemies and enjoy a prosperous kingdom. They have already been slain by me; be only the instrument, O Savyasacin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.34} \textit{(Shri Bhagavan Krishna)}\par
+Drona and Bhishma and Jayadratha, Karna, and other valiant warriors too— slay those who have already been slain by me; do not be troubled. Fight, and you will conquer your foes in battle.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.35} \textit{(Sanjaya)}\par
+Hearing these words of Keshava, Kiriti, with folded hands and trembling, bowed down to Krishna again and again. In fear and with a choked voice, he prostrated himself.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.36} \textit{(Arjuna)}\par
+Rightly, O Hrishikesha, the world rejoices and delights in your glory; the fearful rakshasas flee in all directions, and all the hosts of siddhas bow down.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.37} \textit{(Arjuna)}\par
+And why should they not bow to you, O Mahatman, greater than even Brahman, the primal creator? O infinite one, Lord of the gods, abode of the world, you are the imperishable, the supreme reality beyond being and non-being.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.38} \textit{(Arjuna)}\par
+You are the original Deva, the ancient Purusha, the supreme refuge of this universe. You are the knower and the knowable, and the supreme abode; the universe is pervaded by you, whose forms are endless.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.39} \textit{(Arjuna)}\par
+You are Vayu, Yama, Agni, Varuna, the Moon, Prajapati, and the great-grandfather. Obeisance to you a thousand times; again and again, obeisance to you.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.40} \textit{(Arjuna)}\par
+Obeisance to you from the front and from behind; obeisance to you on all sides, O all. You are of infinite power and immeasurable prowess; you pervade all, and so you are all.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.41} \textit{(Arjuna)}\par
+Thinking of You as a friend, I addressed You rashly, saying, “O Krishna, O Yadava, O friend,” not knowing this greatness of Yours, whether through carelessness or through affection.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.42} \textit{(Arjuna)}\par
+Whatever I may have treated you with disrespect, in jest or through familiarity, in recreation, in bed, at rest, or at meals, O Acyuta, whether alone or in the presence of others—I beg forgiveness from you, the immeasurable One.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.43} \textit{(Arjuna)}\par
+You are the father of the moving and unmoving world, its object of reverence and the greatest guru. There is none equal to you; how then could there be anyone greater than you, unrivaled in power in the three worlds.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.44} \textit{(Arjuna)}\par
+Therefore, bowing down and laying my body low, I beg You, O Lord worthy of praise, to be gracious to me. Like a father to his son, like a friend to his friend, like one dear to one dear, O God, You should endure this.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.45} \textit{(Arjuna)}\par
+Seeing what I had never seen before, I am filled with delight, yet my mind is also shaken with fear. Show me again that very form, O Deva; be gracious, O Lord of the gods, abode of the universe.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.46} \textit{(Arjuna)}\par
+I wish to see you, crowned, holding the mace and discus, just as before, in that same four-armed form. O thousand-armed one, O universal form, appear thus.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.47} \textit{(Shri Bhagavan Krishna)}\par
+Out of favor toward you, Arjuna, I have shown this supreme form by my own yoga: the radiant, infinite, primal universal form, which none before you has ever seen.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.48} \textit{(Shri Bhagavan Krishna)}\par
+Neither by study of the Vedas and sacrifices, nor by gifts, nor by rites, nor by severe austerities can I be seen in this human world in this form, O foremost of the Kurus, by anyone other than you.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.49} \textit{(Shri Bhagavan Krishna)}\par
+Do not be troubled, and do not be bewildered at seeing this terrible form of Mine. With fear dispelled and your mind made glad, look again upon this very form of Mine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.50} \textit{(Sanjaya)}\par
+Thus, having spoken thus to Arjuna, Vasudeva once more revealed his own form. Then the great-souled one, taking on a gentle form again, reassured this terrified one.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.51} \textit{(Arjuna)}\par
+Seeing this gentle human form of Yours, O Janārdana, I have now come back to my senses and returned to my nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.52} \textit{(Shri Bhagavan Krishna)}\par
+This form of Mine, which you have seen, is exceedingly difficult to behold; even the gods are always eager to see this form.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.53} \textit{(Shri Bhagavan Krishna)}\par
+Neither by the Vedas, nor by austerity, nor by charity, nor by sacrifice can I be seen in this form as you have seen Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.54} \textit{(Shri Bhagavan Krishna)}\par
+But by exclusive devotion, O Arjuna, I can be known and seen in this form and entered into in truth, O scorcher of foes.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.55} \textit{(Shri Bhagavan Krishna)}\par
+Whoever does work for Me, regards Me as the highest, is devoted to Me, and is free from attachment, free from enmity toward all beings, O Pāṇḍava, comes to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 12 - Bhakti Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.1} \textit{(Arjuna)}\par
+Arjuna said: Those devotees who, being ever steadfast, worship You, and those who also worship the imperishable, the unmanifest—among them, who are the more accomplished in yoga?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.2} \textit{(Shri Bhagavan Krishna)}\par
+Those who, with minds fixed on Me, ever steadfast, worship Me with supreme faith—such are regarded by Me as the most steadfast in yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.3} \textit{(Shri Bhagavan Krishna)}\par
+But those who worship the imperishable, the indefinable, the unmanifest, all-pervading, unthinkable, unchanging, and immovable, the constant, the steadfast, are devoted to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.4} \textit{(Shri Bhagavan Krishna)}\par
+Having restrained the whole group of senses, and being equal-minded everywhere, those devoted to the welfare of all beings attain Me alone.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.5} \textit{(Shri Bhagavan Krishna)}\par
+For those whose minds are attached to the unmanifest, the trouble is greater; for the path of the unmanifest is hard to attain by those who are embodied.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.6} \textit{(Shri Bhagavan Krishna)}\par
+But those who, renouncing all actions in Me, are devoted to Me alone, meditate upon Me and worship Me through undivided yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.7} \textit{(Shri Bhagavan Krishna)}\par
+For those whose minds are fixed on Me, O Pārtha, I soon become their deliverer from the ocean of saṃsāra and death.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.8} \textit{(Shri Bhagavan Krishna)}\par
+Fix your mind on Me alone; place your understanding in Me. Thereafter you will dwell in Me alone; of this there is no doubt.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.9} \textit{(Shri Bhagavan Krishna)}\par
+If you are unable to fix your mind steadily on Me, then, O Dhananjaya, seek to attain Me by means of practice-yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.10} \textit{(Shri Bhagavan Krishna)}\par
+If you are unable even to practice this, then be devoted to working for Me. By performing actions for My sake, you will attain perfection.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.11} \textit{(Shri Bhagavan Krishna)}\par
+If you are unable even to do this, taking refuge in My yoga, then, self-controlled, renounce the fruits of all actions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.12} \textit{(Shri Bhagavan Krishna)}\par
+For practice, knowledge is indeed better; than knowledge, meditation is superior. From meditation comes renunciation of the fruits of action, and from renunciation, peace follows at once.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.13} \textit{(Shri Bhagavan Krishna)}\par
+One who hates no being, who is friendly and compassionate, free from possessiveness and egoism, even-minded in sorrow and joy, and forgiving.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.14} \textit{(Shri Bhagavan Krishna)}\par
+Content and self-controlled, the yogi, firm in resolve, whose mind and intellect are offered to Me—he who is My devotee is dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.15} \textit{(Shri Bhagavan Krishna)}\par
+The one from whom the world does not shrink, and who does not shrink from the world, and who is free from joy, anger, fear, and agitation—he is dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.16} \textit{(Shri Bhagavan Krishna)}\par
+Free from attachment, pure, skillful, impartial, and untroubled, one who has renounced all undertakings and is devoted to Me is dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.17} \textit{(Shri Bhagavan Krishna)}\par
+One who does not rejoice, does not hate, does not grieve, and does not desire; who renounces both the auspicious and the inauspicious—such a devotee is dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.18} \textit{(Shri Bhagavan Krishna)}\par
+Equal toward foe and friend alike, and also in honor and dishonor; equal in cold and heat, pleasure and pain, and free from attachment.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.19} \textit{(Shri Bhagavan Krishna)}\par
+One who is equal to blame and praise, silent, content with whatever comes, homeless, steady-minded, and devoted to Me is dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.20} \textit{(Shri Bhagavan Krishna)}\par
+But those devotees who, full of faith, worship this dharma, this nectar, as described above, with Me as their supreme goal—those are exceedingly dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 13 - Kshetra-Kshetrajna Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.1} \textit{(Arjuna)}\par
+I wish to know prakriti and purusha, as well as the field and the knower of the field, and also knowledge and what is to be known, O Keśava.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.2} \textit{(Shri Bhagavan Krishna)}\par
+This body, O Kaunteya, is called the field; and one who knows it is called the knower of the field by those who know this.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.3} \textit{(Shri Bhagavan Krishna)}\par
+And know Me also, O Bharata, as the knower of the field in all fields. That knowledge of the field and of the knower of the field is what I regard as true knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.4} \textit{(Shri Bhagavan Krishna)}\par
+That field, and what it is like, and its changes, and from where, and also who he is and what his power is—hear this from me in brief.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.5} \textit{(Shri Bhagavan Krishna)}\par
+It has been sung in many ways by the sages, in various metrical forms, and also in the definitive aphorisms of the Brahma-sūtra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.6} \textit{(Shri Bhagavan Krishna)}\par
+The great elements, ego, intellect, and also the unmanifest; the ten senses, the one, and the five sense-objects.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.7} \textit{(Shri Bhagavan Krishna)}\par
+Desire, aversion, pleasure, pain, the aggregate, consciousness, and resolve— this field, together with its modifications, has been briefly described.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.8} \textit{(Shri Bhagavan Krishna)}\par
+Humility, absence of ostentation, nonviolence, forbearance, straightforwardness, service to the ācārya, purity, steadfastness, and self-restraint.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.9} \textit{(Shri Bhagavan Krishna)}\par
+Detachment from sense objects, and also absence of egoism; and perception of the faults of birth, death, old age, disease, and suffering.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.10} \textit{(Shri Bhagavan Krishna)}\par
+Non-attachment and absence of possessiveness toward sons, wives, homes, and the like; and constant evenness of mind in meeting the agreeable and the disagreeable.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.11} \textit{(Shri Bhagavan Krishna)}\par
+Unwavering bhakti to Me by unswerving yoga, and a liking for solitude in secluded places, with no delight in the company of people.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.12} \textit{(Shri Bhagavan Krishna)}\par
+Constancy in knowledge of the Self, and insight into the meaning of true knowledge—this is declared to be knowledge; whatever is otherwise is ignorance.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.13} \textit{(Shri Bhagavan Krishna)}\par
+I will declare that which is to be known; knowing it, one attains immortality: the beginningless supreme Brahman, which is said to be neither being nor non-being.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.14} \textit{(Shri Bhagavan Krishna)}\par
+With hands and feet everywhere, with eyes, heads, and faces everywhere, with ears everywhere in the world, it remains enveloping all things.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.15} \textit{(Shri Bhagavan Krishna)}\par
+Shining with the qualities of all the senses, yet devoid of all the senses; unattached, yet sustaining all; beyond the gunas, yet the enjoyer of the gunas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.16} \textit{(Shri Bhagavan Krishna)}\par
+It is outside and inside all beings; it is unmoving and moving as well. Because of its subtlety, it is not knowable; it is far away and also near.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.17} \textit{(Shri Bhagavan Krishna)}\par
+Undivided, yet appearing as though divided among beings, it should be understood as the sustainer of beings, the devourer, and the source of their arising.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.18} \textit{(Shri Bhagavan Krishna)}\par
+Among lights, that is the light said to be beyond darkness. It is knowledge, the object of knowledge, attainable through knowledge, and abiding in the heart of all.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.19} \textit{(Shri Bhagavan Krishna)}\par
+Thus the field, knowledge, and the knowable have been briefly stated. My devotee, having understood this, becomes fit for My being.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.20} \textit{(Shri Bhagavan Krishna)}\par
+Know prakriti and purusha as both without beginning; and know also the modifications and the gunas as born of prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.21} \textit{(Shri Bhagavan Krishna)}\par
+Prakriti is said to be the cause in the making of cause and effect; purusha is said to be the cause of the experiencing of सुख and duhkha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.22} \textit{(Shri Bhagavan Krishna)}\par
+The purusha, abiding in prakriti, indeed experiences the gunas born of prakriti. Attachment to the gunas is the cause of his birth in good and evil wombs.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.23} \textit{(Shri Bhagavan Krishna)}\par
+The purusha in this body is also called the witness, the permitter, the supporter, the enjoyer, and the great Lord; he is likewise spoken of as the supreme Atman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.24} \textit{(Shri Bhagavan Krishna)}\par
+He who thus knows purusha and prakriti together with the gunas, in whatever condition he may live, is not born again.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.25} \textit{(Shri Bhagavan Krishna)}\par
+Some behold the Self in the Self by means of meditation; others by Sāṅkhya-yoga, and still others by karma-yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.26} \textit{(Shri Bhagavan Krishna)}\par
+Others, not knowing this, worship after hearing of it from others. Even they, devoted to hearing, surely cross beyond death.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.27} \textit{(Shri Bhagavan Krishna)}\par
+Whatever living entity is born, whether moving or unmoving, know that, O best of the Bharatas, as arising from the conjunction of kshetra and kshetrajna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.28} \textit{(Shri Bhagavan Krishna)}\par
+He who sees the Supreme Lord as equally dwelling in all beings, the imperishable within the perishing, he truly sees.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.29} \textit{(Shri Bhagavan Krishna)}\par
+Seeing the Lord equally present everywhere, one does not harm oneself by the self; thus one attains the supreme goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.30} \textit{(Shri Bhagavan Krishna)}\par
+The one who sees that all actions are being performed in every way by prakriti alone, and likewise sees the Atman as not the doer, truly sees.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.31} \textit{(Shri Bhagavan Krishna)}\par
+When one sees the manifold distinctness of beings abiding in the One, and also their expansion from that very source, then one attains Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.32} \textit{(Shri Bhagavan Krishna)}\par
+Because it is without beginning and without gunas, this imperishable Supreme Self, though abiding in the body, O Kaunteya, neither acts nor is tainted.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.33} \textit{(Shri Bhagavan Krishna)}\par
+Just as all-pervading space is not tainted by its subtlety, so the Atman, abiding everywhere in the body, is not tainted.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.34} \textit{(Shri Bhagavan Krishna)}\par
+Just as the one sun illumines this entire world, so too, O Bharata, the Kshetri illumines the whole Kshetra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.35} \textit{(Shri Bhagavan Krishna)}\par
+Those who thus discern, with the eye of knowledge, the distinction between kshetra and kshetrajna, and the release of beings from prakriti, attain the Supreme.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 14 - Guna-Traya Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.1} \textit{(Shri Bhagavan Krishna)}\par
+I will speak again of the highest wisdom, the best among all knowledges; having known this, all the sages from here have attained supreme perfection.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.2} \textit{(Shri Bhagavan Krishna)}\par
+Taking refuge in this knowledge, they attain a nature like Mine; at creation they are not born, and at dissolution they are not troubled.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.3} \textit{(Shri Bhagavan Krishna)}\par
+My womb is the great Brahman; in that I place the seed. From that, O Bharata, comes the birth of all beings.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.4} \textit{(Shri Bhagavan Krishna)}\par
+O son of Kunti, whatever forms arise in all wombs, the great Brahman is their womb, and I am the father who gives the seed.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.5} \textit{(Shri Bhagavan Krishna)}\par
+Sattva, rajas, and tamas—the gunas born of prakriti—bind the imperishable embodied being in the body, O mighty-armed one.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.6} \textit{(Shri Bhagavan Krishna)}\par
+There, sattva, being pure, is luminous and free from illness; O sinless one, it binds by attachment to happiness and by attachment to knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.7} \textit{(Shri Bhagavan Krishna)}\par
+Know rajas, O Kaunteya, as of the nature of passion, born of thirst and attachment; it binds the embodied being through attachment to action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.8} \textit{(Shri Bhagavan Krishna)}\par
+Know tamas to be born of ignorance, deluding all embodied beings. It binds them through heedlessness, laziness, and sleep, O Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.9} \textit{(Shri Bhagavan Krishna)}\par
+Sattva binds one to happiness, rajas to action, O Bharata; but tamas, covering knowledge, binds one to heedlessness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.10} \textit{(Shri Bhagavan Krishna)}\par
+O Bharata, sattva prevails, overpowering rajas and tamas; rajas overpowers sattva and tamas, and likewise tamas overpowers sattva and rajas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.11} \textit{(Shri Bhagavan Krishna)}\par
+When light arises through all the openings in this body, and knowledge grows, then one should know that sattva has become predominant.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.12} \textit{(Shri Bhagavan Krishna)}\par
+Greed, activity, the undertaking of actions, unrest, and desire—these are born, O best of the Bhāratas, when rajas has increased.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.13} \textit{(Shri Bhagavan Krishna)}\par
+Absence of light, inactivity, heedlessness, and delusion—these are born when tamas increases, O joy of the Kurus.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.14} \textit{(Shri Bhagavan Krishna)}\par
+When, with sattva predominant, the embodied being passes away, then he attains the pure worlds of those who know the highest.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.15} \textit{(Shri Bhagavan Krishna)}\par
+Going to dissolution in rajas, he is born among those attached to action. Likewise, having dissolved in tamas, he is born in deluded wombs.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.16} \textit{(Shri Bhagavan Krishna)}\par
+They say the stainless result of good action is sāttvika; but the fruit of rajas is suffering, and the fruit of tamas is ignorance.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.17} \textit{(Shri Bhagavan Krishna)}\par
+From sattva arises knowledge; from rajas, greed. From tamas arise heedlessness, delusion, and ignorance.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.18} \textit{(Shri Bhagavan Krishna)}\par
+Those established in sattva go upward; those in rajas remain in the middle; those fixed in the lower quality of tamas go downward.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.19} \textit{(Shri Bhagavan Krishna)}\par
+When the seer perceives that there is no agent other than the gunas, and knows Me as beyond the gunas, he attains My state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.20} \textit{(Shri Bhagavan Krishna)}\par
+Having transcended these three gunas, the embodied one, arising from the body, is freed from birth, death, old age, and sorrow, and attains immortality.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.21} \textit{(Arjuna)}\par
+By what signs does one who has gone beyond these three gunas become recognized, O Lord? What is his conduct, and how does he pass beyond these three gunas?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.22} \textit{(Shri Bhagavan Krishna)}\par
+O Pāṇḍava, he does not hate illumination, activity, or delusion when they arise, nor does he long for them when they cease.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.23} \textit{(Shri Bhagavan Krishna)}\par
+Remaining like one indifferent, who is not shaken by the gunas, and who stands firm, thinking, “It is only the gunas that are acting,” does not stir.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.24} \textit{(Shri Bhagavan Krishna)}\par
+The steadfast one is alike in pain and pleasure, established in the self, and regards clod, stone, and gold alike; to him, the pleasant and the unpleasant are the same, and he is the same in censure and praise.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.25} \textit{(Shri Bhagavan Krishna)}\par
+He who is alike in honor and dishonor, alike toward friends and enemies, and who has abandoned all undertakings is said to be beyond the gunas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.26} \textit{(Shri Bhagavan Krishna)}\par
+And he who serves Me with unswerving bhakti-yoga transcends these gunas and is fit for Brahman-realization.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.27} \textit{(Shri Bhagavan Krishna)}\par
+For I am the foundation of Brahman, of immortality and of imperishable dharma, and of eternal, unending bliss.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 15 - Purushottama Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.1} \textit{(Shri Bhagavan Krishna)}\par
+They speak of the imperishable ashwatha tree with roots above and branches below; its leaves are the hymns of the Vedas. One who knows it knows the Vedas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.2} \textit{(Shri Bhagavan Krishna)}\par
+Its branches extend downward and upward, nourished by the gunas; the buds are objects of the senses. And below, its roots continue spreading, binding people through action in the human world.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.3} \textit{(Shri Bhagavan Krishna)}\par
+Its form is not perceived here as such; it has neither end nor beginning, nor any present basis. Having cut down this deeply rooted ashvattha with the firm weapon of non-attachment,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.4} \textit{(Shri Bhagavan Krishna)}\par
+Then the state must be sought, from which, once gone, they do not return again. I seek refuge in that same primal Purusha, from whom this ancient activity has spread forth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.5} \textit{(Shri Bhagavan Krishna)}\par
+Free from delusion and pride, having conquered the fault of attachment, ever devoted to the Self, having renounced desire, and freed from the pairs of opposites called pleasure and pain, the undeluded attain that imperishable state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.6} \textit{(Shri Bhagavan Krishna)}\par
+Neither the sun, nor the moon, nor fire illumines that; having gone there, they do not return—that is My supreme abode.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.7} \textit{(Shri Bhagavan Krishna)}\par
+An eternal portion of Me in the world of living beings becomes the jiva and draws the mind as the sixth, together with the senses, which abide in prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.8} \textit{(Shri Bhagavan Krishna)}\par
+As the wind takes fragrances from their source and carries them away, so the Lord, taking these from the body, departs with them when He acquires a body and when He leaves it.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.9} \textit{(Shri Bhagavan Krishna)}\par
+Taking possession of hearing, sight, touch, taste, and smell, and also the mind, he experiences the objects of the senses.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.10} \textit{(Shri Bhagavan Krishna)}\par
+The deluded do not see Him departing, abiding, or enjoying, while those with the eye of knowledge do see.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.11} \textit{(Shri Bhagavan Krishna)}\par
+Striving yogis see Him abiding in the self; those whose selves are untrained and who lack discernment do not see Him, even though they strive.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.12} \textit{(Shri Bhagavan Krishna)}\par
+Know that the splendor which, dwelling in the sun, illumines the whole world, and that which is in the moon and in fire—that splendor is Mine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.13} \textit{(Shri Bhagavan Krishna)}\par
+Entering the earth, I sustain all beings by My power; becoming Soma, of the nature of sap, I nourish all herbs.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.14} \textit{(Shri Bhagavan Krishna)}\par
+I, becoming the fire of digestion and abiding in the bodies of living beings, unite with prana and apana and digest the four kinds of food.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.15} \textit{(Shri Bhagavan Krishna)}\par
+I am seated in the heart of all beings; from Me come memory, knowledge, and their loss. I am indeed what is to be known through all the Vedas; I am the maker of Vedanta and the knower of the Vedas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.16} \textit{(Shri Bhagavan Krishna)}\par
+There are two purushas in this world: the perishable and the imperishable. The perishable is all beings; the unchanging is called the imperishable.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.17} \textit{(Shri Bhagavan Krishna)}\par
+The supreme Purusha is another, spoken of as the Paramatman: the imperishable Lord who enters the three worlds and sustains them.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.18} \textit{(Shri Bhagavan Krishna)}\par
+Because I transcend the perishable, and am even superior to the imperishable, I am therefore renowned in the world and in the Vedas as the supreme Purusha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.19} \textit{(Shri Bhagavan Krishna)}\par
+He who, being undeluded, thus knows Me as the Supreme Purusha, O Bharata, worships Me with all his being; he is all-knowing.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.20} \textit{(Shri Bhagavan Krishna)}\par
+Thus I have taught you this most secret teaching, O sinless one. Knowing this, one becomes wise and has accomplished what is to be done, O Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 16 - Daivasura-Sampad Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.1} \textit{(Shri Bhagavan Krishna)}\par
+Fearlessness, purity of sattva, steadfastness in knowledge and yoga, charity, self-control, sacrifice, study of the self, austerity, and straightforwardness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.2} \textit{(Shri Bhagavan Krishna)}\par
+Nonviolence, truthfulness, absence of anger, renunciation, tranquility, freedom from slander, compassion toward all beings, lack of greed, gentleness, modesty, and steadiness.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.3} \textit{(Shri Bhagavan Krishna)}\par
+Radiance, forgiveness, steadfastness, purity, absence of malice, and absence of pride—these belong to one born with divine qualities, O Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.4} \textit{(Shri Bhagavan Krishna)}\par
+Hypocrisy, arrogance, conceit, anger, and harshness, as well as ignorance—these, O Pārtha, are the demoniac qualities of one who is born to such a nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.5} \textit{(Shri Bhagavan Krishna)}\par
+Divine qualities are said to lead to liberation, while the demonic lead to bondage. Do not grieve, O Pāṇḍava; you have been born with divine qualities.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.6} \textit{(Shri Bhagavan Krishna)}\par
+In this world there are two kinds of beings: the divine and the demoniac. The divine has been described at length; now hear from me, O Pārtha, about the demoniac.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.7} \textit{(Shri Bhagavan Krishna)}\par
+The asuric do not know what should be undertaken and what should be renounced. In them there is neither purity, nor proper conduct, nor truth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.8} \textit{(Shri Bhagavan Krishna)}\par
+They say that the world is unreal, without basis, without a Lord, born of mutual union, and produced by desire alone—what else?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.9} \textit{(Shri Bhagavan Krishna)}\par
+Holding to this view, these ruined souls, of little बुद्धि and violent deeds, arise as enemies, working for the destruction of the world.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.10} \textit{(Shri Bhagavan Krishna)}\par
+Relying on insatiable desire, filled with hypocrisy, pride, and arrogance, deluded, they seize upon false views and undertake impure vows.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.11} \textit{(Shri Bhagavan Krishna)}\par
+They take refuge in endless anxiety until death, and are devoted to the supreme enjoyment of desire, convinced that this alone is all there is.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.12} \textit{(Shri Bhagavan Krishna)}\par
+Bound by hundreds of bonds of hope, devoted to desire and anger, they strive by unjust means to accumulate wealth for the sake of pleasure.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.13} \textit{(Shri Bhagavan Krishna)}\par
+Today I have gained this; I shall obtain this desire of mine. This is mine now, and this wealth will be mine again.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.14} \textit{(Shri Bhagavan Krishna)}\par
+“I have slain that enemy, and I shall slay the others as well. I am the lord, I am the enjoyer, I am accomplished, I am strong, I am happy.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.15} \textit{(Shri Bhagavan Krishna)}\par
+“I am wealthy and of noble birth; who else is equal to me?” Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoice.”
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.16} \textit{(Shri Bhagavan Krishna)}\par
+Bewildered by many thoughts and enveloped in the net of delusion, attached to the enjoyment of desires, they fall into a foul hell.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.17} \textit{(Shri Bhagavan Krishna)}\par
+Self-conceited, stubborn, and filled with the intoxication of wealth and pride, they perform sacrifices in name only, with ostentation and without regard for proper rules.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.18} \textit{(Shri Bhagavan Krishna)}\par
+Relying on ego, strength, arrogance, desire, and anger, they envy Me and hate Me in their own bodies and in those of others.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.19} \textit{(Shri Bhagavan Krishna)}\par
+Those hateful, cruel, and vile among men—those inauspicious ones—I cast again and again into demonic wombs in samsara.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.20} \textit{(Shri Bhagavan Krishna)}\par
+Those deluded ones, having fallen into asuric wombs again and again in birth after birth, O Kaunteya, never attaining Me, thus go to the lowest state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.21} \textit{(Shri Bhagavan Krishna)}\par
+There are three gates to hell, destructive of the self: lust, anger, and greed. Therefore one should give up these three.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.22} \textit{(Shri Bhagavan Krishna)}\par
+O son of Kunti, the man who is freed from these three gates of darkness practices what is best for himself, and then attains the supreme goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.23} \textit{(Shri Bhagavan Krishna)}\par
+He who, setting aside the injunctions of the scriptures, acts according to desire alone attains neither perfection, nor happiness, nor the highest goal.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.24} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, the scripture is your authority in determining what should be done and what should not be done. Knowing what is taught by the scriptural injunction, you should here perform action.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 17 - Shraddha-Traya Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.1} \textit{(Arjuna)}\par
+Those who, abandoning the injunctions of the scriptures, perform worship with faith—what is their basis, O Krishna: sattva, rajas, or tamas?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.2} \textit{(Shri Bhagavan Krishna)}\par
+Faith embodied beings possess is of three kinds, born of their own nature: sāttvika, rājasika, and tāmasika. Hear of them from me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.3} \textit{(Shri Bhagavan Krishna)}\par
+O Bharata, everyone’s faith is in accordance with their nature. A person is made of faith; whatever his faith is, that is what he is.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.4} \textit{(Shri Bhagavan Krishna)}\par
+Those in sattva worship the devas; those in rajas worship the yakshas and rakshasas; and others, who are in tamas, worship the departed and the hosts of spirits.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.5} \textit{(Shri Bhagavan Krishna)}\par
+Those who perform severe austerities not enjoined by scripture, being joined with ostentation and egoism, and driven by desire, attachment, and force.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.6} \textit{(Shri Bhagavan Krishna)}\par
+Those who, being devoid of discernment, torment the body’s collection of beings and Me too, dwelling within the body—know them to be of demonic resolve.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.7} \textit{(Shri Bhagavan Krishna)}\par
+Food, too, dear to all, is of three kinds. Hear this distinction among yajna, austerity, and charity.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.8} \textit{(Shri Bhagavan Krishna)}\par
+Foods that are juicy, nourishing, stable, and pleasing to the heart are dear to those in sattva; they increase life, purity, strength, health, happiness, and delight.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.9} \textit{(Shri Bhagavan Krishna)}\par
+Bitter, sour, salty, excessively hot, pungent, dry, and burning foods are preferred by those of rajasic nature; they bring pain, sorrow, and disease.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.10} \textit{(Shri Bhagavan Krishna)}\par
+Food that is stale, tasteless, foul-smelling, spoiled, and also leftovers, and impure—this is dear to tamas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.11} \textit{(Shri Bhagavan Krishna)}\par
+That yajna which is offered in accordance with scriptural injunction by those who seek no reward, with the mind firmly resolved that it ought simply to be performed, is sattvic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.12} \textit{(Shri Bhagavan Krishna)}\par
+But whatever is offered with an aim for the fruit, and indeed for ostentation as well, know that sacrifice to be rajasic, O best of the Bharatas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.13} \textit{(Shri Bhagavan Krishna)}\par
+Sacrifice performed without regard to proper procedure, without distribution of food, without mantras, without gifts, and devoid of faith is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.14} \textit{(Shri Bhagavan Krishna)}\par
+Worship of the devas, brahmins, teachers, and the wise, purity, straightforwardness, celibacy, and nonviolence—these are said to be bodily austerity.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.15} \textit{(Shri Bhagavan Krishna)}\par
+Speech that causes no agitation, is truthful, pleasant, and beneficial, and also the regular recitation and study of the Vedas—this is called austerity of speech.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.16} \textit{(Shri Bhagavan Krishna)}\par
+Serenity of mind, gentleness, silence, and self-restraint: this is called mental austerity.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.17} \textit{(Shri Bhagavan Krishna)}\par
+The threefold austerity performed by men with supreme faith, by those who are steadfast and seek no reward, is called sattvic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.18} \textit{(Shri Bhagavan Krishna)}\par
+Whatever austerity is performed here for the sake of honor, respect, and worship, and indeed with hypocrisy—that is said to be rajasic, unstable, and impermanent.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.19} \textit{(Shri Bhagavan Krishna)}\par
+Austerity that is performed with foolish obstinacy, by self-torment, or for the purpose of harming another, is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.20} \textit{(Shri Bhagavan Krishna)}\par
+A gift given as a duty, without expectation of return, at the proper place and time, and to a worthy recipient, is regarded as sattvic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.21} \textit{(Shri Bhagavan Krishna)}\par
+But whatever is given with expectation of return, or with a desire for reward, and given grudgingly, that gift is regarded as rajasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.22} \textit{(Shri Bhagavan Krishna)}\par
+A gift given at the wrong place and time, and to unworthy recipients, given without respect and with contempt, is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.23} \textit{(Shri Bhagavan Krishna)}\par
+Om, Tat, Sat—this has been declared as the threefold designation of Brahman. By that the brāhmaṇas, the Vedas, and sacrifices were ordained in ancient times.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.24} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, the acts of sacrifice, gift-giving, and austerity, as prescribed by the injunctions, are always undertaken by the expounders of Brahman, uttering Om.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.25} \textit{(Shri Bhagavan Krishna)}\par
+Saying “tat,” without aiming at the fruit, acts of sacrifice, austerity, and various acts of giving are performed by those who desire liberation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.26} \textit{(Shri Bhagavan Krishna)}\par
+The word sat is used in the sense of being and in the sense of goodness; and, O Partha, the word sat is likewise applied to a praiseworthy action.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.27} \textit{(Shri Bhagavan Krishna)}\par
+Steadfastness in sacrifice, austerity, and charity is also called satt; and action performed for that purpose is likewise called satt.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.28} \textit{(Shri Bhagavan Krishna)}\par
+Whatever is offered, given, or practiced in austerity without faith, O Pārtha, is called asat; it is neither here nor after death.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Chapter 18 - Moksha-Sannyasa Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.1} \textit{(Arjuna)}\par
+Mighty-armed one, I wish to know the true nature of renunciation and of tyāga separately, O Hṛṣīkeśa, slayer of Keśin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.2} \textit{(Shri Bhagavan Krishna)}\par
+The wise understand renunciation to be the giving up of desire-motivated actions. The discerning declare that tyaga is the relinquishment of the fruits of all actions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.3} \textit{(Shri Bhagavan Krishna)}\par
+Some sages say that action should be abandoned as defective; others say that the acts of sacrifice, charity, and austerity should not be abandoned.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.4} \textit{(Shri Bhagavan Krishna)}\par
+Listen from me now to the certainty regarding that renunciation, O best of the Bharatas. For renunciation, O tiger among men, is said to be of three kinds.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.5} \textit{(Shri Bhagavan Krishna)}\par
+Sacrifice, charity, and austerity should not be abandoned; they must indeed be performed. For the wise, sacrifice, charity, and austerity are purifying acts.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.6} \textit{(Shri Bhagavan Krishna)}\par
+But even these actions should be performed, giving up attachment and the fruits of action. This is, O Partha, my firm and highest opinion.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.7} \textit{(Shri Bhagavan Krishna)}\par
+But renunciation of prescribed action is not proper; abandoning it out of delusion is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.8} \textit{(Shri Bhagavan Krishna)}\par
+If one abandons action because it is painful, from fear of bodily strain, he performs rajasic renunciation and does not obtain the fruit of renunciation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.9} \textit{(Shri Bhagavan Krishna)}\par
+O Arjuna, that prescribed action which is performed simply because it ought to be done, abandoning attachment and also the fruit, is regarded as sattvic renunciation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.10} \textit{(Shri Bhagavan Krishna)}\par
+He does not hate unwholesome action, nor is he attached to wholesome action. The renunciant, filled with sattva, is wise, and his doubts are cut away.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.11} \textit{(Shri Bhagavan Krishna)}\par
+For the embodied one, it is indeed not possible to renounce actions entirely. But one who renounces the fruits of action is called a renouncer.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.12} \textit{(Shri Bhagavan Krishna)}\par
+For those who have not renounced, after death there are three kinds of the fruit of action: undesirable, desirable, and mixed; but for those who have renounced, there is none at all.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.13} \textit{(Shri Bhagavan Krishna)}\par
+O mighty-armed one, learn from Me these five causes, as taught in Sāṅkhya for the accomplishment of all actions.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.14} \textit{(Shri Bhagavan Krishna)}\par
+The basis, the agent, and the various instruments, and the many and different kinds of action, and also fate as the fifth.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.15} \textit{(Shri Bhagavan Krishna)}\par
+Whatever action a person undertakes with the body, speech, and mind, whether right or wrong, these five are its causes.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.16} \textit{(Shri Bhagavan Krishna)}\par
+Therefore, in this matter, one who, because of undeveloped understanding, sees the Self alone as the sole doer—he, of confused mind, does not see.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.17} \textit{(Shri Bhagavan Krishna)}\par
+One whose sense of ego is absent, whose intelligence is not tainted, even if he kills all these worlds, he does not kill, and is not bound.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.18} \textit{(Shri Bhagavan Krishna)}\par
+Knowledge, the knowable, and the knower—these are the threefold impulse to action. The doer, the act, and the instrument are the threefold basis of karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.19} \textit{(Shri Bhagavan Krishna)}\par
+Knowledge, action, and the doer are likewise said, in the classification of the gunas, to be threefold according to the distinctions among the gunas. Listen also to them as they are.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.20} \textit{(Shri Bhagavan Krishna)}\par
+Know that knowledge to be sattvic by which one sees the one imperishable reality in all beings, the undivided in the divided.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.21} \textit{(Shri Bhagavan Krishna)}\par
+But that knowledge by which one sees separate, diverse existences in all beings, know that knowledge to be rajasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.22} \textit{(Shri Bhagavan Krishna)}\par
+But that which, clinging to a single task as if it were the whole, is groundless, and which is trivial and without regard for true purpose—that is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.23} \textit{(Shri Bhagavan Krishna)}\par
+Action that is obligatory, done without attachment and without desire or aversion to results, is said to be sattvic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.24} \textit{(Shri Bhagavan Krishna)}\par
+But whatever action is performed by one who desires pleasure, or again by egotism, and is done with great effort, that is called rajas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.25} \textit{(Shri Bhagavan Krishna)}\par
+Action that is undertaken out of delusion, without regard for consequence, loss, injury, or one’s own capacity, is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.26} \textit{(Shri Bhagavan Krishna)}\par
+Free from attachment, free from egoism, endowed with firmness and enthusiasm, and unchanged in success and failure, such a doer is said to be sattvic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.27} \textit{(Shri Bhagavan Krishna)}\par
+Passionate, seeking the fruits of action, greedy, violent, and impure, elated and sorrowful, such a doer is said to be rajasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.28} \textit{(Shri Bhagavan Krishna)}\par
+Undisciplined, crude, obstinate, deceitful, dishonest, lazy, despondent, and procrastinating: such a doer is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.29} \textit{(Shri Bhagavan Krishna)}\par
+Hear now, O Dhananjaya, in full and distinctly, the threefold distinction of buddhi and dhriti according to the gunas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.30} \textit{(Shri Bhagavan Krishna)}\par
+And, O Partha, that intellect is sattvic which understands engagement and renunciation, what should be done and what should not be done, fear and fearlessness, bondage and liberation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.31} \textit{(Shri Bhagavan Krishna)}\par
+That intellect by which one does not truly know dharma and adharma, and what should be done and what should not be done—that intellect, O Partha, is rajasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.32} \textit{(Shri Bhagavan Krishna)}\par
+That intellect, O Partha, which is veiled by tamas, mistakes adharma for dharma and regards all things in contrary ways, is tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.33} \textit{(Shri Bhagavan Krishna)}\par
+The steadfastness by which one sustains the activities of the mind, the life-force, and the senses through unwavering yoga—that steadfastness, O Partha, is sattvic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.34} \textit{(Shri Bhagavan Krishna)}\par
+But that firmness, O Arjuna, by which one upholds dharma, kama, and artha with attachment to results, O Partha, is rajasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.35} \textit{(Shri Bhagavan Krishna)}\par
+The steadfastness by which the dull-minded does not abandon sleep, fear, sorrow, dejection, and also delusion, O Partha, that steadfastness is tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.36} \textit{(Shri Bhagavan Krishna)}\par
+Now hear from me, O best of the Bharatas, the threefold happiness: that in which one takes delight through practice and comes to the end of suffering.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.37} \textit{(Shri Bhagavan Krishna)}\par
+That pleasure which at first is like poison but in the end is like nectar is said to be sattvic, born of the clarity of self-understanding.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.38} \textit{(Shri Bhagavan Krishna)}\par
+That pleasure which arises from the contact of the senses with their objects, appearing like nectar at first, but like poison in the end, is remembered as rajasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.39} \textit{(Shri Bhagavan Krishna)}\par
+That happiness which, at first and in the end, deludes the self, and which arises from sleep, laziness, and negligence—that is said to be tamasic.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.40} \textit{(Shri Bhagavan Krishna)}\par
+There is nothing on earth, or in heaven among the devas, that is free from these three gunas born of prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.41} \textit{(Shri Bhagavan Krishna)}\par
+O scorcher of enemies, the duties of the brāhmaṇas, kshatriyas, vaishyas, and śūdras are divided according to the guṇas born of their own nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.42} \textit{(Shri Bhagavan Krishna)}\par
+Tranquility, self-restraint, austerity, purity, forbearance, and straightforwardness, knowledge, realization, faith, and the duties proper to a Brahmin, born of one’s own nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.43} \textit{(Shri Bhagavan Krishna)}\par
+Valor, splendor, steadfastness, dexterity, and not fleeing in battle, generosity, and lordly bearing—these are the natural duties of a kshatriya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.44} \textit{(Shri Bhagavan Krishna)}\par
+Agriculture, cattle-rearing, and trade are the natural duties of the vaisya; and service is the natural duty even of the shudra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.45} \textit{(Shri Bhagavan Krishna)}\par
+A person, devoted to his own duty, attains perfection. Hear now how one devoted to his own duty attains success.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.46} \textit{(Shri Bhagavan Krishna)}\par
+From whom the movement of all beings has arisen, and by whom all this is pervaded, by worshiping Him through one’s own action, a human being attains perfection.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.47} \textit{(Shri Bhagavan Krishna)}\par
+Better is one’s own dharma, though imperfect, than another’s dharma well performed. By doing the karma ordained by one’s own nature, one incurs no sin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.48} \textit{(Shri Bhagavan Krishna)}\par
+O son of Kunti, one should not abandon the action born of one’s nature, even if it has faults. For all undertakings are covered by defect, as fire is by smoke.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.49} \textit{(Shri Bhagavan Krishna)}\par
+One whose understanding is unattached everywhere, who has subdued the self, and who is free from longing, attains the highest perfection of non-action through renunciation.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.50} \textit{(Shri Bhagavan Krishna)}\par
+Listen from me, O Kaunteya, how one who has attained siddhi likewise attains Brahman, in brief—the supreme consummation of knowledge.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.51} \textit{(Shri Bhagavan Krishna)}\par
+Endowed with purified intellect and restraining the self with steadfastness, having cast aside sense objects such as sound, and having given up attachment and aversion,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.52} \textit{(Shri Bhagavan Krishna)}\par
+One who dwells in solitude, eats lightly, and has controlled speech, body, and mind; ever devoted to meditation and yoga, and established in detachment.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.53} \textit{(Shri Bhagavan Krishna)}\par
+Free from ego, strength, arrogance, lust, anger, and possessiveness, and without a sense of “mine,” one becomes fit for the state of Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.54} \textit{(Shri Bhagavan Krishna)}\par
+One who has become Brahman and is of serene self neither grieves nor desires; being equal to all beings, he attains supreme devotion to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.55} \textit{(Shri Bhagavan Krishna)}\par
+By devotion he comes to know Me, as I am in truth; and then, knowing Me in truth, he enters into Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.56} \textit{(Shri Bhagavan Krishna)}\par
+Always performing all actions, taking refuge in Me, he attains by My grace the eternal, imperishable state.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.57} \textit{(Shri Bhagavan Krishna)}\par
+With your mind surrendering all actions to Me, intent on Me, take refuge in buddhi-yoga and always keep your mind fixed on Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.58} \textit{(Shri Bhagavan Krishna)}\par
+With your mind set on Me, by My grace you will cross over all obstacles. But if, because of egoism, you do not listen, you will perish.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.59} \textit{(Shri Bhagavan Krishna)}\par
+If, relying on ego, you think, “I will not fight,” this resolve of yours is vain; prakriti will compel you.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.60} \textit{(Shri Bhagavan Krishna)}\par
+O son of Kunti, bound by your own karma, born of your own nature, you do not wish to do that which, through delusion, you will nevertheless do, even against your will.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.61} \textit{(Shri Bhagavan Krishna)}\par
+The Lord dwells in the heart-region of all beings, Arjuna, causing all beings to revolve, as if mounted on a machine, by means of maya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.62} \textit{(Shri Bhagavan Krishna)}\par
+Take refuge in Him alone with all your being, O Bharata; by His grace you will attain supreme peace and the eternal abode.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.63} \textit{(Shri Bhagavan Krishna)}\par
+Thus I have explained to you this knowledge, more secret than all secrets. Reflect on this fully, and then do as you wish.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.64} \textit{(Shri Bhagavan Krishna)}\par
+Listen again to My supreme, most secret words. You are dear to Me, and so I shall speak to you what is for your good.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.65} \textit{(Shri Bhagavan Krishna)}\par
+Fix your mind on Me, be devoted to Me, sacrifice to Me, and bow down to Me. You will surely come to Me; I promise you truly, for you are dear to Me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.66} \textit{(Shri Bhagavan Krishna)}\par
+Abandon all dharmas and take refuge in Me alone. I will मुक्त you from all sins; do not grieve.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.67} \textit{(Shri Bhagavan Krishna)}\par
+This is never to be spoken by you to one who is not disciplined, to one who is not devoted, nor to one who does not listen in service, nor to one who finds fault with me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.68} \textit{(Shri Bhagavan Krishna)}\par
+Whoever shall declare this supreme secret among My devotees, having shown supreme devotion to Me, will surely come to Me without doubt.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.69} \textit{(Shri Bhagavan Krishna)}\par
+And among all humans, there is none who does more for Me; nor will there ever be on earth anyone dearer to Me than he.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.70} \textit{(Shri Bhagavan Krishna)}\par
+And whoever studies this righteous dialogue of ours, by the yajna of knowledge, to him I shall be worshiped in this way—such is my view.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.71} \textit{(Shri Bhagavan Krishna)}\par
+Any man who hears this, with faith and without jealousy, he too, being freed, will attain the auspicious worlds of those who perform meritorious deeds.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.72} \textit{(Shri Bhagavan Krishna)}\par
+O son of Pṛthā, have you heard this with an attentive mind? O Dhananjaya, has your delusion born of ignorance been dispelled?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.73} \textit{(Arjuna)}\par
+My delusion is destroyed, and my memory has returned by your grace, O Acyuta. I stand firm, free from doubt; I will do your word.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.74} \textit{(Sanjaya)}\par
+Thus I heard this wondrous, thrilling dialogue between Vāsudeva and the great-souled Pārtha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.75} \textit{(Sanjaya)}\par
+By the grace of Vyāsa I have heard this supreme, most secret yoga directly from Kṛṣṇa, the lord of yoga, who spoke it himself.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.76} \textit{(Sanjaya)}\par
+O King, remembering again and again this wondrous conversation of Keshava and Arjuna, I rejoice again and again.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.77} \textit{(Sanjaya)}\par
+Remembering that wondrous form of Hari again and again, great is my amazement, O King, and I rejoice again and again.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.78} \textit{(Sanjaya)}\par
+Wherever Krishna, the lord of yoga, is, and wherever Partha, the archer, is, there are prosperity, victory, splendor, and steadfast policy; that is my conviction.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Glossary
+
+## Concepts
+
+\begin{description}
+\item[Atman] Self or inner principle; kept distinct from ordinary ego or personality. \textit{Forms: Atman | Ātman}
+\item[bhakti] Devotion or devoted participation, especially toward the divine. \textit{Forms: bhakti | bhakti-yoga}
+\item[Brahman] The ultimate reality or absolute principle. \textit{Forms: Brahman | Brahma-nirvana | Brahman-nirvana | Brahma-yoga | Brahma-sūtra | Brahman-realization}
+\item[buddhi] Intellect, discernment, or decisive understanding. \textit{Forms: buddhi | buddhi-yoga}
+\item[dharma] Order, duty, law, or right conduct; the exact sense depends on context. \textit{Forms: dharma | dharma-field}
+\item[guna] A quality or constituent tendency of prakriti: sattva, rajas, and tamas. \textit{Forms: guna | gunas | guṇa | guṇas}
+\item[karma] Action, deed, or the consequences bound to action. \textit{Forms: karma | karma-yoga}
+\item[kshetra] Field, especially the body or field of experience in Chapter 13. \textit{Forms: kshetra | kṣetra}
+\item[kshetrajna] Knower of the field; the conscious principle related to kshetra. \textit{Forms: kshetrajna | kṣetrajña}
+\item[maya] Power of appearance, concealment, or manifestation; context-dependent. \textit{Forms: maya | Maya | māyā | Māyā | yoga-maya}
+\item[nirvana] Extinction, peace, or release; here often linked with Brahman. \textit{Forms: nirvana | nirvāṇa | Brahma-nirvana | Brahman-nirvana}
+\item[prakriti] Nature, material process, or the field of change and manifestation. \textit{Forms: prakriti | Prakriti | prakṛti | Prakṛti}
+\item[purusha] Person, spirit, or conscious principle; meaning varies by passage. \textit{Forms: purusha | Purusha | puruṣa | Puruṣa | Purushottama}
+\item[rajas] The guna associated with activity, passion, impulse, and restlessness. \textit{Forms: rajas | rājasika | Rajas}
+\item[samsara] The ongoing cycle of worldly becoming, birth, death, and attachment. \textit{Forms: saṃsāra | samsara}
+\item[Sankhya] A path or framework of discriminative knowledge; here not always a formal school label. \textit{Forms: Sankhya | Sāṅkhya | Sāṅkhyas | Sāṅkhya-yoga}
+\item[sannyasa] Renunciation or giving up, especially of possessive attachment to action. \textit{Forms: sannyasa | sannyāsa}
+\item[sattva] The guna associated with clarity, balance, and illumination. \textit{Forms: sattva | sāttvika | Sattva}
+\item[tamas] The guna associated with inertia, dullness, confusion, and obstruction. \textit{Forms: tamas | tāmasika | Tamas}
+\item[tyaga] Abandonment, renunciation, or relinquishing attachment to the fruits of action. \textit{Forms: tyāga | tyaga}
+\item[yoga] Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is "yoking", "uniting", "joining" (from the root yuj: "to yoke", "to unite"). \textit{Forms: yoga | yogī | yogi | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | practice-yoga | yoga-maya}
+\end{description}
+
+## Social and ritual terms
+
+\begin{description}
+\item[acharya] Teacher or preceptor. \textit{Forms: ācārya | acharya}
+\item[Brahmin] A member of the priestly or learned class; Sanskrit brāhmaṇa. \textit{Forms: Brahmin | brahmin | brāhmaṇa | brāhmaṇas}
+\item[kshatriya] Member of the warrior or ruling class. \textit{Forms: kshatriya | kṣatriya}
+\item[Om] Sacred syllable used as a concise sign of the absolute or divine. \textit{Forms: Om | AUM}
+\item[shudra] Member of the service class in the traditional varna scheme. \textit{Forms: śūdra | śūdras | shudra | shudras}
+\item[vaishya] Member of the class associated with trade, agriculture, and herding. \textit{Forms: vaiśya | vaiśyas | vaishya | vaishyas}
+\item[Vedas] Ancient sacred texts of the Vedic tradition. \textit{Forms: Veda | Vedas | Ṛg | Sāma | Bṛhat-sāma | Gāyatrī}
+\item[yajna] Sacrifice, ritual offering, or consecrated action. \textit{Forms: yajna | yajña | adhiyajña}
+\end{description}
+
+## Names and epithets
+
+\begin{description}
+\item[Acyuta] Epithet of Krishna, often glossed as the unfailing one. \textit{Forms: Acyuta}
+\item[Arjuna] Arjuna, the warrior addressed by Krishna. \textit{Forms: Arjuna}
+\item[Bharata] A dynastic or ancestral name, often used as an address. \textit{Forms: Bharata | Bhārata | Bharatas | Bhāratas}
+\item[Dhananjaya] Epithet of Arjuna, often understood as winner of wealth. \textit{Forms: Dhananjaya | Dhanañjaya}
+\item[Govinda] Epithet of Krishna. \textit{Forms: Govinda}
+\item[Gudakesha] Epithet of Arjuna, commonly linked with mastery over sleep. \textit{Forms: Guḍākeśa | Gudakesha}
+\item[Hrishikesha] Epithet of Krishna, often understood as lord of the senses. \textit{Forms: Hṛṣīkeśa | Hrishikesha}
+\item[Janardana] Epithet of Krishna. \textit{Forms: Janardana | Janārdana}
+\item[Kaunteya] Epithet of Arjuna: son of Kunti. \textit{Forms: Kaunteya | Kunti}
+\item[Keshava] Epithet of Krishna. \textit{Forms: Keshava | Keśava}
+\item[Krishna] Krishna, speaker of the teaching to Arjuna. \textit{Forms: Krishna | Kṛṣṇa}
+\item[Madhava] Epithet of Krishna. \textit{Forms: Madhava | Mādhava}
+\item[Madhusudana] Epithet of Krishna: slayer of Madhu. \textit{Forms: Madhusudana | Madhusūdana}
+\item[Pandava] One of the sons or descendants of Pandu; often refers to Arjuna and his brothers. \textit{Forms: Pāṇḍava | Pāṇḍavas | Pandava | Pandavas | Pāṇḍu}
+\item[Partha] Epithet of Arjuna: son of Pritha/Kunti. \textit{Forms: Partha | Pārtha | Pṛthā}
+\item[Vasudeva] Name or epithet of Krishna, son of Vasudeva. \textit{Forms: Vāsudeva | Vasudeva}
+\end{description}
