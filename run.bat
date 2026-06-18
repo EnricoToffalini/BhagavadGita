@@ -68,23 +68,23 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/6] Copying PDF into _site...
-if not exist _site (
-    echo ERROR: _site folder does not exist.
+echo [6/6] Copying PDF into docs...
+if not exist docs (
+    echo ERROR: docs folder does not exist.
     pause
     exit /b 1
 )
 
-copy /Y bhagavad-gita.pdf _site\bhagavad-gita.pdf
+copy /Y bhagavad-gita.pdf docs\bhagavad-gita.pdf
 if errorlevel 1 (
-    echo ERROR while copying PDF into _site.
+    echo ERROR while copying PDF into docs.
     pause
     exit /b 1
 )
 
 echo.
 echo Done.
-echo Website: _site\
+echo Website: docs\
 echo PDF: bhagavad-gita.pdf
 echo PDF for website: _site\bhagavad-gita.pdf
 echo.

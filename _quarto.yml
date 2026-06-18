@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
   resources:
     - .nojekyll
 
@@ -56,9 +56,7 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - text: "Glossary"
-        href: glossary.qmd
-      - section: "English"
+      - section: "English translation"
         contents:
           - text: "1 · Arjuna Vishada Yoga"
             href: chapters/chapter-01.qmd
@@ -96,6 +94,8 @@ website:
             href: chapters/chapter-17.qmd
           - text: "18 · Moksha-Sannyasa Yoga"
             href: chapters/chapter-18.qmd
+      - text: "Glossary"
+        href: glossary.qmd
 
 format:
   html:

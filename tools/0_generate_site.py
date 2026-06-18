@@ -203,7 +203,7 @@ def write_quarto_yml(chapters):
     )
     quarto_yml = f'''project:
   type: website
-  output-dir: _site
+  output-dir: docs
   resources:
     - .nojekyll
 
@@ -224,11 +224,11 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - text: "Glossary"
-        href: glossary.qmd
-      - section: "English"
+      - section: "English translation"
         contents:
 {sidebar_chapters}
+      - text: "Glossary"
+        href: glossary.qmd
 
 format:
   html:
