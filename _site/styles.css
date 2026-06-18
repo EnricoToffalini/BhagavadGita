@@ -1,0 +1,317 @@
+/* Compact, mostly standard Quarto style for the Bhagavad Gita site.
+   Replace your current styles.css with this file. */
+
+:root {
+  --gita-text-width: 860px;
+  --gita-soft-border: rgba(0, 0, 0, .12);
+  --gita-muted: rgba(0, 0, 0, .56);
+  --gita-faint: rgba(0, 0, 0, .035);
+}
+
+/* Slightly larger reading text, less empty vertical space */
+body {
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+}
+
+#quarto-content main {
+  max-width: var(--gita-text-width);
+}
+
+h1.title {
+  margin-bottom: .2rem;
+  letter-spacing: -0.02em;
+}
+
+.quarto-title-meta,
+.subtitle,
+.chapter-meta,
+.site-note {
+  color: var(--gita-muted);
+}
+
+.site-note {
+  font-size: .98rem;
+  line-height: 1.45;
+  margin-top: .2rem;
+  margin-bottom: .8rem;
+}
+
+.site-usage {
+  color: var(--gita-muted);
+  font-size: .9rem;
+  line-height: 1.35;
+  margin-top: .2rem;
+  margin-bottom: 1rem;
+}
+
+/* Homepage cards: compact grid instead of tall full-width boxes */
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(185px, 1fr));
+  gap: .45rem;
+  margin-top: .8rem;
+}
+
+.chapter-card {
+  display: block;
+  padding: .48rem .62rem;
+  border: 1px solid var(--gita-soft-border);
+  border-radius: 7px;
+  text-decoration: none;
+  background: var(--gita-faint);
+}
+
+.chapter-card:hover {
+  text-decoration: none;
+  border-color: rgba(0, 0, 0, .22);
+}
+
+.chapter-card .chapter-number {
+  display: block;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.chapter-card .chapter-title {
+  display: block;
+  color: rgba(0, 0, 0, .72);
+  font-size: .88rem;
+  line-height: 1.22;
+  margin-top: .08rem;
+}
+
+.chapter-card .chapter-count {
+  display: block;
+  margin-top: .12rem;
+  color: var(--gita-muted);
+  font-size: .8rem;
+}
+
+.chapter-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-top: .25rem;
+  margin-bottom: .65rem;
+  padding-top: .35rem;
+  border-top: 1px solid var(--gita-soft-border);
+  font-size: .86rem;
+}
+
+.chapter-nav a {
+  text-decoration: none;
+}
+
+.chapter-title-sanskrit {
+  color: var(--gita-muted);
+  font-size: .88rem;
+  margin-top: .15rem;
+  margin-bottom: .5rem;
+  line-height: 1.3;
+}
+
+.verse-list {
+  margin-top: .2rem;
+}
+
+/* Main compactness gain: less padding between verses */
+.verse {
+  padding: .55rem 0 .6rem 0;
+  border-bottom: 1px solid var(--gita-soft-border);
+}
+
+.chapter-meta {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.verse-head {
+  display: flex;
+  align-items: baseline;
+  gap: .5rem;
+  margin-bottom: .2rem;
+  line-height: 1.2;
+}
+
+.verse-head .ref {
+  font-weight: 700;
+  font-size: .9rem;
+  text-decoration: none;
+}
+
+.verse-head .speaker {
+  color: var(--gita-muted);
+  font-size: .82rem;
+}
+
+/* Larger, denser verse text */
+.translation {
+  font-size: 1.08rem;
+  line-height: 1.52;
+  margin: 0 0 .25rem 0;
+}
+
+/* Sanskrit and Italian blocks stay available but very quiet */
+.translation-it-block,
+details.sanskrit {
+  margin-top: .15rem;
+  color: var(--gita-muted);
+}
+
+.translation-it-block summary,
+details.sanskrit summary {
+  cursor: pointer;
+  font-size: .78rem;
+  line-height: 1.2;
+}
+
+.translation-it {
+  margin-top: .3rem;
+  color: rgba(0, 0, 0, .72);
+}
+
+.sanskrit-text {
+  margin-top: .3rem;
+  padding: .45rem .55rem;
+  border-radius: 6px;
+  background: var(--gita-faint);
+  font-size: .9rem;
+  line-height: 1.55;
+  color: rgba(0, 0, 0, .70);
+}
+
+/* Light inline glossary support */
+.glossary-term {
+  position: relative;
+  border-bottom: 1px dotted rgba(0, 0, 0, .38);
+  cursor: help;
+  outline: none;
+}
+
+.glossary-term:focus {
+  border-radius: 3px;
+  outline: 2px solid rgba(0, 0, 0, .16);
+  outline-offset: 1px;
+}
+
+.glossary-term::after {
+  content: attr(data-gloss);
+  position: absolute;
+  left: 0;
+  bottom: calc(100% + .35rem);
+  width: max-content;
+  max-width: min(280px, 72vw);
+  padding: .4rem .5rem;
+  border: 1px solid var(--gita-soft-border);
+  border-radius: 7px;
+  background: rgba(255, 255, 255, .98);
+  color: rgba(0, 0, 0, .76);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .10);
+  font-size: .75rem;
+  font-weight: 400;
+  line-height: 1.3;
+  white-space: normal;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(.12rem);
+  transition: opacity .12s ease, transform .12s ease;
+  z-index: 20;
+}
+
+.glossary-term:hover::after,
+.glossary-term:focus::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Glossary page: compact list */
+.glossary-note {
+  margin-bottom: .8rem;
+}
+
+.glossary-list {
+  display: grid;
+  gap: .45rem;
+  margin-top: .45rem;
+  margin-bottom: 1.2rem;
+}
+
+.glossary-entry {
+  padding: .55rem .7rem;
+  border: 1px solid var(--gita-soft-border);
+  border-radius: 8px;
+  background: var(--gita-faint);
+}
+
+.glossary-entry h3 {
+  margin-top: 0;
+  margin-bottom: .15rem;
+  font-size: .98rem;
+}
+
+.glossary-entry p {
+  margin-bottom: .18rem;
+}
+
+.glossary-variants {
+  color: var(--gita-muted);
+  font-size: .8rem;
+}
+
+/* Sidebar: more compact, useful when chapter titles are long */
+.sidebar nav[role="doc-toc"] ul,
+.sidebar nav[role="navigation"] ul {
+  line-height: 1.22;
+}
+
+.sidebar-item {
+  margin-bottom: .08rem;
+}
+
+.sidebar-item-text {
+  font-size: .86rem;
+}
+
+/* On wide screens, reduce the sense of empty page by widening the body a bit */
+@media (min-width: 1000px) {
+  #quarto-content main {
+    padding-top: 1.1rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  body {
+    font-size: 15.5px;
+  }
+
+  .chapter-grid {
+    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+  }
+
+  .translation {
+    font-size: 1.02rem;
+  }
+
+  .glossary-term::after {
+    left: auto;
+    right: 0;
+  }
+}
+
+.site-download {
+  margin-top: .3rem;
+  margin-bottom: .8rem;
+  font-size: .9rem;
+}
+
+.site-download a {
+  text-decoration: none;
+}
+
+.site-download a:hover {
+  text-decoration: underline;
+}

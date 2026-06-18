@@ -71,7 +71,7 @@ A compact guide to transliterated Sanskrit terms and recurring names used in the
 <section class="glossary-entry" id="glossary-maya">
 <h3>maya</h3>
 <p>Power of appearance, concealment, or manifestation; context-dependent.</p>
-<p class="glossary-variants">Forms in the text: maya, Maya, Māyā, māyā, yoga-maya</p>
+<p class="glossary-variants">Forms in the text: Maya, maya, māyā, Māyā, yoga-maya</p>
 </section>
 <section class="glossary-entry" id="glossary-nirvana">
 <h3>nirvana</h3>
@@ -81,17 +81,17 @@ A compact guide to transliterated Sanskrit terms and recurring names used in the
 <section class="glossary-entry" id="glossary-prakriti">
 <h3>prakriti</h3>
 <p>Nature, material process, or the field of change and manifestation.</p>
-<p class="glossary-variants">Forms in the text: Prakriti, prakriti, prakṛti, Prakṛti</p>
+<p class="glossary-variants">Forms in the text: prakriti, Prakriti, prakṛti, Prakṛti</p>
 </section>
 <section class="glossary-entry" id="glossary-purusha">
 <h3>purusha</h3>
 <p>Person, spirit, or conscious principle; meaning varies by passage.</p>
-<p class="glossary-variants">Forms in the text: Purusha, purusha, Purushottama, puruṣa, Puruṣa</p>
+<p class="glossary-variants">Forms in the text: purusha, Purusha, Purushottama, Puruṣa, puruṣa</p>
 </section>
 <section class="glossary-entry" id="glossary-rajas">
 <h3>rajas</h3>
 <p>The guna associated with activity, passion, impulse, and restlessness.</p>
-<p class="glossary-variants">Forms in the text: Rajas, rajas, rājasika</p>
+<p class="glossary-variants">Forms in the text: rajas, Rajas, rājasika</p>
 </section>
 <section class="glossary-entry" id="glossary-samsara">
 <h3>samsara</h3>
@@ -111,12 +111,12 @@ A compact guide to transliterated Sanskrit terms and recurring names used in the
 <section class="glossary-entry" id="glossary-sattva">
 <h3>sattva</h3>
 <p>The guna associated with clarity, balance, and illumination.</p>
-<p class="glossary-variants">Forms in the text: sattva, Sattva, sāttvika</p>
+<p class="glossary-variants">Forms in the text: Sattva, sattva, sāttvika</p>
 </section>
 <section class="glossary-entry" id="glossary-tamas">
 <h3>tamas</h3>
 <p>The guna associated with inertia, dullness, confusion, and obstruction.</p>
-<p class="glossary-variants">Forms in the text: Tamas, tamas, tāmasika</p>
+<p class="glossary-variants">Forms in the text: tamas, Tamas, tāmasika</p>
 </section>
 <section class="glossary-entry" id="glossary-tyaga">
 <h3>tyaga</h3>
@@ -141,7 +141,7 @@ A compact guide to transliterated Sanskrit terms and recurring names used in the
 <section class="glossary-entry" id="glossary-brahmin">
 <h3>Brahmin</h3>
 <p>A member of the priestly or learned class; Sanskrit brāhmaṇa.</p>
-<p class="glossary-variants">Forms in the text: Brahmin, brahmin, brāhmaṇa, brāhmaṇas</p>
+<p class="glossary-variants">Forms in the text: brahmin, Brahmin, brāhmaṇa, brāhmaṇas</p>
 </section>
 <section class="glossary-entry" id="glossary-kshatriya">
 <h3>kshatriya</h3>

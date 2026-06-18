@@ -1,4 +1,3 @@
-_site/
 .quarto/
 __pycache__/
 *.pyc
