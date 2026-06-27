@@ -12,7 +12,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-1">1.1</a>
 <span class="speaker">(Dhritarashtra)</span>
 </header>
-<p class="translation translation-en" data-lang="en">On the field of <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, at Kurukshetra, gathered and eager for battle—what did my men and the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandavas</span> do, O Sanjaya?</p>
+<p class="translation translation-en" data-lang="en">On the field of <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, at <span class="glossary-term" tabindex="0" data-gloss="Kurukshetra: The battlefield where the dialogue takes place." aria-label="Kurukshetra: The battlefield where the dialogue takes place." title="Kurukshetra: The battlefield where the dialogue takes place." data-glossary-id="kurukshetra">Kurukshetra</span>, gathered and eager for battle—what did my men and the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandavas</span> do, O <span class="glossary-term" tabindex="0" data-gloss="Sanjaya: Narrator of the dialogue to Dhritarashtra." aria-label="Sanjaya: Narrator of the dialogue to Dhritarashtra." title="Sanjaya: Narrator of the dialogue to Dhritarashtra." data-glossary-id="sanjaya">Sanjaya</span>?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-2">1.2</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then, seeing the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> army drawn up in formation, King Duryodhana approached his teacher and spoke these words.</p>
+<p class="translation translation-en" data-lang="en">Then, seeing the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> army drawn up in formation, King <span class="glossary-term" tabindex="0" data-gloss="Duryodhana: Leader of the Kauravas and son of Dhritarashtra." aria-label="Duryodhana: Leader of the Kauravas and son of Dhritarashtra." title="Duryodhana: Leader of the Kauravas and son of Dhritarashtra." data-glossary-id="duryodhana">Duryodhana</span> approached his teacher and spoke these words.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।<br>
@@ -38,7 +38,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-3">1.3</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Behold, O teacher, this great army of the sons of Pandu, arrayed by your skilled disciple, the son of Drupada.</p>
+<p class="translation translation-en" data-lang="en">Behold, O teacher, this great army of the sons of Pandu, arrayed by your skilled disciple, the son of <span class="glossary-term" tabindex="0" data-gloss="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." aria-label="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." title="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." data-glossary-id="drupada">Drupada</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-4">1.4</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Here are heroes, mighty archers, equal in battle to Bhima and <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>: Yuyudhana, Virata, and Drupada, the great chariot-warrior.</p>
+<p class="translation translation-en" data-lang="en">Here are heroes, mighty archers, equal in battle to <span class="glossary-term" tabindex="0" data-gloss="Bhima: One of the Pandavas, brother of Arjuna." aria-label="Bhima: One of the Pandavas, brother of Arjuna." title="Bhima: One of the Pandavas, brother of Arjuna." data-glossary-id="bhima">Bhima</span> and <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>: Yuyudhana, Virata, and <span class="glossary-term" tabindex="0" data-gloss="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." aria-label="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." title="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." data-glossary-id="drupada">Drupada</span>, the great chariot-warrior.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।<br>
@@ -78,7 +78,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <span class="speaker">(Sanjaya)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The valiant Yudhamanyu and the courageous Uttamauja,<br>
-Saubhadra and the sons of Draupadi—all great chariot-warriors.</p>
+Saubhadra and the sons of <span class="glossary-term" tabindex="0" data-gloss="Draupadi: Wife of the Pandavas." aria-label="Draupadi: Wife of the Pandavas." title="Draupadi: Wife of the Pandavas." data-glossary-id="draupadi">Draupadi</span>—all great chariot-warriors.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।<br>
@@ -104,7 +104,7 @@ Saubhadra and the sons of Draupadi—all great chariot-warriors.</p>
 <a class="ref" href="#v-1-8">1.8</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Yourself, and Bhishma, Karna, and Kripa, ever victorious in battle; Ashvatthama, Vikarna, and Saumadatti as well.</p>
+<p class="translation translation-en" data-lang="en">Yourself, and <span class="glossary-term" tabindex="0" data-gloss="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." aria-label="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." title="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." data-glossary-id="bhishma">Bhishma</span>, <span class="glossary-term" tabindex="0" data-gloss="Karna: Warrior allied with Duryodhana on the Kaurava side." aria-label="Karna: Warrior allied with Duryodhana on the Kaurava side." title="Karna: Warrior allied with Duryodhana on the Kaurava side." data-glossary-id="karna">Karna</span>, and Kripa, ever victorious in battle; Ashvatthama, Vikarna, and Saumadatti as well.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।<br>
@@ -130,8 +130,8 @@ Saubhadra and the sons of Draupadi—all great chariot-warriors.</p>
 <a class="ref" href="#v-1-10">1.10</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Our force, guarded by Bhishma, is insufficient;<br>
-but their force, guarded by Bhima, is sufficient.</p>
+<p class="translation translation-en" data-lang="en">Our force, guarded by <span class="glossary-term" tabindex="0" data-gloss="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." aria-label="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." title="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." data-glossary-id="bhishma">Bhishma</span>, is insufficient;<br>
+but their force, guarded by <span class="glossary-term" tabindex="0" data-gloss="Bhima: One of the Pandavas, brother of Arjuna." aria-label="Bhima: One of the Pandavas, brother of Arjuna." title="Bhima: One of the Pandavas, brother of Arjuna." data-glossary-id="bhima">Bhima</span>, is sufficient.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।<br>
@@ -144,7 +144,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-11">1.11</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Therefore, stationed in your respective positions throughout the divisions, let all of you guard Bhishma above all.</p>
+<p class="translation translation-en" data-lang="en">Therefore, stationed in your respective positions throughout the divisions, let all of you guard <span class="glossary-term" tabindex="0" data-gloss="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." aria-label="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." title="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." data-glossary-id="bhishma">Bhishma</span> above all.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अयनेषु च सर्वेषु यथाभागमवस्थिताः ।<br>
@@ -157,7 +157,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-12">1.12</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">To cheer him, the aged Kuru, the mighty grandsire, roared like a lion and loudly blew his conch.</p>
+<p class="translation translation-en" data-lang="en">To cheer him, the aged <span class="glossary-term" tabindex="0" data-gloss="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." aria-label="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." title="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." data-glossary-id="kuru">Kuru</span>, the mighty grandsire, roared like a lion and loudly blew his conch.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।<br>
@@ -209,7 +209,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-16">1.16</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">King Yudhishthira, son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, blew the Anantavijaya; Nakula and Sahadeva, the Sughosha and the Manipushpaka.</p>
+<p class="translation translation-en" data-lang="en">King Yudhishthira, son of Kunti, blew the Anantavijaya; Nakula and Sahadeva, the Sughosha and the Manipushpaka.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।<br>
@@ -235,7 +235,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-18">1.18</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Drupada and the sons of Draupadi, and the strong-armed son of Subhadra—each on every side blew his conch, O lord of the earth.</p>
+<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." aria-label="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." title="Drupada: King of Panchala, father of Draupadi and Dhrishtadyumna." data-glossary-id="drupada">Drupada</span> and the sons of <span class="glossary-term" tabindex="0" data-gloss="Draupadi: Wife of the Pandavas." aria-label="Draupadi: Wife of the Pandavas." title="Draupadi: Wife of the Pandavas." data-glossary-id="draupadi">Draupadi</span>, and the strong-armed son of Subhadra—each on every side blew his conch, O lord of the earth.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।<br>
@@ -248,7 +248,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-19">1.19</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">That tumultuous din, resounding through sky and earth, pierced the hearts of Dhritarashtra&#x27;s sons.</p>
+<p class="translation translation-en" data-lang="en">That tumultuous din, resounding through sky and earth, pierced the hearts of <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।<br>
@@ -261,7 +261,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-20">1.20</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then, seeing Dhritarashtra&#x27;s sons arrayed, as the clash of weapons was about to begin, the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> whose banner bore the monkey took up his bow</p>
+<p class="translation translation-en" data-lang="en">Then, seeing <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons arrayed, as the clash of weapons was about to begin, the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> whose banner bore the monkey took up his bow</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः ।<br>
@@ -301,7 +301,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-23">1.23</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see them gathered here, ready to fight, seeking to please in battle the evil-minded son of Dhritarashtra.</p>
+<p class="translation translation-en" data-lang="en">I see them gathered here, ready to fight, seeking to please in battle the evil-minded son of <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।<br>
@@ -327,7 +327,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-25">1.25</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">before Bhishma and Drona and all the rulers of the earth, and said: &quot;O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, behold these Kurus gathered here.&quot;</p>
+<p class="translation translation-en" data-lang="en">before <span class="glossary-term" tabindex="0" data-gloss="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." aria-label="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." title="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." data-glossary-id="bhishma">Bhishma</span> and <span class="glossary-term" tabindex="0" data-gloss="Drona: Teacher of the Kuru princes and warrior on the Kaurava side." aria-label="Drona: Teacher of the Kuru princes and warrior on the Kaurava side." title="Drona: Teacher of the Kuru princes and warrior on the Kaurava side." data-glossary-id="drona">Drona</span> and all the rulers of the earth, and said: &quot;O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, behold these <span class="glossary-term" tabindex="0" data-gloss="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." aria-label="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." title="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." data-glossary-id="kuru">Kurus</span> gathered here.&quot;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।<br>
@@ -366,7 +366,7 @@ but their force, guarded by Bhima, is sufficient.</p>
 <a class="ref" href="#v-1-28">1.28</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">the son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span> was overcome with deep compassion, and in sorrow he said:<br>
+<p class="translation translation-en" data-lang="en">the son of Kunti was overcome with deep compassion, and in sorrow he said:<br>
 <br>
 &quot;Seeing my own people, <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, gathered here eager to fight,</p>
 <details class="sanskrit">
@@ -476,7 +476,7 @@ uncles, fathers-in-law, grandsons, brothers-in-law, and other kinsmen.</p>
 <a class="ref" href="#v-1-36">1.36</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">What joy would be ours, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, in killing Dhritarashtra&#x27;s sons? Only sin would fall upon us were we to kill these aggressors.</p>
+<p class="translation translation-en" data-lang="en">What joy would be ours, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, in killing <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons? Only sin would fall upon us were we to kill these aggressors.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।<br>
@@ -489,7 +489,7 @@ uncles, fathers-in-law, grandsons, brothers-in-law, and other kinsmen.</p>
 <a class="ref" href="#v-1-37">1.37</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">So we ought not to kill Dhritarashtra&#x27;s sons, our own kinsmen;<br>
+<p class="translation translation-en" data-lang="en">So we ought not to kill <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons, our own kinsmen;<br>
 for how could we be happy, O <span class="glossary-term" tabindex="0" data-gloss="Madhava: Epithet of Krishna." aria-label="Madhava: Epithet of Krishna." title="Madhava: Epithet of Krishna." data-glossary-id="madhava">Madhava</span>, after killing our own people?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
@@ -608,7 +608,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-46">1.46</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">It would be better for me if Dhritarashtra&#x27;s sons, weapons in hand, were to kill me unresisting and unarmed in the battle.</p>
+<p class="translation translation-en" data-lang="en">It would be better for me if <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons, weapons in hand, were to kill me unresisting and unarmed in the battle.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।<br>

@@ -12,7 +12,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-1">8.1</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">What is that <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>? What is the adhyatma? What is action, O <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purushottama</span>? What is called the adhibhuta, and what the adhidaiva?</p>
+<p class="translation translation-en" data-lang="en">What is that <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>? What is the inner principle? What is action, O <span class="glossary-term" tabindex="0" data-gloss="Purushottama: The Supreme Person: epithet of Krishna indicating the supreme reality that transcends both the perishable and the imperishable" aria-label="Purushottama: The Supreme Person: epithet of Krishna indicating the supreme reality that transcends both the perishable and the imperishable" title="Purushottama: The Supreme Person: epithet of Krishna indicating the supreme reality that transcends both the perishable and the imperishable" data-glossary-id="purushottama">Purushottama</span>? What is called the material domain, and what the divine principle?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-2">8.2</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Who, and how, is the adhiyajna here in this body, O <span class="glossary-term" tabindex="0" data-gloss="Madhusudana: Epithet of Krishna: slayer of Madhu." aria-label="Madhusudana: Epithet of Krishna: slayer of Madhu." title="Madhusudana: Epithet of Krishna: slayer of Madhu." data-glossary-id="madhusudana">Madhusudana</span>? And how, at the hour of death, are you to be known by the self-controlled?</p>
+<p class="translation translation-en" data-lang="en">Who, and how, is the sacrificial principle here in this body, O <span class="glossary-term" tabindex="0" data-gloss="Madhusudana: Epithet of Krishna: slayer of Madhu." aria-label="Madhusudana: Epithet of Krishna: slayer of Madhu." title="Madhusudana: Epithet of Krishna: slayer of Madhu." data-glossary-id="madhusudana">Madhusudana</span>? And how, at the hour of death, are you to be known by the self-controlled?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।<br>
@@ -38,7 +38,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-3">8.3</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is the supreme, the imperishable; one&#x27;s own essential being is called the adhyatma. The creative force that brings beings into existence is called action.</p>
+<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is the supreme, the imperishable; one&#x27;s own essential being is called the inner principle. The creative force that brings beings into existence is called action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-4">8.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The adhibhuta is perishable existence; the <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> is the adhidaiva; and the adhiyajna is I myself, here within the body, O best of the embodied.</p>
+<p class="translation translation-en" data-lang="en">The material domain is perishable existence; the <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> is the divine principle; and the sacrificial principle is I myself, here within the body, O best of the embodied.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।<br>
@@ -77,7 +77,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-6">8.6</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whatever state one calls to mind as he leaves the body at the end, to that very state he goes, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, ever shaped by that thought.</p>
+<p class="translation translation-en" data-lang="en">Whatever state one calls to mind as he leaves the body at the end, to that very state he goes, O son of Kunti, ever shaped by that thought.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।<br>
@@ -213,7 +213,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-16">8.16</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">From the world of Brahma downward, all worlds are subject to return, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>; but having reached me, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, there is no rebirth.</p>
+<p class="translation translation-en" data-lang="en">From the world of <span class="glossary-term" tabindex="0" data-gloss="Brahma: The creator god; distinct from Brahman, the ultimate reality." aria-label="Brahma: The creator god; distinct from Brahman, the ultimate reality." title="Brahma: The creator god; distinct from Brahman, the ultimate reality." data-glossary-id="brahma">Brahma</span> downward, all worlds are subject to return, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>; but having reached me, O son of Kunti, there is no rebirth.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।<br>
@@ -226,7 +226,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <a class="ref" href="#v-8-17">8.17</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those who know that Brahma&#x27;s day lasts a thousand ages, and his night ends after a thousand ages—they are the people who know day and night.</p>
+<p class="translation translation-en" data-lang="en">Those who know that <span class="glossary-term" tabindex="0" data-gloss="Brahma: The creator god; distinct from Brahman, the ultimate reality." aria-label="Brahma: The creator god; distinct from Brahman, the ultimate reality." title="Brahma: The creator god; distinct from Brahman, the ultimate reality." data-glossary-id="brahma">Brahma&#x27;s</span> day lasts a thousand ages, and his night ends after a thousand ages—they are the people who know day and night.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः ।<br>

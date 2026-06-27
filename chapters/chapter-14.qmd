@@ -52,7 +52,7 @@ and from it, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A d
 <a class="ref" href="#v-14-4">14.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whatever forms take birth in all wombs, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, the great <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is their womb, and I am the father who gives the seed.</p>
+<p class="translation translation-en" data-lang="en">Whatever forms take birth in all wombs, O son of Kunti, the great <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is their womb, and I am the father who gives the seed.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः ।<br>
@@ -91,7 +91,7 @@ and from it, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A d
 <a class="ref" href="#v-14-7">14.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Know <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span> to be of the nature of passion, born of craving and attachment; it binds the embodied one, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, by attachment to action.</p>
+<p class="translation translation-en" data-lang="en">Know <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span> to be of the nature of passion, born of craving and attachment; it binds the embodied one, O son of Kunti, by attachment to action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् ।<br>
@@ -170,7 +170,7 @@ it binds them by carelessness, sloth, and sleep, O <span class="glossary-term" t
 <a class="ref" href="#v-14-13">14.13</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Darkness, inertia, carelessness, and mere delusion—these arise when <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamas</span> has grown strong, O joy of the Kurus.</p>
+<p class="translation translation-en" data-lang="en">Darkness, inertia, carelessness, and mere delusion—these arise when <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamas</span> has grown strong, O joy of the <span class="glossary-term" tabindex="0" data-gloss="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." aria-label="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." title="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." data-glossary-id="kuru">Kurus</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च ।<br>

@@ -52,7 +52,7 @@ Cast off this base faint-heartedness and rise up, scorcher of foes.</p>
 <a class="ref" href="#v-2-4">2.4</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">How, O <span class="glossary-term" tabindex="0" data-gloss="Madhusudana: Epithet of Krishna: slayer of Madhu." aria-label="Madhusudana: Epithet of Krishna: slayer of Madhu." title="Madhusudana: Epithet of Krishna: slayer of Madhu." data-glossary-id="madhusudana">Madhusudana</span>, shall I fight back with arrows against Bhishma and Drona, who are worthy of reverence, O destroyer of enemies?</p>
+<p class="translation translation-en" data-lang="en">How, O <span class="glossary-term" tabindex="0" data-gloss="Madhusudana: Epithet of Krishna: slayer of Madhu." aria-label="Madhusudana: Epithet of Krishna: slayer of Madhu." title="Madhusudana: Epithet of Krishna: slayer of Madhu." data-glossary-id="madhusudana">Madhusudana</span>, shall I fight back with arrows against <span class="glossary-term" tabindex="0" data-gloss="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." aria-label="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." title="Bhishma: Elder of the Kuru dynasty and leading warrior on the Kaurava side." data-glossary-id="bhishma">Bhishma</span> and <span class="glossary-term" tabindex="0" data-gloss="Drona: Teacher of the Kuru princes and warrior on the Kaurava side." aria-label="Drona: Teacher of the Kuru princes and warrior on the Kaurava side." title="Drona: Teacher of the Kuru princes and warrior on the Kaurava side." data-glossary-id="drona">Drona</span>, who are worthy of reverence, O destroyer of enemies?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन ।<br>
@@ -80,7 +80,7 @@ Cast off this base faint-heartedness and rise up, scorcher of foes.</p>
 <a class="ref" href="#v-2-6">2.6</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And we do not know which is better for us—that we should conquer them, or that they should conquer us; for the sons of Dhritarashtra stand before us, and having killed them we would have no wish to live.</p>
+<p class="translation translation-en" data-lang="en">And we do not know which is better for us—that we should conquer them, or that they should conquer us; for the sons of <span class="glossary-term" tabindex="0" data-gloss="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="Dhritarashtra: The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span> stand before us, and having killed them we would have no wish to live.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न चैतद्विद्मः कतरन्नो गरीयो<br>
@@ -190,7 +190,7 @@ Cast off this base faint-heartedness and rise up, scorcher of foes.</p>
 <a class="ref" href="#v-2-14">2.14</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The contacts of the senses with their objects, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, bring cold and heat, pleasure and pain; they come and go and do not last. Endure them, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
+<p class="translation translation-en" data-lang="en">The contacts of the senses with their objects, O son of Kunti, bring cold and heat, pleasure and pain; they come and go and do not last. Endure them, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।<br>
@@ -501,7 +501,7 @@ for a <span class="glossary-term" tabindex="0" data-gloss="kshatriya: Member of 
 <a class="ref" href="#v-2-37">2.37</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Slain, you will gain heaven; victorious, you will enjoy the earth. Therefore rise up, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, resolved to fight.</p>
+<p class="translation translation-en" data-lang="en">Slain, you will gain heaven; victorious, you will enjoy the earth. Therefore rise up, O son of Kunti, resolved to fight.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् ।<br>
@@ -553,7 +553,7 @@ for a <span class="glossary-term" tabindex="0" data-gloss="kshatriya: Member of 
 <a class="ref" href="#v-2-41">2.41</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Here there is but one resolute understanding, O joy of the Kurus; but the thoughts of the irresolute are many-branched and endless.</p>
+<p class="translation translation-en" data-lang="en">Here there is but one resolute understanding, O joy of the <span class="glossary-term" tabindex="0" data-gloss="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." aria-label="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." title="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." data-glossary-id="kuru">Kurus</span>; but the thoughts of the irresolute are many-branched and endless.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।<br>
@@ -801,7 +801,7 @@ Let not the fruits of action be your motive, nor let attachment to inaction take
 <a class="ref" href="#v-2-60">2.60</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For even in one who strives, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, who sees clearly, the turbulent senses carry off the mind by force.</p>
+<p class="translation translation-en" data-lang="en">For even in one who strives, O son of Kunti, who sees clearly, the turbulent senses carry off the mind by force.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।<br>

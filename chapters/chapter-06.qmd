@@ -455,7 +455,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <a class="ref" href="#v-6-35">6.35</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">No doubt, O mighty-armed one, the mind is hard to restrain and restless; but by practice, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, and by dispassion it is held in check.</p>
+<p class="translation translation-en" data-lang="en">No doubt, O mighty-armed one, the mind is hard to restrain and restless; but by practice, O son of Kunti, and by dispassion it is held in check.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">असंशयं महाबाहो मनो दुर्निग्रहं चलम् ।<br>
@@ -559,7 +559,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <a class="ref" href="#v-6-43">6.43</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">There he regains the union of understanding gained in his former body, and from there strives once more toward perfection, O joy of the Kurus.</p>
+<p class="translation translation-en" data-lang="en">There he regains the union of understanding gained in his former body, and from there strives once more toward perfection, O joy of the <span class="glossary-term" tabindex="0" data-gloss="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." aria-label="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." title="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." data-glossary-id="kuru">Kurus</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।<br>

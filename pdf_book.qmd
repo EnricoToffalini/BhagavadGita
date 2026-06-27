@@ -2219,14 +2219,14 @@ But those of pure deeds, whose sins have ended, freed from the delusion of the p
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{7.29} \textit{(Shri Bhagavan Krishna)}\par
-Those who, taking refuge in me, strive for release from old age and death know that Brahman, the whole adhyatma, and the whole of action.
+Those who, taking refuge in me, strive for release from old age and death know that Brahman, the whole inner principle, and the whole of action.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{7.30} \textit{(Shri Bhagavan Krishna)}\par
-Those who know me together with the adhibhuta, the adhidaiva, and the adhiyajna—they, their minds yoked, know me even at the hour of death.
+Those who know me together with the material domain, the divine principle, and the sacrificial principle, their minds yoked, know me even at the hour of death.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2236,28 +2236,28 @@ Those who know me together with the adhibhuta, the adhidaiva, and the adhiyajna�
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.1} \textit{(Arjuna)}\par
-What is that Brahman? What is the adhyatma? What is action, O Purushottama? What is called the adhibhuta, and what the adhidaiva?
+What is that Brahman? What is the inner principle? What is action, O Purushottama? What is called the material domain, and what the divine principle?
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.2} \textit{(Arjuna)}\par
-Who, and how, is the adhiyajna here in this body, O Madhusudana? And how, at the hour of death, are you to be known by the self-controlled?
+Who, and how, is the sacrificial principle here in this body, O Madhusudana? And how, at the hour of death, are you to be known by the self-controlled?
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.3} \textit{(Shri Bhagavan Krishna)}\par
-Brahman is the supreme, the imperishable; one's own essential being is called the adhyatma. The creative force that brings beings into existence is called action.
+Brahman is the supreme, the imperishable; one's own essential being is called the inner principle. The creative force that brings beings into existence is called action.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.4} \textit{(Shri Bhagavan Krishna)}\par
-The adhibhuta is perishable existence; the purusha is the adhidaiva; and the adhiyajna is I myself, here within the body, O best of the embodied.
+The material domain is perishable existence; the purusha is the divine principle; and the sacrificial principle is I myself, here within the body, O best of the embodied.
 \par\endgroup
 \vspace{0.42em}
 
@@ -5007,9 +5007,7 @@ Wherever Krishna, the lord of yoga, is, and wherever Partha, the archer, is, the
 
 \begin{description}
 \item[Atman] True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality. \textit{Forms: Atman | Ātman}
-\item[bhakti] Devotion or devoted participation, especially toward the divine. \textit{Forms: bhakti | bhakti-yoga}
 \item[Brahman] The ultimate reality or absolute principle. \textit{Forms: Brahman | Brahma-nirvana | Brahman-nirvana | Brahma-yoga | Brahma-sūtra | Brahman-realization}
-\item[buddhi] Intellect, discernment, or decisive understanding. \textit{Forms: buddhi | buddhi-yoga}
 \item[dharma] Order, duty, law, or right conduct; the exact sense depends on context. \textit{Forms: dharma | dharma-field}
 \item[guna] A quality or constituent tendency of prakriti: sattva, rajas, and tamas. \textit{Forms: guna | gunas | guṇa | guṇas}
 \item[karma] Action, deed, or the consequences bound to action. \textit{Forms: karma | karma-yoga}
@@ -5018,28 +5016,28 @@ Wherever Krishna, the lord of yoga, is, and wherever Partha, the archer, is, the
 \item[maya] Power of appearance, concealment, or manifestation; context-dependent. \textit{Forms: maya | Maya | māyā | Māyā | yoga-maya}
 \item[nirvana] Extinction, peace, or release; here often linked with Brahman. \textit{Forms: nirvana | nirvāṇa | Brahma-nirvana | Brahman-nirvana}
 \item[prakriti] Nature, material process, or the field of change and manifestation. \textit{Forms: prakriti | Prakriti | prakṛti | Prakṛti}
-\item[purusha] Person, spirit, or conscious principle; meaning varies by passage. \textit{Forms: purusha | Purusha | puruṣa | Puruṣa | Purushottama}
-\item[rajas] The guna associated with activity, passion, impulse, and restlessness. \textit{Forms: rajas | rājasika | Rajas}
+\item[purusha] Person, spirit, or conscious principle; meaning varies by passage. \textit{Forms: purusha | Purusha | puruṣa | Puruṣa}
+\item[rajas] The guna associated with activity, passion, impulse, and restlessness. \textit{Forms: rajas | rājasika | Rajas | rajasic}
 \item[samsara] The ongoing cycle of worldly becoming, birth, death, and attachment. \textit{Forms: saṃsāra | samsara}
 \item[Sankhya] A path or framework of discriminative knowledge; here not always a formal school label. \textit{Forms: Sankhya | Sāṅkhya | Sāṅkhyas | Sāṅkhya-yoga}
-\item[sannyasa] Renunciation or giving up, especially of possessive attachment to action. \textit{Forms: sannyasa | sannyāsa}
-\item[sattva] The guna associated with clarity, balance, and illumination. \textit{Forms: sattva | sāttvika | Sattva}
-\item[tamas] The guna associated with inertia, dullness, confusion, and obstruction. \textit{Forms: tamas | tāmasika | Tamas}
-\item[tyaga] Abandonment, renunciation, or relinquishing attachment to the fruits of action. \textit{Forms: tyāga | tyaga}
+\item[Sat] Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat. \textit{Forms: Sat}
+\item[sattva] The guna associated with clarity, balance, and illumination. \textit{Forms: sattva | sāttvika | Sattva | sattvic}
+\item[tamas] The guna associated with inertia, dullness, confusion, and obstruction. \textit{Forms: tamas | tāmasika | Tamas | tamasic}
+\item[Vedanta] The end or culmination of the Vedas; in the text, the knowledge taught by the Vedic tradition. \textit{Forms: Vedanta}
 \item[yoga] Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is "yoking", "uniting", "joining" (from the root yuj: "to yoke", "to unite"). \textit{Forms: yoga | yogī | yogi | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | practice-yoga | yoga-maya}
 \end{description}
 
 ## Social and ritual terms
 
 \begin{description}
-\item[acharya] Teacher or preceptor. \textit{Forms: ācārya | acharya}
 \item[Brahmin] A member of the priestly or learned class; Sanskrit brāhmaṇa. \textit{Forms: Brahmin | brahmin | brāhmaṇa | brāhmaṇas}
 \item[kshatriya] Member of the warrior or ruling class. \textit{Forms: kshatriya | kṣatriya}
 \item[Om] Sacred syllable used as a concise sign of the absolute or divine. \textit{Forms: Om | AUM}
 \item[shudra] Member of the service class in the traditional varna scheme. \textit{Forms: śūdra | śūdras | shudra | shudras}
+\item[Tat] Sacred formula meaning 'That', part of the expression Om Tat Sat. \textit{Forms: Tat}
 \item[vaishya] Member of the class associated with trade, agriculture, and herding. \textit{Forms: vaiśya | vaiśyas | vaishya | vaishyas}
-\item[Vedas] Ancient sacred texts of the Vedic tradition. \textit{Forms: Veda | Vedas | Ṛg | Sāma | Bṛhat-sāma | Gāyatrī}
-\item[yajna] Sacrifice, ritual offering, or consecrated action. \textit{Forms: yajna | yajña | adhiyajña}
+\item[Vedas] Ancient sacred texts of the Vedic tradition. \textit{Forms: Veda | Vedas | Ṛg | Sāma | Bṛhat-sāma | Gāyatrī | Rig | Yajur | Sama | Gayatri | Brihat-sama}
+\item[yajna] Sacrifice, ritual offering, or consecrated action. \textit{Forms: yajna | yajña}
 \end{description}
 
 ## Names and epithets
@@ -5047,18 +5045,40 @@ Wherever Krishna, the lord of yoga, is, and wherever Partha, the archer, is, the
 \begin{description}
 \item[Acyuta] Epithet of Krishna, often glossed as the unfailing one. \textit{Forms: Acyuta}
 \item[Arjuna] Arjuna, the warrior addressed by Krishna. \textit{Forms: Arjuna}
+\item[Bhagavan] Honorific title for the Lord or Blessed One, used for Krishna. \textit{Forms: Bhagavan}
 \item[Bharata] A dynastic or ancestral name, often used as an address. \textit{Forms: Bharata | Bhārata | Bharatas | Bhāratas}
+\item[Bhima] One of the Pandavas, brother of Arjuna. \textit{Forms: Bhima}
+\item[Bhishma] Elder of the Kuru dynasty and leading warrior on the Kaurava side. \textit{Forms: Bhishma}
+\item[Brahma] The creator god; distinct from Brahman, the ultimate reality. \textit{Forms: Brahma | Brahma's}
 \item[Dhananjaya] Epithet of Arjuna, often understood as winner of wealth. \textit{Forms: Dhananjaya | Dhanañjaya}
+\item[Dhritarashtra] The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra. \textit{Forms: Dhritarashtra | Dhritarashtra's}
+\item[Draupadi] Wife of the Pandavas. \textit{Forms: Draupadi}
+\item[Drona] Teacher of the Kuru princes and warrior on the Kaurava side. \textit{Forms: Drona}
+\item[Drupada] King of Panchala, father of Draupadi and Dhrishtadyumna. \textit{Forms: Drupada}
+\item[Duryodhana] Leader of the Kauravas and son of Dhritarashtra. \textit{Forms: Duryodhana}
 \item[Govinda] Epithet of Krishna. \textit{Forms: Govinda}
 \item[Gudakesha] Epithet of Arjuna, commonly linked with mastery over sleep. \textit{Forms: Guḍākeśa | Gudakesha}
+\item[Hari] Epithet of Krishna or Vishnu. \textit{Forms: Hari}
 \item[Hrishikesha] Epithet of Krishna, often understood as lord of the senses. \textit{Forms: Hṛṣīkeśa | Hrishikesha}
+\item[Ikshvaku] Ancient king who receives the teaching from Manu. \textit{Forms: Ikshvaku}
 \item[Janardana] Epithet of Krishna. \textit{Forms: Janardana | Janārdana}
-\item[Kaunteya] Epithet of Arjuna: son of Kunti. \textit{Forms: Kaunteya | Kunti}
+\item[Karna] Warrior allied with Duryodhana on the Kaurava side. \textit{Forms: Karna}
+\item[Kaunteya] Epithet of Arjuna: son of Kunti. \textit{Forms: Kaunteya}
 \item[Keshava] Epithet of Krishna. \textit{Forms: Keshava | Keśava}
 \item[Krishna] Krishna, speaker of the teaching to Arjuna. \textit{Forms: Krishna | Kṛṣṇa}
+\item[Kuru] The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side. \textit{Forms: Kuru | Kurus}
+\item[Kurukshetra] The battlefield where the dialogue takes place. \textit{Forms: Kurukshetra}
 \item[Madhava] Epithet of Krishna. \textit{Forms: Madhava | Mādhava}
 \item[Madhusudana] Epithet of Krishna: slayer of Madhu. \textit{Forms: Madhusudana | Madhusūdana}
-\item[Pandava] One of the sons or descendants of Pandu; often refers to Arjuna and his brothers. \textit{Forms: Pāṇḍava | Pāṇḍavas | Pandava | Pandavas | Pāṇḍu}
-\item[Partha] Epithet of Arjuna: son of Pritha/Kunti. \textit{Forms: Partha | Pārtha | Pṛthā}
+\item[Manu] Ancient progenitor or lawgiver who receives the teaching from Vivasvan. \textit{Forms: Manu}
+\item[Pandava] One of the sons or descendants of Pandu; often refers to Arjuna and his brothers. \textit{Forms: Pāṇḍava | Pāṇḍavas | Pandava | Pandavas}
+\item[Partha] Epithet of Arjuna: son of Pritha/Kunti. \textit{Forms: Partha | Pārtha}
+\item[Prajapati] Lord of creatures; a creator figure. \textit{Forms: Prajapati}
+\item[Purushottama] The Supreme Person: epithet of Krishna indicating the supreme reality that transcends both the perishable and the imperishable \textit{Forms: Purushottama}
+\item[Sanjaya] Narrator of the dialogue to Dhritarashtra. \textit{Forms: Sanjaya}
+\item[Varuna] Vedic deity associated with cosmic order and waters. \textit{Forms: Varuna}
 \item[Vasudeva] Name or epithet of Krishna, son of Vasudeva. \textit{Forms: Vāsudeva | Vasudeva}
+\item[Vishnu] A divine name associated with Krishna in the text. \textit{Forms: Vishnu}
+\item[Vivasvan] Solar deity to whom Krishna says he first taught this yoga. \textit{Forms: Vivasvan}
+\item[Yama] Deity associated with death and restraint. \textit{Forms: Yama}
 \end{description}

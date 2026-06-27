@@ -287,7 +287,7 @@ his self yoked in the <span class="glossary-term" tabindex="0" data-gloss="yoga:
 <a class="ref" href="#v-5-22">5.22</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For the pleasures born of contact are wombs of suffering; they have a beginning and an end, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, and the wise take no delight in them.</p>
+<p class="translation translation-en" data-lang="en">For the pleasures born of contact are wombs of suffering; they have a beginning and an end, O son of Kunti, and the wise take no delight in them.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।<br>

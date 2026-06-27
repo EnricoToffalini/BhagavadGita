@@ -90,7 +90,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-7">18.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But the giving up of an enjoined action is not fitting; to abandon it through delusion is held to be tamasic.</p>
+<p class="translation translation-en" data-lang="en">But the giving up of an enjoined action is not fitting; to abandon it through delusion is held to be <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नियतस्य तु संन्यासः कर्मणो नोपपद्यते ।<br>
@@ -103,7 +103,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-8">18.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">He who gives up an action merely as troublesome, fearing bodily pain, performs a rajasic relinquishment and gains no fruit of it.</p>
+<p class="translation translation-en" data-lang="en">He who gives up an action merely as troublesome, fearing bodily pain, performs a <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span> relinquishment and gains no fruit of it.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् ।<br>
@@ -116,7 +116,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-9">18.9</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But when an enjoined action is done simply because it ought to be, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, giving up attachment and fruit—that relinquishment is held sattvic.</p>
+<p class="translation translation-en" data-lang="en">But when an enjoined action is done simply because it ought to be, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, giving up attachment and fruit—that relinquishment is held <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन ।<br>
@@ -259,7 +259,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-20">18.20</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The knowledge by which one sees in all beings a single, imperishable being, undivided amid the divided—know that knowledge to be sattvic.</p>
+<p class="translation translation-en" data-lang="en">The knowledge by which one sees in all beings a single, imperishable being, undivided amid the divided—know that knowledge to be <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वभूतेषु येनैकं भावमव्ययमीक्षते ।<br>
@@ -272,7 +272,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-21">18.21</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But the knowledge that sees in all beings only manifold separate beings, each apart—know that knowledge to be rajasic.</p>
+<p class="translation translation-en" data-lang="en">But the knowledge that sees in all beings only manifold separate beings, each apart—know that knowledge to be <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।<br>
@@ -285,7 +285,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-22">18.22</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But the knowledge that clings to one single thing as if it were the whole, without reason, missing the truth, and narrow—that is called tamasic.</p>
+<p class="translation translation-en" data-lang="en">But the knowledge that clings to one single thing as if it were the whole, without reason, missing the truth, and narrow—that is called <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।<br>
@@ -298,7 +298,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-23">18.23</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Action that is enjoined, done without attachment, without craving or aversion, by one who seeks no fruit, is called sattvic.</p>
+<p class="translation translation-en" data-lang="en">Action that is enjoined, done without attachment, without craving or aversion, by one who seeks no fruit, is called <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नियतं सङ्गरहितमरागद्वेषतः कृतम् ।<br>
@@ -311,7 +311,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-24">18.24</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But action done with great effort by one seeking to satisfy desire, or out of egotism, is called rajasic.</p>
+<p class="translation translation-en" data-lang="en">But action done with great effort by one seeking to satisfy desire, or out of egotism, is called <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः ।<br>
@@ -324,7 +324,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-25">18.25</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Action undertaken through delusion, heedless of its consequence, of loss and harm, and of one&#x27;s own power, is called tamasic.</p>
+<p class="translation translation-en" data-lang="en">Action undertaken through delusion, heedless of its consequence, of loss and harm, and of one&#x27;s own power, is called <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् ।<br>
@@ -337,7 +337,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-26">18.26</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">An agent free of attachment and ego, possessed of resolve and zeal, unmoved in success and failure, is called sattvic.</p>
+<p class="translation translation-en" data-lang="en">An agent free of attachment and ego, possessed of resolve and zeal, unmoved in success and failure, is called <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।<br>
@@ -350,7 +350,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-27">18.27</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">An agent driven by passion, craving the fruit of action, greedy, cruel, impure, swept by joy and grief, is called rajasic.</p>
+<p class="translation translation-en" data-lang="en">An agent driven by passion, craving the fruit of action, greedy, cruel, impure, swept by joy and grief, is called <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।<br>
@@ -363,7 +363,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-28">18.28</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">An agent undisciplined, vulgar, stubborn, dishonest, malicious, slothful, despondent, and procrastinating is called tamasic.</p>
+<p class="translation translation-en" data-lang="en">An agent undisciplined, vulgar, stubborn, dishonest, malicious, slothful, despondent, and procrastinating is called <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।<br>
@@ -389,7 +389,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-30">18.30</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The understanding that knows action and renunciation, what is to be done and not done, fear and fearlessness, bondage and liberation, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is sattvic.</p>
+<p class="translation translation-en" data-lang="en">The understanding that knows action and renunciation, what is to be done and not done, fear and fearlessness, bondage and liberation, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।<br>
@@ -402,7 +402,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-31">18.31</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The understanding by which one wrongly grasps <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> and adharma, and what is to be done and not done, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is rajasic.</p>
+<p class="translation translation-en" data-lang="en">The understanding by which one wrongly grasps <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> and adharma, and what is to be done and not done, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।<br>
@@ -415,7 +415,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-32">18.32</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The understanding that, wrapped in darkness, takes adharma to be <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> and sees all things inverted, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is tamasic.</p>
+<p class="translation translation-en" data-lang="en">The understanding that, wrapped in darkness, takes adharma to be <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> and sees all things inverted, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अधर्मं धर्ममिति या मन्यते तमसावृता ।<br>
@@ -428,7 +428,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-33">18.33</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The resolve by which one holds steady the workings of the mind, the breath, and the senses, through unwavering <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>—that resolve, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is sattvic.</p>
+<p class="translation translation-en" data-lang="en">The resolve by which one holds steady the workings of the mind, the breath, and the senses, through unwavering <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>—that resolve, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।<br>
@@ -441,7 +441,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-34">18.34</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But the resolve by which one clings, with attachment to fruit, to <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, pleasure, and wealth, longing for their reward, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is rajasic.</p>
+<p class="translation translation-en" data-lang="en">But the resolve by which one clings, with attachment to fruit, to <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, pleasure, and wealth, longing for their reward, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।<br>
@@ -454,7 +454,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-35">18.35</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The resolve by which the dull-witted will not let go of sleep, fear, grief, despair, and folly—that resolve, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is tamasic.</p>
+<p class="translation translation-en" data-lang="en">The resolve by which the dull-witted will not let go of sleep, fear, grief, despair, and folly—that resolve, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यया स्वप्नं भयं शोकं विषादं मदमेव च ।<br>
@@ -480,7 +480,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-37">18.37</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The happiness that is like poison at first but like nectar in the end, born of the serene clarity of one&#x27;s own understanding, is called sattvic.</p>
+<p class="translation translation-en" data-lang="en">The happiness that is like poison at first but like nectar in the end, born of the serene clarity of one&#x27;s own understanding, is called <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।<br>
@@ -493,7 +493,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-38">18.38</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The happiness born of the contact of the senses with their objects, like nectar at first but like poison in the end, is held to be rajasic.</p>
+<p class="translation translation-en" data-lang="en">The happiness born of the contact of the senses with their objects, like nectar at first but like poison in the end, is held to be <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।<br>
@@ -506,7 +506,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-39">18.39</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The happiness that deludes the self both at first and in the end, arising from sleep, sloth, and heedlessness, is called tamasic.</p>
+<p class="translation translation-en" data-lang="en">The happiness that deludes the self both at first and in the end, arising from sleep, sloth, and heedlessness, is called <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।<br>
@@ -623,7 +623,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-48">18.48</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One should not give up the work born of one&#x27;s nature, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, even if it is flawed; for all undertakings are wrapped in flaw, as fire in smoke.</p>
+<p class="translation translation-en" data-lang="en">One should not give up the work born of one&#x27;s nature, O son of Kunti, even if it is flawed; for all undertakings are wrapped in flaw, as fire in smoke.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।<br>
@@ -649,7 +649,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-50">18.50</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Hear from me in brief, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, how one who has attained perfection attains <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> as well—that highest consummation of knowledge.</p>
+<p class="translation translation-en" data-lang="en">Hear from me in brief, O son of Kunti, how one who has attained perfection attains <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> as well—that highest consummation of knowledge.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।<br>
@@ -779,7 +779,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-60">18.60</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Bound by your own work, born of your nature, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, what through delusion you wish not to do, you will do even against your will.</p>
+<p class="translation translation-en" data-lang="en">Bound by your own work, born of your nature, O son of Kunti, what through delusion you wish not to do, you will do even against your will.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।<br>
@@ -1000,7 +1000,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-77">18.77</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And recalling again and again that most wondrous form of Hari, great is my wonder, O king, and I rejoice again and again.</p>
+<p class="translation translation-en" data-lang="en">And recalling again and again that most wondrous form of <span class="glossary-term" tabindex="0" data-gloss="Hari: Epithet of Krishna or Vishnu." aria-label="Hari: Epithet of Krishna or Vishnu." title="Hari: Epithet of Krishna or Vishnu." data-glossary-id="hari">Hari</span>, great is my wonder, O king, and I rejoice again and again.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।<br>

@@ -37,26 +37,6 @@
     ]
   },
   {
-    "id": "bhakti",
-    "term": "bhakti",
-    "group": "Concepts",
-    "definition": "Devotion or devoted participation, especially toward the divine.",
-    "variants": [
-      "bhakti",
-      "bhakti-yoga"
-    ]
-  },
-  {
-    "id": "buddhi",
-    "term": "buddhi",
-    "group": "Concepts",
-    "definition": "Intellect, discernment, or decisive understanding.",
-    "variants": [
-      "buddhi",
-      "buddhi-yoga"
-    ]
-  },
-  {
     "id": "atman",
     "term": "Atman",
     "group": "Concepts",
@@ -112,6 +92,7 @@
     "variants": [
       "Sattva",
       "sattva",
+      "sattvic",
       "sāttvika"
     ]
   },
@@ -123,6 +104,7 @@
     "variants": [
       "Rajas",
       "rajas",
+      "rajasic",
       "rājasika"
     ]
   },
@@ -134,6 +116,7 @@
     "variants": [
       "Tamas",
       "tamas",
+      "tamasic",
       "tāmasika"
     ]
   },
@@ -156,10 +139,18 @@
     "definition": "Person, spirit, or conscious principle; meaning varies by passage.",
     "variants": [
       "Purusha",
-      "Purushottama",
       "Puruṣa",
       "purusha",
       "puruṣa"
+    ]
+  },
+  {
+    "id": "purushottama",
+    "term": "Purushottama",
+    "group": "Names and epithets",
+    "definition": "The Supreme Person: epithet of Krishna indicating the supreme reality that transcends both the perishable and the imperishable",
+    "variants": [
+      "Purushottama"
     ]
   },
   {
@@ -201,29 +192,8 @@
     "group": "Social and ritual terms",
     "definition": "Sacrifice, ritual offering, or consecrated action.",
     "variants": [
-      "adhiyajña",
       "yajna",
       "yajña"
-    ]
-  },
-  {
-    "id": "sannyasa",
-    "term": "sannyasa",
-    "group": "Concepts",
-    "definition": "Renunciation or giving up, especially of possessive attachment to action.",
-    "variants": [
-      "sannyasa",
-      "sannyāsa"
-    ]
-  },
-  {
-    "id": "tyaga",
-    "term": "tyaga",
-    "group": "Concepts",
-    "definition": "Abandonment, renunciation, or relinquishing attachment to the fruits of action.",
-    "variants": [
-      "tyaga",
-      "tyāga"
     ]
   },
   {
@@ -266,11 +236,16 @@
     "group": "Social and ritual terms",
     "definition": "Ancient sacred texts of the Vedic tradition.",
     "variants": [
+      "Brihat-sama",
       "Bṛhat-sāma",
+      "Gayatri",
       "Gāyatrī",
+      "Rig",
+      "Sama",
       "Sāma",
       "Veda",
       "Vedas",
+      "Yajur",
       "Ṛg"
     ]
   },
@@ -319,16 +294,6 @@
     ]
   },
   {
-    "id": "acharya",
-    "term": "acharya",
-    "group": "Social and ritual terms",
-    "definition": "Teacher or preceptor.",
-    "variants": [
-      "acharya",
-      "ācārya"
-    ]
-  },
-  {
     "id": "krishna",
     "term": "Krishna",
     "group": "Names and epithets",
@@ -354,8 +319,7 @@
     "definition": "Epithet of Arjuna: son of Pritha/Kunti.",
     "variants": [
       "Partha",
-      "Pārtha",
-      "Pṛthā"
+      "Pārtha"
     ]
   },
   {
@@ -364,8 +328,7 @@
     "group": "Names and epithets",
     "definition": "Epithet of Arjuna: son of Kunti.",
     "variants": [
-      "Kaunteya",
-      "Kunti"
+      "Kaunteya"
     ]
   },
   {
@@ -409,8 +372,7 @@
       "Pandava",
       "Pandavas",
       "Pāṇḍava",
-      "Pāṇḍavas",
-      "Pāṇḍu"
+      "Pāṇḍavas"
     ]
   },
   {
@@ -489,6 +451,225 @@
     "definition": "Epithet of Krishna, often glossed as the unfailing one.",
     "variants": [
       "Acyuta"
+    ]
+  },
+  {
+    "id": "dhritarashtra",
+    "term": "Dhritarashtra",
+    "group": "Names and epithets",
+    "definition": "The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra.",
+    "variants": [
+      "Dhritarashtra",
+      "Dhritarashtra's"
+    ]
+  },
+  {
+    "id": "sanjaya",
+    "term": "Sanjaya",
+    "group": "Names and epithets",
+    "definition": "Narrator of the dialogue to Dhritarashtra.",
+    "variants": [
+      "Sanjaya"
+    ]
+  },
+  {
+    "id": "duryodhana",
+    "term": "Duryodhana",
+    "group": "Names and epithets",
+    "definition": "Leader of the Kauravas and son of Dhritarashtra.",
+    "variants": [
+      "Duryodhana"
+    ]
+  },
+  {
+    "id": "bhishma",
+    "term": "Bhishma",
+    "group": "Names and epithets",
+    "definition": "Elder of the Kuru dynasty and leading warrior on the Kaurava side.",
+    "variants": [
+      "Bhishma"
+    ]
+  },
+  {
+    "id": "drona",
+    "term": "Drona",
+    "group": "Names and epithets",
+    "definition": "Teacher of the Kuru princes and warrior on the Kaurava side.",
+    "variants": [
+      "Drona"
+    ]
+  },
+  {
+    "id": "kuru",
+    "term": "Kuru",
+    "group": "Names and epithets",
+    "definition": "The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side.",
+    "variants": [
+      "Kuru",
+      "Kurus"
+    ]
+  },
+  {
+    "id": "kurukshetra",
+    "term": "Kurukshetra",
+    "group": "Names and epithets",
+    "definition": "The battlefield where the dialogue takes place.",
+    "variants": [
+      "Kurukshetra"
+    ]
+  },
+  {
+    "id": "bhima",
+    "term": "Bhima",
+    "group": "Names and epithets",
+    "definition": "One of the Pandavas, brother of Arjuna.",
+    "variants": [
+      "Bhima"
+    ]
+  },
+  {
+    "id": "karna",
+    "term": "Karna",
+    "group": "Names and epithets",
+    "definition": "Warrior allied with Duryodhana on the Kaurava side.",
+    "variants": [
+      "Karna"
+    ]
+  },
+  {
+    "id": "drupada",
+    "term": "Drupada",
+    "group": "Names and epithets",
+    "definition": "King of Panchala, father of Draupadi and Dhrishtadyumna.",
+    "variants": [
+      "Drupada"
+    ]
+  },
+  {
+    "id": "draupadi",
+    "term": "Draupadi",
+    "group": "Names and epithets",
+    "definition": "Wife of the Pandavas.",
+    "variants": [
+      "Draupadi"
+    ]
+  },
+  {
+    "id": "vivasvan",
+    "term": "Vivasvan",
+    "group": "Names and epithets",
+    "definition": "Solar deity to whom Krishna says he first taught this yoga.",
+    "variants": [
+      "Vivasvan"
+    ]
+  },
+  {
+    "id": "manu",
+    "term": "Manu",
+    "group": "Names and epithets",
+    "definition": "Ancient progenitor or lawgiver who receives the teaching from Vivasvan.",
+    "variants": [
+      "Manu"
+    ]
+  },
+  {
+    "id": "ikshvaku",
+    "term": "Ikshvaku",
+    "group": "Names and epithets",
+    "definition": "Ancient king who receives the teaching from Manu.",
+    "variants": [
+      "Ikshvaku"
+    ]
+  },
+  {
+    "id": "brahma",
+    "term": "Brahma",
+    "group": "Names and epithets",
+    "definition": "The creator god; distinct from Brahman, the ultimate reality.",
+    "variants": [
+      "Brahma",
+      "Brahma's"
+    ]
+  },
+  {
+    "id": "bhagavan",
+    "term": "Bhagavan",
+    "group": "Names and epithets",
+    "definition": "Honorific title for the Lord or Blessed One, used for Krishna.",
+    "variants": [
+      "Bhagavan"
+    ]
+  },
+  {
+    "id": "hari",
+    "term": "Hari",
+    "group": "Names and epithets",
+    "definition": "Epithet of Krishna or Vishnu.",
+    "variants": [
+      "Hari"
+    ]
+  },
+  {
+    "id": "vishnu",
+    "term": "Vishnu",
+    "group": "Names and epithets",
+    "definition": "A divine name associated with Krishna in the text.",
+    "variants": [
+      "Vishnu"
+    ]
+  },
+  {
+    "id": "prajapati",
+    "term": "Prajapati",
+    "group": "Names and epithets",
+    "definition": "Lord of creatures; a creator figure.",
+    "variants": [
+      "Prajapati"
+    ]
+  },
+  {
+    "id": "varuna",
+    "term": "Varuna",
+    "group": "Names and epithets",
+    "definition": "Vedic deity associated with cosmic order and waters.",
+    "variants": [
+      "Varuna"
+    ]
+  },
+  {
+    "id": "yama",
+    "term": "Yama",
+    "group": "Names and epithets",
+    "definition": "Deity associated with death and restraint.",
+    "variants": [
+      "Yama"
+    ]
+  },
+  {
+    "id": "tat",
+    "term": "Tat",
+    "group": "Social and ritual terms",
+    "definition": "Sacred formula meaning 'That', part of the expression Om Tat Sat.",
+    "variants": [
+      "Tat"
+    ]
+  },
+  {
+    "id": "sat",
+    "term": "Sat",
+    "group": "Concepts",
+    "definition": "Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat.",
+    "variants": [
+      "Sat"
+    ]
+  },
+  {
+    "id": "vedanta",
+    "term": "Vedanta",
+    "group": "Concepts",
+    "definition": "The end or culmination of the Vedas; in the text, the knowledge taught by the Vedic tradition.",
+    "variants": [
+      "Vedanta"
     ]
   }
 ]

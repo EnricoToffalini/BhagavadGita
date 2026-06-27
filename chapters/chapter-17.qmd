@@ -25,7 +25,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-2">17.2</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The faith of the embodied is of three kinds, born of their own nature—sattvic, rajasic, and tamasic; hear of it.</p>
+<p class="translation translation-en" data-lang="en">The faith of the embodied is of three kinds, born of their own nature—<span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>, <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>, and <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>; hear of it.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-4">17.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The sattvic worship the gods; the rajasic, the yakshas and rakshasas; and the others, the tamasic, worship the dead and the hosts of spirits.</p>
+<p class="translation translation-en" data-lang="en">The <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span> worship the gods; the <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>, the yakshas and rakshasas; and the others, the <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>, worship the dead and the hosts of spirits.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः ।<br>
@@ -103,7 +103,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-8">17.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Foods that are juicy, smooth, firm, and pleasing to the heart are dear to the sattvic; they foster life, vitality, strength, health, ease, and good cheer.</p>
+<p class="translation translation-en" data-lang="en">Foods that are juicy, smooth, firm, and pleasing to the heart are dear to the <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>; they foster life, vitality, strength, health, ease, and good cheer.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः ।<br>
@@ -116,7 +116,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-9">17.9</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Foods that are bitter, sour, salty, very hot, sharp, harsh, and burning are craved by the rajasic, and bring pain, grief, and sickness.</p>
+<p class="translation translation-en" data-lang="en">Foods that are bitter, sour, salty, very hot, sharp, harsh, and burning are craved by the <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>, and bring pain, grief, and sickness.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः ।<br>
@@ -129,7 +129,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-10">17.10</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Food that is stale, tasteless, putrid, and left overnight, leavings, and what is unfit for offering, is dear to the tamasic.</p>
+<p class="translation translation-en" data-lang="en">Food that is stale, tasteless, putrid, and left overnight, leavings, and what is unfit for offering, is dear to the <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यातयामं गतरसं पूति पर्युषितं च यत् ।<br>
@@ -142,7 +142,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-11">17.11</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The sacrifice offered as enjoined, by those who seek no fruit, their minds settled that it is simply to be done—that is sattvic.</p>
+<p class="translation translation-en" data-lang="en">The sacrifice offered as enjoined, by those who seek no fruit, their minds settled that it is simply to be done—that is <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते ।<br>
@@ -155,7 +155,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-12">17.12</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But the sacrifice offered with an eye to its fruit, or for show, know that to be rajasic, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
+<p class="translation translation-en" data-lang="en">But the sacrifice offered with an eye to its fruit, or for show, know that to be <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् ।<br>
@@ -168,7 +168,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-13">17.13</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">A sacrifice offered against the rules, with no food distributed, without sacred words, gifts, or faith, they call tamasic.</p>
+<p class="translation translation-en" data-lang="en">A sacrifice offered against the rules, with no food distributed, without sacred words, gifts, or faith, they call <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् ।<br>
@@ -220,7 +220,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-17">17.17</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">This threefold austerity, practiced with supreme faith by the steadfast who seek no fruit, is called sattvic.</p>
+<p class="translation translation-en" data-lang="en">This threefold austerity, practiced with supreme faith by the steadfast who seek no fruit, is called <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः ।<br>
@@ -233,7 +233,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-18">17.18</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Austerity done for the sake of respect, honor, and reverence, or with hypocrisy, is called rajasic here—unsteady and fleeting.</p>
+<p class="translation translation-en" data-lang="en">Austerity done for the sake of respect, honor, and reverence, or with hypocrisy, is called <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span> here—unsteady and fleeting.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सत्कारमानपूजार्थं तपो दम्भेन चैव यत् ।<br>
@@ -246,7 +246,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-19">17.19</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Austerity done with deluded obstinacy, by torturing oneself, or to harm another, is called tamasic.</p>
+<p class="translation translation-en" data-lang="en">Austerity done with deluded obstinacy, by torturing oneself, or to harm another, is called <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मूढग्राहेणात्मनो यत्पीडया क्रियते तपः ।<br>
@@ -259,7 +259,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-20">17.20</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">A gift given because it ought to be given, with no thought of return, in the right place and time and to a worthy person, is held to be sattvic.</p>
+<p class="translation translation-en" data-lang="en">A gift given because it ought to be given, with no thought of return, in the right place and time and to a worthy person, is held to be <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattvic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दातव्यमिति यद्दानं दीयतेऽनुपकारिणे ।<br>
@@ -272,7 +272,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-21">17.21</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But a gift given for the sake of return, or with an eye to its fruit, or grudgingly, is held to be rajasic.</p>
+<p class="translation translation-en" data-lang="en">But a gift given for the sake of return, or with an eye to its fruit, or grudgingly, is held to be <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः ।<br>
@@ -285,7 +285,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-22">17.22</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">A gift given at the wrong place and time, to the unworthy, without respect or with contempt, is called tamasic.</p>
+<p class="translation translation-en" data-lang="en">A gift given at the wrong place and time, to the unworthy, without respect or with contempt, is called <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamasic</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अदेशकाले यद्दानमपात्रेभ्यश्च दीयते ।<br>
@@ -298,7 +298,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-23">17.23</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Om: Sacred syllable used as a concise sign of the absolute or divine." aria-label="Om: Sacred syllable used as a concise sign of the absolute or divine." title="Om: Sacred syllable used as a concise sign of the absolute or divine." data-glossary-id="om">Om</span> Tat Sat—this is held to be the threefold designation of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>; by it the brahmins, the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, and the sacrifices were ordained of old.</p>
+<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Om: Sacred syllable used as a concise sign of the absolute or divine." aria-label="Om: Sacred syllable used as a concise sign of the absolute or divine." title="Om: Sacred syllable used as a concise sign of the absolute or divine." data-glossary-id="om">Om</span> <span class="glossary-term" tabindex="0" data-gloss="Tat: Sacred formula meaning &#x27;That&#x27;, part of the expression Om Tat Sat." aria-label="Tat: Sacred formula meaning &#x27;That&#x27;, part of the expression Om Tat Sat." title="Tat: Sacred formula meaning &#x27;That&#x27;, part of the expression Om Tat Sat." data-glossary-id="tat">Tat</span> <span class="glossary-term" tabindex="0" data-gloss="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." aria-label="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." title="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." data-glossary-id="sat">Sat</span>—this is held to be the threefold designation of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>; by it the brahmins, the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, and the sacrifices were ordained of old.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ॐतत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः ।<br>
@@ -324,7 +324,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-25">17.25</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">With &#x27;Tat,&#x27; and seeking no fruit, the various acts of sacrifice, austerity, and gift are performed by those who long for liberation.</p>
+<p class="translation translation-en" data-lang="en">With &#x27;<span class="glossary-term" tabindex="0" data-gloss="Tat: Sacred formula meaning &#x27;That&#x27;, part of the expression Om Tat Sat." aria-label="Tat: Sacred formula meaning &#x27;That&#x27;, part of the expression Om Tat Sat." title="Tat: Sacred formula meaning &#x27;That&#x27;, part of the expression Om Tat Sat." data-glossary-id="tat">Tat</span>,&#x27; and seeking no fruit, the various acts of sacrifice, austerity, and gift are performed by those who long for liberation.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः ।<br>
@@ -337,7 +337,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-26">17.26</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The word &#x27;Sat&#x27; is used for what is real and for what is good; and &#x27;Sat,&#x27; O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is also applied to a praiseworthy act.</p>
+<p class="translation translation-en" data-lang="en">The word &#x27;<span class="glossary-term" tabindex="0" data-gloss="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." aria-label="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." title="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." data-glossary-id="sat">Sat</span>&#x27; is used for what is real and for what is good; and &#x27;<span class="glossary-term" tabindex="0" data-gloss="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." aria-label="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." title="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." data-glossary-id="sat">Sat</span>,&#x27; O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, is also applied to a praiseworthy act.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते ।<br>
@@ -350,7 +350,7 @@ title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 <a class="ref" href="#v-17-27">17.27</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Steadfastness in sacrifice, austerity, and gift is also called &#x27;Sat,&#x27; and action for the sake of that is likewise called &#x27;Sat.&#x27;</p>
+<p class="translation translation-en" data-lang="en">Steadfastness in sacrifice, austerity, and gift is also called &#x27;<span class="glossary-term" tabindex="0" data-gloss="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." aria-label="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." title="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." data-glossary-id="sat">Sat</span>,&#x27; and action for the sake of that is likewise called &#x27;<span class="glossary-term" tabindex="0" data-gloss="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." aria-label="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." title="Sat: Being, truth, or goodness; in 17.23 part of the sacred formula Om Tat Sat." data-glossary-id="sat">Sat</span>.&#x27;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते ।<br>

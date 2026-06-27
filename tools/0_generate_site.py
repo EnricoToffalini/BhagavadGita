@@ -257,7 +257,7 @@ title: "Bhagavad Gita"
 ---
 
 <div class="site-note">
-The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output, revised with GPT-5.4-mini, Claude-Opus-4.8, plus some manual revision.
+The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output, revised with GPT-5.4-mini, GPT-5.5, Claude-Opus-4.8, plus some manual revision.
 </div>
 
 <div class="site-usage">
