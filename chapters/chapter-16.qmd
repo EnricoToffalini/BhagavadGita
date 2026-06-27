@@ -12,8 +12,8 @@ title: "Chapter 16 - Daivasura-Sampad Vibhaga Yoga"
 <a class="ref" href="#v-16-1">16.1</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Fearlessness, purity of <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattva</span>, steadfastness in knowledge and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>,<br>
-charity, self-control, sacrifice, study of the self, austerity, and straightforwardness.</p>
+<p class="translation translation-en" data-lang="en">Fearlessness, purity of heart, steadfastness in the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of knowledge,<br>
+charity, self-restraint, sacrifice, study of scripture, austerity, and uprightness;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।<br>
@@ -26,7 +26,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-2">16.2</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Nonviolence, truthfulness, absence of anger, renunciation, tranquility, freedom from slander, compassion toward all beings, lack of greed, gentleness, modesty, and steadiness.</p>
+<p class="translation translation-en" data-lang="en">nonviolence, truth, freedom from anger, renunciation, calm, freedom from slander, compassion for all beings, freedom from greed, gentleness, modesty, and steadiness;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।<br>
@@ -39,7 +39,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-3">16.3</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Radiance, forgiveness, steadfastness, purity, absence of malice, and absence of pride—these belong to one born with divine qualities, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
+<p class="translation translation-en" data-lang="en">vigor, patience, fortitude, purity, freedom from malice and from pride—these belong to one born to a divine lot, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता ।<br>
@@ -52,7 +52,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-4">16.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Hypocrisy, arrogance, conceit, anger, and harshness, as well as ignorance—these, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, are the demoniac qualities of one who is born to such a nature.</p>
+<p class="translation translation-en" data-lang="en">Hypocrisy, arrogance, conceit, anger, harshness, and ignorance belong, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, to one born to a demonic lot.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च ।<br>
@@ -65,7 +65,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-5">16.5</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Divine qualities are said to lead to liberation, while the demonic lead to bondage. Do not grieve, O <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍava</span>; you have been born with divine qualities.</p>
+<p class="translation translation-en" data-lang="en">The divine lot leads to liberation, the demonic to bondage; do not grieve, O <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span>—you are born to a divine lot.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।<br>
@@ -78,7 +78,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-6">16.6</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">In this world there are two kinds of beings: the divine and the demoniac. The divine has been described at length; now hear from me, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, about the demoniac.</p>
+<p class="translation translation-en" data-lang="en">In this world there are two orders of created beings, the divine and the demonic; the divine has been described at length, now hear from me of the demonic, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च ।<br>
@@ -91,7 +91,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-7">16.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The asuric do not know what should be undertaken and what should be renounced. In them there is neither purity, nor proper conduct, nor truth.</p>
+<p class="translation translation-en" data-lang="en">The demonic do not know either action or its cessation; in them is found neither purity, nor right conduct, nor truth.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः ।<br>
@@ -104,7 +104,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-8">16.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">They say that the world is unreal, without basis, without a Lord, born of mutual union, and produced by desire alone—what else?</p>
+<p class="translation translation-en" data-lang="en">They say the world is without truth, without ground, without a lord, arising from no orderly cause, brought about by desire alone.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् ।<br>
@@ -117,7 +117,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-9">16.9</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Holding to this view, these ruined souls, of little बुद्धि and violent deeds, arise as enemies, working for the destruction of the world.</p>
+<p class="translation translation-en" data-lang="en">Holding to this view, these lost souls of feeble understanding and cruel deeds rise up as enemies for the ruin of the world.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः ।<br>
@@ -130,8 +130,7 @@ charity, self-control, sacrifice, study of the self, austerity, and straightforw
 <a class="ref" href="#v-16-10">16.10</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Relying on insatiable desire, filled with hypocrisy, pride, and arrogance,<br>
-deluded, they seize upon false views and undertake impure vows.</p>
+<p class="translation translation-en" data-lang="en">Clinging to insatiable desire, full of hypocrisy, pride, and arrogance, holding false notions through delusion, they act on impure resolves.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः ।<br>
@@ -144,7 +143,7 @@ deluded, they seize upon false views and undertake impure vows.</p>
 <a class="ref" href="#v-16-11">16.11</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">They take refuge in endless anxiety until death, and are devoted to the supreme enjoyment of desire, convinced that this alone is all there is.</p>
+<p class="translation translation-en" data-lang="en">Given over to measureless cares that end only with death, holding the satisfaction of desires to be the highest, certain that this is all,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः ।<br>
@@ -157,7 +156,7 @@ deluded, they seize upon false views and undertake impure vows.</p>
 <a class="ref" href="#v-16-12">16.12</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Bound by hundreds of bonds of hope, devoted to desire and anger, they strive by unjust means to accumulate wealth for the sake of pleasure.</p>
+<p class="translation translation-en" data-lang="en">bound by a hundred cords of hope, devoted to desire and anger, they strive to amass hoards of wealth, by foul means, for the enjoyment of desires.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आशापाशशतैर्बद्धाः कामक्रोधपरायणाः ।<br>
@@ -170,7 +169,7 @@ deluded, they seize upon false views and undertake impure vows.</p>
 <a class="ref" href="#v-16-13">16.13</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Today I have gained this; I shall obtain this desire of mine. This is mine now, and this wealth will be mine again.</p>
+<p class="translation translation-en" data-lang="en">&quot;This I have gained today; this longing I shall now fulfill; this is mine, and this wealth too shall be mine;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।<br>
@@ -183,7 +182,7 @@ deluded, they seize upon false views and undertake impure vows.</p>
 <a class="ref" href="#v-16-14">16.14</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">“I have slain that enemy, and I shall slay the others as well. I am the lord, I am the enjoyer, I am accomplished, I am strong, I am happy.”</p>
+<p class="translation translation-en" data-lang="en">that foe I have slain, and I shall slay the others too; I am the lord, I am the enjoyer, I am successful, strong, and happy;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">असौ मया हतः शत्रुर्हनिष्ये चापरानपि ।<br>
@@ -196,8 +195,7 @@ deluded, they seize upon false views and undertake impure vows.</p>
 <a class="ref" href="#v-16-15">16.15</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">“I am wealthy and of noble birth; who else is equal to me?”<br>
-Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoice.”</p>
+<p class="translation translation-en" data-lang="en">I am rich and high-born; who else is equal to me? I will sacrifice, I will give, I will rejoice&quot;—so they say, deluded by ignorance.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया ।<br>
@@ -210,7 +208,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-16">16.16</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Bewildered by many thoughts and enveloped in the net of delusion, attached to the enjoyment of desires, they fall into a foul hell.</p>
+<p class="translation translation-en" data-lang="en">Led astray by many fancies, caught in the net of delusion, addicted to the enjoyment of desires, they fall into a foul hell.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनेकचित्तविभ्रान्ता मोहजालसमावृताः ।<br>
@@ -223,7 +221,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-17">16.17</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Self-conceited, stubborn, and filled with the intoxication of wealth and pride, they perform sacrifices in name only, with ostentation and without regard for proper rules.</p>
+<p class="translation translation-en" data-lang="en">Self-important, stubborn, filled with the pride and intoxication of wealth, they offer sacrifices in name only, with show and contrary to the rules.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः ।<br>
@@ -236,7 +234,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-18">16.18</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Relying on ego, strength, arrogance, desire, and anger, they envy Me and hate Me in their own bodies and in those of others.</p>
+<p class="translation translation-en" data-lang="en">Clinging to ego, force, insolence, desire, and anger, these spiteful people hate me in their own and others&#x27; bodies.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः ।<br>
@@ -249,7 +247,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-19">16.19</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those hateful, cruel, and vile among men—those inauspicious ones—I cast again and again into demonic wombs in <span class="glossary-term" tabindex="0" data-gloss="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." aria-label="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." title="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." data-glossary-id="samsara">samsara</span>.</p>
+<p class="translation translation-en" data-lang="en">These haters, cruel and base among men, the worst of the world, I hurl again and again into demonic wombs, into the rounds of <span class="glossary-term" tabindex="0" data-gloss="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." aria-label="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." title="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." data-glossary-id="samsara">samsara</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तानहं द्विषतः क्रूरान्संसारेषु नराधमान् ।<br>
@@ -262,7 +260,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-20">16.20</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those deluded ones, having fallen into asuric wombs again and again in birth after birth, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, never attaining Me, thus go to the lowest state.</p>
+<p class="translation translation-en" data-lang="en">Cast into demonic wombs, birth after birth, the deluded, never reaching me, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, sink from there to the lowest state.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।<br>
@@ -275,7 +273,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-21">16.21</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">There are three gates to hell, destructive of the self: lust, anger, and greed. Therefore one should give up these three.</p>
+<p class="translation translation-en" data-lang="en">Threefold is this gate of hell, ruin of the self: desire, anger, and greed; therefore one should give up these three.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।<br>
@@ -288,7 +286,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-22">16.22</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, the man who is freed from these three gates of darkness practices what is best for himself, and then attains the supreme goal.</p>
+<p class="translation translation-en" data-lang="en">Freed from these three gates of darkness, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, a person works for his own good and so reaches the supreme goal.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः ।<br>
@@ -301,7 +299,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-23">16.23</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">He who, setting aside the injunctions of the scriptures, acts according to desire alone attains neither perfection, nor happiness, nor the highest goal.</p>
+<p class="translation translation-en" data-lang="en">But he who casts aside the rule of scripture and acts on the urge of desire reaches neither perfection, nor happiness, nor the supreme goal.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः ।<br>
@@ -314,7 +312,7 @@ Deluded by ignorance, they think, “I will sacrifice, I will give, I will rejoi
 <a class="ref" href="#v-16-24">16.24</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Therefore, the scripture is your authority in determining what should be done and what should not be done. Knowing what is taught by the scriptural injunction, you should here perform action.</p>
+<p class="translation translation-en" data-lang="en">Therefore let scripture be your measure in deciding what should and should not be done; knowing what the rule of scripture declares, you should act here in the world.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।<br>

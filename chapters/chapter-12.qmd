@@ -12,7 +12,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-1">12.1</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span> said: Those devotees who, being ever steadfast, worship You, and those who also worship the imperishable, the unmanifest—among them, who are the more accomplished in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>?</p>
+<p class="translation translation-en" data-lang="en">Those devotees who, ever steadfast, worship you, and those who worship the imperishable and unmanifest—which of them better know <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-2">12.2</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those who, with minds fixed on Me, ever steadfast, worship Me with supreme faith—such are regarded by Me as the most steadfast in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>.</p>
+<p class="translation translation-en" data-lang="en">Those who fix their minds on me and, ever steadfast, worship me with supreme faith—them I hold to be the most yoked.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।<br>
@@ -38,7 +38,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-3">12.3</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But those who worship the imperishable, the indefinable, the unmanifest, all-pervading, unthinkable, unchanging, and immovable, the constant, the steadfast, are devoted to Me.</p>
+<p class="translation translation-en" data-lang="en">But those who worship the imperishable, the undefinable, the unmanifest, all-pervading and unthinkable, unchanging, fixed, and still—</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-4">12.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Having restrained the whole group of senses, and being equal-minded everywhere, those devoted to the welfare of all beings attain Me alone.</p>
+<p class="translation translation-en" data-lang="en">restraining the whole throng of senses, even-minded toward all, rejoicing in the welfare of all beings—they too reach me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः ।<br>
@@ -64,7 +64,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-5">12.5</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For those whose minds are attached to the unmanifest, the trouble is greater; for the path of the unmanifest is hard to attain by those who are embodied.</p>
+<p class="translation translation-en" data-lang="en">Greater is the toil of those whose minds are set on the unmanifest; for the unmanifest goal is hard for the embodied to reach.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।<br>
@@ -77,7 +77,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-6">12.6</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But those who, renouncing all actions in Me, are devoted to Me alone, meditate upon Me and worship Me through undivided <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>.</p>
+<p class="translation translation-en" data-lang="en">But those who, surrendering all actions to me, intent on me, worship me, meditating with undivided <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः ।<br>
@@ -90,7 +90,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-7">12.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For those whose minds are fixed on Me, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Pārtha</span>, I soon become their deliverer from the ocean of <span class="glossary-term" tabindex="0" data-gloss="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." aria-label="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." title="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." data-glossary-id="samsara">saṃsāra</span> and death.</p>
+<p class="translation translation-en" data-lang="en">for them, their minds set on me, I soon become the deliverer from the ocean of death and <span class="glossary-term" tabindex="0" data-gloss="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." aria-label="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." title="samsara: The ongoing cycle of worldly becoming, birth, death, and attachment." data-glossary-id="samsara">samsara</span>, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।<br>
@@ -103,8 +103,7 @@ title: "Chapter 12 - Bhakti Yoga"
 <a class="ref" href="#v-12-8">12.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Fix your mind on Me alone; place your understanding in Me.<br>
-Thereafter you will dwell in Me alone; of this there is no doubt.</p>
+<p class="translation translation-en" data-lang="en">Fix your mind on me alone, rest your understanding in me; thereafter you will dwell in me alone—of this there is no doubt.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मय्येव मन आधत्स्व मयि बुद्धिं निवेशय ।<br>
@@ -117,7 +116,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-9">12.9</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">If you are unable to fix your mind steadily on Me, then, O <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>, seek to attain Me by means of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">practice-yoga</span>.</p>
+<p class="translation translation-en" data-lang="en">But if you cannot fix your mind steadily on me, then seek to reach me by the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of practice, O <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् ।<br>
@@ -130,7 +129,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-10">12.10</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">If you are unable even to practice this, then be devoted to working for Me. By performing actions for My sake, you will attain perfection.</p>
+<p class="translation translation-en" data-lang="en">If you are unable even to practice, be intent on working for me; doing your actions for my sake, you too will attain perfection.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव ।<br>
@@ -143,7 +142,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-11">12.11</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">If you are unable even to do this, taking refuge in My <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, then, self-controlled, renounce the fruits of all actions.</p>
+<p class="translation translation-en" data-lang="en">And if even this you cannot do, then, taking refuge in my <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, with self subdued, give up the fruit of all action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः ।<br>
@@ -156,7 +155,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-12">12.12</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For practice, knowledge is indeed better; than knowledge, meditation is superior. From meditation comes renunciation of the fruits of action, and from renunciation, peace follows at once.</p>
+<p class="translation translation-en" data-lang="en">Knowledge is better than practice; meditation surpasses knowledge; better than meditation is the renouncing of the fruits of action—from such renouncing, peace follows at once.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते ।<br>
@@ -169,7 +168,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-13">12.13</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One who hates no being, who is friendly and compassionate, free from possessiveness and egoism, even-minded in sorrow and joy, and forgiving.</p>
+<p class="translation translation-en" data-lang="en">He who hates no being, who is friendly and compassionate, free of possessiveness and ego, even in pain and pleasure, and forgiving;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।<br>
@@ -182,7 +181,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-14">12.14</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Content and self-controlled, the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yogi</span>, firm in resolve, whose mind and intellect are offered to Me—he who is My devotee is dear to Me.</p>
+<p class="translation translation-en" data-lang="en">ever content, the yogin self-controlled, of firm resolve, his mind and understanding given to me—he who is devoted to me is dear to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः ।<br>
@@ -195,7 +194,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-15">12.15</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The one from whom the world does not shrink, and who does not shrink from the world, and who is free from joy, anger, fear, and agitation—he is dear to Me.</p>
+<p class="translation translation-en" data-lang="en">He from whom the world does not shrink, and who does not shrink from the world, who is free of joy, impatience, fear, and distress—he is dear to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।<br>
@@ -208,7 +207,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-16">12.16</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Free from attachment, pure, skillful, impartial, and untroubled, one who has renounced all undertakings and is devoted to Me is dear to Me.</p>
+<p class="translation translation-en" data-lang="en">He who is free of wants, pure, capable, impartial, and untroubled, who has given up every undertaking—he who is devoted to me is dear to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः ।<br>
@@ -221,7 +220,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-17">12.17</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One who does not rejoice, does not hate, does not grieve, and does not desire; who renounces both the auspicious and the inauspicious—such a devotee is dear to Me.</p>
+<p class="translation translation-en" data-lang="en">He who neither rejoices nor hates, neither grieves nor longs, who gives up both the good and the ill—such a one, full of devotion, is dear to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति ।<br>
@@ -234,7 +233,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-18">12.18</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Equal toward foe and friend alike, and also in honor and dishonor; equal in cold and heat, pleasure and pain, and free from attachment.</p>
+<p class="translation translation-en" data-lang="en">The same to foe and friend, the same in honor and dishonor, the same in cold and heat, in pleasure and pain, free of attachment;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">समः शत्रौ च मित्रे च तथा मानापमानयोः ।<br>
@@ -247,7 +246,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-19">12.19</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One who is equal to blame and praise, silent, content with whatever comes, homeless, steady-minded, and devoted to Me is dear to Me.</p>
+<p class="translation translation-en" data-lang="en">weighing blame and praise alike, silent, content with whatever comes, without a fixed home, steady of mind, full of devotion—such a person is dear to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।<br>
@@ -260,7 +259,7 @@ Thereafter you will dwell in Me alone; of this there is no doubt.</p>
 <a class="ref" href="#v-12-20">12.20</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But those devotees who, full of faith, worship this <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, this nectar, as described above, with Me as their supreme goal—those are exceedingly dear to Me.</p>
+<p class="translation translation-en" data-lang="en">But those who honor this nectar of <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, as I have told it, full of faith and holding me as the highest—those devotees are exceedingly dear to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते ।<br>

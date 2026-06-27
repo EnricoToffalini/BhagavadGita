@@ -12,7 +12,7 @@ title: "Chapter 5 - Sannyasa Yoga"
 <a class="ref" href="#v-5-1">5.1</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Kṛṣṇa</span>, you praise renunciation of action and also <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>. Tell me with certainty which of the two is better.</p>
+<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, you praise the renunciation of actions, and again <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>; tell me for certain which of the two is better.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 5 - Sannyasa Yoga"
 <a class="ref" href="#v-5-2">5.2</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Renunciation and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">karma-yoga</span> both lead to the highest good, but of the two, <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">karma-yoga</span> is superior to renunciation of action.</p>
+<p class="translation translation-en" data-lang="en">Both renunciation and the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of action lead to the highest good; but of the two, the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of action excels the renunciation of action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।<br>
@@ -38,7 +38,7 @@ title: "Chapter 5 - Sannyasa Yoga"
 <a class="ref" href="#v-5-3">5.3</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">He should be known as a perpetual renunciant who neither hates nor desires; free from duality, O mighty-armed one, he is easily freed from bondage.</p>
+<p class="translation translation-en" data-lang="en">Know him to be a constant renunciant who neither hates nor desires; free of the pairs of opposites, O mighty-armed one, he is released from bondage with ease.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 5 - Sannyasa Yoga"
 <a class="ref" href="#v-5-4">5.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Children speak of <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sāṅkhya</span> and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">Yoga</span> as separate; the wise do not. One who is rightly established in either attains the फल of both.</p>
+<p class="translation translation-en" data-lang="en">It is the childish, not the wise, who speak of <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sankhya</span> and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> as different; one rightly established in even one of them gains the fruit of both.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।<br>
@@ -64,8 +64,8 @@ title: "Chapter 5 - Sannyasa Yoga"
 <a class="ref" href="#v-5-5">5.5</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">What is attained by <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sāṅkhya</span> is also attained by <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">Yoga</span>.<br>
-He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sāṅkhya</span> and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">Yoga</span> as one, he sees.</p>
+<p class="translation translation-en" data-lang="en">The state reached by <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sankhya</span> is reached by <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> as well;<br>
+he who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sankhya</span> and <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> as one truly sees.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते ।<br>
@@ -78,7 +78,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-6">5.6</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But renunciation, O mighty-armed one, is hard to attain without <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>; the sage who is devoted to <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> soon attains <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-en" data-lang="en">But renunciation is hard to attain without <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, O mighty-armed one; the sage yoked in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> soon reaches <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः ।<br>
@@ -91,7 +91,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-7">5.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">United in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, with a purified self, self-controlled, and with the senses conquered, he, whose self has become the self of all beings, is not tainted even while acting.</p>
+<p class="translation translation-en" data-lang="en">Yoked in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, his self purified, self-mastered, his senses subdued, his self become the self of all beings—he is not tainted even while acting.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।<br>
@@ -104,7 +104,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-8">5.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The one who is disciplined and knows the truth should think, “I do nothing at all,” while seeing, hearing, touching, smelling, eating, walking, sleeping, and breathing.</p>
+<p class="translation translation-en" data-lang="en">&quot;I do nothing at all,&quot; the disciplined knower of truth would hold, even while seeing, hearing, touching, smelling, eating, moving, sleeping, breathing,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।<br>
@@ -117,7 +117,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-9">5.9</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Speaking, releasing, grasping, opening and closing the eyes, he should hold that the senses are moving among the objects of the senses.</p>
+<p class="translation translation-en" data-lang="en">speaking, releasing, grasping, opening and closing the eyes—convinced that it is only the senses moving among the objects of sense.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि ।<br>
@@ -130,7 +130,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-10">5.10</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One who performs actions, having renounced attachment, and placing them in <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, is not tainted by sin, just as a lotus leaf is not tainted by water.</p>
+<p class="translation translation-en" data-lang="en">One who acts, offering his actions to <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> and abandoning attachment, is untouched by sin, as a lotus leaf by water.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।<br>
@@ -143,7 +143,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-11">5.11</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">With the body, mind, intellect, and even the senses alone, yogis perform action, having renounced attachment, for the purification of the self.</p>
+<p class="translation translation-en" data-lang="en">With body, mind, understanding, and the senses alone, the yogins act, abandoning attachment, for the purifying of the self.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।<br>
@@ -156,7 +156,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-12">5.12</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One who is disciplined, having renounced the fruit of action, attains steady peace; one who is undisciplined, attached to the fruit through desire, is bound.</p>
+<p class="translation translation-en" data-lang="en">The disciplined one, abandoning the fruit of action, attains lasting peace; the undisciplined, attached to the fruit through desire, is bound.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।<br>
@@ -169,7 +169,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-13">5.13</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Having renounced all actions in the mind, the embodied one dwells happily, self-controlled, in the city of nine gates, neither acting nor causing action.</p>
+<p class="translation translation-en" data-lang="en">Renouncing all actions with the mind, the embodied one rests at ease, in command, in the city of nine gates, neither acting nor causing action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।<br>
@@ -182,7 +182,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-14">5.14</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The Lord does not create agency, nor actions, nor the connection of action with its fruits for the world; but nature itself proceeds.</p>
+<p class="translation translation-en" data-lang="en">The Lord creates for the world neither agency nor actions, nor the joining of action to its fruit; it is inherent nature that unfolds.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः ।<br>
@@ -195,7 +195,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-15">5.15</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The all-pervading Lord does not take anyone’s sin or merit. Knowledge is veiled by ignorance; therefore beings are deluded.</p>
+<p class="translation translation-en" data-lang="en">The all-pervading Lord takes on no one&#x27;s sin or merit; knowledge is veiled by ignorance, and by this beings are deluded.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः ।<br>
@@ -208,7 +208,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-16">5.16</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But in those whose ignorance has been destroyed by knowledge of the Self, that knowledge reveals the Supreme like the sun.</p>
+<p class="translation translation-en" data-lang="en">But for those in whom that ignorance is destroyed by knowledge of the self, knowledge, like the sun, lights up the Supreme.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।<br>
@@ -221,7 +221,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-17">5.17</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those whose understanding is directed toward That, whose self is grounded in That, whose steadiness is in That, and whose final aim is That, go to the state from which there is no return, their impurities having been washed away by knowledge</p>
+<p class="translation translation-en" data-lang="en">With understanding fixed on it, their self set on it, devoted to it, intent on it as their goal, they go where there is no return, their faults washed away by knowledge.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः ।<br>
@@ -234,7 +234,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-18">5.18</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The wise see with equal vision a learned and humble <span class="glossary-term" tabindex="0" data-gloss="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." aria-label="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." title="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." data-glossary-id="brahmin">Brahmin</span>, a cow, an elephant, a dog, and one who eats dogs</p>
+<p class="translation translation-en" data-lang="en">On a learned and humble <span class="glossary-term" tabindex="0" data-gloss="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." aria-label="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." title="Brahmin: A member of the priestly or learned class; Sanskrit brāhmaṇa." data-glossary-id="brahmin">brahmin</span>, on a cow, an elephant, a dog, and an outcaste, the wise look with an equal eye.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।<br>
@@ -247,7 +247,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-19">5.19</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Here in this world itself, creation is conquered by those whose mind rests in equanimity. For <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is indeed flawless and even; therefore they are established in <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-en" data-lang="en">Even here rebirth is overcome by those whose minds rest in equanimity; for <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is flawless and the same in all, and so they are established in <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।<br>
@@ -260,7 +260,7 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-20">5.20</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One should not rejoice on obtaining what is pleasant, nor become agitated on obtaining what is unpleasant; with steady understanding, undeluded, a knower of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, established in <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-en" data-lang="en">Neither rejoicing at the pleasant nor recoiling at the unpleasant, steady of understanding and unbewildered, the knower of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is established in <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।<br>
@@ -273,8 +273,8 @@ He who sees <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path
 <a class="ref" href="#v-5-21">5.21</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">With the self unattached to external contacts, one finds the happiness that is in the self.<br>
-That one, with the self engaged in <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahma-yoga</span>, attains inexhaustible happiness.</p>
+<p class="translation translation-en" data-lang="en">With the self unattached to outward contacts, he finds the happiness that is in the self;<br>
+his self yoked in the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, he attains unending happiness.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।<br>
@@ -287,7 +287,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-22">5.22</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For the pleasures born of contact are indeed sources of suffering; they have a beginning and an end, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, and the wise do not delight in them.</p>
+<p class="translation translation-en" data-lang="en">For the pleasures born of contact are wombs of suffering; they have a beginning and an end, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, and the wise take no delight in them.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।<br>
@@ -300,7 +300,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-23">5.23</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">He who is able, while still in this body, to endure the surge born of desire and anger, is a disciplined man; he is a happy man.</p>
+<p class="translation translation-en" data-lang="en">He who can withstand, even here, before he is freed from the body, the force born of desire and anger—he is disciplined, he is a happy man.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।<br>
@@ -313,7 +313,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-24">5.24</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">One who is सुख within, रमण within, and whose light is within—having become <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, he attains <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">Brahman-nirvana</span>.</p>
+<p class="translation translation-en" data-lang="en">He whose happiness is within, whose delight is within, whose light too is within—that yogin, having become <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, attains the <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">nirvana</span> of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।<br>
@@ -326,7 +326,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-25">5.25</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The sages, whose sins have been destroyed, whose doubts are cut away, who are self-controlled, and who delight in the welfare of all beings, attain <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">Brahma-nirvana</span>.</p>
+<p class="translation translation-en" data-lang="en">The seers whose sins are spent, whose doubts are cut away, who are self-mastered and rejoice in the welfare of all beings, attain the <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">nirvana</span> of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः ।<br>
@@ -339,7 +339,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-26">5.26</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For those ascetics who are free from lust and anger, who have controlled their minds and know the Self, <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">Brahman-nirvana</span> lies all around.</p>
+<p class="translation translation-en" data-lang="en">For ascetics freed from desire and anger, their minds controlled, who have known the self, the <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">nirvana</span> of <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> lies near on every side.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।<br>
@@ -352,7 +352,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-27">5.27</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Having placed external contacts outside, and the eyes between the eyebrows, and keeping the inhalation and exhalation balanced, moving within the nostrils,</p>
+<p class="translation translation-en" data-lang="en">Shutting out the outward contacts, fixing the gaze between the brows, making the inward and outward breaths even as they move through the nostrils,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।<br>
@@ -365,7 +365,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-28">5.28</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">A sage who has controlled the senses, mind, and intellect, and is devoted to liberation, whose desire, fear, and anger have departed—he is ever मुक्त, indeed.</p>
+<p class="translation translation-en" data-lang="en">the sage who has mastered his senses, mind, and understanding, intent on liberation, freed of desire, fear, and anger, is forever free.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।<br>
@@ -378,7 +378,7 @@ That one, with the self engaged in <span class="glossary-term" tabindex="0" data
 <a class="ref" href="#v-5-29">5.29</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Knowing Me as the enjoyer of sacrifices and austerities, the great Lord of all the worlds, and the friend of all beings, one attains peace.</p>
+<p class="translation translation-en" data-lang="en">Knowing me as the enjoyer of sacrifices and austerities, the great lord of all the worlds, the friend of every being, he attains peace.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।<br>

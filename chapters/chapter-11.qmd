@@ -12,7 +12,7 @@ title: "Chapter 11 - Vishvarupa-Darshana Yoga"
 <a class="ref" href="#v-11-1">11.1</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Out of grace toward me, you have spoken this supreme secret, known as the teaching of the Self; by those words, this delusion of mine has now been dispelled.</p>
+<p class="translation translation-en" data-lang="en">Out of grace toward me you have spoken the supreme secret known as the teaching of the self; by it this delusion of mine is dispelled.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम् ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 11 - Vishvarupa-Darshana Yoga"
 <a class="ref" href="#v-11-2">11.2</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I have heard in detail from you of the arising and dissolution of beings, and also of your unfailing majesty, O lotus-eyed one.</p>
+<p class="translation translation-en" data-lang="en">For I have heard from you in full of the coming-to-be and passing-away of beings, O lotus-eyed one, and of your imperishable majesty.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया ।<br>
@@ -38,7 +38,7 @@ title: "Chapter 11 - Vishvarupa-Darshana Yoga"
 <a class="ref" href="#v-11-3">11.3</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Thus, as You describe Yourself, O supreme Lord, I wish to see Your divine form, O <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purushottama</span>.</p>
+<p class="translation translation-en" data-lang="en">As you describe yourself, O supreme lord, even so I long to see your sovereign form, O <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purushottama</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एवमेतद्यथात्थ त्वमात्मानं परमेश्वर ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 11 - Vishvarupa-Darshana Yoga"
 <a class="ref" href="#v-11-4">11.4</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">If you think that I can see it, O Lord, then show me your imperishable Self, O Yogeshvara.</p>
+<p class="translation translation-en" data-lang="en">If you think it can be seen by me, O lord, then show me your imperishable self, O lord of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो ।<br>
@@ -64,7 +64,7 @@ title: "Chapter 11 - Vishvarupa-Darshana Yoga"
 <a class="ref" href="#v-11-5">11.5</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Behold, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, my forms in hundreds and thousands, of many kinds, divine, and of many colors and shapes.</p>
+<p class="translation translation-en" data-lang="en">Behold, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, my forms by the hundreds and thousands, of many kinds, divine, of many colors and shapes.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः ।<br>
@@ -77,8 +77,8 @@ title: "Chapter 11 - Vishvarupa-Darshana Yoga"
 <a class="ref" href="#v-11-6">11.6</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">See the Adityas, the Vasus, the Rudras, the Aśvins, and the Maruts as well.<br>
-O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, see many wonders never seen before.</p>
+<p class="translation translation-en" data-lang="en">See the Adityas, the Vasus, the Rudras, the two Ashvins, and the Maruts;<br>
+see many wonders never seen before, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा ।<br>
@@ -91,7 +91,7 @@ O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or an
 <a class="ref" href="#v-11-7">11.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Here, in one place, see today the whole universe, with all that moves and does not move, O <span class="glossary-term" tabindex="0" data-gloss="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." aria-label="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." title="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." data-glossary-id="gudakesha">Guḍākeśa</span>; and whatever else you wish to see in My body.</p>
+<p class="translation translation-en" data-lang="en">See now, gathered here in one place, the whole world, moving and unmoving, within my body, O <span class="glossary-term" tabindex="0" data-gloss="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." aria-label="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." title="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." data-glossary-id="gudakesha">Gudakesha</span>, and whatever else you wish to see.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् ।<br>
@@ -104,7 +104,7 @@ O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or an
 <a class="ref" href="#v-11-8">11.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But you cannot see Me with these, your own eyes. I give you divine vision; behold My divine <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>.</p>
+<p class="translation translation-en" data-lang="en">But you cannot see me with this, your own eye; I give you a divine eye—behold my sovereign <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा ।<br>
@@ -117,7 +117,7 @@ O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or an
 <a class="ref" href="#v-11-9">11.9</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Having spoken thus, O king, Hari, the great Lord of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, then showed to <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span> His supreme divine form.</p>
+<p class="translation translation-en" data-lang="en">Having spoken thus, O king, Hari, the great lord of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, then showed <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span> his supreme sovereign form:</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः ।<br>
@@ -130,7 +130,7 @@ O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or an
 <a class="ref" href="#v-11-10">11.10</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">with many faces and eyes, and many wondrous forms; adorned with many divine ornaments, and bearing many uplifted divine weapons.</p>
+<p class="translation translation-en" data-lang="en">with many mouths and eyes, with many wondrous aspects, with many divine ornaments, and many divine weapons raised on high;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् ।<br>
@@ -143,8 +143,7 @@ O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or an
 <a class="ref" href="#v-11-11">11.11</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Wearing divine garlands and garments, anointed with divine fragrances,<br>
-the wondrous god, infinite, with faces on every side.</p>
+<p class="translation translation-en" data-lang="en">wearing divine garlands and garments, anointed with divine perfumes, all-wondrous, resplendent, boundless, with faces on every side.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् ।<br>
@@ -157,7 +156,7 @@ the wondrous god, infinite, with faces on every side.</p>
 <a class="ref" href="#v-11-12">11.12</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">If a thousand suns were to rise together in the sky, that might be like the splendor of that great soul.</p>
+<p class="translation translation-en" data-lang="en">If the light of a thousand suns were to blaze forth at once in the sky, it might resemble the splendor of that great being.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता ।<br>
@@ -170,7 +169,7 @@ the wondrous god, infinite, with faces on every side.</p>
 <a class="ref" href="#v-11-13">11.13</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">There, the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍava</span> then saw the entire universe, all in one place, yet divided in many ways, in the body of the god of gods.</p>
+<p class="translation translation-en" data-lang="en">There the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> saw the whole world in its manifold divisions, gathered together in one place, in the body of the god of gods.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा ।<br>
@@ -183,7 +182,7 @@ the wondrous god, infinite, with faces on every side.</p>
 <a class="ref" href="#v-11-14">11.14</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>, filled with wonder, his hair standing on end, bowed his head to the Deva with joined palms and spoke.</p>
+<p class="translation translation-en" data-lang="en">Then <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>, filled with wonder, his hair standing on end, bowed his head before the god and, with joined palms, spoke:</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः ।<br>
@@ -196,7 +195,7 @@ the wondrous god, infinite, with faces on every side.</p>
 <a class="ref" href="#v-11-15">11.15</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see all the gods in your body, O God, and all the diverse host of beings; Brahma seated on the lotus, the sages, and all the divine serpents.</p>
+<p class="translation translation-en" data-lang="en">I see all the gods in your body, O god, and the various hosts of beings—Brahma the lord seated on the lotus, the seers, and the divine serpents.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पश्यामि देवांस्तव देव देहे<br>
@@ -211,10 +210,10 @@ the wondrous god, infinite, with faces on every side.</p>
 <a class="ref" href="#v-11-16">11.16</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see You with many arms, bellies, mouths, and eyes,<br>
-with forms unending on every side.<br>
-I see no end, no middle, and no beginning of You,<br>
-O Lord of the universe, O universal form.</p>
+<p class="translation translation-en" data-lang="en">I see you with countless arms, bellies, mouths, and eyes,<br>
+endless on every side;<br>
+I see in you no end, no middle, no beginning,<br>
+O lord of all, O universal form.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनेकबाहूदरवक्त्रनेत्रं<br>
@@ -229,10 +228,10 @@ O Lord of the universe, O universal form.</p>
 <a class="ref" href="#v-11-17">11.17</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see you with a crown, a mace, and a discus,<br>
-a mass of radiance, shining on all sides,<br>
-hard to gaze upon from every direction,<br>
-immeasurable in splendor, like blazing fire and the sun.</p>
+<p class="translation translation-en" data-lang="en">I see you with crown, mace, and discus,<br>
+a mass of radiance blazing on every side,<br>
+hard to look upon, immeasurable,<br>
+like the flaming fire and the sun.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">किरीटिनं गदिनं चक्रिणं च<br>
@@ -247,10 +246,10 @@ immeasurable in splendor, like blazing fire and the sun.</p>
 <a class="ref" href="#v-11-18">11.18</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">You are the imperishable supreme reality to be known;<br>
-You are the ultimate refuge of this universe.<br>
-You are the imperishable guardian of eternal <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>;<br>
-I regard You as the eternal <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span>.</p>
+<p class="translation translation-en" data-lang="en">You are the imperishable, the supreme to be known;<br>
+you are the ultimate resting place of this universe;<br>
+you are the undying guardian of eternal <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>;<br>
+you, I hold, are the everlasting person.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">त्वमक्षरं परमं वेदितव्यं<br>
@@ -265,7 +264,7 @@ I regard You as the eternal <span class="glossary-term" tabindex="0" data-gloss=
 <a class="ref" href="#v-11-19">11.19</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see you as without beginning, middle, or end, of infinite power, with endless arms and with eyes like the moon and the sun, with a face of blazing fire, scorching this entire universe with your own radiance.</p>
+<p class="translation translation-en" data-lang="en">I see you without beginning, middle, or end, of boundless power, with countless arms, the moon and sun your eyes, your face a blazing fire, scorching this whole universe with your radiance.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनादिमध्यान्तमनन्तवीर्य-<br>
@@ -280,7 +279,7 @@ I regard You as the eternal <span class="glossary-term" tabindex="0" data-gloss=
 <a class="ref" href="#v-11-20">11.20</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Indeed, this whole space between heaven and earth and all the directions is pervaded by you alone. Seeing this wondrous, terrible form of yours, the three worlds are shaken, O Mahātman.</p>
+<p class="translation translation-en" data-lang="en">For this space between heaven and earth, and all the quarters, is pervaded by you alone; seeing this wondrous, terrible form of yours, the three worlds tremble, O great soul.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">द्यावापृथिव्योरिदमन्तरं हि<br>
@@ -295,9 +294,9 @@ I regard You as the eternal <span class="glossary-term" tabindex="0" data-gloss=
 <a class="ref" href="#v-11-21">11.21</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Indeed, these hosts of the gods enter you;<br>
-some, भयभीत, with folded hands praise you.<br>
-The hosts of great sages and Siddhas, saying “svasti,”<br>
+<p class="translation translation-en" data-lang="en">Into you these hosts of gods are entering;<br>
+some, in fear, with folded hands, praise you;<br>
+the hosts of great seers and the perfected, crying &#x27;all hail,&#x27;<br>
 extol you with abundant hymns.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
@@ -313,10 +312,10 @@ extol you with abundant hymns.</p>
 <a class="ref" href="#v-11-22">11.22</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The Rudras, the Adityas, the Vasus, and the Sadhyas,<br>
-the Viśve, the Aśvins, the Maruts, and the Uṣmapās;<br>
-the Gandharvas, Yakshas, Asuras, and Siddhas—<br>
-all of them gaze at you in wonder.</p>
+<p class="translation translation-en" data-lang="en">The Rudras, Adityas, Vasus, and Sadhyas,<br>
+the Vishvedevas, the two Ashvins, the Maruts, and the ancestors,<br>
+the hosts of gandharvas, yakshas, asuras, and the perfected—<br>
+all gaze upon you in amazement.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">रुद्रादित्या वसवो ये च साध्या<br>
@@ -331,10 +330,10 @@ all of them gaze at you in wonder.</p>
 <a class="ref" href="#v-11-23">11.23</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Your great form, O mighty-armed one, has many faces and eyes,<br>
-many arms, thighs, and feet;<br>
-many bellies, and terrible with many teeth.<br>
-Seeing this, the worlds are shaken, and so am I.</p>
+<p class="translation translation-en" data-lang="en">Seeing your great form, O mighty-armed one, with its many mouths and eyes,<br>
+its many arms, thighs, and feet,<br>
+its many bellies, and terrible with many fangs—<br>
+the worlds tremble, and so do I.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">रूपं महत्ते बहुवक्त्रनेत्रं<br>
@@ -349,8 +348,7 @@ Seeing this, the worlds are shaken, and so am I.</p>
 <a class="ref" href="#v-11-24">11.24</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Touching the sky, blazing, of many colors, with open mouths and blazing, vast eyes,<br>
-seeing you, my inner self is shaken; I find neither steadiness nor peace, O Vishnu.</p>
+<p class="translation translation-en" data-lang="en">Seeing you touch the sky, ablaze with many colors, your mouths gaping, your great eyes aflame, my inmost self trembles, O Vishnu; I find neither steadiness nor peace.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नभःस्पृशं दीप्तमनेकवर्णं<br>
@@ -365,7 +363,7 @@ seeing you, my inner self is shaken; I find neither steadiness nor peace, O Vish
 <a class="ref" href="#v-11-25">11.25</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Seeing your faces, terrible with fangs and resembling the fire of time, I know not the directions and find no peace. Be gracious, O Lord of the gods, abode of the universe.</p>
+<p class="translation translation-en" data-lang="en">Seeing your mouths, terrible with fangs, like the fire at the world&#x27;s end, I lose all sense of direction and find no refuge; be gracious, O lord of the gods, O dwelling of the world.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दंष्ट्राकरालानि च ते मुखानि<br>
@@ -380,7 +378,7 @@ seeing you, my inner self is shaken; I find neither steadiness nor peace, O Vish
 <a class="ref" href="#v-11-26">11.26</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And these, the sons of Dhritarashtra, all together with the hosts of kings of the earth: Bhishma, Drona, and also that son of Suta, together with our chief warriors.</p>
+<p class="translation translation-en" data-lang="en">And all these sons of Dhritarashtra, along with the throng of kings—Bhishma, Drona, and that son of a charioteer too, together with the chief warriors on our side—</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अमी च त्वां धृतराष्ट्रस्य पुत्राः<br>
@@ -395,8 +393,8 @@ seeing you, my inner self is shaken; I find neither steadiness nor peace, O Vish
 <a class="ref" href="#v-11-27">11.27</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see Your mouths, terrible with fangs, swallowing them in haste;<br>
-some are seen with their heads crushed, caught between the spaces of the teeth.</p>
+<p class="translation translation-en" data-lang="en">rush into your mouths, fearsome with fangs;<br>
+some are seen with their heads crushed, caught between your teeth.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">वक्त्राणि ते त्वरमाणा विशन्ति<br>
@@ -411,8 +409,7 @@ some are seen with their heads crushed, caught between the spaces of the teeth.<
 <a class="ref" href="#v-11-28">11.28</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">As many currents of rivers rush toward the sea,<br>
-so these heroes of the human world enter your blazing mouths.</p>
+<p class="translation translation-en" data-lang="en">As the many torrents of rivers rush toward the sea, so these heroes of the human world enter your blazing mouths.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यथा नदीनां बहवोऽम्बुवेगाः<br>
@@ -427,7 +424,7 @@ so these heroes of the human world enter your blazing mouths.</p>
 <a class="ref" href="#v-11-29">11.29</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">As moths with great speed enter a blazing flame to their destruction, so too the worlds, with great speed, enter your mouths to destruction.</p>
+<p class="translation translation-en" data-lang="en">As moths fly headlong into a blazing flame to their destruction, so do these worlds rush headlong into your mouths to their destruction.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यथा प्रदीप्तं ज्वलनं पतङ्गा<br>
@@ -442,9 +439,8 @@ so these heroes of the human world enter your blazing mouths.</p>
 <a class="ref" href="#v-11-30">11.30</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">You are licking up all the worlds on every side with your flaming mouths,<br>
-filling the entire universe with your radiance.<br>
-Your fierce rays are scorching the whole world, O Vishnu.</p>
+<p class="translation translation-en" data-lang="en">You lick up all the worlds on every side with your flaming mouths, devouring them;<br>
+your fierce rays fill the whole universe with light and scorch it, O Vishnu.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">लेलिह्यसे ग्रसमानः समन्ताल्-<br>
@@ -459,10 +455,7 @@ Your fierce rays are scorching the whole world, O Vishnu.</p>
 <a class="ref" href="#v-11-31">11.31</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Tell me who you are, O fierce-formed one.<br>
-Homage to you, best of the devas; be gracious.<br>
-I wish to know you, the primal one;<br>
-for I do not understand your activity.</p>
+<p class="translation translation-en" data-lang="en">Tell me who you are, so terrible in form. Homage to you, O best of gods; be gracious. I long to know you, the primal one, for I do not comprehend your working.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आख्याहि मे को भवानुग्ररूपो<br>
@@ -477,7 +470,7 @@ for I do not understand your activity.</p>
 <a class="ref" href="#v-11-32">11.32</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I am Time, grown to maturity, the destroyer of the worlds, engaged here in gathering the worlds together. Even without you, all the warriors stationed in the opposing armies will not survive.</p>
+<p class="translation translation-en" data-lang="en">I am time, grown mighty, the destroyer of the worlds, here at work to gather the worlds in. Even without you, the warriors arrayed in the opposing ranks shall all cease to be.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कालोऽस्मि लोकक्षयकृत्प्रवृद्धो<br>
@@ -492,10 +485,7 @@ for I do not understand your activity.</p>
 <a class="ref" href="#v-11-33">11.33</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Therefore arise and win renown;<br>
-conquer your enemies and enjoy a prosperous kingdom.<br>
-They have already been slain by me;<br>
-be only the instrument, O Savyasacin.</p>
+<p class="translation translation-en" data-lang="en">Therefore rise up and win glory; conquer your foes and enjoy a flourishing kingdom. By me they are already slain; be only the instrument, O Savyasachin.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तस्मात्त्वमुत्तिष्ठ यशो लभस्व<br>
@@ -510,10 +500,8 @@ be only the instrument, O Savyasacin.</p>
 <a class="ref" href="#v-11-34">11.34</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Drona and Bhishma and Jayadratha,<br>
-Karna, and other valiant warriors too—<br>
-slay those who have already been slain by me;<br>
-do not be troubled. Fight, and you will conquer your foes in battle.</p>
+<p class="translation translation-en" data-lang="en">Drona, Bhishma, Jayadratha, Karna, and the other warrior-heroes as well—<br>
+slay them, already slain by me; do not waver. Fight! You will conquer your rivals in battle.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">द्रोणं च भीष्मं च जयद्रथं च<br>
@@ -528,7 +516,7 @@ do not be troubled. Fight, and you will conquer your foes in battle.</p>
 <a class="ref" href="#v-11-35">11.35</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Hearing these words of <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keshava</span>, Kiriti, with folded hands and trembling, bowed down to <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span> again and again. In fear and with a choked voice, he prostrated himself.</p>
+<p class="translation translation-en" data-lang="en">Hearing these words of <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keshava</span>, the diademed one, trembling, with folded hands, bowed again to <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span> and, faltering and terrified, prostrate, spoke once more:</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एतच्छ्रुत्वा वचनं केशवस्य<br>
@@ -543,7 +531,7 @@ do not be troubled. Fight, and you will conquer your foes in battle.</p>
 <a class="ref" href="#v-11-36">11.36</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Rightly, O <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hrishikesha</span>, the world rejoices and delights in your glory; the fearful rakshasas flee in all directions, and all the hosts of siddhas bow down.</p>
+<p class="translation translation-en" data-lang="en">Rightly, O <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hrishikesha</span>, does the world rejoice and delight in your praise; the rakshasas flee in terror in every direction, and all the hosts of the perfected bow down.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">स्थाने हृषीकेश तव प्रकीर्त्या<br>
@@ -558,8 +546,7 @@ do not be troubled. Fight, and you will conquer your foes in battle.</p>
 <a class="ref" href="#v-11-37">11.37</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And why should they not bow to you, O Mahatman, greater than even <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, the primal creator?<br>
-O infinite one, Lord of the gods, abode of the world, you are the imperishable, the supreme reality beyond being and non-being.</p>
+<p class="translation translation-en" data-lang="en">And why should they not bow to you, O great soul, greater even than Brahma, the first creator? O boundless one, lord of the gods, dwelling of the world, you are the imperishable—being, nonbeing, and what is beyond both.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कस्माच्च ते न नमेरन्महात्मन्<br>
@@ -574,10 +561,9 @@ O infinite one, Lord of the gods, abode of the world, you are the imperishable, 
 <a class="ref" href="#v-11-38">11.38</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">You are the original Deva, the ancient <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">Purusha</span>,<br>
-the supreme refuge of this universe.<br>
-You are the knower and the knowable, and the supreme abode;<br>
-the universe is pervaded by you, whose forms are endless.</p>
+<p class="translation translation-en" data-lang="en">You are the primal god, the ancient person, the supreme resting place of this universe;<br>
+you are the knower and the known, the highest abode;<br>
+by you the universe is pervaded, O you of endless forms.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">त्वमादिदेवः पुरुषः पुराण-<br>
@@ -592,8 +578,8 @@ the universe is pervaded by you, whose forms are endless.</p>
 <a class="ref" href="#v-11-39">11.39</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">You are Vayu, Yama, Agni, Varuna, the Moon, Prajapati, and the great-grandfather.<br>
-Obeisance to you a thousand times; again and again, obeisance to you.</p>
+<p class="translation translation-en" data-lang="en">You are Vayu, Yama, Agni, Varuna, the moon, Prajapati, and the great-grandsire;<br>
+homage to you a thousandfold, and again and again, homage, homage to you.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">वायुर्यमोऽग्निर्वरुणः शशाङ्कः<br>
@@ -608,10 +594,8 @@ Obeisance to you a thousand times; again and again, obeisance to you.</p>
 <a class="ref" href="#v-11-40">11.40</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Obeisance to you from the front and from behind;<br>
-obeisance to you on all sides, O all.<br>
-You are of infinite power and immeasurable prowess;<br>
-you pervade all, and so you are all.</p>
+<p class="translation translation-en" data-lang="en">Homage to you before and behind, homage to you on every side, O all;<br>
+boundless in power and measureless in might, you encompass all, and so you are all.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नमः पुरस्तादथ पृष्ठतस्ते<br>
@@ -626,9 +610,7 @@ you pervade all, and so you are all.</p>
 <a class="ref" href="#v-11-41">11.41</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Thinking of You as a friend, I addressed You rashly, saying, “O <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, O Yadava, O friend,”<br>
-not knowing this greatness of Yours,<br>
-whether through carelessness or through affection.</p>
+<p class="translation translation-en" data-lang="en">Thinking you a friend, I addressed you rashly—&#x27;<span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>! Yadava! my friend!&#x27;—not knowing this greatness of yours, through heedlessness or through love.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सखेति मत्वा प्रसभं यदुक्तं<br>
@@ -643,7 +625,7 @@ whether through carelessness or through affection.</p>
 <a class="ref" href="#v-11-42">11.42</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whatever I may have treated you with disrespect, in jest or through familiarity, in recreation, in bed, at rest, or at meals, O <span class="glossary-term" tabindex="0" data-gloss="Acyuta: Epithet of Krishna, often glossed as the unfailing one." aria-label="Acyuta: Epithet of Krishna, often glossed as the unfailing one." title="Acyuta: Epithet of Krishna, often glossed as the unfailing one." data-glossary-id="acyuta">Acyuta</span>, whether alone or in the presence of others—I beg forgiveness from you, the immeasurable One.</p>
+<p class="translation translation-en" data-lang="en">And if, in jest, I slighted you while at play, resting, sitting, or at meals, alone or before others, O <span class="glossary-term" tabindex="0" data-gloss="Acyuta: Epithet of Krishna, often glossed as the unfailing one." aria-label="Acyuta: Epithet of Krishna, often glossed as the unfailing one." title="Acyuta: Epithet of Krishna, often glossed as the unfailing one." data-glossary-id="acyuta">Acyuta</span>, I beg your forgiveness, O immeasurable one.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यच्चावहासार्थमसत्कृतोऽसि<br>
@@ -658,10 +640,7 @@ whether through carelessness or through affection.</p>
 <a class="ref" href="#v-11-43">11.43</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">You are the father of the moving and unmoving world,<br>
-its object of reverence and the greatest guru.<br>
-There is none equal to you; how then could there be anyone greater than you,<br>
-unrivaled in power in the three worlds.</p>
+<p class="translation translation-en" data-lang="en">You are the father of this world, moving and unmoving, its object of worship and most venerable teacher; there is none equal to you—how then a greater?—O unrivaled in power in the three worlds.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पितासि लोकस्य चराचरस्य<br>
@@ -676,7 +655,7 @@ unrivaled in power in the three worlds.</p>
 <a class="ref" href="#v-11-44">11.44</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Therefore, bowing down and laying my body low, I beg You, O Lord worthy of praise, to be gracious to me. Like a father to his son, like a friend to his friend, like one dear to one dear, O God, You should endure this.</p>
+<p class="translation translation-en" data-lang="en">Therefore, bowing low and prostrating my body, I beg your grace, O lord worthy of praise; as a father with a son, a friend with a friend, a lover with the beloved, bear with me, O god.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तस्मात्प्रणम्य प्रणिधाय कायं<br>
@@ -691,8 +670,7 @@ unrivaled in power in the three worlds.</p>
 <a class="ref" href="#v-11-45">11.45</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Seeing what I had never seen before, I am filled with delight, yet my mind is also shaken with fear.<br>
-Show me again that very form, O Deva; be gracious, O Lord of the gods, abode of the universe.</p>
+<p class="translation translation-en" data-lang="en">Glad am I to have seen what was never seen before, yet my mind trembles with fear; show me, O god, that very form again; be gracious, O lord of the gods, O dwelling of the world.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा<br>
@@ -707,9 +685,7 @@ Show me again that very form, O Deva; be gracious, O Lord of the gods, abode of 
 <a class="ref" href="#v-11-46">11.46</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I wish to see you, crowned, holding the mace and discus,<br>
-just as before, in that same four-armed form.<br>
-O thousand-armed one, O universal form, appear thus.</p>
+<p class="translation translation-en" data-lang="en">I wish to see you as before, crowned, bearing mace and discus in hand; take on again that four-armed form, O thousand-armed one, O universal form.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">किरीटिनं गदिनं चक्रहस्तं<br>
@@ -724,7 +700,7 @@ O thousand-armed one, O universal form, appear thus.</p>
 <a class="ref" href="#v-11-47">11.47</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Out of favor toward you, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, I have shown this supreme form by my own <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>: the radiant, infinite, primal universal form, which none before you has ever seen.</p>
+<p class="translation translation-en" data-lang="en">Out of grace toward you, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, by my own <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> I have shown you this supreme form—radiant, universal, boundless, primeval—which none but you has ever seen.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मया प्रसन्नेन तवार्जुनेदं<br>
@@ -739,7 +715,7 @@ O thousand-armed one, O universal form, appear thus.</p>
 <a class="ref" href="#v-11-48">11.48</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Neither by study of the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span> and sacrifices, nor by gifts, nor by rites, nor by severe austerities can I be seen in this human world in this form, O foremost of the Kurus, by anyone other than you.</p>
+<p class="translation translation-en" data-lang="en">Not by the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span> and sacrifices, not by study, gifts, rites, or severe austerities can I be seen in this form in the world of men by any but you, O foremost of the Kurus.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न वेदयज्ञाध्ययनैर्न दानै-<br>
@@ -754,8 +730,7 @@ O thousand-armed one, O universal form, appear thus.</p>
 <a class="ref" href="#v-11-49">11.49</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Do not be troubled, and do not be bewildered at seeing this terrible form of Mine.<br>
-With fear dispelled and your mind made glad, look again upon this very form of Mine.</p>
+<p class="translation translation-en" data-lang="en">Do not tremble, do not be bewildered, at seeing this terrible form of mine; with fear gone and glad heart, behold once more this very form of mine.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मा ते व्यथा मा च विमूढभावो<br>
@@ -770,7 +745,7 @@ With fear dispelled and your mind made glad, look again upon this very form of M
 <a class="ref" href="#v-11-50">11.50</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Thus, having spoken thus to <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vasudeva</span> once more revealed his own form. Then the great-souled one, taking on a gentle form again, reassured this terrified one.</p>
+<p class="translation translation-en" data-lang="en">Having spoken thus to <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vasudeva</span> showed his own form again; and the great soul, taking on once more his gentle shape, comforted the terrified one.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इत्यर्जुनं वासुदेवस्तथोक्त्वा<br>
@@ -785,8 +760,7 @@ With fear dispelled and your mind made glad, look again upon this very form of M
 <a class="ref" href="#v-11-51">11.51</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Seeing this gentle human form of Yours, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janārdana</span>,<br>
-I have now come back to my senses and returned to my nature.</p>
+<p class="translation translation-en" data-lang="en">Seeing your gentle human form again, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, I have come to my senses and returned to my own nature.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन ।<br>
@@ -799,7 +773,7 @@ I have now come back to my senses and returned to my nature.</p>
 <a class="ref" href="#v-11-52">11.52</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">This form of Mine, which you have seen, is exceedingly difficult to behold; even the gods are always eager to see this form.</p>
+<p class="translation translation-en" data-lang="en">This form of mine that you have seen is very hard to behold; even the gods long forever to see this form.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम ।<br>
@@ -812,7 +786,7 @@ I have now come back to my senses and returned to my nature.</p>
 <a class="ref" href="#v-11-53">11.53</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Neither by the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, nor by austerity, nor by charity, nor by sacrifice can I be seen in this form as you have seen Me.</p>
+<p class="translation translation-en" data-lang="en">Not by the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, nor by austerity, nor by gifts, nor by sacrifice can I be seen in the form in which you have seen me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नाहं वेदैर्न तपसा न दानेन न चेज्यया ।<br>
@@ -825,7 +799,7 @@ I have now come back to my senses and returned to my nature.</p>
 <a class="ref" href="#v-11-54">11.54</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">But by exclusive devotion, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, I can be known and seen in this form and entered into in truth, O scorcher of foes.</p>
+<p class="translation translation-en" data-lang="en">But by undivided devotion, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, I can be known, and seen, and truly entered into, O scorcher of foes.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन ।<br>
@@ -838,7 +812,7 @@ I have now come back to my senses and returned to my nature.</p>
 <a class="ref" href="#v-11-55">11.55</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whoever does work for Me, regards Me as the highest, is devoted to Me, and is free from attachment, free from enmity toward all beings, O <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍava</span>, comes to Me.</p>
+<p class="translation translation-en" data-lang="en">He who does his work for me, who holds me as the highest, devoted to me, free of attachment, without enmity toward any being—he comes to me, O <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मत्कर्मकृन्मत्परमो मद्भक्तः सङ्गवर्जितः ।<br>

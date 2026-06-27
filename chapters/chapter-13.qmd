@@ -12,7 +12,7 @@ title: "Chapter 13 - Kshetra-Kshetrajna Vibhaga Yoga"
 <a class="ref" href="#v-13-1">13.1</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I wish to know <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> and <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span>, as well as the field and the knower of the field, and also knowledge and what is to be known, O <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keśava</span>.</p>
+<p class="translation translation-en" data-lang="en">I wish to know <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> and <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span>, the field and the knower of the field, and knowledge and what is to be known, O <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keshava</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रकृतिं पुरुषं चैव क्षेत्रं क्षेत्रज्ञमेव च ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 13 - Kshetra-Kshetrajna Vibhaga Yoga"
 <a class="ref" href="#v-13-2">13.2</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">This body, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, is called the field; and one who knows it is called the knower of the field by those who know this.</p>
+<p class="translation translation-en" data-lang="en">This body, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, is called the field; and the one who knows it, those who know call the knower of the field.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।<br>
@@ -38,8 +38,7 @@ title: "Chapter 13 - Kshetra-Kshetrajna Vibhaga Yoga"
 <a class="ref" href="#v-13-3">13.3</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And know Me also, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, as the knower of the field in all fields.<br>
-That knowledge of the field and of the knower of the field is what I regard as true knowledge.</p>
+<p class="translation translation-en" data-lang="en">Know me too, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, as the knower of the field in all fields; and the knowledge of the field and its knower—that, I hold, is true knowledge.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत ।<br>
@@ -52,7 +51,7 @@ That knowledge of the field and of the knower of the field is what I regard as t
 <a class="ref" href="#v-13-4">13.4</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">That field, and what it is like, and its changes, and from where, and also who he is and what his power is—hear this from me in brief.</p>
+<p class="translation translation-en" data-lang="en">What that field is, of what kind, with what changes, whence it arises, and who he is and what his powers are—hear this from me in brief.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् ।<br>
@@ -65,7 +64,7 @@ That knowledge of the field and of the knower of the field is what I regard as t
 <a class="ref" href="#v-13-5">13.5</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">It has been sung in many ways by the sages, in various metrical forms, and also in the definitive aphorisms of the <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahma-sūtra</span>.</p>
+<p class="translation translation-en" data-lang="en">This has been sung by seers in many ways, in various hymns, and in the well-reasoned, definitive words of the aphorisms on <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् ।<br>
@@ -78,7 +77,7 @@ That knowledge of the field and of the knower of the field is what I regard as t
 <a class="ref" href="#v-13-6">13.6</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The great elements, ego, intellect, and also the unmanifest; the ten senses, the one, and the five sense-objects.</p>
+<p class="translation translation-en" data-lang="en">The great elements, the ego, the understanding, and the unmanifest; the ten senses and the one mind, and the five fields of sense;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च ।<br>
@@ -91,8 +90,7 @@ That knowledge of the field and of the knower of the field is what I regard as t
 <a class="ref" href="#v-13-7">13.7</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Desire, aversion, pleasure, pain, the aggregate, consciousness, and resolve—<br>
-this field, together with its modifications, has been briefly described.</p>
+<p class="translation translation-en" data-lang="en">desire and aversion, pleasure and pain, the bodily whole, awareness, and steadfastness—this, in brief, is the field together with its changes.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इच्छा द्वेषः सुखं दुःखं सङ्घातश्चेतना धृतिः ।<br>
@@ -105,8 +103,7 @@ this field, together with its modifications, has been briefly described.</p>
 <a class="ref" href="#v-13-8">13.8</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Humility, absence of ostentation, nonviolence, forbearance, straightforwardness,<br>
-service to the <span class="glossary-term" tabindex="0" data-gloss="acharya: Teacher or preceptor." aria-label="acharya: Teacher or preceptor." title="acharya: Teacher or preceptor." data-glossary-id="acharya">ācārya</span>, purity, steadfastness, and self-restraint.</p>
+<p class="translation translation-en" data-lang="en">Humility, sincerity, nonviolence, patience, uprightness, service to the teacher, purity, steadiness, and self-restraint;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् ।<br>
@@ -119,8 +116,7 @@ service to the <span class="glossary-term" tabindex="0" data-gloss="acharya: Tea
 <a class="ref" href="#v-13-9">13.9</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Detachment from sense objects, and also absence of egoism;<br>
-and perception of the faults of birth, death, old age, disease, and suffering.</p>
+<p class="translation translation-en" data-lang="en">indifference to the objects of sense, absence of ego, and a clear sight of the evil in birth, death, old age, sickness, and pain;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च ।<br>
@@ -133,7 +129,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-10">13.10</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Non-attachment and absence of possessiveness toward sons, wives, homes, and the like; and constant evenness of mind in meeting the agreeable and the disagreeable.</p>
+<p class="translation translation-en" data-lang="en">non-attachment, freedom from clinging to son, wife, home, and the rest, and a constant evenness of mind toward the welcome and the unwelcome;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु ।<br>
@@ -146,7 +142,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-11">13.11</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Unwavering <span class="glossary-term" tabindex="0" data-gloss="bhakti: Devotion or devoted participation, especially toward the divine." aria-label="bhakti: Devotion or devoted participation, especially toward the divine." title="bhakti: Devotion or devoted participation, especially toward the divine." data-glossary-id="bhakti">bhakti</span> to Me by unswerving <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, and a liking for solitude in secluded places, with no delight in the company of people.</p>
+<p class="translation translation-en" data-lang="en">unswerving devotion to me through undistracted <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, resort to secluded places, and no delight in crowds of people;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मयि चानन्ययोगेन भक्तिरव्यभिचारिणी ।<br>
@@ -159,7 +155,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-12">13.12</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Constancy in knowledge of the Self, and insight into the meaning of true knowledge—this is declared to be knowledge; whatever is otherwise is ignorance.</p>
+<p class="translation translation-en" data-lang="en">constancy in knowledge of the self and insight into the aim of true knowledge—this is declared to be knowledge; what differs from it is ignorance.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् ।<br>
@@ -172,7 +168,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-13">13.13</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I will declare that which is to be known; knowing it, one attains immortality: the beginningless supreme <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, which is said to be neither being nor non-being.</p>
+<p class="translation translation-en" data-lang="en">I shall declare what is to be known, knowing which one gains the deathless: the beginningless supreme <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, said to be neither being nor nonbeing.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते ।<br>
@@ -185,7 +181,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-14">13.14</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">With hands and feet everywhere, with eyes, heads, and faces everywhere, with ears everywhere in the world, it remains enveloping all things.</p>
+<p class="translation translation-en" data-lang="en">With hands and feet on every side, with eyes, heads, and faces on every side, with ears on every side, it abides, enfolding all in the world.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् ।<br>
@@ -198,7 +194,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-15">13.15</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Shining with the qualities of all the senses, yet devoid of all the senses; unattached, yet sustaining all; beyond the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, yet the enjoyer of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>.</p>
+<p class="translation translation-en" data-lang="en">Shining through the powers of all the senses, yet free of all the senses; unattached, yet bearing all; without <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, yet enjoying the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् ।<br>
@@ -211,7 +207,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-16">13.16</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">It is outside and inside all beings; it is unmoving and moving as well. Because of its subtlety, it is not knowable; it is far away and also near.</p>
+<p class="translation translation-en" data-lang="en">outside and inside all beings; unmoving, yet moving; too subtle to be known; far away, and yet near.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">बहिरन्तश्च भूतानामचरं चरमेव च ।<br>
@@ -224,7 +220,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-17">13.17</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Undivided, yet appearing as though divided among beings, it should be understood as the sustainer of beings, the devourer, and the source of their arising.</p>
+<p class="translation translation-en" data-lang="en">Undivided, yet seeming divided among beings; this is to be known as the sustainer of beings, their devourer and their source.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अविभक्तं च भूतेषु विभक्तमिव च स्थितम् ।<br>
@@ -237,7 +233,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-18">13.18</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among lights, that is the light said to be beyond darkness. It is knowledge, the object of knowledge, attainable through knowledge, and abiding in the heart of all.</p>
+<p class="translation translation-en" data-lang="en">It is the light even of lights, said to be beyond darkness; it is knowledge, the object of knowledge, to be reached by knowledge, seated in the hearts of all.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते ।<br>
@@ -250,8 +246,7 @@ and perception of the faults of birth, death, old age, disease, and suffering.</
 <a class="ref" href="#v-13-19">13.19</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Thus the field, knowledge, and the knowable have been briefly stated.<br>
-My devotee, having understood this, becomes fit for My being.</p>
+<p class="translation translation-en" data-lang="en">Thus the field, knowledge, and the knowable have been told in brief; one devoted to me, knowing this, becomes fit for my being.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासतः ।<br>
@@ -264,7 +259,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-20">13.20</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Know <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> and <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> as both without beginning; and know also the modifications and the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> as born of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.</p>
+<p class="translation translation-en" data-lang="en">Know that both <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> and <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> are without beginning; and know that the changes and the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> are born of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि ।<br>
@@ -277,8 +272,8 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-21">13.21</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">Prakriti</span> is said to be the cause in the making of cause and effect;<br>
-<span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> is said to be the cause of the experiencing of सुख and duhkha.</p>
+<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">Prakriti</span> is said to be the cause in the working of cause and effect;<br>
+<span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> is said to be the cause in the experiencing of pleasure and pain.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते ।<br>
@@ -291,7 +286,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-22">13.22</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span>, abiding in <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, indeed experiences the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> born of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>. Attachment to the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> is the cause of his birth in good and evil wombs.</p>
+<p class="translation translation-en" data-lang="en">For <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span>, seated in <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, experiences the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> born of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>; attachment to the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> is the cause of its birth in good and evil wombs.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् ।<br>
@@ -304,7 +299,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-23">13.23</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> in this body is also called the witness, the permitter, the supporter, the enjoyer, and the great Lord; he is likewise spoken of as the supreme <span class="glossary-term" tabindex="0" data-gloss="Atman: Self or inner principle; kept distinct from ordinary ego or personality." aria-label="Atman: Self or inner principle; kept distinct from ordinary ego or personality." title="Atman: Self or inner principle; kept distinct from ordinary ego or personality." data-glossary-id="atman">Atman</span>.</p>
+<p class="translation translation-en" data-lang="en">The supreme <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> in this body is also called the witness, the consenter, the bearer, the experiencer, the great lord, and the supreme <span class="glossary-term" tabindex="0" data-gloss="Atman: True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." aria-label="Atman: True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." title="Atman: True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." data-glossary-id="atman">Atman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">उपद्रष्टानुमन्ता च भर्ता भोक्ता महेश्वरः ।<br>
@@ -317,7 +312,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-24">13.24</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">He who thus knows <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> and <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> together with the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, in whatever condition he may live, is not born again.</p>
+<p class="translation translation-en" data-lang="en">He who thus knows <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> and <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, together with the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, in whatever state he lives, is not born again.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">य एवं वेत्ति पुरुषं प्रकृतिं च गुणैः सह ।<br>
@@ -330,7 +325,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-25">13.25</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Some behold the Self in the Self by means of meditation; others by <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sāṅkhya-yoga</span>, and still others by <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">karma-yoga</span>.</p>
+<p class="translation translation-en" data-lang="en">Some, by meditation, see the self in the self by the self; others by the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of <span class="glossary-term" tabindex="0" data-gloss="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." aria-label="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." title="Sankhya: A path or framework of discriminative knowledge; here not always a formal school label." data-glossary-id="sankhya">Sankhya</span>, and others by the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना ।<br>
@@ -343,7 +338,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-26">13.26</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Others, not knowing this, worship after hearing of it from others. Even they, devoted to hearing, surely cross beyond death.</p>
+<p class="translation translation-en" data-lang="en">Others, not knowing this, worship having heard it from others; they too, devoted to what they hear, cross beyond death.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते ।<br>
@@ -356,7 +351,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-27">13.27</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whatever living entity is born, whether moving or unmoving, know that, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>, as arising from the conjunction of <span class="glossary-term" tabindex="0" data-gloss="kshetra: Field, especially the body or field of experience in Chapter 13." aria-label="kshetra: Field, especially the body or field of experience in Chapter 13." title="kshetra: Field, especially the body or field of experience in Chapter 13." data-glossary-id="kshetra">kshetra</span> and <span class="glossary-term" tabindex="0" data-gloss="kshetrajna: Knower of the field; the conscious principle related to kshetra." aria-label="kshetrajna: Knower of the field; the conscious principle related to kshetra." title="kshetrajna: Knower of the field; the conscious principle related to kshetra." data-glossary-id="kshetrajna">kshetrajna</span>.</p>
+<p class="translation translation-en" data-lang="en">Whatever being is born, moving or unmoving, know it to arise from the union of <span class="glossary-term" tabindex="0" data-gloss="kshetra: Field, especially the body or field of experience in Chapter 13." aria-label="kshetra: Field, especially the body or field of experience in Chapter 13." title="kshetra: Field, especially the body or field of experience in Chapter 13." data-glossary-id="kshetra">kshetra</span> and <span class="glossary-term" tabindex="0" data-gloss="kshetrajna: Knower of the field; the conscious principle related to kshetra." aria-label="kshetrajna: Knower of the field; the conscious principle related to kshetra." title="kshetrajna: Knower of the field; the conscious principle related to kshetra." data-glossary-id="kshetrajna">kshetrajna</span>, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् ।<br>
@@ -369,7 +364,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-28">13.28</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">He who sees the Supreme Lord as equally dwelling in all beings, the imperishable within the perishing, he truly sees.</p>
+<p class="translation translation-en" data-lang="en">He who sees the supreme lord dwelling alike in all beings, undying amid the dying, truly sees.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् ।<br>
@@ -382,7 +377,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-29">13.29</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Seeing the Lord equally present everywhere, one does not harm oneself by the self; thus one attains the supreme goal.</p>
+<p class="translation translation-en" data-lang="en">For seeing the lord present the same everywhere, he does not harm the self by the self, and so reaches the supreme goal.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् ।<br>
@@ -395,7 +390,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-30">13.30</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The one who sees that all actions are being performed in every way by <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> alone, and likewise sees the <span class="glossary-term" tabindex="0" data-gloss="Atman: Self or inner principle; kept distinct from ordinary ego or personality." aria-label="Atman: Self or inner principle; kept distinct from ordinary ego or personality." title="Atman: Self or inner principle; kept distinct from ordinary ego or personality." data-glossary-id="atman">Atman</span> as not the doer, truly sees.</p>
+<p class="translation translation-en" data-lang="en">He who sees that actions are performed in every way by <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> alone, and that the self is not the doer, truly sees.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रकृत्यैव च कर्माणि क्रियमाणानि सर्वशः ।<br>
@@ -408,7 +403,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-31">13.31</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">When one sees the manifold distinctness of beings abiding in the One, and also their expansion from that very source, then one attains <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-en" data-lang="en">When he sees the separate states of beings as resting in the One, and their spreading forth from that alone, then he attains <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यदा भूतपृथग्भावमेकस्थमनुपश्यति ।<br>
@@ -421,7 +416,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-32">13.32</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Because it is without beginning and without <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, this imperishable Supreme Self, though abiding in the body, O <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kaunteya</span>, neither acts nor is tainted.</p>
+<p class="translation translation-en" data-lang="en">Beginningless and without <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, this supreme self, imperishable, though seated in the body, O son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, neither acts nor is tainted.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनादित्वान्निर्गुणत्वात्परमात्मायमव्ययः ।<br>
@@ -434,7 +429,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-33">13.33</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Just as all-pervading space is not tainted by its subtlety, so the <span class="glossary-term" tabindex="0" data-gloss="Atman: Self or inner principle; kept distinct from ordinary ego or personality." aria-label="Atman: Self or inner principle; kept distinct from ordinary ego or personality." title="Atman: Self or inner principle; kept distinct from ordinary ego or personality." data-glossary-id="atman">Atman</span>, abiding everywhere in the body, is not tainted.</p>
+<p class="translation translation-en" data-lang="en">As all-pervading space, being subtle, is not tainted, so the self, seated everywhere in the body, is not tainted.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते ।<br>
@@ -447,7 +442,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-34">13.34</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Just as the one sun illumines this entire world, so too, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, the Kshetri illumines the whole <span class="glossary-term" tabindex="0" data-gloss="kshetra: Field, especially the body or field of experience in Chapter 13." aria-label="kshetra: Field, especially the body or field of experience in Chapter 13." title="kshetra: Field, especially the body or field of experience in Chapter 13." data-glossary-id="kshetra">Kshetra</span>.</p>
+<p class="translation translation-en" data-lang="en">As the one sun lights up this whole world, so the knower of the field lights up the whole field, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः ।<br>
@@ -460,7 +455,7 @@ My devotee, having understood this, becomes fit for My being.</p>
 <a class="ref" href="#v-13-35">13.35</a>
 <span class="speaker">(Shri Bhagavan Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those who thus discern, with the eye of knowledge, the distinction between <span class="glossary-term" tabindex="0" data-gloss="kshetra: Field, especially the body or field of experience in Chapter 13." aria-label="kshetra: Field, especially the body or field of experience in Chapter 13." title="kshetra: Field, especially the body or field of experience in Chapter 13." data-glossary-id="kshetra">kshetra</span> and <span class="glossary-term" tabindex="0" data-gloss="kshetrajna: Knower of the field; the conscious principle related to kshetra." aria-label="kshetrajna: Knower of the field; the conscious principle related to kshetra." title="kshetrajna: Knower of the field; the conscious principle related to kshetra." data-glossary-id="kshetrajna">kshetrajna</span>, and the release of beings from <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, attain the Supreme.</p>
+<p class="translation translation-en" data-lang="en">Those who, with the eye of knowledge, thus discern the difference between <span class="glossary-term" tabindex="0" data-gloss="kshetra: Field, especially the body or field of experience in Chapter 13." aria-label="kshetra: Field, especially the body or field of experience in Chapter 13." title="kshetra: Field, especially the body or field of experience in Chapter 13." data-glossary-id="kshetra">kshetra</span> and <span class="glossary-term" tabindex="0" data-gloss="kshetrajna: Knower of the field; the conscious principle related to kshetra." aria-label="kshetrajna: Knower of the field; the conscious principle related to kshetra." title="kshetrajna: Knower of the field; the conscious principle related to kshetra." data-glossary-id="kshetrajna">kshetrajna</span>, and the freeing of beings from <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>, reach the Supreme.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">क्षेत्रक्षेत्रज्ञयोरेवमन्तरं ज्ञानचक्षुषा ।<br>

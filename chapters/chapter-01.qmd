@@ -12,7 +12,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-1">1.1</a>
 <span class="speaker">(Dhritarashtra)</span>
 </header>
-<p class="translation translation-en" data-lang="en">In the field of <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, at Kurukshetra, gathered together and eager to fight, what did my men and the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍavas</span> do, O Sanjaya?</p>
+<p class="translation translation-en" data-lang="en">On the field of <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, at Kurukshetra, gathered and eager for battle—what did my men and the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandavas</span> do, O Sanjaya?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।<br>
@@ -25,7 +25,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-2">1.2</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then, seeing the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍava</span> army drawn up in battle formation, King Duryodhana approached his teacher and spoke these words.</p>
+<p class="translation translation-en" data-lang="en">Then, seeing the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> army drawn up in formation, King Duryodhana approached his teacher and spoke these words.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।<br>
@@ -38,7 +38,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-3">1.3</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O teacher, behold this great army of the sons of <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍu</span>, arrayed by your wise disciple, the son of Drupada.</p>
+<p class="translation translation-en" data-lang="en">Behold, O teacher, this great army of the sons of Pandu, arrayed by your skilled disciple, the son of Drupada.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-4">1.4</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Here are heroes, mighty archers, equal in battle to Bhīma and <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>: Yuyudhāna, Virāṭa, and Drupada, the great chariot-warrior.</p>
+<p class="translation translation-en" data-lang="en">Here are heroes, mighty archers, equal in battle to Bhima and <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>: Yuyudhana, Virata, and Drupada, the great chariot-warrior.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।<br>
@@ -64,7 +64,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <a class="ref" href="#v-1-5">1.5</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And Dhrishtaketu, Chekitana, the valiant king of Kāśi, Purujit, Kuntibhoja, and Śaibya, the foremost among men.</p>
+<p class="translation translation-en" data-lang="en">Dhrishtaketu, Chekitana, and the valiant king of Kashi; Purujit, Kuntibhoja, and Shaibya, the foremost of men.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।<br>
@@ -78,7 +78,7 @@ title: "Chapter 1 - Arjuna Vishada Yoga"
 <span class="speaker">(Sanjaya)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The valiant Yudhamanyu and the courageous Uttamauja,<br>
-Saubhadra and the sons of Draupadi—all were great warriors.</p>
+Saubhadra and the sons of Draupadi—all great chariot-warriors.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।<br>
@@ -91,7 +91,7 @@ Saubhadra and the sons of Draupadi—all were great warriors.</p>
 <a class="ref" href="#v-1-7">1.7</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O best of the twice-born, know now those who are the foremost among us. For your information, I shall name to you the leaders of my army.</p>
+<p class="translation translation-en" data-lang="en">Know too, O best of the twice-born, those who are foremost among us, the leaders of my army; these I name to you.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।<br>
@@ -104,7 +104,7 @@ Saubhadra and the sons of Draupadi—all were great warriors.</p>
 <a class="ref" href="#v-1-8">1.8</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">You yourself, Bhīṣma, Karṇa, Kṛpa, and Samitijaya, as well as Aśvatthāmā, Vikarṇa, and Saumadatti.</p>
+<p class="translation translation-en" data-lang="en">Yourself, and Bhishma, Karna, and Kripa, ever victorious in battle; Ashvatthama, Vikarna, and Saumadatti as well.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।<br>
@@ -117,7 +117,7 @@ Saubhadra and the sons of Draupadi—all were great warriors.</p>
 <a class="ref" href="#v-1-9">1.9</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And many other heroes, who have given up their lives for my sake, are armed with various weapons; all are skilled in warfare.</p>
+<p class="translation translation-en" data-lang="en">And many other heroes, who have staked their lives for my sake, bearing varied weapons—all skilled in war.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।<br>
@@ -130,8 +130,8 @@ Saubhadra and the sons of Draupadi—all were great warriors.</p>
 <a class="ref" href="#v-1-10">1.10</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Our force, protected by Bhīṣma, is inadequate;<br>
-but the force of these men, protected by Bhīma, is adequate.</p>
+<p class="translation translation-en" data-lang="en">Our force, guarded by Bhishma, is insufficient;<br>
+but their force, guarded by Bhima, is sufficient.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।<br>
@@ -144,7 +144,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-11">1.11</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Station yourselves at your respective positions in all the divisions of the army, and protect Bhīṣma alone, all of you.</p>
+<p class="translation translation-en" data-lang="en">Therefore, stationed in your respective positions throughout the divisions, let all of you guard Bhishma above all.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अयनेषु च सर्वेषु यथाभागमवस्थिताः ।<br>
@@ -157,7 +157,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-12">1.12</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then the elder of the Kurus, the mighty grandfather, arousing his joy, blew his conch with a loud lion’s roar.</p>
+<p class="translation translation-en" data-lang="en">To cheer him, the aged Kuru, the mighty grandsire, roared like a lion and loudly blew his conch.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः ।<br>
@@ -170,7 +170,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-13">1.13</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then the conchshells, drums, panavas, and gomukhas were suddenly sounded, and the din became tumultuous.</p>
+<p class="translation translation-en" data-lang="en">Then conches, drums, kettledrums, and horns suddenly sounded, and the noise was tumultuous.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।<br>
@@ -183,7 +183,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-14">1.14</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then, stationed in the great chariot yoked with white horses, <span class="glossary-term" tabindex="0" data-gloss="Madhava: Epithet of Krishna." aria-label="Madhava: Epithet of Krishna." title="Madhava: Epithet of Krishna." data-glossary-id="madhava">Mādhava</span> and <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍava</span> blew their divine conches.</p>
+<p class="translation translation-en" data-lang="en">Then, stationed in their great chariot yoked with white horses, <span class="glossary-term" tabindex="0" data-gloss="Madhava: Epithet of Krishna." aria-label="Madhava: Epithet of Krishna." title="Madhava: Epithet of Krishna." data-glossary-id="madhava">Madhava</span> and the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> blew their divine conches.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।<br>
@@ -196,7 +196,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-15">1.15</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hṛṣīkeśa</span> blew Pāñcajanya, <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhanañjaya</span> blew Devadatta, and Vṛkodara, whose deeds are mighty, blew the great conch Pauṇḍra.</p>
+<p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hrishikesha</span> blew the Panchajanya, <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span> the Devadatta, and Vrikodara, of mighty deeds, blew the great conch Paundra.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः ।<br>
@@ -209,7 +209,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-16">1.16</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">King Yudhishthira, son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, blew the Anantavijaya; Nakula and Sahadeva blew Sughosha and Manipushpaka.</p>
+<p class="translation translation-en" data-lang="en">King Yudhishthira, son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span>, blew the Anantavijaya; Nakula and Sahadeva, the Sughosha and the Manipushpaka.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।<br>
@@ -222,7 +222,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-17">1.17</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Kāśya, the supreme archer, and Śikhaṇḍin, the great chariot-warrior; Dṛṣṭadyumna, Virāṭa, and the unconquerable Sātyaki.</p>
+<p class="translation translation-en" data-lang="en">The king of Kashi, supreme archer, and Shikhandin, the great chariot-warrior; Dhrishtadyumna, Virata, and the unconquered Satyaki.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">काश्यश्च परमेष्वासः शिखण्डी च महारथः ।<br>
@@ -235,7 +235,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-18">1.18</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Drupada, the sons of Draupadi, and Saubhadra, the mighty-armed, each separately blew their conches, O lord of the earth.</p>
+<p class="translation translation-en" data-lang="en">Drupada and the sons of Draupadi, and the strong-armed son of Subhadra—each on every side blew his conch, O lord of the earth.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।<br>
@@ -248,7 +248,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-19">1.19</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">That tumultuous cry pierced the hearts of the sons of Dhṛtarāṣṭra, resounding through the sky and the earth.</p>
+<p class="translation translation-en" data-lang="en">That tumultuous din, resounding through sky and earth, pierced the hearts of Dhritarashtra&#x27;s sons.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।<br>
@@ -261,7 +261,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-20">1.20</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then, seeing the sons of Dhṛtarāṣṭra arrayed in position, the monkey-bannered <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pāṇḍava</span> lifted his bow as the clash of weapons was about to begin.</p>
+<p class="translation translation-en" data-lang="en">Then, seeing Dhritarashtra&#x27;s sons arrayed, as the clash of weapons was about to begin, the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span> whose banner bore the monkey took up his bow</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वजः ।<br>
@@ -274,8 +274,8 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-21">1.21</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Then <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span> spoke these words to <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hṛṣīkeśa</span>, O king:<br>
-“O <span class="glossary-term" tabindex="0" data-gloss="Acyuta: Epithet of Krishna, often glossed as the unfailing one." aria-label="Acyuta: Epithet of Krishna, often glossed as the unfailing one." title="Acyuta: Epithet of Krishna, often glossed as the unfailing one." data-glossary-id="acyuta">Acyuta</span>, place my chariot between the two armies.”</p>
+<p class="translation translation-en" data-lang="en">and spoke these words to <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hrishikesha</span>, O king:<br>
+&quot;O <span class="glossary-term" tabindex="0" data-gloss="Acyuta: Epithet of Krishna, often glossed as the unfailing one." aria-label="Acyuta: Epithet of Krishna, often glossed as the unfailing one." title="Acyuta: Epithet of Krishna, often glossed as the unfailing one." data-glossary-id="acyuta">Acyuta</span>, place my chariot between the two armies,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">हृषीकेशं तदा वाक्यमिदमाह महीपते ।<br>
@@ -288,8 +288,7 @@ but the force of these men, protected by Bhīma, is adequate.</p>
 <a class="ref" href="#v-1-22">1.22</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">While I observe these men, standing ready to fight,<br>
-with whom am I to fight in this undertaking of battle?</p>
+<p class="translation translation-en" data-lang="en">that I may look upon these men standing eager to fight, with whom I must contend in this work of battle.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ।<br>
@@ -302,8 +301,7 @@ with whom am I to fight in this undertaking of battle?</p>
 <a class="ref" href="#v-1-23">1.23</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I see those who have gathered here, ready to fight,<br>
-seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
+<p class="translation translation-en" data-lang="en">I see them gathered here, ready to fight, seeking to please in battle the evil-minded son of Dhritarashtra.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।<br>
@@ -316,7 +314,7 @@ seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
 <a class="ref" href="#v-1-24">1.24</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Thus addressed by <span class="glossary-term" tabindex="0" data-gloss="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." aria-label="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." title="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." data-glossary-id="gudakesha">Guḍākeśa</span>, <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hṛṣīkeśa</span>, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, placed the finest of chariots between the two armies.</p>
+<p class="translation translation-en" data-lang="en">Thus addressed by <span class="glossary-term" tabindex="0" data-gloss="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." aria-label="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." title="Gudakesha: Epithet of Arjuna, commonly linked with mastery over sleep." data-glossary-id="gudakesha">Gudakesha</span>, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, <span class="glossary-term" tabindex="0" data-gloss="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." aria-label="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." title="Hrishikesha: Epithet of Krishna, often understood as lord of the senses." data-glossary-id="hrishikesha">Hrishikesha</span> placed that finest of chariots between the two armies,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।<br>
@@ -329,7 +327,7 @@ seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
 <a class="ref" href="#v-1-25">1.25</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">In the presence of Bhishma and Drona, and of all the rulers of the earth, he said: “O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, behold these assembled Kurus.”</p>
+<p class="translation translation-en" data-lang="en">before Bhishma and Drona and all the rulers of the earth, and said: &quot;O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, behold these Kurus gathered here.&quot;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।<br>
@@ -342,7 +340,7 @@ seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
 <a class="ref" href="#v-1-26">1.26</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">There <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span> saw fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and also friends.</p>
+<p class="translation translation-en" data-lang="en">There <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span> saw, standing before him, fathers and grandfathers, teachers, uncles, brothers, sons, grandsons, and friends as well;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।<br>
@@ -355,7 +353,7 @@ seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
 <a class="ref" href="#v-1-27">1.27</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Seeing there fathers-in-law and friends in both armies, the son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span> saw all those relatives standing arrayed.</p>
+<p class="translation translation-en" data-lang="en">fathers-in-law and companions too, in both armies. Seeing all these kinsmen arrayed,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।<br>
@@ -368,9 +366,9 @@ seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
 <a class="ref" href="#v-1-28">1.28</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Overwhelmed with compassion and distressed, he said this:<br>
+<p class="translation translation-en" data-lang="en">the son of <span class="glossary-term" tabindex="0" data-gloss="Kaunteya: Epithet of Arjuna: son of Kunti." aria-label="Kaunteya: Epithet of Arjuna: son of Kunti." title="Kaunteya: Epithet of Arjuna: son of Kunti." data-glossary-id="kaunteya">Kunti</span> was overcome with deep compassion, and in sorrow he said:<br>
 <br>
-“O <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Kṛṣṇa</span>, seeing my own kinsmen assembled here, eager to fight,”</p>
+&quot;Seeing my own people, <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, gathered here eager to fight,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।<br>
@@ -383,8 +381,8 @@ seeking to please the ill-intentioned son of Dhritarashtra in battle.</p>
 <a class="ref" href="#v-1-29">1.29</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">My limbs are sinking, and my mouth is dry;<br>
-my body trembles, and my hair stands on end.</p>
+<p class="translation translation-en" data-lang="en">my limbs give way and my mouth goes dry;<br>
+my body trembles and my hair stands on end.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।<br>
@@ -397,7 +395,7 @@ my body trembles, and my hair stands on end.</p>
 <a class="ref" href="#v-1-30">1.30</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Gandiva slips from my hand, and my skin is burning too.<br>
+<p class="translation translation-en" data-lang="en">The Gandiva slips from my hand, and my skin burns all over;<br>
 I cannot stand steady, and my mind seems to reel.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
@@ -411,7 +409,7 @@ I cannot stand steady, and my mind seems to reel.</p>
 <a class="ref" href="#v-1-31">1.31</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And I see contrary omens, O <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keshava</span>. Nor do I see any good in killing my own people in battle.</p>
+<p class="translation translation-en" data-lang="en">And I see adverse omens, O <span class="glossary-term" tabindex="0" data-gloss="Keshava: Epithet of Krishna." aria-label="Keshava: Epithet of Krishna." title="Keshava: Epithet of Krishna." data-glossary-id="keshava">Keshava</span>; I foresee no good in killing my own people in battle.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">निमित्तानि च पश्यामि विपरीतानि केशव ।<br>
@@ -424,8 +422,8 @@ I cannot stand steady, and my mind seems to reel.</p>
 <a class="ref" href="#v-1-32">1.32</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I do not desire victory, <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, nor kingdom, nor pleasures.<br>
-What is a kingdom to us, <span class="glossary-term" tabindex="0" data-gloss="Govinda: Epithet of Krishna." aria-label="Govinda: Epithet of Krishna." title="Govinda: Epithet of Krishna." data-glossary-id="govinda">Govinda</span>, or pleasures, or even life?</p>
+<p class="translation translation-en" data-lang="en">I long for no victory, <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, nor kingdom, nor pleasures.<br>
+What use is a kingdom to us, <span class="glossary-term" tabindex="0" data-gloss="Govinda: Epithet of Krishna." aria-label="Govinda: Epithet of Krishna." title="Govinda: Epithet of Krishna." data-glossary-id="govinda">Govinda</span>, or enjoyments, or even life?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।<br>
@@ -438,7 +436,7 @@ What is a kingdom to us, <span class="glossary-term" tabindex="0" data-gloss="Go
 <a class="ref" href="#v-1-33">1.33</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For whose sake we desire kingdom, pleasures, and comforts—these stand here in battle, having given up their lives and wealth.</p>
+<p class="translation translation-en" data-lang="en">Those for whose sake we would want kingdom, enjoyments, and pleasures stand here in battle, having renounced their lives and wealth:</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।<br>
@@ -451,8 +449,8 @@ What is a kingdom to us, <span class="glossary-term" tabindex="0" data-gloss="Go
 <a class="ref" href="#v-1-34">1.34</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Teachers, fathers, sons, and also grandfathers,<br>
-maternal uncles, fathers-in-law, grandsons, brothers-in-law, and likewise other relatives.</p>
+<p class="translation translation-en" data-lang="en">teachers, fathers, sons, and grandfathers;<br>
+uncles, fathers-in-law, grandsons, brothers-in-law, and other kinsmen.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।<br>
@@ -465,7 +463,7 @@ maternal uncles, fathers-in-law, grandsons, brothers-in-law, and likewise other 
 <a class="ref" href="#v-1-35">1.35</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Madhusudana: Epithet of Krishna: slayer of Madhu." aria-label="Madhusudana: Epithet of Krishna: slayer of Madhu." title="Madhusudana: Epithet of Krishna: slayer of Madhu." data-glossary-id="madhusudana">Madhusudana</span>, I do not wish to kill these, even if they would kill me, even for the sake of dominion over the three worlds; what then of the earth?</p>
+<p class="translation translation-en" data-lang="en">These I would not wish to kill, O <span class="glossary-term" tabindex="0" data-gloss="Madhusudana: Epithet of Krishna: slayer of Madhu." aria-label="Madhusudana: Epithet of Krishna: slayer of Madhu." title="Madhusudana: Epithet of Krishna: slayer of Madhu." data-glossary-id="madhusudana">Madhusudana</span>, even if killed myself—not even for the sovereignty of the three worlds, much less for the earth.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।<br>
@@ -478,7 +476,7 @@ maternal uncles, fathers-in-law, grandsons, brothers-in-law, and likewise other 
 <a class="ref" href="#v-1-36">1.36</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, what joy would we have in killing the sons of Dhritarashtra? By killing these aggressors, only sin would come upon us.</p>
+<p class="translation translation-en" data-lang="en">What joy would be ours, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, in killing Dhritarashtra&#x27;s sons? Only sin would fall upon us were we to kill these aggressors.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।<br>
@@ -491,8 +489,8 @@ maternal uncles, fathers-in-law, grandsons, brothers-in-law, and likewise other 
 <a class="ref" href="#v-1-37">1.37</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Therefore we are not right to kill the sons of Dhṛtarāṣṭra, our own kinsmen.<br>
-For how could we be happy after killing our own people, O <span class="glossary-term" tabindex="0" data-gloss="Madhava: Epithet of Krishna." aria-label="Madhava: Epithet of Krishna." title="Madhava: Epithet of Krishna." data-glossary-id="madhava">Mādhava</span>?</p>
+<p class="translation translation-en" data-lang="en">So we ought not to kill Dhritarashtra&#x27;s sons, our own kinsmen;<br>
+for how could we be happy, O <span class="glossary-term" tabindex="0" data-gloss="Madhava: Epithet of Krishna." aria-label="Madhava: Epithet of Krishna." title="Madhava: Epithet of Krishna." data-glossary-id="madhava">Madhava</span>, after killing our own people?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।<br>
@@ -505,7 +503,7 @@ For how could we be happy after killing our own people, O <span class="glossary-
 <a class="ref" href="#v-1-38">1.38</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Though these men, with minds overcome by greed, do not see the fault in destroying a family and the sin in betraying friends,</p>
+<p class="translation translation-en" data-lang="en">Even if these men, their minds overcome by greed, see no fault in the ruin of a family and no crime in the betrayal of friends,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।<br>
@@ -518,7 +516,7 @@ For how could we be happy after killing our own people, O <span class="glossary-
 <a class="ref" href="#v-1-39">1.39</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">How should we not know to turn away from this sin, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, when we clearly see the fault caused by the destruction of the family?</p>
+<p class="translation translation-en" data-lang="en">how should we not know to turn back from this sin, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, we who clearly see the fault in the ruin of a family?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।<br>
@@ -531,8 +529,8 @@ For how could we be happy after killing our own people, O <span class="glossary-
 <a class="ref" href="#v-1-40">1.40</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">When the family is ruined, the eternal family dharmas perish;<br>
-and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> is destroyed, adharma overwhelms the whole family.</p>
+<p class="translation translation-en" data-lang="en">When a family is ruined, its ancient dharmas perish;<br>
+and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> perishes, adharma overcomes the whole family.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।<br>
@@ -545,7 +543,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-41">1.41</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Kṛṣṇa</span>, when irreligion prevails, the women of the family become corrupted; O Vārṣṇeya, when women are corrupted, there arises social confusion.</p>
+<p class="translation translation-en" data-lang="en">When adharma prevails, O <span class="glossary-term" tabindex="0" data-gloss="Krishna: Krishna, speaker of the teaching to Arjuna." aria-label="Krishna: Krishna, speaker of the teaching to Arjuna." title="Krishna: Krishna, speaker of the teaching to Arjuna." data-glossary-id="krishna">Krishna</span>, the women of the family are corrupted; and when the women are corrupted, O Varshneya, there arises confusion of order.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।<br>
@@ -558,7 +556,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-42">1.42</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Confusion of caste leads indeed to hell for the destroyers of the family and for the family itself. Their ancestors fall, deprived of the rites of offering of rice-balls and water.</p>
+<p class="translation translation-en" data-lang="en">This confusion brings only hell for the family and for those who ruin it; their ancestors fall, deprived of the offerings of rice and water.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।<br>
@@ -571,7 +569,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-43">1.43</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">By these faults of the family-destroyers, which bring about the mixing of the varnas, the eternal dharmas of the caste and the family are destroyed.</p>
+<p class="translation translation-en" data-lang="en">By these faults of the family-destroyers, which bring about confusion of varna, the eternal dharmas of community and family are undone.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।<br>
@@ -584,7 +582,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-44">1.44</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, we have heard that for men whose family <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> has been destroyed, dwelling in hell is निश्चित.</p>
+<p class="translation translation-en" data-lang="en">And we have heard, O <span class="glossary-term" tabindex="0" data-gloss="Janardana: Epithet of Krishna." aria-label="Janardana: Epithet of Krishna." title="Janardana: Epithet of Krishna." data-glossary-id="janardana">Janardana</span>, that for those whose family dharmas are destroyed, a dwelling in hell is assured.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।<br>
@@ -597,7 +595,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-45">1.45</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Alas, we are resolved to commit a great sin, namely to slay our own kinsmen out of greed for the pleasures of a kingdom.</p>
+<p class="translation translation-en" data-lang="en">Alas, we are bent on committing a great sin: out of greed for the pleasures of a kingdom, we are prepared to kill our own people.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।<br>
@@ -610,7 +608,7 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-46">1.46</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">If the sons of Dhritarashtra, weapons in hand, should kill me in battle while I remain unresisting and unarmed, that would be better for me.</p>
+<p class="translation translation-en" data-lang="en">It would be better for me if Dhritarashtra&#x27;s sons, weapons in hand, were to kill me unresisting and unarmed in the battle.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।<br>
@@ -623,8 +621,8 @@ and when <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, dut
 <a class="ref" href="#v-1-47">1.47</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Having said this in battle, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span> sat down on the chariot seat,<br>
-casting aside his bow and arrows, his mind overwhelmed with grief.</p>
+<p class="translation translation-en" data-lang="en">Having spoken thus on the field of battle, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span> sank down upon the seat of the chariot,<br>
+casting away his bow and arrows, his mind stricken with grief.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् ।<br>
