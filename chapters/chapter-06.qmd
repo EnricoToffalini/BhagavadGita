@@ -10,7 +10,7 @@ title: "Chapter 6 - Atma-Samyama Yoga"
 <article class="verse" id="v-6-1" data-reference="6.1">
 <header class="verse-head">
 <a class="ref" href="#v-6-1">6.1</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">He who performs the action that ought to be done, not depending on its fruit, is a renunciant and a yogin—not the one who lights no fire and does no rite.</p>
 <details class="sanskrit">
@@ -23,7 +23,7 @@ title: "Chapter 6 - Atma-Samyama Yoga"
 <article class="verse" id="v-6-2" data-reference="6.2">
 <header class="verse-head">
 <a class="ref" href="#v-6-2">6.2</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Know that what they call renunciation is <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, O <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandava</span>; for none becomes a yogin without renouncing self-will.</p>
 <details class="sanskrit">
@@ -36,7 +36,7 @@ title: "Chapter 6 - Atma-Samyama Yoga"
 <article class="verse" id="v-6-3" data-reference="6.3">
 <header class="verse-head">
 <a class="ref" href="#v-6-3">6.3</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For the sage who seeks to rise to <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, action is said to be the means;<br>
 for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, stillness is said to be the means.</p>
@@ -50,7 +50,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-4" data-reference="6.4">
 <header class="verse-head">
 <a class="ref" href="#v-6-4">6.4</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">When one is attached neither to the objects of sense nor to actions, having renounced all self-will, then one is said to have risen to <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>.</p>
 <details class="sanskrit">
@@ -63,7 +63,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-5" data-reference="6.5">
 <header class="verse-head">
 <a class="ref" href="#v-6-5">6.5</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Let one lift oneself by oneself; let one not drag oneself down. For oneself alone is one&#x27;s friend, and oneself alone one&#x27;s enemy.</p>
 <details class="sanskrit">
@@ -76,7 +76,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-6" data-reference="6.6">
 <header class="verse-head">
 <a class="ref" href="#v-6-6">6.6</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For one who has conquered himself by himself, the self is a friend to the self; but for one who has not mastered himself, the self stays hostile, like an enemy.</p>
 <details class="sanskrit">
@@ -89,7 +89,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-7" data-reference="6.7">
 <header class="verse-head">
 <a class="ref" href="#v-6-7">6.7</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For one who has mastered himself and is at peace, the supreme <span class="glossary-term" tabindex="0" data-gloss="Atman: True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." aria-label="Atman: True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." title="Atman: True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality." data-glossary-id="atman">Atman</span> stays steady, alike in cold and heat, pleasure and pain, honor and dishonor.</p>
 <details class="sanskrit">
@@ -102,7 +102,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-8" data-reference="6.8">
 <header class="verse-head">
 <a class="ref" href="#v-6-8">6.8</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The yogin content in knowledge and realization, unwavering, his senses subdued, to whom a clod, a stone, and gold are alike, is said to be yoked.</p>
 <details class="sanskrit">
@@ -115,7 +115,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-9" data-reference="6.9">
 <header class="verse-head">
 <a class="ref" href="#v-6-9">6.9</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">He who is even-minded toward well-wisher, friend, and foe, toward the neutral and the mediator, toward the hateful and the kinsman, and toward the good and the wicked alike, stands supreme.</p>
 <details class="sanskrit">
@@ -128,7 +128,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-10" data-reference="6.10">
 <header class="verse-head">
 <a class="ref" href="#v-6-10">6.10</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Let the yogin discipline himself constantly, staying in solitude, alone, his mind and self controlled, free of longing and of possessions.</p>
 <details class="sanskrit">
@@ -141,7 +141,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-11" data-reference="6.11">
 <header class="verse-head">
 <a class="ref" href="#v-6-11">6.11</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Having set up a firm seat for himself in a clean place, neither too high nor too low, covered with cloth, deerskin, and kusha grass,</p>
 <details class="sanskrit">
@@ -154,7 +154,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-12" data-reference="6.12">
 <header class="verse-head">
 <a class="ref" href="#v-6-12">6.12</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">there, making the mind one-pointed, the workings of mind and senses checked, seated on that seat, let him practice <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> to purify the self.</p>
 <details class="sanskrit">
@@ -167,7 +167,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-13" data-reference="6.13">
 <header class="verse-head">
 <a class="ref" href="#v-6-13">6.13</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Holding body, head, and neck erect and still, steady, gazing at the tip of his own nose without looking about,</p>
 <details class="sanskrit">
@@ -180,7 +180,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-14" data-reference="6.14">
 <header class="verse-head">
 <a class="ref" href="#v-6-14">6.14</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">his mind serene and free of fear, firm in the vow of celibacy, the mind controlled and thought fixed on me, let him sit, yoked, intent on me.</p>
 <details class="sanskrit">
@@ -193,7 +193,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-15" data-reference="6.15">
 <header class="verse-head">
 <a class="ref" href="#v-6-15">6.15</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Thus ever disciplining himself, the yogin of controlled mind attains the peace that culminates in <span class="glossary-term" tabindex="0" data-gloss="nirvana: Extinction, peace, or release; here often linked with Brahman." aria-label="nirvana: Extinction, peace, or release; here often linked with Brahman." title="nirvana: Extinction, peace, or release; here often linked with Brahman." data-glossary-id="nirvana">nirvana</span> and abides in me.</p>
 <details class="sanskrit">
@@ -206,7 +206,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-16" data-reference="6.16">
 <header class="verse-head">
 <a class="ref" href="#v-6-16">6.16</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">Yoga</span> is not for one who eats too much, nor for one who eats nothing at all, nor for one given to too much sleep, nor for one always awake, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>.</p>
 <details class="sanskrit">
@@ -219,7 +219,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-17" data-reference="6.17">
 <header class="verse-head">
 <a class="ref" href="#v-6-17">6.17</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For one measured in food and recreation, measured in his actions, measured in sleep and waking, <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> becomes the destroyer of sorrow.</p>
 <details class="sanskrit">
@@ -232,7 +232,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-18" data-reference="6.18">
 <header class="verse-head">
 <a class="ref" href="#v-6-18">6.18</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">When the disciplined mind comes to rest in the self alone, free of longing for any desire, then one is said to be yoked.</p>
 <details class="sanskrit">
@@ -245,7 +245,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-19" data-reference="6.19">
 <header class="verse-head">
 <a class="ref" href="#v-6-19">6.19</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">As a lamp in a windless place does not flicker—such is the image of the yogin of controlled mind, practicing the <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> of the self.</p>
 <details class="sanskrit">
@@ -258,7 +258,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-20" data-reference="6.20">
 <header class="verse-head">
 <a class="ref" href="#v-6-20">6.20</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">When the mind, restrained by the practice of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, comes to rest, and seeing the self by the self, one is content within the self;</p>
 <details class="sanskrit">
@@ -271,7 +271,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-21" data-reference="6.21">
 <header class="verse-head">
 <a class="ref" href="#v-6-21">6.21</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">when one knows that boundless happiness, grasped by the understanding and beyond the senses, and, established in it, never strays from the truth;</p>
 <details class="sanskrit">
@@ -284,7 +284,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-22" data-reference="6.22">
 <header class="verse-head">
 <a class="ref" href="#v-6-22">6.22</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">and, having gained it, counts no other gain greater—established in it, he is unshaken even by the heaviest sorrow:</p>
 <details class="sanskrit">
@@ -297,7 +297,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-23" data-reference="6.23">
 <header class="verse-head">
 <a class="ref" href="#v-6-23">6.23</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">let it be known that this severance of all union with sorrow is what is called <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>; that <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> is to be practiced with resolve and an undismayed mind.</p>
 <details class="sanskrit">
@@ -310,7 +310,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-24" data-reference="6.24">
 <header class="verse-head">
 <a class="ref" href="#v-6-24">6.24</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Abandoning without remainder all desires born of self-will, restraining the whole throng of senses on every side by the mind alone,</p>
 <details class="sanskrit">
@@ -323,7 +323,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-25" data-reference="6.25">
 <header class="verse-head">
 <a class="ref" href="#v-6-25">6.25</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">little by little let him grow still, the understanding held firm; fixing the mind on the self, let him think of nothing at all.</p>
 <details class="sanskrit">
@@ -336,7 +336,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-26" data-reference="6.26">
 <header class="verse-head">
 <a class="ref" href="#v-6-26">6.26</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Wherever the restless, unsteady mind wanders off, from there let him rein it back under the control of the self.</p>
 <details class="sanskrit">
@@ -349,7 +349,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-27" data-reference="6.27">
 <header class="verse-head">
 <a class="ref" href="#v-6-27">6.27</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For supreme happiness comes to the yogin whose mind is at peace, whose passion is stilled, who is free of taint and has become <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
@@ -362,7 +362,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-28" data-reference="6.28">
 <header class="verse-head">
 <a class="ref" href="#v-6-28">6.28</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Thus ever disciplining himself, the yogin, freed of taint, easily attains the boundless happiness of contact with <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
@@ -375,7 +375,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-29" data-reference="6.29">
 <header class="verse-head">
 <a class="ref" href="#v-6-29">6.29</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">His self yoked in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, he sees the self present in all beings and all beings in the self, seeing the same everywhere.</p>
 <details class="sanskrit">
@@ -388,7 +388,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-30" data-reference="6.30">
 <header class="verse-head">
 <a class="ref" href="#v-6-30">6.30</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For one who sees me everywhere and sees all things in me, I am not lost to him, nor is he lost to me.</p>
 <details class="sanskrit">
@@ -401,7 +401,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-31" data-reference="6.31">
 <header class="verse-head">
 <a class="ref" href="#v-6-31">6.31</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The yogin who, established in oneness, worships me as dwelling in all beings abides in me, in whatever way he lives.</p>
 <details class="sanskrit">
@@ -414,7 +414,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-32" data-reference="6.32">
 <header class="verse-head">
 <a class="ref" href="#v-6-32">6.32</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">He who sees by analogy with himself the same everywhere, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>, whether in pleasure or in pain, is held to be the highest yogin.</p>
 <details class="sanskrit">
@@ -453,7 +453,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-35" data-reference="6.35">
 <header class="verse-head">
 <a class="ref" href="#v-6-35">6.35</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">No doubt, O mighty-armed one, the mind is hard to restrain and restless; but by practice, O son of Kunti, and by dispassion it is held in check.</p>
 <details class="sanskrit">
@@ -466,7 +466,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-36" data-reference="6.36">
 <header class="verse-head">
 <a class="ref" href="#v-6-36">6.36</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">Yoga</span> is hard to reach, I agree, for one whose self is unrestrained; but for one who strives, self-controlled, it can be attained by the right means.</p>
 <details class="sanskrit">
@@ -518,7 +518,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-40" data-reference="6.40">
 <header class="verse-head">
 <a class="ref" href="#v-6-40">6.40</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, neither here nor hereafter is there ruin for him; for no one who does good, my friend, ever comes to a bad end.</p>
 <details class="sanskrit">
@@ -531,7 +531,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-41" data-reference="6.41">
 <header class="verse-head">
 <a class="ref" href="#v-6-41">6.41</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Having reached the worlds of those who do right and dwelt there countless years, the one fallen from <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> is born in the house of the pure and prosperous;</p>
 <details class="sanskrit">
@@ -544,7 +544,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-42" data-reference="6.42">
 <header class="verse-head">
 <a class="ref" href="#v-6-42">6.42</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">or else he is born into a family of wise yogins—though a birth like this is harder still to win in this world.</p>
 <details class="sanskrit">
@@ -557,7 +557,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-43" data-reference="6.43">
 <header class="verse-head">
 <a class="ref" href="#v-6-43">6.43</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">There he regains the union of understanding gained in his former body, and from there strives once more toward perfection, O joy of the <span class="glossary-term" tabindex="0" data-gloss="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." aria-label="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." title="Kuru: The Kuru lineage or its members; context may refer to the wider dynasty or the Kaurava side." data-glossary-id="kuru">Kurus</span>.</p>
 <details class="sanskrit">
@@ -570,7 +570,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-44" data-reference="6.44">
 <header class="verse-head">
 <a class="ref" href="#v-6-44">6.44</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">By that very former practice he is carried onward, even against his will; even wishing to know <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, he passes beyond the <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> of mere words.</p>
 <details class="sanskrit">
@@ -583,7 +583,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-45" data-reference="6.45">
 <header class="verse-head">
 <a class="ref" href="#v-6-45">6.45</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">But the yogin who strives with effort, cleansed of all faults, perfected through many births, then reaches the supreme goal.</p>
 <details class="sanskrit">
@@ -596,7 +596,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-46" data-reference="6.46">
 <header class="verse-head">
 <a class="ref" href="#v-6-46">6.46</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The yogin is greater than the ascetics, greater, it is held, than the men of knowledge, and greater than the men of action; therefore become a yogin, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>.</p>
 <details class="sanskrit">
@@ -609,7 +609,7 @@ for one who has risen to <span class="glossary-term" tabindex="0" data-gloss="yo
 <article class="verse" id="v-6-47" data-reference="6.47">
 <header class="verse-head">
 <a class="ref" href="#v-6-47">6.47</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">And of all yogins, the one who, full of faith, worships me with his inmost self drawn to me—him I hold to be the most deeply yoked.</p>
 <details class="sanskrit">

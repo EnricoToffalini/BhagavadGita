@@ -61,7 +61,7 @@ SPEAKER_MAP = {
     'धृतराष्ट्र': '(Dhritarashtra)',
     'सञ्जय': '(Sanjaya)',
     'अर्जुन': '(Arjuna)',
-    'श्रीभगवान्': '(Shri Bhagavan Krishna)',
+    'श्रीभगवान्': '(Krishna)',
 }
 
 

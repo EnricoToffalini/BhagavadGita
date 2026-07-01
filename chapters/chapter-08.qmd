@@ -36,7 +36,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-3" data-reference="8.3">
 <header class="verse-head">
 <a class="ref" href="#v-8-3">8.3</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en"><span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> is the supreme, the imperishable; one&#x27;s own essential being is called the inner principle. The creative force that brings beings into existence is called action.</p>
 <details class="sanskrit">
@@ -49,7 +49,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-4" data-reference="8.4">
 <header class="verse-head">
 <a class="ref" href="#v-8-4">8.4</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The material domain is perishable existence; the <span class="glossary-term" tabindex="0" data-gloss="purusha: Person, spirit, or conscious principle; meaning varies by passage." aria-label="purusha: Person, spirit, or conscious principle; meaning varies by passage." title="purusha: Person, spirit, or conscious principle; meaning varies by passage." data-glossary-id="purusha">purusha</span> is the divine principle; and the sacrificial principle is I myself, here within the body, O best of the embodied.</p>
 <details class="sanskrit">
@@ -62,7 +62,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-5" data-reference="8.5">
 <header class="verse-head">
 <a class="ref" href="#v-8-5">8.5</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">And whoever, at the hour of death, remembering me alone, departs, leaving the body, attains my being; of this there is no doubt.</p>
 <details class="sanskrit">
@@ -75,7 +75,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-6" data-reference="8.6">
 <header class="verse-head">
 <a class="ref" href="#v-8-6">8.6</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Whatever state one calls to mind as he leaves the body at the end, to that very state he goes, O son of Kunti, ever shaped by that thought.</p>
 <details class="sanskrit">
@@ -88,7 +88,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-7" data-reference="8.7">
 <header class="verse-head">
 <a class="ref" href="#v-8-7">8.7</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Therefore at all times remember me, and fight; with mind and understanding fixed on me, you shall come to me, beyond doubt.</p>
 <details class="sanskrit">
@@ -101,7 +101,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-8" data-reference="8.8">
 <header class="verse-head">
 <a class="ref" href="#v-8-8">8.8</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">With the mind disciplined by practice and not straying elsewhere, one reaches the supreme divine person, meditating on him, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
 <details class="sanskrit">
@@ -114,7 +114,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-9" data-reference="8.9">
 <header class="verse-head">
 <a class="ref" href="#v-8-9">8.9</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Whoever meditates on the ancient seer, the ruler of all, smaller than the small, the sustainer of all, of form beyond thought, sunlike in color, beyond the darkness—</p>
 <details class="sanskrit">
@@ -129,7 +129,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-10" data-reference="8.10">
 <header class="verse-head">
 <a class="ref" href="#v-8-10">8.10</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">at the hour of departure, with mind unmoving, joined with devotion and the power of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, setting the breath rightly between the brows, he reaches that supreme divine person.</p>
 <details class="sanskrit">
@@ -144,7 +144,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-11" data-reference="8.11">
 <header class="verse-head">
 <a class="ref" href="#v-8-11">8.11</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">That state which the knowers of the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Veda</span> call imperishable, which ascetics free of passion enter, and seeking which they live in celibacy—that state I shall declare to you in brief.</p>
 <details class="sanskrit">
@@ -159,7 +159,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-12" data-reference="8.12">
 <header class="verse-head">
 <a class="ref" href="#v-8-12">8.12</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Closing all the gates, confining the mind in the heart, drawing the breath up into the head, established in the concentration of <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>,</p>
 <details class="sanskrit">
@@ -172,7 +172,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-13" data-reference="8.13">
 <header class="verse-head">
 <a class="ref" href="#v-8-13">8.13</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">uttering the single syllable <span class="glossary-term" tabindex="0" data-gloss="Om: Sacred syllable used as a concise sign of the absolute or divine." aria-label="Om: Sacred syllable used as a concise sign of the absolute or divine." title="Om: Sacred syllable used as a concise sign of the absolute or divine." data-glossary-id="om">Om</span>, which is <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, and remembering me, he who departs, leaving the body, reaches the supreme goal.</p>
 <details class="sanskrit">
@@ -185,7 +185,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-14" data-reference="8.14">
 <header class="verse-head">
 <a class="ref" href="#v-8-14">8.14</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">For the yogin who, undistracted, remembers me constantly, day after day, I am easy to reach, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>—for the ever-disciplined one.</p>
 <details class="sanskrit">
@@ -198,7 +198,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-15" data-reference="8.15">
 <header class="verse-head">
 <a class="ref" href="#v-8-15">8.15</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Having reached me, the great souls are not born again into this fleeting home of sorrow; they have attained the highest perfection.</p>
 <details class="sanskrit">
@@ -211,7 +211,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-16" data-reference="8.16">
 <header class="verse-head">
 <a class="ref" href="#v-8-16">8.16</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">From the world of <span class="glossary-term" tabindex="0" data-gloss="Brahma: The creator god; distinct from Brahman, the ultimate reality." aria-label="Brahma: The creator god; distinct from Brahman, the ultimate reality." title="Brahma: The creator god; distinct from Brahman, the ultimate reality." data-glossary-id="brahma">Brahma</span> downward, all worlds are subject to return, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>; but having reached me, O son of Kunti, there is no rebirth.</p>
 <details class="sanskrit">
@@ -224,7 +224,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-17" data-reference="8.17">
 <header class="verse-head">
 <a class="ref" href="#v-8-17">8.17</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Those who know that <span class="glossary-term" tabindex="0" data-gloss="Brahma: The creator god; distinct from Brahman, the ultimate reality." aria-label="Brahma: The creator god; distinct from Brahman, the ultimate reality." title="Brahma: The creator god; distinct from Brahman, the ultimate reality." data-glossary-id="brahma">Brahma&#x27;s</span> day lasts a thousand ages, and his night ends after a thousand ages—they are the people who know day and night.</p>
 <details class="sanskrit">
@@ -237,7 +237,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-18" data-reference="8.18">
 <header class="verse-head">
 <a class="ref" href="#v-8-18">8.18</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">At the coming of day all manifest things arise from the unmanifest; at the coming of night they dissolve into that same unmanifest.</p>
 <details class="sanskrit">
@@ -250,7 +250,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-19" data-reference="8.19">
 <header class="verse-head">
 <a class="ref" href="#v-8-19">8.19</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">This same host of beings, coming to be again and again, dissolves helplessly at the coming of night, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, and comes forth at the coming of day.</p>
 <details class="sanskrit">
@@ -263,7 +263,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-20" data-reference="8.20">
 <header class="verse-head">
 <a class="ref" href="#v-8-20">8.20</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">But beyond this unmanifest is another, eternal unmanifest, which does not perish when all beings perish.</p>
 <details class="sanskrit">
@@ -276,7 +276,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-21" data-reference="8.21">
 <header class="verse-head">
 <a class="ref" href="#v-8-21">8.21</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">This unmanifest, called the imperishable, is named the supreme goal; reaching it, they do not return—that is my supreme abode.</p>
 <details class="sanskrit">
@@ -289,7 +289,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-22" data-reference="8.22">
 <header class="verse-head">
 <a class="ref" href="#v-8-22">8.22</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">That supreme person, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, in whom all beings dwell and by whom all this is pervaded, is to be reached by undivided devotion.</p>
 <details class="sanskrit">
@@ -302,7 +302,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-23" data-reference="8.23">
 <header class="verse-head">
 <a class="ref" href="#v-8-23">8.23</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Now I shall tell you, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>, the time at which yogins who depart go to no return, and the time at which they return.</p>
 <details class="sanskrit">
@@ -315,7 +315,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-24" data-reference="8.24">
 <header class="verse-head">
 <a class="ref" href="#v-8-24">8.24</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Fire, light, day, the bright fortnight, the six months of the sun&#x27;s northward course—departing then, those who know <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span> go to <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
@@ -328,7 +328,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-25" data-reference="8.25">
 <header class="verse-head">
 <a class="ref" href="#v-8-25">8.25</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Smoke, night, the dark fortnight, the six months of the southward course—by these the yogin reaches the lunar light and returns.</p>
 <details class="sanskrit">
@@ -341,7 +341,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-26" data-reference="8.26">
 <header class="verse-head">
 <a class="ref" href="#v-8-26">8.26</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">These two paths of the world, the bright and the dark, are held to be eternal; by the one a person goes to no return, by the other he returns again.</p>
 <details class="sanskrit">
@@ -354,7 +354,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-27" data-reference="8.27">
 <header class="verse-head">
 <a class="ref" href="#v-8-27">8.27</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">Knowing these two paths, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, no yogin is deluded; therefore at all times be yoked in <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>.</p>
 <details class="sanskrit">
@@ -367,7 +367,7 @@ title: "Chapter 8 - Akshara-Brahma Yoga"
 <article class="verse" id="v-8-28" data-reference="8.28">
 <header class="verse-head">
 <a class="ref" href="#v-8-28">8.28</a>
-<span class="speaker">(Shri Bhagavan Krishna)</span>
+<span class="speaker">(Krishna)</span>
 </header>
 <p class="translation translation-en" data-lang="en">The yogin who knows all this passes beyond whatever fruit of merit is laid down for the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, for sacrifices, austerities, and gifts, and reaches the supreme, primal abode.</p>
 <details class="sanskrit">
