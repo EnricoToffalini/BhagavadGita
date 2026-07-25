@@ -272,8 +272,7 @@ title: "Chapter 10 - Vibhuti Yoga"
 <a class="ref" href="#v-10-21">10.21</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among the Adityas I am <span class="glossary-term" tabindex="0" data-gloss="Vishnu: A divine name associated with Krishna in the text." aria-label="Vishnu: A divine name associated with Krishna in the text." title="Vishnu: A divine name associated with Krishna in the text." data-glossary-id="vishnu">Vishnu</span>; among lights, the radiant sun;<br>
-among the Maruts I am Marichi; among the stars, the moon.</p>
+<p class="translation translation-en" data-lang="en">Among the Adityas I am <span class="glossary-term" tabindex="0" data-gloss="Vishnu: A divine name associated with Krishna in the text." aria-label="Vishnu: A divine name associated with Krishna in the text." title="Vishnu: A divine name associated with Krishna in the text." data-glossary-id="vishnu">Vishnu</span>; among lights, the radiant sun; among the Maruts I am Marichi; among the stars, the moon.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।<br>
@@ -286,8 +285,7 @@ among the Maruts I am Marichi; among the stars, the moon.</p>
 <a class="ref" href="#v-10-22">10.22</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span> I am the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Sama</span> <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Veda</span>; among the gods, Vasava;<br>
-among the senses I am the mind; in beings I am consciousness.</p>
+<p class="translation translation-en" data-lang="en">Among the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span> I am the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Sama</span> <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Veda</span>; among the gods, Vasava; among the senses I am the mind; in beings I am consciousness.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।<br>
@@ -339,8 +337,7 @@ among the senses I am the mind; in beings I am consciousness.</p>
 <a class="ref" href="#v-10-26">10.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among all trees I am the ashvattha; among divine sages, Narada;<br>
-among the gandharvas, Chitraratha; among the perfected, the sage Kapila.</p>
+<p class="translation translation-en" data-lang="en">Among all trees I am the ashvattha; among divine sages, Narada; among the gandharvas, Chitraratha; among the perfected, the sage Kapila.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः ।<br>
@@ -366,8 +363,7 @@ among the gandharvas, Chitraratha; among the perfected, the sage Kapila.</p>
 <a class="ref" href="#v-10-28">10.28</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among weapons I am the thunderbolt; among cows, the wish-granting cow;<br>
-among begetters I am Kandarpa; among serpents, Vasuki.</p>
+<p class="translation translation-en" data-lang="en">Among weapons I am the thunderbolt; among cows, the wish-granting cow; among begetters I am Kandarpa; among serpents, Vasuki.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">आयुधानामहं वज्रं धेनूनामस्मि कामधुक् ।<br>
@@ -380,8 +376,7 @@ among begetters I am Kandarpa; among serpents, Vasuki.</p>
 <a class="ref" href="#v-10-29">10.29</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among the nagas I am Ananta; among water-dwellers, <span class="glossary-term" tabindex="0" data-gloss="Varuna: Vedic deity associated with cosmic order and waters." aria-label="Varuna: Vedic deity associated with cosmic order and waters." title="Varuna: Vedic deity associated with cosmic order and waters." data-glossary-id="varuna">Varuna</span>;<br>
-among the ancestors, Aryaman; among those who govern, <span class="glossary-term" tabindex="0" data-gloss="Yama: Deity associated with death and restraint." aria-label="Yama: Deity associated with death and restraint." title="Yama: Deity associated with death and restraint." data-glossary-id="yama">Yama</span>.</p>
+<p class="translation translation-en" data-lang="en">Among the nagas I am Ananta; among water-dwellers, <span class="glossary-term" tabindex="0" data-gloss="Varuna: Vedic deity associated with cosmic order and waters." aria-label="Varuna: Vedic deity associated with cosmic order and waters." title="Varuna: Vedic deity associated with cosmic order and waters." data-glossary-id="varuna">Varuna</span>; among the ancestors, Aryaman; among those who govern, <span class="glossary-term" tabindex="0" data-gloss="Yama: Deity associated with death and restraint." aria-label="Yama: Deity associated with death and restraint." title="Yama: Deity associated with death and restraint." data-glossary-id="yama">Yama</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनन्तश्चास्मि नागानां वरुणो यादसामहम् ।<br>
@@ -433,8 +428,7 @@ among the ancestors, Aryaman; among those who govern, <span class="glossary-term
 <a class="ref" href="#v-10-33">10.33</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Of letters I am the letter A; of compounds, the dual;<br>
-I am imperishable time, and the sustainer facing in every direction.</p>
+<p class="translation translation-en" data-lang="en">Of letters I am the letter A; of compounds, the dual; I am imperishable time, and the sustainer facing in every direction.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च ।<br>
@@ -447,8 +441,7 @@ I am imperishable time, and the sustainer facing in every direction.</p>
 <a class="ref" href="#v-10-34">10.34</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I am all-devouring death, and the origin of things to come;<br>
-among feminine powers I am fame, fortune, speech, memory, wisdom, steadfastness, and patience.</p>
+<p class="translation translation-en" data-lang="en">I am all-devouring death, and the origin of things to come; among feminine powers I am fame, fortune, speech, memory, wisdom, steadfastness, and patience.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् ।<br>
@@ -487,8 +480,7 @@ among feminine powers I am fame, fortune, speech, memory, wisdom, steadfastness,
 <a class="ref" href="#v-10-37">10.37</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Among the Vrishnis I am <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vasudeva</span>; among the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandavas</span>, <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>;<br>
-among sages I am Vyasa; among seers, Ushanas the seer.</p>
+<p class="translation translation-en" data-lang="en">Among the Vrishnis I am <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vasudeva</span>; among the <span class="glossary-term" tabindex="0" data-gloss="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." aria-label="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." title="Pandava: One of the sons or descendants of Pandu; often refers to Arjuna and his brothers." data-glossary-id="pandava">Pandavas</span>, <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>; among sages I am Vyasa; among seers, Ushanas the seer.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः ।<br>

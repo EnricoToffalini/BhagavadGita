@@ -129,8 +129,7 @@ title: "Chapter 3 - Karma Yoga"
 <a class="ref" href="#v-3-10">3.10</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Having created humankind together with <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>, <span class="glossary-term" tabindex="0" data-gloss="Prajapati: Lord of creatures; a creator figure." aria-label="Prajapati: Lord of creatures; a creator figure." title="Prajapati: Lord of creatures; a creator figure." data-glossary-id="prajapati">Prajapati</span> said of old:<br>
-&quot;By this you shall increase; let it be the cow that grants your desires.</p>
+<p class="translation translation-en" data-lang="en">Having created humankind together with <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>, <span class="glossary-term" tabindex="0" data-gloss="Prajapati: Lord of creatures; a creator figure." aria-label="Prajapati: Lord of creatures; a creator figure." title="Prajapati: Lord of creatures; a creator figure." data-glossary-id="prajapati">Prajapati</span> said of old: &quot;By this you shall increase; let it be the cow that grants your desires.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।<br>
@@ -156,8 +155,7 @@ title: "Chapter 3 - Karma Yoga"
 <a class="ref" href="#v-3-12">3.12</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Nourished by <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>, the gods will grant you the enjoyments you desire;<br>
-but one who enjoys their gifts without offering back to them is nothing but a thief.</p>
+<p class="translation translation-en" data-lang="en">Nourished by <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span>, the gods will grant you the enjoyments you desire; but one who enjoys their gifts without offering back to them is nothing but a thief.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।<br>
@@ -183,8 +181,7 @@ but one who enjoys their gifts without offering back to them is nothing but a th
 <a class="ref" href="#v-3-14">3.14</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">From food beings come to be; from rain comes food;<br>
-from <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span> comes rain; and <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span> is born of action.</p>
+<p class="translation translation-en" data-lang="en">From food beings come to be; from rain comes food; from <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span> comes rain; and <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritual offering, or consecrated action." aria-label="yajna: Sacrifice, ritual offering, or consecrated action." title="yajna: Sacrifice, ritual offering, or consecrated action." data-glossary-id="yajna">yajna</span> is born of action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।<br>
@@ -275,8 +272,7 @@ from <span class="glossary-term" tabindex="0" data-gloss="yajna: Sacrifice, ritu
 <a class="ref" href="#v-3-21">3.21</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whatever the eminent person does, that the rest will do;<br>
-whatever standard he sets, the world follows it.</p>
+<p class="translation translation-en" data-lang="en">Whatever the eminent person does, that the rest will do; whatever standard he sets, the world follows it.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।<br>
@@ -354,8 +350,7 @@ whatever standard he sets, the world follows it.</p>
 <a class="ref" href="#v-3-27">3.27</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Actions are in every way performed by the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>;<br>
-one whose mind is deluded by ego thinks, &quot;I am the doer.&quot;</p>
+<p class="translation translation-en" data-lang="en">Actions are in every way performed by the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span> of <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span>; one whose mind is deluded by ego thinks, &quot;I am the doer.&quot;</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।<br>
@@ -433,8 +428,7 @@ one whose mind is deluded by ego thinks, &quot;I am the doer.&quot;</p>
 <a class="ref" href="#v-3-33">3.33</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Even the wise act according to their own nature;<br>
-beings follow their nature—what can restraint accomplish?</p>
+<p class="translation translation-en" data-lang="en">Even the wise act according to their own nature; beings follow their nature—what can restraint accomplish?</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।<br>
@@ -460,8 +454,7 @@ beings follow their nature—what can restraint accomplish?</p>
 <a class="ref" href="#v-3-35">3.35</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Better one&#x27;s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, imperfectly done, than another&#x27;s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> well performed.<br>
-Better to die in one&#x27;s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>; another&#x27;s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> brings danger.</p>
+<p class="translation translation-en" data-lang="en">Better one&#x27;s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, imperfectly done, than another&#x27;s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> well performed. Better to die in one&#x27;s own <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>; another&#x27;s <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span> brings danger.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।<br>
@@ -487,8 +480,7 @@ Better to die in one&#x27;s own <span class="glossary-term" tabindex="0" data-gl
 <a class="ref" href="#v-3-37">3.37</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">It is desire, it is anger, born of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">guna</span> of <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span>—<br>
-all-devouring, deeply harmful; know it here to be the enemy.</p>
+<p class="translation translation-en" data-lang="en">It is desire, it is anger, born of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">guna</span> of <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span>—all-devouring, deeply harmful; know it here to be the enemy.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">काम एष क्रोध एष रजोगुणसमुद्भवः ।<br>
@@ -527,8 +519,7 @@ all-devouring, deeply harmful; know it here to be the enemy.</p>
 <a class="ref" href="#v-3-40">3.40</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The senses, the mind, and the understanding are said to be its seat;<br>
-through these it veils knowledge and deludes the embodied one.</p>
+<p class="translation translation-en" data-lang="en">The senses, the mind, and the understanding are said to be its seat; through these it veils knowledge and deludes the embodied one.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।<br>
@@ -554,8 +545,7 @@ through these it veils knowledge and deludes the embodied one.</p>
 <a class="ref" href="#v-3-42">3.42</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The senses, they say, are high; higher than the senses is the mind;<br>
-higher than the mind is the understanding; and higher than the understanding is the self.</p>
+<p class="translation translation-en" data-lang="en">The senses, they say, are high; higher than the senses is the mind; higher than the mind is the understanding; and higher than the understanding is the self.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।<br>
