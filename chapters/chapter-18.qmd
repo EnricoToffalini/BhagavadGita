@@ -701,7 +701,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-54">18.54</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Become <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, serene in self, he neither grieves nor craves; the same toward all beings, he attains supreme devotion to me.</p>
+<p class="translation translation-en" data-lang="en">Having become the <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, serene in himself, this soul neither grieves nor craves; being equal toward all beings, attains supreme devotion to me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।<br>

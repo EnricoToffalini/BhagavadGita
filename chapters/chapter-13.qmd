@@ -337,7 +337,7 @@ title: "Chapter 13 - Kshetra-Kshetrajna Vibhaga Yoga"
 <a class="ref" href="#v-13-26">13.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Others, not knowing this, worship having heard it from others; they too, devoted to what they hear, cross beyond death.</p>
+<p class="translation translation-en" data-lang="en">Others, not knowing this themselves, worship on the basis of having heard it from others; they too, devoted to what they hear, cross beyond death.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते ।<br>

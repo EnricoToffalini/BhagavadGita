@@ -103,7 +103,7 @@ title: "Chapter 16 - Daivasura-Sampad Vibhaga Yoga"
 <a class="ref" href="#v-16-8">16.8</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">They say the world is without truth, without ground, without a lord, arising from no orderly cause, brought about by desire alone.</p>
+<p class="translation translation-en" data-lang="en">They say that the world is without truth, without foundation, without a lord, born merely from mutual union and caused by desire alone.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् ।<br>

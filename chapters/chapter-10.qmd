@@ -77,7 +77,7 @@ title: "Chapter 10 - Vibhuti Yoga"
 <a class="ref" href="#v-10-6">10.6</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The seven great sages of old, and the four Manus too, sharing my nature, were born of my mind; from them sprang these creatures of the world.</p>
+<p class="translation translation-en" data-lang="en">The seven great sages, the four ancients, and the Manus, sharing my nature, were born of my mind; from them sprang these creatures of the world.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा ।<br>
@@ -428,7 +428,7 @@ title: "Chapter 10 - Vibhuti Yoga"
 <a class="ref" href="#v-10-33">10.33</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Of letters I am the letter A; of compounds, the dual; I am imperishable time, and the sustainer facing in every direction.</p>
+<p class="translation translation-en" data-lang="en">Of letters I am &quot;A&quot;; of grammatical compounds I am the dual word. I am the inexhaustible time, the creator, and the omnipresent sustainer.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च ।<br>

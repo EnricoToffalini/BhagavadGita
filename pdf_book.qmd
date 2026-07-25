@@ -197,7 +197,7 @@ that I may look upon these men standing eager to fight, with whom I must contend
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.23} \textit{(Arjuna)}\par
-I see them gathered here, ready to fight, seeking to please in battle the evil-minded son of Dhritarashtra.
+Let me look upon those who have gathered here to fight, seeking to please in battle the evil-minded son of Dhritarashtra.
 \par\endgroup
 \vspace{0.42em}
 
@@ -281,7 +281,7 @@ teachers, fathers, sons, and grandfathers; uncles, fathers-in-law, grandsons, br
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.35} \textit{(Arjuna)}\par
-These I would not wish to kill, O Madhusudana, even if killed myself—not even for the sovereignty of the three worlds, much less for the earth.
+I do not wish to kill them, O Madhusudana, even if they were to kill me—not even for the sovereignty of the three worlds, much less for the earth.
 \par\endgroup
 \vspace{0.42em}
 
@@ -403,7 +403,7 @@ How, O Madhusudana, shall I fight back with arrows against Bhishma and Drona, wh
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.5} \textit{(Arjuna)}\par
-Better to live in this world on alms than to kill these noble teachers. Were I to kill these teachers, though they seek their own gain, the very pleasures I enjoyed would be smeared with blood.
+Better to live in this world begging for alms than to kill these noble teachers. Were I to kill them, the very pleasures I enjoyed would be stained with blood.
 \par\endgroup
 \vspace{0.42em}
 
@@ -844,7 +844,7 @@ For when the mind runs after the wandering senses, it carries away one's wisdom,
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.68} \textit{(Krishna)}\par
-Therefore, O mighty-armed one, for the one whose senses are wholly restrained from their objects—the wisdom his firmly established.
+Therefore, O mighty-armed one, for the one whose senses are wholly restrained from their objects—his wisdom is firmly established.
 \par\endgroup
 \vspace{0.42em}
 
@@ -987,7 +987,7 @@ Know that action springs from Brahman, and Brahman from the imperishable; theref
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.16} \textit{(Krishna)}\par
-He who does not follow here the wheel thus set in motion, malicious and delighting in the senses, lives in vain, O Partha.
+He who does not follow here the wheel thus set in motion, living sinfully and delighting in the senses, lives in vain, O Partha.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1057,7 +1057,7 @@ As the ignorant act with attachment to action, O Bharata, so should the wise act
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.26} \textit{(Krishna)}\par
-Let the wise not unsettle the minds of the ignorant who are attached to action; acting with discipline, he should make all actions attractive to them.
+Let the wise not unsettle the minds of the ignorant who are attached to action; acting with discipline himself, he should engage them in all their actions.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1990,7 +1990,7 @@ There he regains the union of understanding gained in his former body, and from 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.44} \textit{(Krishna)}\par
-By that very former practice he is carried onward, even against his will; even wishing to know yoga, he passes beyond the Brahman of mere words.
+By that very former practice he is carried onward, even against his will; even one who merely seeks to know yoga passes beyond the formalistic domain of the words of the Vedas.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2709,7 +2709,7 @@ nonviolence, evenness, contentment, austerity, charity, fame and disrepute—the
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.6} \textit{(Krishna)}\par
-The seven great sages of old, and the four Manus too, sharing my nature, were born of my mind; from them sprang these creatures of the world.
+The seven great sages, the four ancients, and the Manus, sharing my nature, were born of my mind; from them sprang these creatures of the world.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2898,7 +2898,7 @@ Of creations I am the beginning, the end, and the middle, Arjuna; of branches of
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.33} \textit{(Krishna)}\par
-Of letters I am the letter A; of compounds, the dual; I am imperishable time, and the sustainer facing in every direction.
+Of letters I am "A"; of grammatical compounds I am the dual word. I am the inexhaustible time, the creator, and the omnipresent sustainer.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3677,7 +3677,7 @@ Some, by meditation, see the self in the self by the self; others by the yoga of
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{13.26} \textit{(Krishna)}\par
-Others, not knowing this, worship having heard it from others; they too, devoted to what they hear, cross beyond death.
+Others, not knowing this themselves, worship on the basis of having heard it from others; they too, devoted to what they hear, cross beyond death.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4134,7 +4134,7 @@ The demonic do not know either action or its cessation; in them is found neither
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{16.8} \textit{(Krishna)}\par
-They say the world is without truth, without ground, without a lord, arising from no orderly cause, brought about by desire alone.
+They say that the world is without truth, without foundation, without a lord, born merely from mutual union and caused by desire alone.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4826,7 +4826,7 @@ freed from ego, force, pride, desire, anger, and possession, without a sense of 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.54} \textit{(Krishna)}\par
-Become Brahman, serene in self, he neither grieves nor craves; the same toward all beings, he attains supreme devotion to me.
+Having become the Brahman, serene in himself, this soul neither grieves nor craves; being equal toward all beings, attains supreme devotion to me.
 \par\endgroup
 \vspace{0.42em}
 
