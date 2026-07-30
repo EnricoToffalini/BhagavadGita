@@ -103,7 +103,7 @@ title: "Chapter 6 - Atma-Samyama Yoga"
 <a class="ref" href="#v-6-8">6.8</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The yogin content in knowledge and realization, unwavering, his senses subdued, to whom a clod, a stone, and gold are alike, is said to be yoked.</p>
+<p class="translation translation-en" data-lang="en">The yogin who is content in knowledge and realization, unwavering, with his senses subdued, to whom a clod, a stone, and gold are alike, is said to be yoked.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।<br>

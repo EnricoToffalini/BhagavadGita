@@ -857,7 +857,7 @@ title: "Chapter 18 - Moksha-Sannyasa Yoga"
 <a class="ref" href="#v-18-66">18.66</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Giving up all dharmas, take refuge in me alone; I will free you from all sins—do not grieve.</p>
+<p class="translation translation-en" data-lang="en">Renouncing all forms of <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, take refuge in me alone; I will free you from every evil—do not grieve.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।<br>
