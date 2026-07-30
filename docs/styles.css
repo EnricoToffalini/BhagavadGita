@@ -151,20 +151,20 @@ html {
 
 /* The generated Quarto navbar otherwise retains Cosmo's blue primary colour. */
 #quarto-header .navbar {
-  background-color: var(--gita-orange);
+  background-color: var(--gita-faint);
 }
 
 #quarto-header .navbar-brand,
 #quarto-header .navbar .nav-link,
 #quarto-header .navbar .navbar-toggler {
-  color: #fff;
+  color: black;
 }
 
 #quarto-header .navbar .nav-link:hover,
 #quarto-header .navbar .nav-link:focus,
 #quarto-header .navbar .nav-link.active,
 #quarto-header .navbar-brand:hover {
-  color: #fff;
+  color: black;
 }
 
 #quarto-header .navbar .navbar-toggler {
@@ -173,17 +173,17 @@ html {
 
 /* Use an opaque white hamburger icon on the orange mobile navbar. */
 #quarto-header .navbar .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23000' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
 }
 
 #quarto-header .dropdown-item {
-  color: var(--gita-orange-deep);
+  color: black;
 }
 
 #quarto-header .dropdown-item:hover,
 #quarto-header .dropdown-item:focus {
-  color: var(--gita-orange-deep);
-  background-color: var(--gita-orange-soft);
+  color: var(--gita-orange-dark);
+  background-color: var(--gita-faint);
 }
 
 #quarto-header .dropdown-item.active,
