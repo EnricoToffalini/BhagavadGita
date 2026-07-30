@@ -101,6 +101,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: glossary-tooltip.html
     toc: false
     smooth-scroll: true
     anchor-sections: false

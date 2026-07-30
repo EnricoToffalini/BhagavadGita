@@ -1,0 +1,70 @@
+<script>
+(() => {
+  const smallScreen = window.matchMedia("(max-width: 700px)");
+  const margin = 12;
+  const gap = 6;
+  let popup;
+  let activeTerm;
+
+  function hidePopup() {
+    if (popup) popup.hidden = true;
+    activeTerm = undefined;
+  }
+
+  function showPopup(term) {
+    if (!smallScreen.matches) return;
+
+    if (!popup) {
+      popup = document.createElement("div");
+      popup.className = "glossary-popup";
+      popup.setAttribute("role", "tooltip");
+      document.body.append(popup);
+    }
+
+    activeTerm = term;
+    popup.textContent = term.dataset.gloss;
+    popup.hidden = false;
+    popup.style.visibility = "hidden";
+    popup.style.maxWidth = `${window.innerWidth - (margin * 2)}px`;
+    popup.style.maxHeight = `${window.innerHeight - (margin * 2)}px`;
+
+    const target = term.getBoundingClientRect();
+    const note = popup.getBoundingClientRect();
+    const spaceAbove = target.top - margin - gap;
+    const spaceBelow = window.innerHeight - target.bottom - margin - gap;
+    const placeBelow = spaceBelow >= note.height || spaceBelow >= spaceAbove;
+    const top = placeBelow
+      ? Math.min(target.bottom + gap, window.innerHeight - note.height - margin)
+      : Math.max(margin, target.top - gap - note.height);
+    const left = Math.max(margin, Math.min(target.left, window.innerWidth - note.width - margin));
+
+    popup.style.top = `${top}px`;
+    popup.style.left = `${left}px`;
+    popup.style.visibility = "visible";
+  }
+
+  document.addEventListener("focusin", (event) => {
+    const term = event.target.closest(".glossary-term");
+    if (term) showPopup(term);
+  });
+
+  document.addEventListener("focusout", (event) => {
+    if (event.target.closest(".glossary-term")) hidePopup();
+  });
+
+  document.addEventListener("pointerover", (event) => {
+    const term = event.target.closest(".glossary-term");
+    if (term) showPopup(term);
+  });
+
+  document.addEventListener("pointerout", (event) => {
+    if (event.target.closest(".glossary-term")) hidePopup();
+  });
+
+  window.addEventListener("resize", () => {
+    if (activeTerm) showPopup(activeTerm);
+    else if (!smallScreen.matches) hidePopup();
+  });
+  window.addEventListener("scroll", () => activeTerm && showPopup(activeTerm), { passive: true });
+})();
+</script>

@@ -12,7 +12,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-1">7.1</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">With your mind clinging to me, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, practicing <span class="glossary-term" tabindex="0" data-gloss="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> and taking refuge in me, hear how you shall know me fully and beyond doubt.</p>
+<p class="translation translation-en" data-lang="en">With your mind clinging to me, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, practicing <span class="glossary-term" tabindex="0" data-gloss="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="yoga: Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span> and taking refuge in me, hear how you shall know me fully and beyond doubt.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः ।<br>
@@ -51,7 +51,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-4">7.4</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Earth, water, fire, air, ether, mind, understanding, and ego—so is my <span class="glossary-term" tabindex="0" data-gloss="prakriti: Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> divided eightfold.</p>
+<p class="translation translation-en" data-lang="en">Earth, water, fire, air, ether, mind, understanding, and ego—so is my <span class="glossary-term" tabindex="0" data-gloss="Nature, material process, or the field of change and manifestation." aria-label="prakriti: Nature, material process, or the field of change and manifestation." title="prakriti: Nature, material process, or the field of change and manifestation." data-glossary-id="prakriti">prakriti</span> divided eightfold.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।<br>
@@ -90,7 +90,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-7">7.7</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">There is nothing higher than me, O <span class="glossary-term" tabindex="0" data-gloss="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>; on me all this is strung, like rows of gems upon a thread.</p>
+<p class="translation translation-en" data-lang="en">There is nothing higher than me, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna, often understood as winner of wealth." aria-label="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." title="Dhananjaya: Epithet of Arjuna, often understood as winner of wealth." data-glossary-id="dhananjaya">Dhananjaya</span>; on me all this is strung, like rows of gems upon a thread.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।<br>
@@ -103,7 +103,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-8">7.8</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I am the taste in water, O son of Kunti, the light in moon and sun, the syllable <span class="glossary-term" tabindex="0" data-gloss="Om: Sacred syllable used as a concise sign of the absolute or divine." aria-label="Om: Sacred syllable used as a concise sign of the absolute or divine." title="Om: Sacred syllable used as a concise sign of the absolute or divine." data-glossary-id="om">Om</span> in all the <span class="glossary-term" tabindex="0" data-gloss="Vedas: Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, the sound in space, the manhood in men.</p>
+<p class="translation translation-en" data-lang="en">I am the taste in water, O son of Kunti, the light in moon and sun, the syllable <span class="glossary-term" tabindex="0" data-gloss="Sacred syllable used as a concise sign of the absolute or divine." aria-label="Om: Sacred syllable used as a concise sign of the absolute or divine." title="Om: Sacred syllable used as a concise sign of the absolute or divine." data-glossary-id="om">Om</span> in all the <span class="glossary-term" tabindex="0" data-gloss="Ancient sacred texts of the Vedic tradition." aria-label="Vedas: Ancient sacred texts of the Vedic tradition." title="Vedas: Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, the sound in space, the manhood in men.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः ।<br>
@@ -129,7 +129,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-10">7.10</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Know me, O <span class="glossary-term" tabindex="0" data-gloss="Partha: Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, as the eternal seed of all beings; I am the understanding of the wise, the splendor of the splendid.</p>
+<p class="translation translation-en" data-lang="en">Know me, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna: son of Pritha/Kunti." aria-label="Partha: Epithet of Arjuna: son of Pritha/Kunti." title="Partha: Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, as the eternal seed of all beings; I am the understanding of the wise, the splendor of the splendid.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।<br>
@@ -142,7 +142,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-11">7.11</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I am the strength of the strong, free of desire and passion; in beings I am desire that does not conflict with <span class="glossary-term" tabindex="0" data-gloss="dharma: Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, O chief of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
+<p class="translation translation-en" data-lang="en">I am the strength of the strong, free of desire and passion; in beings I am desire that does not conflict with <span class="glossary-term" tabindex="0" data-gloss="Order, duty, law, or right conduct; the exact sense depends on context." aria-label="dharma: Order, duty, law, or right conduct; the exact sense depends on context." title="dharma: Order, duty, law, or right conduct; the exact sense depends on context." data-glossary-id="dharma">dharma</span>, O chief of the <span class="glossary-term" tabindex="0" data-gloss="A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">बलं बलवतां चाहं कामरागविवर्जितम् ।<br>
@@ -155,7 +155,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-12">7.12</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Whatever states there are—of <span class="glossary-term" tabindex="0" data-gloss="sattva: The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattva</span>, of <span class="glossary-term" tabindex="0" data-gloss="rajas: The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span>, or of <span class="glossary-term" tabindex="0" data-gloss="tamas: The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamas</span>—know them all to come from me; yet I am not in them, but they are in me.</p>
+<p class="translation translation-en" data-lang="en">Whatever states there are—of <span class="glossary-term" tabindex="0" data-gloss="The guna associated with clarity, balance, and illumination." aria-label="sattva: The guna associated with clarity, balance, and illumination." title="sattva: The guna associated with clarity, balance, and illumination." data-glossary-id="sattva">sattva</span>, of <span class="glossary-term" tabindex="0" data-gloss="The guna associated with activity, passion, impulse, and restlessness." aria-label="rajas: The guna associated with activity, passion, impulse, and restlessness." title="rajas: The guna associated with activity, passion, impulse, and restlessness." data-glossary-id="rajas">rajas</span>, or of <span class="glossary-term" tabindex="0" data-gloss="The guna associated with inertia, dullness, confusion, and obstruction." aria-label="tamas: The guna associated with inertia, dullness, confusion, and obstruction." title="tamas: The guna associated with inertia, dullness, confusion, and obstruction." data-glossary-id="tamas">tamas</span>—know them all to come from me; yet I am not in them, but they are in me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।<br>
@@ -168,7 +168,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-13">7.13</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Deluded by these three states made of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, this whole world does not know me, who am above them and imperishable.</p>
+<p class="translation translation-en" data-lang="en">Deluded by these three states made of the <span class="glossary-term" tabindex="0" data-gloss="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, this whole world does not know me, who am above them and imperishable.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् ।<br>
@@ -181,7 +181,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-14">7.14</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For this divine <span class="glossary-term" tabindex="0" data-gloss="maya: Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span> of mine, made of the <span class="glossary-term" tabindex="0" data-gloss="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, is hard to cross; but those who take refuge in me alone pass beyond this <span class="glossary-term" tabindex="0" data-gloss="maya: Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span>.</p>
+<p class="translation translation-en" data-lang="en">For this divine <span class="glossary-term" tabindex="0" data-gloss="Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span> of mine, made of the <span class="glossary-term" tabindex="0" data-gloss="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="guna: A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, is hard to cross; but those who take refuge in me alone pass beyond this <span class="glossary-term" tabindex="0" data-gloss="Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">दैवी ह्येषा गुणमयी मम माया दुरत्यया ।<br>
@@ -194,7 +194,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-15">7.15</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The evildoers, the deluded, the lowest of men, their knowledge stripped away by <span class="glossary-term" tabindex="0" data-gloss="maya: Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span>, given over to a demonic nature, do not take refuge in me.</p>
+<p class="translation translation-en" data-lang="en">The evildoers, the deluded, the lowest of men, their knowledge stripped away by <span class="glossary-term" tabindex="0" data-gloss="Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">maya</span>, given over to a demonic nature, do not take refuge in me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः ।<br>
@@ -207,7 +207,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-16">7.16</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Four kinds of those who do good worship me, <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>: the distressed, the seeker of knowledge, the seeker of gain, and the wise, O best of the <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
+<p class="translation translation-en" data-lang="en">Four kinds of those who do good worship me, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>: the distressed, the seeker of knowledge, the seeker of gain, and the wise, O best of the <span class="glossary-term" tabindex="0" data-gloss="A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharatas</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।<br>
@@ -246,7 +246,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-19">7.19</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">At the end of many births the wise one comes to me, knowing that <span class="glossary-term" tabindex="0" data-gloss="Vasudeva: Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vasudeva</span> is all; such a great soul is very rare.</p>
+<p class="translation translation-en" data-lang="en">At the end of many births the wise one comes to me, knowing that <span class="glossary-term" tabindex="0" data-gloss="Name or epithet of Krishna, son of Vasudeva." aria-label="Vasudeva: Name or epithet of Krishna, son of Vasudeva." title="Vasudeva: Name or epithet of Krishna, son of Vasudeva." data-glossary-id="vasudeva">Vasudeva</span> is all; such a great soul is very rare.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।<br>
@@ -324,7 +324,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-25">7.25</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Veiled by my <span class="glossary-term" tabindex="0" data-gloss="maya: Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">yoga-maya</span>, I am not manifest to all; this deluded world does not know me, the unborn and imperishable.</p>
+<p class="translation translation-en" data-lang="en">Veiled by my <span class="glossary-term" tabindex="0" data-gloss="Power of appearance, concealment, or manifestation; context-dependent." aria-label="maya: Power of appearance, concealment, or manifestation; context-dependent." title="maya: Power of appearance, concealment, or manifestation; context-dependent." data-glossary-id="maya">yoga-maya</span>, I am not manifest to all; this deluded world does not know me, the unborn and imperishable.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नाहं प्रकाशः सर्वस्य योगमायासमावृतः ।<br>
@@ -337,7 +337,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-26">7.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">I know the beings that are past, that are present, and that are to come, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna: Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>; but no one knows me.</p>
+<p class="translation translation-en" data-lang="en">I know the beings that are past, that are present, and that are to come, O <span class="glossary-term" tabindex="0" data-gloss="Arjuna, the warrior addressed by Krishna." aria-label="Arjuna: Arjuna, the warrior addressed by Krishna." title="Arjuna: Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>; but no one knows me.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">वेदाहं समतीतानि वर्तमानानि चार्जुन ।<br>
@@ -350,7 +350,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-27">7.27</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">By the delusion of the pairs of opposites, sprung from desire and aversion, O <span class="glossary-term" tabindex="0" data-gloss="Bharata: A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, all beings fall into bewilderment at birth, O scorcher of foes.</p>
+<p class="translation translation-en" data-lang="en">By the delusion of the pairs of opposites, sprung from desire and aversion, O <span class="glossary-term" tabindex="0" data-gloss="A dynastic or ancestral name, often used as an address." aria-label="Bharata: A dynastic or ancestral name, often used as an address." title="Bharata: A dynastic or ancestral name, often used as an address." data-glossary-id="bharata">Bharata</span>, all beings fall into bewilderment at birth, O scorcher of foes.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।<br>
@@ -376,7 +376,7 @@ title: "Chapter 7 - Jnana-Vijnana Yoga"
 <a class="ref" href="#v-7-29">7.29</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Those who, taking refuge in me, strive for release from old age and death know that <span class="glossary-term" tabindex="0" data-gloss="Brahman: The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, the whole inner principle, and the whole of action.</p>
+<p class="translation translation-en" data-lang="en">Those who, taking refuge in me, strive for release from old age and death know that <span class="glossary-term" tabindex="0" data-gloss="The ultimate reality or absolute principle." aria-label="Brahman: The ultimate reality or absolute principle." title="Brahman: The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>, the whole inner principle, and the whole of action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।<br>
