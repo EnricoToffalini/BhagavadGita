@@ -297,8 +297,20 @@ details.sanskrit summary {
   }
 
   .glossary-term::after {
-    left: auto;
-    right: 0;
+    /*
+       A tooltip positioned relative to an inline word can overflow either
+       side of a narrow viewport.  On small screens present it as a compact
+       viewport-anchored note instead, so it remains entirely readable.
+    */
+    position: fixed;
+    left: max(.75rem, env(safe-area-inset-left));
+    right: max(.75rem, env(safe-area-inset-right));
+    bottom: max(.75rem, env(safe-area-inset-bottom));
+    width: auto;
+    max-width: none;
+    max-height: 45dvh;
+    overflow-y: auto;
+    box-sizing: border-box;
   }
 }
 
