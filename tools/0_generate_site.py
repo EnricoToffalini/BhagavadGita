@@ -140,12 +140,14 @@ def annotate_text(text):
         if item is None:
             out.append(html.escape(token, quote=True))
         else:
-            label = f"{item['term']}: {item['definition']}"
+            # The highlighted text already identifies the term.  Keep only the
+            # definition in the tooltip, so it is not repeated on small screens.
+            gloss = item['definition']
             out.append(
                 '<span class="glossary-term" tabindex="0" '
-                f'data-gloss="{html.escape(label, quote=True)}" '
-                f'aria-label="{html.escape(label, quote=True)}" '
-                f'title="{html.escape(label, quote=True)}" '
+                f'data-gloss="{html.escape(gloss, quote=True)}" '
+                f'aria-label="{html.escape(gloss, quote=True)}" '
+                f'title="{html.escape(gloss, quote=True)}" '
                 f'data-glossary-id="{html.escape(item["id"], quote=True)}">'
                 f'{html.escape(token, quote=True)}</span>'
             )
@@ -234,6 +236,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: glossary-tooltip.html
     toc: false
     smooth-scroll: true
     anchor-sections: false
