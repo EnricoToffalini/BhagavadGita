@@ -2,6 +2,19 @@
    Replace your current styles.css with this file. */
 
 :root {
+  /* Warm saffron palette: replace the blue defaults inherited from Cosmo. */
+  --gita-orange: #d26030;
+  --gita-orange-dark: #a83d2b;
+  --gita-orange-deep: #c04730;
+  --gita-orange-soft: #ffeada;
+  --gita-orange-rgb: 255, 119, 34;
+  --bs-primary: var(--gita-orange);
+  --bs-primary-rgb: var(--gita-orange-rgb);
+  --bs-link-color: var(--gita-orange-dark);
+  --bs-link-color-rgb: 185, 71, 0;
+  --bs-link-hover-color: var(--gita-orange-deep);
+  --bs-link-hover-color-rgb: 122, 47, 0;
+  --bs-focus-ring-color: rgba(var(--gita-orange-rgb), .32);
   --gita-text-width: 860px;
   --gita-soft-border: rgba(0, 0, 0, .12);
   --gita-muted: rgba(0, 0, 0, .56);
@@ -98,6 +111,96 @@ h1.title {
   padding-top: .35rem;
   border-top: 1px solid var(--gita-soft-border);
   font-size: .86rem;
+}
+
+/* Links, keyboard focus and navigation share the same warm accent. */
+a {
+  color: var(--gita-orange-dark);
+}
+
+a:hover {
+  color: var(--gita-orange-deep);
+}
+
+a:visited {
+  color: var(--gita-orange-dark);
+}
+
+a:active {
+  color: var(--gita-orange-deep);
+}
+
+a:focus-visible {
+  outline: 2px solid var(--gita-orange);
+  outline-offset: 2px;
+}
+
+::selection {
+  color: #fff;
+  background: var(--gita-orange-dark);
+}
+
+::-moz-selection {
+  color: #fff;
+  background: var(--gita-orange-dark);
+}
+
+html {
+  -webkit-tap-highlight-color: rgba(var(--gita-orange-rgb), .28);
+}
+
+/* The generated Quarto navbar otherwise retains Cosmo's blue primary colour. */
+#quarto-header .navbar {
+  background-color: var(--gita-orange);
+}
+
+#quarto-header .navbar-brand,
+#quarto-header .navbar .nav-link,
+#quarto-header .navbar .navbar-toggler {
+  color: #fff;
+}
+
+#quarto-header .navbar .nav-link:hover,
+#quarto-header .navbar .nav-link:focus,
+#quarto-header .navbar .nav-link.active,
+#quarto-header .navbar-brand:hover {
+  color: #fff;
+}
+
+#quarto-header .navbar .navbar-toggler {
+  border-color: rgba(255, 255, 255, .72);
+}
+
+/* Use an opaque white hamburger icon on the orange mobile navbar. */
+#quarto-header .navbar .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+#quarto-header .dropdown-item {
+  color: var(--gita-orange-deep);
+}
+
+#quarto-header .dropdown-item:hover,
+#quarto-header .dropdown-item:focus {
+  color: var(--gita-orange-deep);
+  background-color: var(--gita-orange-soft);
+}
+
+#quarto-header .dropdown-item.active,
+#quarto-header .dropdown-item:active {
+  color: #fff;
+  background-color: var(--gita-orange);
+}
+
+.sidebar .sidebar-link.active,
+.sidebar .sidebar-link:hover,
+.sidebar .sidebar-link:focus,
+.sidebar .sidebar-item-toggle:hover {
+  color: var(--gita-orange-dark);
+}
+
+.sidebar .sidebar-link.active {
+  font-weight: 700;
 }
 
 .chapter-nav a {
