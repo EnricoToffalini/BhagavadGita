@@ -73,17 +73,17 @@ A compact guide to transliterated Sanskrit terms and recurring names used in the
 <section class="glossary-entry" id="glossary-prakriti">
 <h3>prakriti</h3>
 <p>Nature, material process, or the field of change and manifestation.</p>
-<p class="glossary-variants">Forms in the text: prakriti, Prakriti</p>
+<p class="glossary-variants">Forms in the text: Prakriti, prakriti</p>
 </section>
 <section class="glossary-entry" id="glossary-purusha">
 <h3>purusha</h3>
 <p>Person, spirit, or conscious principle; meaning varies by passage.</p>
-<p class="glossary-variants">Forms in the text: purusha, Purusha</p>
+<p class="glossary-variants">Forms in the text: Purusha, purusha</p>
 </section>
 <section class="glossary-entry" id="glossary-rajas">
 <h3>rajas</h3>
 <p>The guna associated with activity, passion, impulse, and restlessness.</p>
-<p class="glossary-variants">Forms in the text: rajas, Rajas, rajasic</p>
+<p class="glossary-variants">Forms in the text: Rajas, rajas, rajasic</p>
 </section>
 <section class="glossary-entry" id="glossary-samsara">
 <h3>samsara</h3>

@@ -24,15 +24,16 @@ format:
     number-sections: false
     colorlinks: true
     geometry:
-      - top=15mm
-      - bottom=17mm
-      - inner=16mm
-      - outer=14mm
+      - top=17mm
+      - bottom=22mm
+      - inner=18mm
+      - outer=16mm
+      - footskip=9mm
     include-in-header: pdf/pdf-preamble.tex
     include-before-body: pdf/cover-en.tex
 ---
 
-The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output and revised with GPT-5.4 mini.
+The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, chapters 23–40. This English version was prepared from Google Translate output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, along with some manual editing. The aim was to produce an English translation that is readable, unbiased, and as literal as possible.
 
 \clearpage
 

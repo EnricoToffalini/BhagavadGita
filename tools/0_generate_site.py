@@ -514,6 +514,7 @@ format:
       - glossary-tooltip.html
       - lang-config.html
       - lang-switch.html
+      - goatcounter.html
     toc: false
     smooth-scroll: true
     anchor-sections: false

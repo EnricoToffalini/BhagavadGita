@@ -15,9 +15,11 @@ LANGUAGES = {
         "cover_tex": "pdf/cover-en.tex",
         "subtitle": "English draft",
         "intro": (
-            "The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, "
-            "chapters 23-40. This English draft was prepared from Google Translate "
-            "output and revised with GPT-5.4 mini."
+            "The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, "
+            "chapters 23–40. This English version was prepared from Google Translate "
+            "output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, along "
+            "with some manual editing. The aim was to produce an English translation "
+            "that is readable, unbiased, and as literal as possible."
         ),
         "chapter": "Chapter",
         "glossary": "Glossary",
@@ -33,8 +35,12 @@ LANGUAGES = {
         "cover_tex": "pdf/cover-it.tex",
         "subtitle": "Traduzione italiana",
         "intro": (
-            "La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, "
-            "capitoli 23-40."
+            "La Bhagavad Gita fa parte del Mahabharata, Libro 6, il Bhishma Parva, "
+            "capitoli 23-40. Questa versione italiana è stata preparata a partire "
+            "dall'output di Google Translate, rivista con GPT-5.4/5.5/5.6 e "
+            "Claude-Opus-4.8/5.0, oltre a qualche revisione manuale. L’obiettivo era "
+            "produrre una traduzione italiana leggibile, imparziale e il più possibile "
+            "letterale."
         ),
         "chapter": "Capitolo",
         "glossary": "Glossario",
@@ -355,10 +361,11 @@ def build_qmd(language):
         "    number-sections: false",
         "    colorlinks: true",
         "    geometry:",
-        "      - top=15mm",
-        "      - bottom=17mm",
-        "      - inner=16mm",
-        "      - outer=14mm",
+        "      - top=17mm",
+        "      - bottom=22mm",
+        "      - inner=18mm",
+        "      - outer=16mm",
+        "      - footskip=9mm",
         "    include-in-header: pdf/pdf-preamble.tex",
         f'    include-before-body: {config["cover_tex"]}',
         "---",

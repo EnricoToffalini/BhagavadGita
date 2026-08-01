@@ -29,6 +29,19 @@
 \setstretch{1.04}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.22em}
+
+% Keep the front-matter table of contents on page 2 only.  The slightly
+% tighter leading compensates for the more generous page margins, while the
+% final clear page reserves page 3 exclusively for the introductory note.
+\let\gitastandardtableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{%
+  \begingroup
+  \setstretch{0.96}%
+  \gitastandardtableofcontents
+  \endgroup%
+  \clearpage%
+}
+
 \setlist[description]{
   style=nextline,
   leftmargin=0pt,
