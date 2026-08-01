@@ -110,10 +110,11 @@ LANGS = {
         },
         # Longer descriptive prose, kept as content rather than interface text.
         'site_note': (
-            'The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, '
-            'chapters 23-40. This English draft was prepared from Google Translate '
-            'output, revised with GPT-5.4-mini,,5.5, and 5.6, Claude-Opus-4.8 and 5.0, '
-            'plus some manual revision.'
+                'The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, '
+                'chapters 23–40. This English version was prepared from Google Translate '
+                'output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, '
+                'along with some manual editing. The aim was to produce an English translation '
+                'that is readable, unbiased, and as literal as possible.'
         ),
         'glossary_note': (
             'A compact guide to transliterated Sanskrit terms and recurring names '
@@ -155,10 +156,12 @@ LANGS = {
         # still describes how the English draft was made; update the provenance
         # to describe the Italian rendering.
         'site_note': (
-            'La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, '
-            'capitoli 23-40. Questa bozza inglese è stata preparata a partire '
-            "dall'output di Google Translate, rivista con GPT-5.4-mini, 5.5 e 5.6, "
-            'Claude-Opus-4.8 e 5.0, oltre a qualche revisione manuale.'
+            'La Bhagavad Gita fa parte del Mahabharata, Libro 6, il Bhishma Parva, '
+            'capitoli 23-40. Questa versione italiana è stata preparata a partire '
+            "dall'output di Google Translate, rivista con GPT-5.4/5.5/5.6 e "
+            'Claude-Opus-4.8/5.0, oltre a qualche revisione manuale. '
+            'L’obiettivo era produrre una traduzione italiana leggibile, imparziale '
+            'e il più possibile letterale.'
         ),
         'glossary_note': (
             'Una guida essenziale ai termini sanscriti traslitterati e ai nomi '

@@ -21,7 +21,7 @@ Then run:
 <div class="chapter-title-sanskrit">भगवद्गीता</div>
 
 <div class="site-note">
-La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, capitoli 23-40. Questa bozza inglese è stata preparata a partire dall&#x27;output di Google Translate, rivista con GPT-5.4-mini, 5.5 e 5.6, Claude-Opus-4.8 e 5.0, oltre a qualche revisione manuale.
+La Bhagavad Gita fa parte del Mahabharata, Libro 6, il Bhishma Parva, capitoli 23-40. Questa versione italiana è stata preparata a partire dall&#x27;output di Google Translate, rivista con GPT-5.4/5.5/5.6 e Claude-Opus-4.8/5.0, oltre a qualche revisione manuale.L’obiettivo era produrre una traduzione italiana leggibile, imparziale e il più possibile letterale.
 </div>
 
 <div class="site-usage">
