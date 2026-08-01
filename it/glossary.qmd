@@ -83,7 +83,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-rajas">
 <h3>rajas</h3>
 <p>Il guna associato ad attività, passione, impulso e irrequietezza.</p>
-<p class="glossary-variants">Forme nel testo: Rajas, rajas, rajasica, rajasici, rajasico</p>
+<p class="glossary-variants">Forme nel testo: rajas, Rajas, rajasica, rajasici, rajasico</p>
 </section>
 <section class="glossary-entry" id="glossary-samsara">
 <h3>samsara</h3>
@@ -103,7 +103,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-sattva">
 <h3>sattva</h3>
 <p>Il guna associato a chiarezza, equilibrio e illuminazione.</p>
-<p class="glossary-variants">Forme nel testo: sattva, Sattva, sattvica, sattvici, sattvico</p>
+<p class="glossary-variants">Forme nel testo: Sattva, sattva, sattvica, sattvici, sattvico</p>
 </section>
 <section class="glossary-entry" id="glossary-tamas">
 <h3>tamas</h3>
@@ -128,7 +128,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-brahmin">
 <h3>Brahmin</h3>
 <p>Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.</p>
-<p class="glossary-variants">Forme nel testo: Brahmin, brahmin</p>
+<p class="glossary-variants">Forme nel testo: brahmin, Brahmin</p>
 </section>
 <section class="glossary-entry" id="glossary-kshatriya">
 <h3>kshatriya</h3>

@@ -12,8 +12,6 @@ Then run:
 -->
 
 ---
-title: "Bhagavad Gita"
-subtitle: "English draft"
 output-file: "bhagavad-gita-en"
 format:
   pdf:
@@ -31,6 +29,7 @@ format:
       - inner=16mm
       - outer=14mm
     include-in-header: pdf/pdf-preamble.tex
+    include-before-body: pdf/cover-en.tex
 ---
 
 The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output and revised with GPT-5.4 mini.

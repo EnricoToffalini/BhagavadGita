@@ -12,8 +12,6 @@ Then run:
 -->
 
 ---
-title: "Bhagavad Gita"
-subtitle: "Traduzione italiana"
 output-file: "bhagavad-gita-it"
 format:
   pdf:
@@ -31,6 +29,7 @@ format:
       - inner=16mm
       - outer=14mm
     include-in-header: pdf/pdf-preamble.tex
+    include-before-body: pdf/cover-it.tex
 ---
 
 La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, capitoli 23-40.

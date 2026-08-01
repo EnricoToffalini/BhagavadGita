@@ -12,6 +12,7 @@ LANGUAGES = {
     "en": {
         "output_qmd": ROOT / "pdf_book.qmd",
         "output_pdf": "bhagavad-gita-en",
+        "cover_tex": "pdf/cover-en.tex",
         "subtitle": "English draft",
         "intro": (
             "The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, "
@@ -29,6 +30,7 @@ LANGUAGES = {
     "it": {
         "output_qmd": ROOT / "pdf_book_it.qmd",
         "output_pdf": "bhagavad-gita-it",
+        "cover_tex": "pdf/cover-it.tex",
         "subtitle": "Traduzione italiana",
         "intro": (
             "La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, "
@@ -341,8 +343,6 @@ def build_qmd(language):
         "-->",
         "",
         "---",
-        'title: "Bhagavad Gita"',
-        f'subtitle: "{config["subtitle"]}"',
         f'output-file: "{config["output_pdf"]}"',
         "format:",
         "  pdf:",
@@ -360,6 +360,7 @@ def build_qmd(language):
         "      - inner=16mm",
         "      - outer=14mm",
         "    include-in-header: pdf/pdf-preamble.tex",
+        f'    include-before-body: {config["cover_tex"]}',
         "---",
         "",
     ]

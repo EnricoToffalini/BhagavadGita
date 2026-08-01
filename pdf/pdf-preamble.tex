@@ -4,6 +4,28 @@
 \usepackage{microtype}
 \usepackage{enumitem}
 \usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{eso-pic}
+
+% Full-page cover used before the table of contents.  The starred shipout
+% hooks apply to this page only, so later pages retain their normal white
+% background.  The image is fitted without cropping and centred on A5 paper.
+\newcommand{\gitacover}[1]{%
+  \thispagestyle{empty}%
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color[HTML]{FDF7EB}\rule{\paperwidth}{\paperheight}}%
+  }%
+  \AddToShipoutPictureFG*{%
+    \AtPageCenter{%
+      \makebox(0,0){%
+        \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{#1}%
+      }%
+    }%
+  }%
+  \null\clearpage%
+}
+
 \setstretch{1.04}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.22em}
