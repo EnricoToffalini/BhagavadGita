@@ -41,7 +41,7 @@ Then run:
 <a class="ref" href="#v-11-2">11.2</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ho udito da te per intero della nascita e della dissoluzione degli esseri, o dagli occhi di loto, e della tua maestà imperitura.</p>
+<p class="translation translation-it" data-lang="it">Ho udito da te per intero della nascita e della dissoluzione degli esseri, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span> dagli occhi di loto, e della tua maestà imperitura.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया ।<br>
@@ -80,7 +80,7 @@ Then run:
 <a class="ref" href="#v-11-5">11.5</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Guarda, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, le mie forme a centinaia e a migliaia, di molte specie, divine, dai molti colori e dalle molte figure.</p>
+<p class="translation translation-it" data-lang="it">Guarda, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, le mie forme a centinaia e a migliaia, di molte specie, divine, di innumerevoli colori e forme.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रशः ।<br>
@@ -197,7 +197,7 @@ Then run:
 <a class="ref" href="#v-11-14">11.14</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Allora <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>, colmo di stupore e con i peli ritti, chinò il capo davanti al dio e, a mani giunte, disse:</p>
+<p class="translation translation-it" data-lang="it">Allora <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>, colmo di stupore e con i capelli ritti, chinò il capo davanti al dio e, a mani giunte, disse:</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ततः स विस्मयाविष्टो हृष्टरोमा धनञ्जयः ।<br>
@@ -225,7 +225,7 @@ Then run:
 <a class="ref" href="#v-11-16">11.16</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ti vedo con innumerevoli braccia, ventri, bocche e occhi, infinito da ogni parte; non vedo in te né fine, né mezzo, né principio, o signore di tutto, o forma universale.</p>
+<p class="translation translation-it" data-lang="it">Ti vedo con innumerevoli braccia, ventri, bocche e occhi, sconfinato in ogni direzione; non vedo in te né fine, né mezzo, né principio, o signore di tutto, o forma universale.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अनेकबाहूदरवक्त्रनेत्रं<br>
@@ -240,7 +240,7 @@ Then run:
 <a class="ref" href="#v-11-17">11.17</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ti vedo coronato, con la mazza e il disco, come un fulgore che divampa da ogni parte, difficile da contemplare, incommensurabile, simile al fuoco fiammeggiante e al sole.</p>
+<p class="translation translation-it" data-lang="it">Ti vedo coronato, con la mazza e il disco, simile a una massa di luce che divampa in ogni direzione, difficile da contemplare, incommensurabile, simile al fuoco fiammeggiante e al sole.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">किरीटिनं गदिनं चक्रिणं च<br>
@@ -255,7 +255,7 @@ Then run:
 <a class="ref" href="#v-11-18">11.18</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tu sei l’imperituro, il supremo oggetto della conoscenza; sei l’ultimo luogo di riposo dell’universo, il custode immortale dell’eterno <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>; tu, io ritengo, sei la persona perenne.</p>
+<p class="translation translation-it" data-lang="it">Tu sei l’imperituro, il supremo oggetto della conoscenza; sei il supremo rifugio dell&#x27;universo, il custode immortale dell’eterno <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>; tu, io ritengo, sei la persona perenne.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">त्वमक्षरं परमं वेदितव्यं<br>
@@ -300,7 +300,7 @@ Then run:
 <a class="ref" href="#v-11-21">11.21</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">In te entrano queste schiere di dèi; alcuni, impauriti, ti lodano a mani giunte; le schiere dei grandi veggenti e dei perfetti, invocando «Salute!», ti celebrano con inni copiosi.</p>
+<p class="translation translation-it" data-lang="it">In te entrano queste schiere di dèi; alcuni, impauriti, ti lodano a mani giunte; le schiere dei grandi veggenti e dei perfetti, acclamando: «Gloria a te!», ti celebrano con inni copiosi.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अमी हि त्वां सुरसङ्घा विशन्ति<br>
@@ -330,7 +330,7 @@ Then run:
 <a class="ref" href="#v-11-23">11.23</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Vedendo la tua grande forma, o dalle possenti braccia, con le molte bocche e i molti occhi, le molte braccia, cosce e piedi, i molti ventri e le terribili zanne, i mondi tremano, e io con loro.</p>
+<p class="translation translation-it" data-lang="it">Vedendo la tua grande forma, o Signore dalle possenti braccia, con le molte bocche e i molti occhi, le molte braccia, cosce e piedi, i molti ventri e le terribili zanne, i mondi tremano, e io con loro.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">रूपं महत्ते बहुवक्त्रनेत्रं<br>
@@ -360,7 +360,7 @@ Then run:
 <a class="ref" href="#v-11-25">11.25</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Vedendo le tue bocche, terribili per le zanne e simili al fuoco della fine del mondo, perdo ogni senso dell’orientamento e non trovo rifugio; sii benevolo, o signore degli dèi, o dimora del mondo.</p>
+<p class="translation translation-it" data-lang="it">Vedendo le tue bocche, terribili per le zanne e simili al fuoco della fine del mondo, perdo ogni senso dell’orientamento e non trovo rifugio; sii benevolo, o signore degli dèi, o sostegno del mondo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">दंष्ट्राकरालानि च ते मुखानि<br>
@@ -390,7 +390,7 @@ Then run:
 <a class="ref" href="#v-11-27">11.27</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">si precipitano nelle tue bocche, spaventose per le zanne; alcuni appaiono con il capo stritolato, preso fra i tuoi denti.</p>
+<p class="translation translation-it" data-lang="it">si precipitano nelle tue bocche, spaventose per le zanne; alcuni appaiono con il capo stritolato fra i tuoi denti.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">वक्त्राणि ते त्वरमाणा विशन्ति<br>
@@ -450,7 +450,7 @@ Then run:
 <a class="ref" href="#v-11-31">11.31</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Dimmi chi sei, tu che hai una forma così terribile. Omaggio a te, o migliore degli dèi; sii benevolo. Desidero conoscerti, o essere primordiale, poiché non comprendo il tuo operare.</p>
+<p class="translation translation-it" data-lang="it">Dimmi chi sei, tu che hai una forma così terribile. Omaggio a te, o migliore fra gli dèi; sii benevolo. Desidero conoscerti, o essere primordiale, poiché non comprendo quale sia il tuo intento.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">आख्याहि मे को भवानुग्ररूपो<br>
@@ -465,7 +465,7 @@ Then run:
 <a class="ref" href="#v-11-32">11.32</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Io sono il Tempo, divenuto possente, distruttore dei mondi, qui all’opera per dissolverli. Anche senza di te, tutti i guerrieri schierati nelle file avverse cesseranno di essere.</p>
+<p class="translation translation-it" data-lang="it">Io sono il Tempo, possente distruttore dei mondi, qui all’opera per dissolverli. Anche senza di te, tutti i guerrieri schierati nelle file avverse cesseranno di essere.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कालोऽस्मि लोकक्षयकृत्प्रवृद्धो<br>
@@ -495,7 +495,7 @@ Then run:
 <a class="ref" href="#v-11-34">11.34</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." aria-label="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." title="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." data-glossary-id="drona">Drona</span>, <span class="glossary-term" tabindex="0" data-gloss="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." aria-label="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." title="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." data-glossary-id="bhishma">Bhishma</span>, Jayadratha, <span class="glossary-term" tabindex="0" data-gloss="Guerriero alleato di Duryodhana nello schieramento Kaurava." aria-label="Guerriero alleato di Duryodhana nello schieramento Kaurava." title="Guerriero alleato di Duryodhana nello schieramento Kaurava." data-glossary-id="karna">Karna</span> e gli altri eroi guerrieri—uccidili, già uccisi da me; non vacillare. Combatti! Vincerai in battaglia i tuoi rivali.</p>
+<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." aria-label="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." title="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." data-glossary-id="drona">Drona</span>, <span class="glossary-term" tabindex="0" data-gloss="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." aria-label="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." title="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." data-glossary-id="bhishma">Bhishma</span>, Jayadratha, <span class="glossary-term" tabindex="0" data-gloss="Guerriero alleato di Duryodhana nello schieramento Kaurava." aria-label="Guerriero alleato di Duryodhana nello schieramento Kaurava." title="Guerriero alleato di Duryodhana nello schieramento Kaurava." data-glossary-id="karna">Karna</span> e gli altri eroi guerrieri—abbi la forza di colpirli: per opera mia sono già condannati; non vacillare. Combatti! Vincerai in battaglia i tuoi rivali.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">द्रोणं च भीष्मं च जयद्रथं च<br>
@@ -510,7 +510,7 @@ Then run:
 <a class="ref" href="#v-11-35">11.35</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Udite queste parole di <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="keshava">Keshava</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, il diademato, tremante, congiunse le mani e si inchinò; poi, prostrandosi atterrito, parlò di nuovo a <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span> con voce rotta:</p>
+<p class="translation translation-it" data-lang="it">Udite queste parole di <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="keshava">Keshava</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, che portava il diadema, tremante, congiunse le mani e si inchinò; poi, prostrandosi atterrito, parlò di nuovo a <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span> con voce rotta:</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">एतच्छ्रुत्वा वचनं केशवस्य<br>
@@ -525,7 +525,7 @@ Then run:
 <a class="ref" href="#v-11-36">11.36</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Giustamente, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna, spesso inteso come signore dei sensi." aria-label="Epiteto di Krishna, spesso inteso come signore dei sensi." title="Epiteto di Krishna, spesso inteso come signore dei sensi." data-glossary-id="hrishikesha">Hrishikesha</span>, il mondo si rallegra e trova gioia nel celebrarti; i rakshasa fuggono atterriti in ogni direzione e tutte le schiere dei perfetti si prostrano.</p>
+<p class="translation translation-it" data-lang="it">Giustamente, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna, spesso inteso come signore dei sensi." aria-label="Epiteto di Krishna, spesso inteso come signore dei sensi." title="Epiteto di Krishna, spesso inteso come signore dei sensi." data-glossary-id="hrishikesha">Hrishikesha</span>, il mondo gioisce nel celebrarti; i rakshasa fuggono atterriti in ogni direzione e tutte le schiere dei perfetti si prostrano.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">स्थाने हृषीकेश तव प्रकीर्त्या<br>
@@ -555,7 +555,7 @@ Then run:
 <a class="ref" href="#v-11-38">11.38</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tu sei il dio primordiale, l’antica persona, il supremo luogo di riposo dell’universo; sei il conoscitore e il conosciuto, la dimora più alta; da te l’universo è pervaso, o dalle forme infinite.</p>
+<p class="translation translation-it" data-lang="it">Tu sei il dio primordiale, l’antica persona, il supremo luogo di riposo dell’universo; sei il conoscitore e il conosciuto, la dimora più alta; da te l’universo è pervaso, o Signore dalle forme infinite.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">त्वमादिदेवः पुरुषः पुराण-<br>
@@ -585,7 +585,7 @@ Then run:
 <a class="ref" href="#v-11-40">11.40</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Omaggio a te davanti e dietro, omaggio a te da ogni parte, o tutto; sconfinato nella potenza e incommensurabile nella forza, pervadi ogni cosa e perciò sei tutto.</p>
+<p class="translation translation-it" data-lang="it">Omaggio a te davanti e dietro, omaggio a te da ogni parte, o Tu che sei il Tutto; sconfinato nella potenza e incommensurabile nella forza, pervadi ogni cosa e perciò sei tutto.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">नमः पुरस्तादथ पृष्ठतस्ते<br>
@@ -630,7 +630,7 @@ Then run:
 <a class="ref" href="#v-11-43">11.43</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tu sei il padre di questo mondo, mobile e immobile, il suo oggetto di venerazione e il suo maestro più venerabile; non vi è nessuno pari a te: come potrebbe esservi qualcuno più grande, o dalla potenza senza pari nei tre mondi?</p>
+<p class="translation translation-it" data-lang="it">Tu sei il padre di questo mondo, mobile e immobile, il suo oggetto di venerazione e il suo maestro più venerabile; non vi è nessuno pari a te: come potrebbe esservi qualcuno più grande, o Tu, la cui potenza non ha pari nei tre mondi?</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">पितासि लोकस्य चराचरस्य<br>
@@ -645,7 +645,7 @@ Then run:
 <a class="ref" href="#v-11-44">11.44</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Perciò, inchinandomi e prostrando il corpo, imploro la tua grazia, o signore degno di lode; come un padre tollera il figlio, un amico l’amico, un amante l’amata, così tu sopportami, o dio.</p>
+<p class="translation translation-it" data-lang="it">Perciò, inchinandomi e gettandomi a terra davanti a te, imploro la tua grazia, o signore degno di lode; come un padre tollera il figlio, un amico l&#x27;amico, un amante l&#x27;amata, così tu sopportami, o dio.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तस्मात्प्रणम्य प्रणिधाय कायं<br>
@@ -660,7 +660,7 @@ Then run:
 <a class="ref" href="#v-11-45">11.45</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Sono lieto di aver visto ciò che non era mai stato visto, eppure la mia mente trema di paura; mostrami di nuovo quella forma, o dio; sii benevolo, o signore degli dèi, o dimora del mondo.</p>
+<p class="translation translation-it" data-lang="it">Sono lieto di aver visto ciò che non era mai stato visto, eppure la mia mente trema di paura; mostrami di nuovo quella forma, o dio; sii benevolo, o signore degli dèi, o sostegno del mondo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा<br>
@@ -675,7 +675,7 @@ Then run:
 <a class="ref" href="#v-11-46">11.46</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Desidero vederti come prima, coronato, con la mazza e il disco in mano; assumi di nuovo quella forma dalle quattro braccia, o dalle mille braccia, o forma universale.</p>
+<p class="translation translation-it" data-lang="it">Desidero vederti come prima, coronato, con la mazza e il disco in mano; assumi di nuovo quella forma dalle quattro braccia, o Signore dalle mille braccia, o forma universale.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">किरीटिनं गदिनं चक्रहस्तं<br>
@@ -690,7 +690,7 @@ Then run:
 <a class="ref" href="#v-11-47">11.47</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Per grazia verso di te, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, mediante il mio stesso <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> ti ho mostrato questa forma suprema—radiosa, universale, sconfinata, primordiale—che nessuno all’infuori di te aveva mai visto.</p>
+<p class="translation translation-it" data-lang="it">Per mia grazia verso di te, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, mediante il mio stesso <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> ti ho mostrato questa forma suprema—radiosa, universale, sconfinata, primordiale—che nessuno all’infuori di te aveva mai visto.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">मया प्रसन्नेन तवार्जुनेदं<br>
@@ -705,7 +705,7 @@ Then run:
 <a class="ref" href="#v-11-48">11.48</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Non mediante i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> e i sacrifici, né mediante lo studio, i doni, i riti o le austerità più severe, posso essere visto in questa forma nel mondo degli uomini da qualcuno diverso da te, o primo dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>.</p>
+<p class="translation translation-it" data-lang="it">Non mediante i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> e i sacrifici, né mediante lo studio, i doni, i riti o le austerità più severe, posso essere visto in questa forma nel mondo degli uomini da qualcuno diverso da te, o primo fra i <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">न वेदयज्ञाध्ययनैर्न दानै-<br>
@@ -735,7 +735,7 @@ Then run:
 <a class="ref" href="#v-11-50">11.50</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Dopo aver detto questo ad <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, <span class="glossary-term" tabindex="0" data-gloss="Nome o epiteto di Krishna, figlio di Vasudeva." aria-label="Nome o epiteto di Krishna, figlio di Vasudeva." title="Nome o epiteto di Krishna, figlio di Vasudeva." data-glossary-id="vasudeva">Vasudeva</span> mostrò nuovamente la propria forma; e la grande anima, ripreso il suo aspetto mite, confortò colui che era atterrito.</p>
+<p class="translation translation-it" data-lang="it">Dopo aver detto questo ad <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, <span class="glossary-term" tabindex="0" data-gloss="Nome o epiteto di Krishna, figlio di Vasudeva." aria-label="Nome o epiteto di Krishna, figlio di Vasudeva." title="Nome o epiteto di Krishna, figlio di Vasudeva." data-glossary-id="vasudeva">Vasudeva</span> mostrò nuovamente la propria forma; e, ripreso il suo aspetto mite, il grande Signore confortò l&#x27;<span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span> atterrito.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">इत्यर्जुनं वासुदेवस्तथोक्त्वा<br>
@@ -789,7 +789,7 @@ Then run:
 <a class="ref" href="#v-11-54">11.54</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma con una devozione indivisa, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, posso essere conosciuto e visto, e in me si può veramente entrare, o flagello dei nemici.</p>
+<p class="translation translation-it" data-lang="it">Ma con una devozione indivisa, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, posso essere conosciuto e visto, e si può veramente entrare in unione con me, o vincitore dei nemici.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन ।<br>

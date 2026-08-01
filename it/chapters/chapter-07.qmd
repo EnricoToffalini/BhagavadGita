@@ -67,7 +67,7 @@ Then run:
 <a class="ref" href="#v-7-4">7.4</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Terra, acqua, fuoco, aria, etere, mente, intelletto ed ego—così la mia <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span> è divisa in otto.</p>
+<p class="translation translation-it" data-lang="it">Terra, acqua, fuoco, aria, etere, mente, intelletto ed ego—questa è la mia <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>, distinta in otto elementi.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च ।<br>
@@ -80,7 +80,7 @@ Then run:
 <a class="ref" href="#v-7-5">7.5</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questa è la mia natura inferiore; ma sappi che vi è un&#x27;altra mia natura, superiore, o dalle possenti braccia: il principio vivente da cui questo mondo è sostenuto.</p>
+<p class="translation translation-it" data-lang="it">Questa è la mia natura inferiore; ma sappi che vi è un&#x27;altra mia natura, superiore, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span> dalle possenti braccia: il principio vivente da cui questo mondo è sostenuto.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।<br>
@@ -93,7 +93,7 @@ Then run:
 <a class="ref" href="#v-7-6">7.6</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Sappi che tutti gli esseri hanno in esse il proprio grembo; io sono l&#x27;origine dell&#x27;intero universo e anche la sua dissoluzione.</p>
+<p class="translation translation-it" data-lang="it">Sappi che da queste due nature hanno origine tutti gli esseri; io sono l&#x27;origine dell&#x27;intero universo e anche la sua dissoluzione.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।<br>
@@ -106,7 +106,7 @@ Then run:
 <a class="ref" href="#v-7-7">7.7</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Nulla vi è di più alto di me, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; tutto questo è tenuto insieme in me, come gemme infilate su un filo.</p>
+<p class="translation translation-it" data-lang="it">Nulla vi è di più alto di me, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; tutto questo è intrecciato in me come gemme su un filo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।<br>
@@ -171,7 +171,7 @@ Then run:
 <a class="ref" href="#v-7-12">7.12</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Qualunque siano gli stati—di <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">sattva</span>, <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span> o <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span>—sappili tutti provenienti da me; eppure io non sono in essi, mentre essi sono in me.</p>
+<p class="translation translation-it" data-lang="it">Qualunque siano gli stati—di <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a chiarezza, equilibrio e illuminazione." aria-label="Il guna associato a chiarezza, equilibrio e illuminazione." title="Il guna associato a chiarezza, equilibrio e illuminazione." data-glossary-id="sattva">sattva</span>, <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span> o <span class="glossary-term" tabindex="0" data-gloss="Il guna associato a inerzia, ottusità, confusione e ostruzione." aria-label="Il guna associato a inerzia, ottusità, confusione e ostruzione." title="Il guna associato a inerzia, ottusità, confusione e ostruzione." data-glossary-id="tamas">tamas</span>—sappi che tutti provengono da me; eppure io non sono in essi, mentre essi sono in me.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।<br>
@@ -210,7 +210,7 @@ Then run:
 <a class="ref" href="#v-7-15">7.15</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I malfattori, gli illusi, i più bassi fra gli uomini, ai quali la <span class="glossary-term" tabindex="0" data-gloss="Potere di apparenza, occultamento o manifestazione; dipende dal contesto." aria-label="Potere di apparenza, occultamento o manifestazione; dipende dal contesto." title="Potere di apparenza, occultamento o manifestazione; dipende dal contesto." data-glossary-id="maya">maya</span> ha sottratto la conoscenza e che si abbandonano a una natura demoniaca, non si rifugiano in me.</p>
+<p class="translation translation-it" data-lang="it">I malfattori, gli illusi, i più bassi fra gli uomini, la cui conoscenza è stata velata dalla <span class="glossary-term" tabindex="0" data-gloss="Potere di apparenza, occultamento o manifestazione; dipende dal contesto." aria-label="Potere di apparenza, occultamento o manifestazione; dipende dal contesto." title="Potere di apparenza, occultamento o manifestazione; dipende dal contesto." data-glossary-id="maya">maya</span> e che si abbandonano a una natura demoniaca, non si rifugiano in me.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः ।<br>
@@ -223,7 +223,7 @@ Then run:
 <a class="ref" href="#v-7-16">7.16</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quattro tipi di uomini retti mi venerano, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>: chi soffre, chi cerca la conoscenza, chi cerca un vantaggio e il sapiente, o migliore dei <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<p class="translation translation-it" data-lang="it">Quattro tipi di uomini retti mi venerano, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>: chi soffre, chi cerca la conoscenza, chi cerca un vantaggio e il sapiente, o migliore fra i <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन ।<br>
@@ -249,7 +249,7 @@ Then run:
 <a class="ref" href="#v-7-18">7.18</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Tutti costoro sono nobili, ma il sapiente lo considero il mio stesso sé; saldo in se stesso, egli è rivolto a me soltanto come meta suprema.</p>
+<p class="translation translation-it" data-lang="it">Tutti costoro sono nobili, ma considero il sapiente come il mio stesso sé; saldo in se stesso, egli è rivolto a me soltanto come meta suprema.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।<br>
@@ -275,7 +275,7 @@ Then run:
 <a class="ref" href="#v-7-20">7.20</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Coloro la cui conoscenza è trascinata via da questo o quel desiderio si rifugiano in altri dèi, seguendo questa o quella osservanza, costretti dalla propria natura.</p>
+<p class="translation translation-it" data-lang="it">Coloro la cui conoscenza è sopraffatta dai diversi desideri si rifugiano in altri dèi, seguendo questa o quella osservanza, costretti dalla propria natura.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः ।<br>
@@ -314,7 +314,7 @@ Then run:
 <a class="ref" href="#v-7-23">7.23</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma il frutto ottenuto da costoro, dalla mente angusta, è limitato; chi venera gli dèi va agli dèi, mentre chi è devoto a me viene a me.</p>
+<p class="translation translation-it" data-lang="it">Ma limitato è il frutto ottenuto da costoro, che hanno mente angusta; chi venera gli dèi va agli dèi, mentre chi è devoto a me viene a me.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।<br>
@@ -327,7 +327,7 @@ Then run:
 <a class="ref" href="#v-7-24">7.24</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Gli ignoranti credono che io, l&#x27;immanifesto, abbia assunto un&#x27;esistenza manifesta, perché non conoscono la mia natura più alta, imperitura e suprema.</p>
+<p class="translation translation-it" data-lang="it">Gli ignoranti credono che io, l&#x27;immanifesto, sia divenuto manifesto, perché non conoscono la mia natura più alta, imperitura e suprema.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः ।<br>
@@ -366,7 +366,7 @@ Then run:
 <a class="ref" href="#v-7-27">7.27</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Per l&#x27;illusione delle coppie di opposti, nata dal desiderio e dall&#x27;avversione, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, tutti gli esseri cadono nello smarrimento fin dalla nascita, o flagello dei nemici.</p>
+<p class="translation translation-it" data-lang="it">Per l&#x27;illusione delle coppie di opposti, nata dal desiderio e dall&#x27;avversione, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, tutti gli esseri cadono nello smarrimento fin dalla nascita, o vincitore dei nemici.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।<br>
@@ -379,7 +379,7 @@ Then run:
 <a class="ref" href="#v-7-28">7.28</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma coloro che compiono azioni pure, le cui colpe sono giunte al termine, liberati dall’illusione delle coppie di opposti, mi venerano con ferma risolutezza.</p>
+<p class="translation translation-it" data-lang="it">Ma coloro che compiono azioni pure, che hanno esaurito le proprie colpe, liberati dall’illusione delle coppie di opposti, mi venerano con ferma risolutezza.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।<br>

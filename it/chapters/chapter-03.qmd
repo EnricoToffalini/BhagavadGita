@@ -54,7 +54,7 @@ Then run:
 <a class="ref" href="#v-3-3">3.3</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">In questo mondo, o irreprensibile, un duplice cammino fu da me insegnato in antico: lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> della conoscenza per i seguaci del <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span> e lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione per gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>.</p>
+<p class="translation translation-it" data-lang="it">In questo mondo, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span> senza colpa, in antico ho insegnato un duplice cammino: lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> della conoscenza per i seguaci del <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span> e lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione per gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।<br>
@@ -93,7 +93,7 @@ Then run:
 <a class="ref" href="#v-3-6">3.6</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Chi trattiene gli organi dell&#x27;azione ma siede rimuginando nella mente sugli oggetti dei sensi, con l&#x27;animo smarrito, è detto ipocrita.</p>
+<p class="translation translation-it" data-lang="it">Chi trattiene gli organi dell&#x27;azione ma continua a rimuginare sugli oggetti dei sensi, con l&#x27;animo smarrito, è detto ipocrita.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।<br>
@@ -106,7 +106,7 @@ Then run:
 <a class="ref" href="#v-3-7">3.7</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma chi, dominando i sensi con la mente, si dedica con gli organi dell&#x27;azione allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione, senza attaccamento, eccelle, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<p class="translation translation-it" data-lang="it">Ma chi, dominando i sensi con la mente, impegna gli organi dell&#x27;azione nel <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">karma-yoga</span>, senza attaccamento, eccelle, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।<br>
@@ -249,7 +249,7 @@ Then run:
 <a class="ref" href="#v-3-18">3.18</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Per lui, in questo mondo, non vi è alcun fine nell&#x27;azione compiuta né in quella tralasciata, e non dipende da alcun essere per raggiungere alcuno scopo.</p>
+<p class="translation translation-it" data-lang="it">In questo mondo, egli non ha nulla da guadagnare né dal compiere l&#x27;azione né dal tralasciarla, e non dipende da alcun essere per raggiungere alcuno scopo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।<br>
@@ -353,7 +353,7 @@ Then run:
 <a class="ref" href="#v-3-26">3.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Il saggio non confonda la mente degli ignoranti attaccati all&#x27;azione; agendo egli stesso con disciplina, li coinvolga in tutte le azioni.</p>
+<p class="translation translation-it" data-lang="it">Il saggio non confonda la mente degli ignoranti attaccati all&#x27;azione; agendo egli stesso con disciplina, li induca a compiere ogni azione nel modo dovuto.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।<br>
@@ -379,7 +379,7 @@ Then run:
 <a class="ref" href="#v-3-28">3.28</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma chi conosce la verità sulle distinzioni fra <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> e azione, o dalle possenti braccia, non vi si attacca, sapendo che sono i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> ad agire sui <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>.</p>
+<p class="translation translation-it" data-lang="it">Ma chi conosce la verità sulle distinzioni fra <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> e azione, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span> dalle possenti braccia, non vi si attacca, sapendo che sono i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> ad agire sui <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।<br>
@@ -392,7 +392,7 @@ Then run:
 <a class="ref" href="#v-3-29">3.29</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Coloro che sono ottenebrati dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span> si attaccano alle azioni dei <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; chi conosce il tutto non turbi gli ottusi che non lo conoscono.</p>
+<p class="translation translation-it" data-lang="it">Coloro che sono ottenebrati dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span> si attaccano alle azioni dei <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; chi conosce pienamente la verità non turbi gli ottusi che non lo conoscono.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।<br>
@@ -431,7 +431,7 @@ Then run:
 <a class="ref" href="#v-3-32">3.32</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ma coloro che, criticandolo, non seguono questo mio insegnamento—sappili offuscati in ogni conoscenza, privi di discernimento e perduti.</p>
+<p class="translation translation-it" data-lang="it">Ma coloro che, criticandolo, non seguono questo mio insegnamento—sappi che ogni loro conoscenza è offuscata e che, privi di discernimento, sono perduti.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।<br>
@@ -457,7 +457,7 @@ Then run:
 <a class="ref" href="#v-3-34">3.34</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">In ciascun senso, attrazione e avversione stanno in agguato presso il loro oggetto; nessuno cada in loro potere, poiché sono suoi nemici.</p>
+<p class="translation translation-it" data-lang="it">In ciascun senso, attrazione e avversione sorgono in rapporto a ciascun oggetto dei sensi; nessuno cada in loro potere, poiché sono suoi nemici.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।<br>
@@ -483,7 +483,7 @@ Then run:
 <a class="ref" href="#v-3-36">3.36</a>
 <span class="speaker">(Arjuna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Da che cosa è dunque indotto l&#x27;uomo a compiere il male, o Varshneya, anche contro la propria volontà, come costretto da una forza?</p>
+<p class="translation translation-it" data-lang="it">Da che cosa è dunque indotto l&#x27;uomo a compiere il male, o Varshneya, anche contro la propria volontà, quasi vi fosse costretto?</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।<br>
@@ -496,7 +496,7 @@ Then run:
 <a class="ref" href="#v-3-37">3.37</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">È il desiderio, è l’ira, nati dal <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span>—voraci e causa di grandi mali; sappi che questo è il nemico.</p>
+<p class="translation translation-it" data-lang="it">È il desiderio, è l’ira, nati dal <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span>—insaziabili e gravidi di grandi mali; sappi che questo è il nemico.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">काम एष क्रोध एष रजोगुणसमुद्भवः ।<br>
@@ -535,7 +535,7 @@ Then run:
 <a class="ref" href="#v-3-40">3.40</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I sensi, la mente e l&#x27;intelletto sono detti la sua sede; per mezzo di essi il desiderio vela la conoscenza e getta nell&#x27;illusione chi è incarnato.</p>
+<p class="translation translation-it" data-lang="it">Si dice che le sue sedi siano i sensi, la mente e l&#x27;intelletto; per mezzo di essi il desiderio vela la conoscenza e getta nell&#x27;illusione chi è incarnato.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।<br>
@@ -548,7 +548,7 @@ Then run:
 <a class="ref" href="#v-3-41">3.41</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Perciò, o migliore dei <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, domina anzitutto i sensi e abbatti questo male, distruttore della conoscenza e del discernimento.</p>
+<p class="translation translation-it" data-lang="it">Perciò, o migliore fra i <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, domina anzitutto i sensi e abbatti questo male, distruttore della conoscenza e del discernimento.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।<br>
@@ -574,7 +574,7 @@ Then run:
 <a class="ref" href="#v-3-43">3.43</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Sapendo che il sé è superiore all&#x27;intelletto, e rendendo saldo il sé mediante il sé, sconfiggi il nemico, o dalle possenti braccia: il desiderio, così difficile da domare.</p>
+<p class="translation translation-it" data-lang="it">Sapendo che il sé è superiore all&#x27;intelletto, e rendendo saldo il sé con la forza del sé stesso, sconfiggi il nemico, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span> dalle possenti braccia: il desiderio, così difficile da domare.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।<br>

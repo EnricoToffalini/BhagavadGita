@@ -169,7 +169,7 @@ Drupada and the sons of Draupadi, and the strong-armed son of Subhadra—each on
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.19} \textit{(Sanjaya)}\par
-That tumultuous din, resounding through sky and earth, pierced the hearts of Dhritarashtra's sons.
+That tumultuous din, resounding through sky and earth, shaked the hearts of Dhritarashtra's sons.
 \par\endgroup
 \vspace{0.42em}
 

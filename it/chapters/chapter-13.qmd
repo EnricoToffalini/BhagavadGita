@@ -41,7 +41,7 @@ Then run:
 <a class="ref" href="#v-13-2">13.2</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questo corpo, o figlio di Kunti, è chiamato il campo; e colui che lo conosce è chiamato, da coloro che sanno, il conoscitore del campo.</p>
+<p class="translation translation-it" data-lang="it">Questo corpo, o figlio di Kunti, è chiamato il campo; e colui che lo conosce, coloro che sanno lo chiamano il conoscitore del campo.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते ।<br>
@@ -80,7 +80,7 @@ Then run:
 <a class="ref" href="#v-13-5">13.5</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Questo è stato cantato dai veggenti in molti modi, in vari inni e negli aforismi su <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, ben argomentati e conclusivi.</p>
+<p class="translation translation-it" data-lang="it">Questo è stato cantato dai veggenti in molti modi, in vari inni e negli aforismi su <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, sostenuti da argomentazioni rigorose e decisive.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् ।<br>
@@ -145,7 +145,7 @@ Then run:
 <a class="ref" href="#v-13-10">13.10</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">distacco, libertà dall’attaccamento al figlio, alla moglie, alla casa e al resto, e costante equanimità verso ciò che è gradito e ciò che non lo è;</p>
+<p class="translation translation-it" data-lang="it">distacco, libertà dall’attaccamento al figlio, alla moglie, alla casa e agli altri beni e legami, e costante equanimità verso ciò che è gradito e ciò che non lo è;</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु ।<br>
@@ -158,7 +158,7 @@ Then run:
 <a class="ref" href="#v-13-11">13.11</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">devozione incrollabile verso di me mediante uno <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> senza distrazioni, ritiro in luoghi appartati e nessuna attrazione per le folle;</p>
+<p class="translation translation-it" data-lang="it">devozione incrollabile verso di me con una pratica dello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> libera da distrazioni, ritiro in luoghi appartati e nessuna attrazione per le folle;</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">मयि चानन्ययोगेन भक्तिरव्यभिचारिणी ।<br>
@@ -171,7 +171,7 @@ Then run:
 <a class="ref" href="#v-13-12">13.12</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">costanza nella conoscenza del sé e comprensione del fine della vera conoscenza—questo è dichiarato conoscenza; ciò che ne differisce è ignoranza.</p>
+<p class="translation translation-it" data-lang="it">costanza nella conoscenza del sé e comprensione del fine della vera conoscenza—tutto questo è ciò che chiamo conoscenza; ciò che ne differisce è ignoranza.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अध्यात्मज्ञाननित्यत्वं तत्त्वज्ञानार्थदर्शनम् ।<br>
@@ -184,7 +184,7 @@ Then run:
 <a class="ref" href="#v-13-13">13.13</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Ti esporrò ciò che deve essere conosciuto, conoscendo il quale si consegue l’immortalità: <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> supremo e senza principio, detto né essere né non essere.</p>
+<p class="translation translation-it" data-lang="it">Ti esporrò ciò che deve essere conosciuto, conoscendo il quale si consegue l&#x27;immortalità: <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> supremo e senza principio, che non si può dire né essere né non essere.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्नुते ।<br>
@@ -288,7 +288,7 @@ Then run:
 <a class="ref" href="#v-13-21">13.21</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Si dice che <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span> sia la causa dell’operare di cause ed effetti; si dice che <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span> sia la causa dell’esperienza del piacere e del dolore.</p>
+<p class="translation translation-it" data-lang="it">Si dice che <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span> sia la causa del prodursi delle cause e degli effetti; si dice che <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span> sia la causa dell’esperienza del piacere e del dolore.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">कार्यकारणकर्तृत्वे हेतुः प्रकृतिरुच्यते ।<br>
@@ -301,7 +301,7 @@ Then run:
 <a class="ref" href="#v-13-22">13.22</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span>, presente in <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>, sperimenta infatti i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> nati da <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>; l’attaccamento ai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> è la causa della sua nascita in grembi buoni e cattivi.</p>
+<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span>, presente in <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>, sperimenta infatti i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> nati da <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>; l’attaccamento ai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> è la causa della sua nascita in forme di nascita favorevoli o sfavorevoli.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् ।<br>
@@ -340,7 +340,7 @@ Then run:
 <a class="ref" href="#v-13-25">13.25</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Alcuni, mediante la meditazione, contemplano il sé nel sé attraverso il sé; altri mediante lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> del <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span>, altri ancora mediante lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell’azione.</p>
+<p class="translation translation-it" data-lang="it">Alcuni contemplano il sé dentro di sé mediante la meditazione; altri mediante lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> del <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span>, altri ancora mediante lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell’azione.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना ।<br>
@@ -366,7 +366,7 @@ Then run:
 <a class="ref" href="#v-13-27">13.27</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Qualunque essere nasca, mobile o immobile, sappilo sorgere dall’unione di <span class="glossary-term" tabindex="0" data-gloss="Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13." aria-label="Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13." title="Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13." data-glossary-id="kshetra">kshetra</span> e <span class="glossary-term" tabindex="0" data-gloss="Conoscitore del campo; il principio cosciente correlato a kshetra." aria-label="Conoscitore del campo; il principio cosciente correlato a kshetra." title="Conoscitore del campo; il principio cosciente correlato a kshetra." data-glossary-id="kshetrajna">kshetrajna</span>, o migliore dei <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<p class="translation translation-it" data-lang="it">Qualunque essere nasca, mobile o immobile, sappilo sorgere dall’unione di <span class="glossary-term" tabindex="0" data-gloss="Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13." aria-label="Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13." title="Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13." data-glossary-id="kshetra">kshetra</span> e <span class="glossary-term" tabindex="0" data-gloss="Conoscitore del campo; il principio cosciente correlato a kshetra." aria-label="Conoscitore del campo; il principio cosciente correlato a kshetra." title="Conoscitore del campo; il principio cosciente correlato a kshetra." data-glossary-id="kshetrajna">kshetrajna</span>, o migliore fra i <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गमम् ।<br>
@@ -392,7 +392,7 @@ Then run:
 <a class="ref" href="#v-13-29">13.29</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Vedendo il signore presente ugualmente ovunque, egli non reca danno al sé mediante il sé, e così raggiunge la meta suprema.</p>
+<p class="translation translation-it" data-lang="it">Vedendo il signore presente ugualmente ovunque, egli non danneggia se stesso con le proprie azioni, e così raggiunge la meta suprema.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् ।<br>
@@ -418,7 +418,7 @@ Then run:
 <a class="ref" href="#v-13-31">13.31</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Quando vede i diversi stati degli esseri come riposti nell’Uno e il loro dispiegarsi da quello soltanto, allora raggiunge <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-it" data-lang="it">Quando vede la molteplicità degli esseri come fondata nell&#x27;Uno e il loro dispiegarsi da quello soltanto, allora raggiunge <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यदा भूतपृथग्भावमेकस्थमनुपश्यति ।<br>
@@ -444,7 +444,7 @@ Then run:
 <a class="ref" href="#v-13-33">13.33</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Come lo spazio onnipervadente, essendo sottile, non è contaminato, così il sé, presente in ogni corpo, non è contaminato.</p>
+<p class="translation translation-it" data-lang="it">Come lo spazio che pervade ogni cosa, essendo sottile, non è contaminato, così il sé, presente in ogni corpo, non è contaminato.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते ।<br>

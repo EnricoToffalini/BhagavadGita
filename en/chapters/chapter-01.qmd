@@ -262,7 +262,7 @@ Then run:
 <a class="ref" href="#v-1-19">1.19</a>
 <span class="speaker">(Sanjaya)</span>
 </header>
-<p class="translation translation-en" data-lang="en">That tumultuous din, resounding through sky and earth, pierced the hearts of <span class="glossary-term" tabindex="0" data-gloss="The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons.</p>
+<p class="translation translation-en" data-lang="en">That tumultuous din, resounding through sky and earth, shaked the hearts of <span class="glossary-term" tabindex="0" data-gloss="The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." aria-label="The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." title="The blind king of the Kurus, father of the Kauravas; he opens the dialogue by asking Sanjaya what happened at Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra&#x27;s</span> sons.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।<br>

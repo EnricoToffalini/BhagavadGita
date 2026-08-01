@@ -112,8 +112,8 @@ LANGS = {
         'site_note': (
             'The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, '
             'chapters 23-40. This English draft was prepared from Google Translate '
-            'output, revised with GPT-5.4-mini, GPT-5.5, Claude-Opus-4.8, plus some '
-            'manual revision.'
+            'output, revised with GPT-5.4-mini,,5.5, and 5.6, Claude-Opus-4.8 and 5.0, '
+            'plus some manual revision.'
         ),
         'glossary_note': (
             'A compact guide to transliterated Sanskrit terms and recurring names '
@@ -157,8 +157,8 @@ LANGS = {
         'site_note': (
             'La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, '
             'capitoli 23-40. Questa bozza inglese è stata preparata a partire '
-            "dall'output di Google Translate, rivista con GPT-5.4-mini, GPT-5.5, "
-            'Claude-Opus-4.8, oltre a qualche revisione manuale.'
+            "dall'output di Google Translate, rivista con GPT-5.4-mini, 5.5 e 5.6, "
+            'Claude-Opus-4.8 e 5.0, oltre a qualche revisione manuale.'
         ),
         'glossary_note': (
             'Una guida essenziale ai termini sanscriti traslitterati e ai nomi '
