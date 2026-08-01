@@ -1,0 +1,338 @@
+---
+title: "Capitolo 16 - Daivasura-Sampad Vibhaga Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">दैवासुरसम्पद्विभागयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-15.html">Capitolo precedente</a><a href="chapter-17.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-16-1" data-reference="16.1">
+<header class="verse-head">
+<a class="ref" href="#v-16-1">16.1</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Assenza di paura, purezza del cuore, fermezza nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> della conoscenza, generosità, dominio di sé, sacrificio, studio delle scritture, ascesi e rettitudine;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।<br>
+दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-2" data-reference="16.2">
+<header class="verse-head">
+<a class="ref" href="#v-16-2">16.2</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">nonviolenza, verità, libertà dall’ira, rinuncia, calma, assenza di maldicenza, compassione per tutti gli esseri, libertà dall’avidità, mitezza, pudore e fermezza;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।<br>
+दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-3" data-reference="16.3">
+<header class="verse-head">
+<a class="ref" href="#v-16-3">16.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">vigore, pazienza, forza d’animo, purezza, libertà dalla malevolenza e dall’orgoglio—queste qualità appartengono a chi è nato a una sorte divina, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता ।<br>
+भवन्ति सम्पदं दैवीमभिजातस्य भारत ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-4" data-reference="16.4">
+<header class="verse-head">
+<a class="ref" href="#v-16-4">16.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ipocrisia, arroganza, presunzione, ira, durezza e ignoranza appartengono, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, a chi è nato a una sorte demoniaca.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च ।<br>
+अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-5" data-reference="16.5">
+<header class="verse-head">
+<a class="ref" href="#v-16-5">16.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La sorte divina conduce alla liberazione, quella demoniaca al vincolo; non affliggerti, o <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span>—tu sei nato a una sorte divina.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।<br>
+मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-6" data-reference="16.6">
+<header class="verse-head">
+<a class="ref" href="#v-16-6">16.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">In questo mondo vi sono due ordini di esseri creati: quello divino e quello demoniaco; il divino è stato descritto a lungo, ascolta ora da me il demoniaco, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च ।<br>
+दैवो विस्तरशः प्रोक्त आसुरं पार्थ मे श‍ृणु ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-7" data-reference="16.7">
+<header class="verse-head">
+<a class="ref" href="#v-16-7">16.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I demoniaci non conoscono né l’azione né la sua cessazione; in loro non si trovano né purezza, né retta condotta, né verità.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः ।<br>
+न शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-8" data-reference="16.8">
+<header class="verse-head">
+<a class="ref" href="#v-16-8">16.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dicono che il mondo sia privo di verità, di fondamento e di un signore, nato soltanto dall’unione reciproca e causato dal desiderio.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् ।<br>
+अपरस्परसम्भूतं किमन्यत्कामहैतुकम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-9" data-reference="16.9">
+<header class="verse-head">
+<a class="ref" href="#v-16-9">16.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Attenendosi a questa visione, queste anime perdute, dall’intelletto debole e dalle opere crudeli, si levano come nemici per la rovina del mondo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः ।<br>
+प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-10" data-reference="16.10">
+<header class="verse-head">
+<a class="ref" href="#v-16-10">16.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Aggrappati a un desiderio insaziabile, pieni di ipocrisia, orgoglio e arroganza, scambiando per vere idee false nate dall’illusione, agiscono secondo propositi impuri.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः ।<br>
+मोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-11" data-reference="16.11">
+<header class="verse-head">
+<a class="ref" href="#v-16-11">16.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Assillati da preoccupazioni smisurate che terminano soltanto con la morte, ritenendo la soddisfazione dei desideri il bene più alto e certi che questo sia tutto,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः ।<br>
+कामोपभोगपरमा एतावदिति निश्चिताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-12" data-reference="16.12">
+<header class="verse-head">
+<a class="ref" href="#v-16-12">16.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">legati da cento lacci della speranza, dediti al desiderio e all’ira, si affannano ad ammassare ricchezze con mezzi disonesti, per soddisfare i propri desideri.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आशापाशशतैर्बद्धाः कामक्रोधपरायणाः ।<br>
+ईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-13" data-reference="16.13">
+<header class="verse-head">
+<a class="ref" href="#v-16-13">16.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">«Questo ho ottenuto oggi; questa bramosia la appagherò ora; questo è mio, e anche questa ricchezza sarà mia;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।<br>
+इदमस्तीदमपि मे भविष्यति पुनर्धनम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-14" data-reference="16.14">
+<header class="verse-head">
+<a class="ref" href="#v-16-14">16.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">quel nemico l’ho ucciso e ucciderò anche gli altri; io sono il signore, io sono colui che gode, ho successo, sono forte e felice;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">असौ मया हतः शत्रुर्हनिष्ये चापरानपि ।<br>
+ईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-15" data-reference="16.15">
+<header class="verse-head">
+<a class="ref" href="#v-16-15">16.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">sono ricco e di nobile nascita; chi altri è pari a me? Sacrificherò, donerò, mi rallegrerò»—così dicono, ingannati dall’ignoranza.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया ।<br>
+यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-16" data-reference="16.16">
+<header class="verse-head">
+<a class="ref" href="#v-16-16">16.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sviati da molte fantasie, intrappolati nella rete dell’illusione e dediti al godimento dei desideri, precipitano in un immondo inferno.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अनेकचित्तविभ्रान्ता मोहजालसमावृताः ।<br>
+प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-17" data-reference="16.17">
+<header class="verse-head">
+<a class="ref" href="#v-16-17">16.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Pieni di sé, ostinati, colmi dell’orgoglio e dell’ebbrezza della ricchezza, offrono sacrifici che lo sono soltanto di nome, per ostentazione e contro le regole.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः ।<br>
+यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-18" data-reference="16.18">
+<header class="verse-head">
+<a class="ref" href="#v-16-18">16.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Aggrappati all’ego, alla forza, alla tracotanza, al desiderio e all’ira, questi uomini astiosi odiano me che dimoro nel loro corpo e in quello degli altri.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः ।<br>
+मामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-19" data-reference="16.19">
+<header class="verse-head">
+<a class="ref" href="#v-16-19">16.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questi esseri pieni d’odio, crudeli e vili, i peggiori del mondo, io li scaglio ripetutamente in grembi demoniaci, nei cicli del <span class="glossary-term" tabindex="0" data-gloss="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." aria-label="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." title="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." data-glossary-id="samsara">samsara</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तानहं द्विषतः क्रूरान्संसारेषु नराधमान् ।<br>
+क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-20" data-reference="16.20">
+<header class="verse-head">
+<a class="ref" href="#v-16-20">16.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Gettati in grembi demoniaci, nascita dopo nascita, gli illusi, senza mai raggiungermi, o figlio di Kunti, sprofondano sempre più nella condizione più bassa.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।<br>
+मामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-21" data-reference="16.21">
+<header class="verse-head">
+<a class="ref" href="#v-16-21">16.21</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Triplice è questa porta dell’inferno che conduce alla rovina del sé: desiderio, ira e avidità; perciò si devono abbandonare tutte e tre.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।<br>
+कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-22" data-reference="16.22">
+<header class="verse-head">
+<a class="ref" href="#v-16-22">16.22</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Liberato da queste tre porte delle tenebre, o figlio di Kunti, l’uomo agisce per il proprio bene e così raggiunge la meta suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः ।<br>
+आचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-23" data-reference="16.23">
+<header class="verse-head">
+<a class="ref" href="#v-16-23">16.23</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma colui che respinge la norma delle scritture e agisce seguendo l’impulso del desiderio non raggiunge né la perfezione, né la felicità, né la meta suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः ।<br>
+न स सिद्धिमवाप्नोति न सुखं न परां गतिम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-16-24" data-reference="16.24">
+<header class="verse-head">
+<a class="ref" href="#v-16-24">16.24</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Perciò la scrittura sia il tuo criterio nel decidere ciò che deve e non deve essere fatto; conoscendo ciò che la sua norma prescrive, devi agire in questo mondo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।<br>
+ज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥</div>
+</details>
+</article>
+
+</div>

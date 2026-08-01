@@ -3,4 +3,7 @@ __pycache__/
 *.pyc
 *.Rproj
 
+# Lock files Excel leaves behind while a workbook is open.
+~$*
+
 /.quarto/

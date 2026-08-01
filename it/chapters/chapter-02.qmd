@@ -1,0 +1,978 @@
+---
+title: "Capitolo 2 - Sankhya Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">साङ्ख्ययोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-01.html">Capitolo precedente</a><a href="chapter-03.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-2-1" data-reference="2.1">
+<header class="verse-head">
+<a class="ref" href="#v-2-1">2.1</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Vedendolo così sopraffatto dalla compassione, con gli occhi turbati e colmi di lacrime, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna: uccisore di Madhu." aria-label="Epiteto di Krishna: uccisore di Madhu." title="Epiteto di Krishna: uccisore di Madhu." data-glossary-id="madhusudana">Madhusudana</span> rivolse queste parole ad <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>, abbattuto.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।<br>
+विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-2" data-reference="2.2">
+<header class="verse-head">
+<a class="ref" href="#v-2-2">2.2</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Da dove ti è venuto questo smarrimento nell&#x27;ora della prova, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>? È indegno, sconveniente a un uomo d&#x27;onore, e non conduce né al cielo né alla gloria.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।<br>
+अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-3" data-reference="2.3">
+<header class="verse-head">
+<a class="ref" href="#v-2-3">2.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non cedere alla debolezza, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>; non ti si addice. Scuoti via questa meschina fiacchezza del cuore e alzati, o flagello dei nemici.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते ।<br>
+क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-4" data-reference="2.4">
+<header class="verse-head">
+<a class="ref" href="#v-2-4">2.4</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come potrò, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna: uccisore di Madhu." aria-label="Epiteto di Krishna: uccisore di Madhu." title="Epiteto di Krishna: uccisore di Madhu." data-glossary-id="madhusudana">Madhusudana</span>, rispondere con le frecce a <span class="glossary-term" tabindex="0" data-gloss="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." aria-label="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." title="Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava." data-glossary-id="bhishma">Bhishma</span> e a <span class="glossary-term" tabindex="0" data-gloss="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." aria-label="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." title="Maestro dei principi Kuru e guerriero nello schieramento Kaurava." data-glossary-id="drona">Drona</span>, che sono degni di venerazione, o distruttore dei nemici?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन ।<br>
+इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-5" data-reference="2.5">
+<header class="verse-head">
+<a class="ref" href="#v-2-5">2.5</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Meglio vivere in questo mondo mendicando che uccidere questi nobili maestri. Se li uccidessi, i piaceri stessi di cui godrei sarebbero macchiati di sangue.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">गुरूनहत्वा हि महानुभावान्<br>
+श्रेयो भोक्तुं भैक्ष्यमपीह लोके ।<br>
+हत्वार्थकामांस्तु गुरूनिहैव<br>
+भुञ्जीय भोगान् रुधिरप्रदिग्धान् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-6" data-reference="2.6">
+<header class="verse-head">
+<a class="ref" href="#v-2-6">2.6</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">E non sappiamo che cosa sia meglio per noi—vincerli o essere vinti da loro; i figli di <span class="glossary-term" tabindex="0" data-gloss="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." aria-label="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." title="Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra." data-glossary-id="dhritarashtra">Dhritarashtra</span> stanno davanti a noi, e dopo averli uccisi non avremmo più desiderio di vivere.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न चैतद्विद्मः कतरन्नो गरीयो<br>
+यद्वा जयेम यदि वा नो जयेयुः ।<br>
+यानेव हत्वा न जिजीविषाम-<br>
+स्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-7" data-reference="2.7">
+<header class="verse-head">
+<a class="ref" href="#v-2-7">2.7</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La mia natura è sopraffatta da una pietà che mi indebolisce, e la mia mente è confusa riguardo al mio <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>. Ti chiedo: dimmi con chiarezza che cosa sia meglio. Sono tuo discepolo; mi rifugio in te—istruiscimi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कार्पण्यदोषोपहतस्वभावः<br>
+पृच्छामि त्वां धर्मसम्मूढचेताः ।<br>
+यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे<br>
+शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-8" data-reference="2.8">
+<header class="verse-head">
+<a class="ref" href="#v-2-8">2.8</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non vedo nulla che possa scacciare il dolore che inaridisce i miei sensi, neppure se conquistassi sulla terra un dominio prospero e senza rivali, o la signoria sugli dèi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न हि प्रपश्यामि ममापनुद्याद्<br>
+यच्छोकमुच्छोषणमिन्द्रियाणाम् ।<br>
+अवाप्य भूमावसपत्नमृद्धं<br>
+राज्यं सुराणामपि चाधिपत्यम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-9" data-reference="2.9">
+<header class="verse-head">
+<a class="ref" href="#v-2-9">2.9</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dopo aver detto questo a <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna, spesso inteso come signore dei sensi." aria-label="Epiteto di Krishna, spesso inteso come signore dei sensi." title="Epiteto di Krishna, spesso inteso come signore dei sensi." data-glossary-id="hrishikesha">Hrishikesha</span>, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." aria-label="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." title="Epiteto di Arjuna, comunemente collegato al dominio sul sonno." data-glossary-id="gudakesha">Gudakesha</span>, flagello dei nemici, dichiarò a <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="govinda">Govinda</span>: «Non combatterò», e tacque.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप ।<br>
+न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-10" data-reference="2.10">
+<header class="verse-head">
+<a class="ref" href="#v-2-10">2.10</a>
+<span class="speaker">(Sanjaya)</span>
+</header>
+<p class="translation translation-it" data-lang="it">A lui, abbattuto fra i due eserciti, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna, spesso inteso come signore dei sensi." aria-label="Epiteto di Krishna, spesso inteso come signore dei sensi." title="Epiteto di Krishna, spesso inteso come signore dei sensi." data-glossary-id="hrishikesha">Hrishikesha</span> rivolse, quasi sorridendo, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, queste parole:</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तमुवाच हृषीकेशः प्रहसन्निव भारत ।<br>
+सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-11" data-reference="2.11">
+<header class="verse-head">
+<a class="ref" href="#v-2-11">2.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ti affliggi per coloro per i quali non vi è motivo di affliggersi, eppure pronunci parole di saggezza. I saggi non si affliggono né per i morti né per i vivi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।<br>
+गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-12" data-reference="2.12">
+<header class="verse-head">
+<a class="ref" href="#v-2-12">2.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non vi fu mai un tempo in cui io non esistessi, né tu, né questi signori degli uomini; né in futuro alcuno di noi cesserà di esistere.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।<br>
+न चैव न भविष्यामः सर्वे वयमतः परम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-13" data-reference="2.13">
+<header class="verse-head">
+<a class="ref" href="#v-2-13">2.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come il sé incarnato passa, in questo corpo, attraverso l&#x27;infanzia, la giovinezza e la vecchiaia, così passa in un altro corpo; chi è saldo non ne resta turbato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।<br>
+तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-14" data-reference="2.14">
+<header class="verse-head">
+<a class="ref" href="#v-2-14">2.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I contatti dei sensi con i loro oggetti, o figlio di Kunti, portano freddo e caldo, piacere e dolore; vanno e vengono e non durano. Sopportali, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः ।<br>
+आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-15" data-reference="2.15">
+<header class="verse-head">
+<a class="ref" href="#v-2-15">2.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che non ne è turbato, o migliore degli uomini, e rimane saldo, uguale nel dolore e nel piacere, è degno dell&#x27;immortalità.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।<br>
+समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-16" data-reference="2.16">
+<header class="verse-head">
+<a class="ref" href="#v-2-16">2.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dell&#x27;irreale non vi è essere; del reale non vi è cessare di essere. I veggenti della verità hanno colto la natura ultima di entrambi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नासतो विद्यते भावो नाभावो विद्यते सतः ।<br>
+उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-17" data-reference="2.17">
+<header class="verse-head">
+<a class="ref" href="#v-2-17">2.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sappi che è indistruttibile ciò da cui tutto questo è pervaso; nessuno può distruggere questo imperituro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।<br>
+विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-18" data-reference="2.18">
+<header class="verse-head">
+<a class="ref" href="#v-2-18">2.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Si dice che questi corpi del sé incarnato, eterno, abbiano una fine; ma il sé stesso è indistruttibile e incommensurabile. Perciò combatti, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः ।<br>
+अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-19" data-reference="2.19">
+<header class="verse-head">
+<a class="ref" href="#v-2-19">2.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi lo crede uccisore e chi lo crede ucciso—nessuno dei due comprende; esso non uccide né è ucciso.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।<br>
+उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-20" data-reference="2.20">
+<header class="verse-head">
+<a class="ref" href="#v-2-20">2.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non nasce mai e non muore mai; venuto all’essere, non cessa più di essere. Non nato, eterno, perenne, primordiale, non viene ucciso quando il corpo è ucciso.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न जायते म्रियते वा कदाचिन्<br>
+नायं भूत्वा भविता वा न भूयः ।<br>
+अजो नित्यः शाश्वतोऽयं पुराणो<br>
+न हन्यते हन्यमाने शरीरे ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-21" data-reference="2.21">
+<header class="verse-head">
+<a class="ref" href="#v-2-21">2.21</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi lo conosce come indistruttibile, eterno, non nato e immutabile—come potrebbe costui uccidere o far uccidere qualcuno, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">वेदाविनाशिनं नित्यं य एनमजमव्ययम् ।<br>
+कथं स पुरुषः पार्थ कं घातयति हन्ति कम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-22" data-reference="2.22">
+<header class="verse-head">
+<a class="ref" href="#v-2-22">2.22</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come un uomo getta via le vesti logore e ne indossa altre nuove, così il sé incarnato lascia i corpi logori e ne assume altri nuovi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">वासांसि जीर्णानि यथा विहाय<br>
+नवानि गृह्णाति नरोऽपराणि ।<br>
+तथा शरीराणि विहाय जीर्णा-<br>
+न्यन्यानि संयाति नवानि देही ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-23" data-reference="2.23">
+<header class="verse-head">
+<a class="ref" href="#v-2-23">2.23</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Le armi non lo tagliano, il fuoco non lo brucia; l&#x27;acqua non lo bagna, né il vento lo prosciuga.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।<br>
+न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-24" data-reference="2.24">
+<header class="verse-head">
+<a class="ref" href="#v-2-24">2.24</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non può essere tagliato, bruciato, bagnato né prosciugato; è eterno, onnipervadente, saldo, immobile e primordiale.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।<br>
+नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-25" data-reference="2.25">
+<header class="verse-head">
+<a class="ref" href="#v-2-25">2.25</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">È detto immanifesto, impensabile e immutabile; perciò, sapendolo tale, non devi affliggerti.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते ।<br>
+तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-26" data-reference="2.26">
+<header class="verse-head">
+<a class="ref" href="#v-2-26">2.26</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">E anche se lo ritenessi soggetto a nascita e morte continue, neppure allora, o dalle possenti braccia, dovresti affliggerti.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।<br>
+तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-27" data-reference="2.27">
+<header class="verse-head">
+<a class="ref" href="#v-2-27">2.27</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per chi nasce, la morte è certa; per chi muore, certa è la nascita. Perciò non devi affliggerti per ciò che non si può evitare.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।<br>
+तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-28" data-reference="2.28">
+<header class="verse-head">
+<a class="ref" href="#v-2-28">2.28</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Gli esseri sono immanifesti al principio, manifesti nel mezzo e di nuovo immanifesti alla fine, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>. Che motivo vi è dunque di lamentarsi?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।<br>
+अव्यक्तनिधनान्येव तत्र का परिदेवना ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-29" data-reference="2.29">
+<header class="verse-head">
+<a class="ref" href="#v-2-29">2.29</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Uno lo contempla come un prodigio, un altro ne parla come di un prodigio, un altro ancora ne sente parlare come di un prodigio; eppure, anche dopo averne udito, nessuno lo conosce davvero.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आश्चर्यवत्पश्यति कश्चिदेन-<br>
+माश्चर्यवद्वदति तथैव चान्यः ।<br>
+आश्चर्यवच्चैनमन्यः श‍ृणोति<br>
+श्रुत्वाप्येनं वेद न चैव कश्चित् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-30" data-reference="2.30">
+<header class="verse-head">
+<a class="ref" href="#v-2-30">2.30</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il sé incarnato nel corpo di ogni essere è per sempre invulnerabile, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>; perciò non devi affliggerti per alcun essere.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।<br>
+तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-31" data-reference="2.31">
+<header class="verse-head">
+<a class="ref" href="#v-2-31">2.31</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Considerando poi il tuo stesso <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>, non devi vacillare; per uno <span class="glossary-term" tabindex="0" data-gloss="Membro della classe guerriera o dominante." aria-label="Membro della classe guerriera o dominante." title="Membro della classe guerriera o dominante." data-glossary-id="kshatriya">kshatriya</span> non vi è bene maggiore di una battaglia conforme al <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।<br>
+धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-32" data-reference="2.32">
+<header class="verse-head">
+<a class="ref" href="#v-2-32">2.32</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Felici sono gli <span class="glossary-term" tabindex="0" data-gloss="Membro della classe guerriera o dominante." aria-label="Membro della classe guerriera o dominante." title="Membro della classe guerriera o dominante." data-glossary-id="kshatriya">kshatriya</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, ai quali tocca una simile battaglia, giunta spontaneamente come una porta aperta verso il cielo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् ।<br>
+सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-33" data-reference="2.33">
+<header class="verse-head">
+<a class="ref" href="#v-2-33">2.33</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma se non combatterai questa giusta battaglia, allora, abbandonando il tuo <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> e il tuo onore, cadrai nel peccato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अथ चेत्त्वमिमं धर्म्यं सङ्ग्रामं न करिष्यसि ।<br>
+ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-34" data-reference="2.34">
+<header class="verse-head">
+<a class="ref" href="#v-2-34">2.34</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La gente parlerà per sempre del tuo disonore; e per chi ha goduto di onore, il disonore è peggiore della morte.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् ।<br>
+सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-35" data-reference="2.35">
+<header class="verse-head">
+<a class="ref" href="#v-2-35">2.35</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I grandi guerrieri su carro penseranno che tu ti sia ritirato dalla battaglia per paura, e perderai la stima di quanti ti tenevano in grande considerazione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः ।<br>
+येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-36" data-reference="2.36">
+<header class="verse-head">
+<a class="ref" href="#v-2-36">2.36</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I tuoi nemici pronunceranno molte parole oltraggiose, schernendo il tuo valore. Che cosa potrebbe esservi di più doloroso?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।<br>
+निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-37" data-reference="2.37">
+<header class="verse-head">
+<a class="ref" href="#v-2-37">2.37</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Se sarai ucciso, otterrai il cielo; se vincerai, godrai della terra. Perciò alzati, o figlio di Kunti, deciso a combattere.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् ।<br>
+तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-38" data-reference="2.38">
+<header class="verse-head">
+<a class="ref" href="#v-2-38">2.38</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Considera allo stesso modo piacere e dolore, guadagno e perdita, vittoria e sconfitta, e preparati alla battaglia; così non incorrerai in peccato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ ।<br>
+ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-39" data-reference="2.39">
+<header class="verse-head">
+<a class="ref" href="#v-2-39">2.39</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questa comprensione ti è stata esposta secondo il <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span>; ascoltala ora in relazione allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>. Saldo in questa comprensione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, spezzerai il vincolo del <span class="glossary-term" tabindex="0" data-gloss="Azione, atto, o le conseguenze legate all&#x27;azione." aria-label="Azione, atto, o le conseguenze legate all&#x27;azione." title="Azione, atto, o le conseguenze legate all&#x27;azione." data-glossary-id="karma">karma</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां श‍ृणु ।<br>
+बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-40" data-reference="2.40">
+<header class="verse-head">
+<a class="ref" href="#v-2-40">2.40</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Su questo cammino nessuno sforzo va perduto e non si produce alcun danno; anche un poco di questo <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> protegge da una grande paura.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।<br>
+स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-41" data-reference="2.41">
+<header class="verse-head">
+<a class="ref" href="#v-2-41">2.41</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Su questo cammino la comprensione risoluta è una sola, o gioia dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>; i pensieri degli irresoluti, invece, si ramificano senza fine.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।<br>
+बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-42" data-reference="2.42">
+<header class="verse-head">
+<a class="ref" href="#v-2-42">2.42</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Gli ignoranti, che si compiacciono della lettera dei <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, pronunciano discorsi fioriti e affermano che non esiste altro;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः ।<br>
+वेदवादरताः पार्थ नान्यदस्तीति वादिनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-43" data-reference="2.43">
+<header class="verse-head">
+<a class="ref" href="#v-2-43">2.43</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">pieni di desiderio e intenti al cielo, prescrivono riti che hanno per frutto la rinascita, ricchi di cerimonie particolari volte al godimento e al potere.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् ।<br>
+क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-44" data-reference="2.44">
+<header class="verse-head">
+<a class="ref" href="#v-2-44">2.44</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">In coloro che sono attaccati al godimento e al potere, e la cui mente è rapita da tali discorsi, non si stabilisce una comprensione risoluta, raccolta nella concentrazione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् ।<br>
+व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-45" data-reference="2.45">
+<header class="verse-head">
+<a class="ref" href="#v-2-45">2.45</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> trattano dei tre <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; tu sii libero dai tre <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>—al di là delle coppie di opposti, sempre saldo nella purezza, libero dall&#x27;assillo di acquisire e conservare, padrone di te stesso.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।<br>
+निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-46" data-reference="2.46">
+<header class="verse-head">
+<a class="ref" href="#v-2-46">2.46</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quanta utilità ha un pozzo quando l&#x27;acqua dilaga da ogni parte, tanta ne hanno tutti i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> per il <span class="glossary-term" tabindex="0" data-gloss="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." aria-label="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." title="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." data-glossary-id="brahmin">brahmin</span> che possiede la conoscenza.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यावानर्थ उदपाने सर्वतः सम्प्लुतोदके ।<br>
+तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-47" data-reference="2.47">
+<header class="verse-head">
+<a class="ref" href="#v-2-47">2.47</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">A te spetta soltanto l&#x27;azione, mai i suoi frutti. Non siano i frutti dell&#x27;azione il tuo movente, e non attaccarti neppure all&#x27;inazione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-48" data-reference="2.48">
+<header class="verse-head">
+<a class="ref" href="#v-2-48">2.48</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, compi le tue azioni abbandonando l&#x27;attaccamento, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>, con animo uguale nel successo e nel fallimento: questa equanimità è chiamata <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।<br>
+सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-49" data-reference="2.49">
+<header class="verse-head">
+<a class="ref" href="#v-2-49">2.49</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">L&#x27;azione motivata dal frutto è di gran lunga inferiore allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> della comprensione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>; cerca rifugio nella comprensione. Miserabili sono coloro che agiscono per i frutti.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय ।<br>
+बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-50" data-reference="2.50">
+<header class="verse-head">
+<a class="ref" href="#v-2-50">2.50</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi è saldo nella comprensione si libera già qui tanto delle opere buone quanto di quelle cattive; perciò dèditi allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>—lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> è maestria nell’azione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते ।<br>
+तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-51" data-reference="2.51">
+<header class="verse-head">
+<a class="ref" href="#v-2-51">2.51</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I saggi, saldi nella comprensione, rinunciano al frutto nato dall&#x27;azione e, liberati dal vincolo della nascita, raggiungono lo stato al di là di ogni male.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः ।<br>
+जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-52" data-reference="2.52">
+<header class="verse-head">
+<a class="ref" href="#v-2-52">2.52</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando la tua comprensione avrà attraversato la selva dell’illusione, diventerai indifferente a ciò che resta da udire e a ciò che hai già udito.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।<br>
+तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-53" data-reference="2.53">
+<header class="verse-head">
+<a class="ref" href="#v-2-53">2.53</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando la tua comprensione, ora smarrita fra le dottrine delle scritture, rimarrà immobile e salda nella concentrazione, allora conseguirai lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला ।<br>
+समाधावचला बुद्धिस्तदा योगमवाप्स्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-54" data-reference="2.54">
+<header class="verse-head">
+<a class="ref" href="#v-2-54">2.54</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quali sono i segni di chi è saldo nella saggezza e stabilito nella concentrazione, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="keshava">Keshava</span>? Come parla chi ha la mente salda, come siede, come si muove?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव ।<br>
+स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-55" data-reference="2.55">
+<header class="verse-head">
+<a class="ref" href="#v-2-55">2.55</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando un uomo abbandona tutti i desideri che sorgono nella mente, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, ed è appagato nel sé, per mezzo del sé, allora è detto saldo nella saggezza.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।<br>
+आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-56" data-reference="2.56">
+<header class="verse-head">
+<a class="ref" href="#v-2-56">2.56</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui la cui mente non si turba nel dolore e non brama il piacere, che ha oltrepassato desiderio, paura e ira, è detto saggio dalla mente salda.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः ।<br>
+वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-57" data-reference="2.57">
+<header class="verse-head">
+<a class="ref" href="#v-2-57">2.57</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che non è attaccato a nulla, e che incontrando il bene o il male né si rallegra né prova avversione, ha una saggezza ben salda.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् ।<br>
+नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-58" data-reference="2.58">
+<header class="verse-head">
+<a class="ref" href="#v-2-58">2.58</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">E quando, come una tartaruga che ritira le membra, egli ritrae interamente i sensi dai loro oggetti, la sua saggezza è ben fondata.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः ।<br>
+इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-59" data-reference="2.59">
+<header class="verse-head">
+<a class="ref" href="#v-2-59">2.59</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Gli oggetti dei sensi si allontanano da chi è incarnato e se ne astiene, benché ne rimanga il gusto; anche quel gusto svanisce quando egli vede il Supremo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">विषया विनिवर्तन्ते निराहारस्य देहिनः ।<br>
+रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-60" data-reference="2.60">
+<header class="verse-head">
+<a class="ref" href="#v-2-60">2.60</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Poiché, anche nell&#x27;uomo che si sforza e vede con chiarezza, o figlio di Kunti, i sensi turbolenti trascinano via la mente con violenza.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः ।<br>
+इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-61" data-reference="2.61">
+<header class="verse-head">
+<a class="ref" href="#v-2-61">2.61</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Tenendoli tutti a freno, sieda raccolto nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> e rivolto a me; poiché, per chi ha padroneggiato i sensi, la saggezza è ben salda.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तानि सर्वाणि संयम्य युक्त आसीत मत्परः ।<br>
+वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-62" data-reference="2.62">
+<header class="verse-head">
+<a class="ref" href="#v-2-62">2.62</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">In chi si sofferma sugli oggetti dei sensi nasce l&#x27;attaccamento a essi; dall&#x27;attaccamento sorge il desiderio, e dal desiderio l&#x27;ira.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते ।<br>
+सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-63" data-reference="2.63">
+<header class="verse-head">
+<a class="ref" href="#v-2-63">2.63</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dall&#x27;ira nasce lo smarrimento; dallo smarrimento, la confusione della memoria; dalla perdita della memoria, la rovina dell&#x27;intelletto; e dalla rovina dell&#x27;intelletto, l&#x27;uomo perisce.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः ।<br>
+स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-64" data-reference="2.64">
+<header class="verse-head">
+<a class="ref" href="#v-2-64">2.64</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma chi si muove fra gli oggetti dei sensi con sensi liberi da attaccamento e avversione, padroneggiati e sotto il proprio controllo, raggiunge la serenità.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">रागद्वेषविमुक्तैस्तु विषयानिन्द्रियैश्चरन् ।<br>
+आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-65" data-reference="2.65">
+<header class="verse-head">
+<a class="ref" href="#v-2-65">2.65</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Nella serenità tutti i suoi dolori si dissolvono, poiché l’intelletto di chi ha la mente serena diviene presto saldo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रसादे सर्वदुःखानां हानिरस्योपजायते ।<br>
+प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-66" data-reference="2.66">
+<header class="verse-head">
+<a class="ref" href="#v-2-66">2.66</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per chi non è raccolto non vi è intelletto saldo né contemplazione; senza contemplazione non vi è pace, e senza pace come potrebbe esservi felicità?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना ।<br>
+न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-67" data-reference="2.67">
+<header class="verse-head">
+<a class="ref" href="#v-2-67">2.67</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando la mente corre dietro ai sensi erranti, essi trascinano via la saggezza dell&#x27;uomo, come il vento trascina una barca sull&#x27;acqua.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।<br>
+तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-68" data-reference="2.68">
+<header class="verse-head">
+<a class="ref" href="#v-2-68">2.68</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Perciò, o dalle possenti braccia, colui i cui sensi sono interamente distolti dai loro oggetti ha una saggezza saldamente fondata.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः ।<br>
+इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-69" data-reference="2.69">
+<header class="verse-head">
+<a class="ref" href="#v-2-69">2.69</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ciò che è notte per tutti gli esseri è veglia per chi è disciplinato; ciò in cui gli esseri vegliano è notte per il saggio che vede.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">या निशा सर्वभूतानां तस्यां जागर्ति संयमी ।<br>
+यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-70" data-reference="2.70">
+<header class="verse-head">
+<a class="ref" href="#v-2-70">2.70</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come le acque confluiscono nell&#x27;oceano, che pur colmandosi rimane saldo e immobile, così tutti i desideri confluiscono in colui che raggiunge la pace—non in chi insegue i desideri.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आपूर्यमाणमचलप्रतिष्ठं<br>
+समुद्रमापः प्रविशन्ति यद्वत् ।<br>
+तद्वत्कामा यं प्रविशन्ति सर्वे<br>
+स शान्तिमाप्नोति न कामकामी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-71" data-reference="2.71">
+<header class="verse-head">
+<a class="ref" href="#v-2-71">2.71</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">L&#x27;uomo che, abbandonando tutti i desideri, procede libero da bramosia, dal senso dell&#x27;io e del mio, raggiunge la pace.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः ।<br>
+निर्ममो निरहङ्कारः स शान्तिमधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-2-72" data-reference="2.72">
+<header class="verse-head">
+<a class="ref" href="#v-2-72">2.72</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questo è lo stato di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>; raggiuntolo, non si cade più nell&#x27;illusione. Chi vi rimane stabilito anche nell&#x27;ora della morte raggiunge il <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति ।<br>
+स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ॥</div>
+</details>
+</article>
+
+</div>

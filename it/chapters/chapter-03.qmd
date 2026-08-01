@@ -1,0 +1,585 @@
+---
+title: "Capitolo 3 - Karma Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">कर्मयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-02.html">Capitolo precedente</a><a href="chapter-04.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-3-1" data-reference="3.1">
+<header class="verse-head">
+<a class="ref" href="#v-3-1">3.1</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="janardana">Janardana</span>, se ritieni la comprensione superiore all&#x27;azione, perché allora, <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna." aria-label="Epiteto di Krishna." title="Epiteto di Krishna." data-glossary-id="keshava">Keshava</span>, mi spingi a questa terribile impresa?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।<br>
+तत्किं कर्मणि घोरे मां नियोजयसि केशव ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-2" data-reference="3.2">
+<header class="verse-head">
+<a class="ref" href="#v-3-2">3.2</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Con queste parole apparentemente contraddittorie confondi il mio intelletto. Dimmi con certezza quale unica via possa condurmi al bene supremo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।<br>
+तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-3" data-reference="3.3">
+<header class="verse-head">
+<a class="ref" href="#v-3-3">3.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">In questo mondo, o irreprensibile, un duplice cammino fu da me insegnato in antico: lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> della conoscenza per i seguaci del <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span> e lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione per gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">लोकेऽस्मिन् द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।<br>
+ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-4" data-reference="3.4">
+<header class="verse-head">
+<a class="ref" href="#v-3-4">3.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non è astenendosi dall&#x27;azione che l&#x27;uomo raggiunge la libertà dall&#x27;azione, né con la sola rinuncia giunge alla perfezione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।<br>
+न च संन्यसनादेव सिद्धिं समधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-5" data-reference="3.5">
+<header class="verse-head">
+<a class="ref" href="#v-3-5">3.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Nessuno, infatti, rimane mai, neppure per un istante, senza agire; tutti sono costretti ad agire, loro malgrado, dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> nati da <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।<br>
+कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-6" data-reference="3.6">
+<header class="verse-head">
+<a class="ref" href="#v-3-6">3.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi trattiene gli organi dell&#x27;azione ma siede rimuginando nella mente sugli oggetti dei sensi, con l&#x27;animo smarrito, è detto ipocrita.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।<br>
+इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-7" data-reference="3.7">
+<header class="verse-head">
+<a class="ref" href="#v-3-7">3.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma chi, dominando i sensi con la mente, si dedica con gli organi dell&#x27;azione allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione, senza attaccamento, eccelle, o <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।<br>
+कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-8" data-reference="3.8">
+<header class="verse-head">
+<a class="ref" href="#v-3-8">3.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Compi l&#x27;azione che ti è assegnata, perché l&#x27;azione è migliore dell&#x27;inazione; neppure il sostentamento del corpo sarebbe possibile nell&#x27;inazione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।<br>
+शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-9" data-reference="3.9">
+<header class="verse-head">
+<a class="ref" href="#v-3-9">3.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questo mondo è vincolato dall&#x27;azione, salvo quando essa è compiuta come <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span>; perciò, o figlio di Kunti, agisci a quel fine, libero da attaccamento.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।<br>
+तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-10" data-reference="3.10">
+<header class="verse-head">
+<a class="ref" href="#v-3-10">3.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">In principio, dopo aver creato gli esseri insieme allo <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span>, <span class="glossary-term" tabindex="0" data-gloss="Signore delle creature; figura creatrice." aria-label="Signore delle creature; figura creatrice." title="Signore delle creature; figura creatrice." data-glossary-id="prajapati">Prajapati</span> disse: «Con questo prospererete; esso sia per voi la vacca che esaudisce i desideri».</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।<br>
+अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-11" data-reference="3.11">
+<header class="verse-head">
+<a class="ref" href="#v-3-11">3.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Con questo sostenete gli dèi, e gli dèi sostengano voi; sostenendovi a vicenda, raggiungerete il bene supremo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">देवान्भावयतानेन ते देवा भावयन्तु वः ।<br>
+परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-12" data-reference="3.12">
+<header class="verse-head">
+<a class="ref" href="#v-3-12">3.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sostenuti dallo <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span>, gli dèi vi concederanno i godimenti che desiderate; ma chi gode dei loro doni senza offrire nulla in cambio non è che un ladro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।<br>
+तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-13" data-reference="3.13">
+<header class="verse-head">
+<a class="ref" href="#v-3-13">3.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I giusti, che si cibano dei resti dello <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span>, sono liberati da ogni colpa; ma i malvagi, che cucinano solo per se stessi, si cibano di peccato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।<br>
+भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-14" data-reference="3.14">
+<header class="verse-head">
+<a class="ref" href="#v-3-14">3.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dal cibo nascono gli esseri; dalla pioggia viene il cibo; dallo <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span> viene la pioggia; e lo <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span> nasce dall&#x27;azione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।<br>
+यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-15" data-reference="3.15">
+<header class="verse-head">
+<a class="ref" href="#v-3-15">3.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sappi che l&#x27;azione scaturisce da <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> e <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> dall&#x27;imperituro; perciò <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, che tutto pervade, è sempre presente nello <span class="glossary-term" tabindex="0" data-gloss="Sacrificio, offerta rituale o azione consacrata." aria-label="Sacrificio, offerta rituale o azione consacrata." title="Sacrificio, offerta rituale o azione consacrata." data-glossary-id="yajna">yajna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।<br>
+तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-16" data-reference="3.16">
+<header class="verse-head">
+<a class="ref" href="#v-3-16">3.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi, compiacendosi dei sensi e vivendo nel peccato, non segue la ruota così messa in moto, vive invano, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।<br>
+अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-17" data-reference="3.17">
+<header class="verse-head">
+<a class="ref" href="#v-3-17">3.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma per chi si compiace soltanto del sé, è appagato nel sé e soddisfatto nel sé, non vi è nulla che debba essere compiuto.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।<br>
+आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-18" data-reference="3.18">
+<header class="verse-head">
+<a class="ref" href="#v-3-18">3.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per lui, in questo mondo, non vi è alcun fine nell&#x27;azione compiuta né in quella tralasciata, e non dipende da alcun essere per raggiungere alcuno scopo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।<br>
+न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-19" data-reference="3.19">
+<header class="verse-head">
+<a class="ref" href="#v-3-19">3.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Perciò compi sempre, senza attaccamento, l&#x27;azione che deve essere compiuta; chi agisce senza attaccamento raggiunge il Supremo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तस्मादसक्तः सततं कार्यं कर्म समाचर ।<br>
+असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-20" data-reference="3.20">
+<header class="verse-head">
+<a class="ref" href="#v-3-20">3.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Fu con la sola azione che Janaka e altri raggiunsero la perfezione; anche tu devi agire, tenendo presente il bene del mondo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।<br>
+लोकसङ्ग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-21" data-reference="3.21">
+<header class="verse-head">
+<a class="ref" href="#v-3-21">3.21</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Qualunque cosa faccia un uomo eminente, gli altri la fanno; qualunque norma egli stabilisca, il mondo la segue.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।<br>
+स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-22" data-reference="3.22">
+<header class="verse-head">
+<a class="ref" href="#v-3-22">3.22</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Non vi è nulla nei tre mondi che io debba fare, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, né alcunché che io non abbia ottenuto e debba ancora conquistare; eppure continuo ad agire.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।<br>
+नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-23" data-reference="3.23">
+<header class="verse-head">
+<a class="ref" href="#v-3-23">3.23</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Se infatti io non agissi sempre, instancabilmente, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, gli uomini seguirebbero in ogni modo il mio esempio.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।<br>
+मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-24" data-reference="3.24">
+<header class="verse-head">
+<a class="ref" href="#v-3-24">3.24</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questi mondi cadrebbero in rovina se io non compissi l&#x27;azione; sarei io l&#x27;artefice della confusione e distruggerei queste creature.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।<br>
+सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-25" data-reference="3.25">
+<header class="verse-head">
+<a class="ref" href="#v-3-25">3.25</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come gli ignoranti agiscono attaccati all’azione, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, così agisca il saggio, ma senza attaccamento, cercando il bene del mondo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।<br>
+कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसङ्ग्रहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-26" data-reference="3.26">
+<header class="verse-head">
+<a class="ref" href="#v-3-26">3.26</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il saggio non confonda la mente degli ignoranti attaccati all&#x27;azione; agendo egli stesso con disciplina, li coinvolga in tutte le azioni.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।<br>
+जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-27" data-reference="3.27">
+<header class="verse-head">
+<a class="ref" href="#v-3-27">3.27</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Le azioni sono compiute interamente dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>; chi ha la mente ottenebrata dall’ego pensa: «Sono io che agisco».</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।<br>
+अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-28" data-reference="3.28">
+<header class="verse-head">
+<a class="ref" href="#v-3-28">3.28</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma chi conosce la verità sulle distinzioni fra <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> e azione, o dalle possenti braccia, non vi si attacca, sapendo che sono i <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> ad agire sui <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।<br>
+गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-29" data-reference="3.29">
+<header class="verse-head">
+<a class="ref" href="#v-3-29">3.29</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Coloro che sono ottenebrati dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span> si attaccano alle azioni dei <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; chi conosce il tutto non turbi gli ottusi che non lo conoscono.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।<br>
+तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-30" data-reference="3.30">
+<header class="verse-head">
+<a class="ref" href="#v-3-30">3.30</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Affidando a me tutte le azioni, con la mente centrata sul sé, libero da bramosia e dal senso del «mio», combatti senza agitazione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।<br>
+निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-31" data-reference="3.31">
+<header class="verse-head">
+<a class="ref" href="#v-3-31">3.31</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Coloro che seguono costantemente questo mio insegnamento, pieni di fede e senza criticarlo, sono liberati perfino dal <span class="glossary-term" tabindex="0" data-gloss="Azione, atto, o le conseguenze legate all&#x27;azione." aria-label="Azione, atto, o le conseguenze legate all&#x27;azione." title="Azione, atto, o le conseguenze legate all&#x27;azione." data-glossary-id="karma">karma</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।<br>
+श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-32" data-reference="3.32">
+<header class="verse-head">
+<a class="ref" href="#v-3-32">3.32</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma coloro che, criticandolo, non seguono questo mio insegnamento—sappili offuscati in ogni conoscenza, privi di discernimento e perduti.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।<br>
+सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-33" data-reference="3.33">
+<header class="verse-head">
+<a class="ref" href="#v-3-33">3.33</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Anche i saggi agiscono secondo la propria natura; gli esseri seguono la loro natura—che cosa può fare la costrizione?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।<br>
+प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-34" data-reference="3.34">
+<header class="verse-head">
+<a class="ref" href="#v-3-34">3.34</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">In ciascun senso, attrazione e avversione stanno in agguato presso il loro oggetto; nessuno cada in loro potere, poiché sono suoi nemici.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।<br>
+तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-35" data-reference="3.35">
+<header class="verse-head">
+<a class="ref" href="#v-3-35">3.35</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Meglio il proprio <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>, imperfettamente compiuto, che il <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> di un altro ben eseguito. Meglio morire nel proprio <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span>; il <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> di un altro porta pericolo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।<br>
+स्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-36" data-reference="3.36">
+<header class="verse-head">
+<a class="ref" href="#v-3-36">3.36</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Da che cosa è dunque indotto l&#x27;uomo a compiere il male, o Varshneya, anche contro la propria volontà, come costretto da una forza?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।<br>
+अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-37" data-reference="3.37">
+<header class="verse-head">
+<a class="ref" href="#v-3-37">3.37</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">È il desiderio, è l’ira, nati dal <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span> di <span class="glossary-term" tabindex="0" data-gloss="Il guna associato ad attività, passione, impulso e irrequietezza." aria-label="Il guna associato ad attività, passione, impulso e irrequietezza." title="Il guna associato ad attività, passione, impulso e irrequietezza." data-glossary-id="rajas">rajas</span>—voraci e causa di grandi mali; sappi che questo è il nemico.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">काम एष क्रोध एष रजोगुणसमुद्भवः ।<br>
+महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-38" data-reference="3.38">
+<header class="verse-head">
+<a class="ref" href="#v-3-38">3.38</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come il fuoco è velato dal fumo, uno specchio dalla polvere e l&#x27;embrione dal grembo, così la conoscenza è velata dal desiderio.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।<br>
+यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-39" data-reference="3.39">
+<header class="verse-head">
+<a class="ref" href="#v-3-39">3.39</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La conoscenza è velata, o figlio di Kunti, da questo nemico sempre presente dei saggi: il desiderio, fuoco insaziabile.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।<br>
+कामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-40" data-reference="3.40">
+<header class="verse-head">
+<a class="ref" href="#v-3-40">3.40</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I sensi, la mente e l&#x27;intelletto sono detti la sua sede; per mezzo di essi il desiderio vela la conoscenza e getta nell&#x27;illusione chi è incarnato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।<br>
+एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-41" data-reference="3.41">
+<header class="verse-head">
+<a class="ref" href="#v-3-41">3.41</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Perciò, o migliore dei <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, domina anzitutto i sensi e abbatti questo male, distruttore della conoscenza e del discernimento.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।<br>
+पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-42" data-reference="3.42">
+<header class="verse-head">
+<a class="ref" href="#v-3-42">3.42</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I sensi, si dice, sono superiori; superiore ai sensi è la mente; superiore alla mente è l&#x27;intelletto; e superiore all&#x27;intelletto è il sé.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।<br>
+मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-3-43" data-reference="3.43">
+<header class="verse-head">
+<a class="ref" href="#v-3-43">3.43</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sapendo che il sé è superiore all&#x27;intelletto, e rendendo saldo il sé mediante il sé, sconfiggi il nemico, o dalle possenti braccia: il desiderio, così difficile da domare.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।<br>
+जहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥</div>
+</details>
+</article>
+
+</div>

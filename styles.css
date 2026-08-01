@@ -420,6 +420,137 @@ details.sanskrit summary {
   }
 }
 
+/* ---------------------------------------------------------------------------
+   Language switching: flags in the navbar and at the top of the sidebar.
+
+   The flags are drawn from CSS rather than from <img> tags in _quarto.yml.
+   URLs inside this stylesheet resolve against the site root, so a single rule
+   is correct for pages at any depth, in a local preview and under a GitHub
+   Pages project subpath alike.
+   --------------------------------------------------------------------------- */
+
+.gita-lang::before {
+  content: "";
+  display: inline-block;
+  width: 1.35em;
+  height: 1em;
+  margin-right: .4em;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, .18);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  vertical-align: -.12em;
+}
+
+.gita-lang[data-lang="en"]::before {
+  background-image: url("assets/flags/en.png");
+}
+
+.gita-lang[data-lang="it"]::before {
+  background-image: url("assets/flags/it.png");
+}
+
+/* In the navbar the flag is the whole control: keep the label for screen
+   readers, but let the flag alone carry the meaning visually. */
+#quarto-header .navbar .gita-lang {
+  font-size: 0;
+}
+
+#quarto-header .navbar .gita-lang::before {
+  width: 1.5rem;
+  height: 1.1rem;
+  margin-right: 0;
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, .45);
+}
+
+/* Below Bootstrap's lg breakpoint the navbar collapses into a stacked menu,
+   where there is room to name the language next to its flag. */
+@media (max-width: 991.98px) {
+  #quarto-header .navbar .gita-lang {
+    font-size: inherit;
+  }
+
+  #quarto-header .navbar .gita-lang::before {
+    width: 1.35em;
+    height: 1em;
+    margin-right: .4em;
+  }
+}
+
+/* .gita-lang-link is added by lang-switch.html, so the dimming of the language
+   already being read is a progressive enhancement. */
+#quarto-header .navbar .gita-lang-link {
+  padding-left: .35rem;
+  padding-right: .35rem;
+  opacity: .5;
+  transition: opacity .12s ease;
+}
+
+#quarto-header .navbar .gita-lang-link:hover,
+#quarto-header .navbar .gita-lang-link:focus {
+  opacity: .8;
+}
+
+#quarto-header .navbar .gita-lang-link.gita-lang-active {
+  opacity: 1;
+}
+
+#quarto-header .navbar .gita-lang-active .gita-lang::before {
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, .95);
+}
+
+.sidebar .gita-lang-active {
+  font-weight: 700;
+}
+
+/* Notice shown while a language is not fully translated yet.  It is emitted
+   per page, so it disappears from each chapter as that chapter is finished. */
+.lang-pending {
+  margin: .2rem 0 .9rem 0;
+  padding: .45rem .6rem;
+  border: 1px solid rgba(210, 96, 48, .35);
+  border-left: 3px solid var(--gita-orange);
+  border-radius: 6px;
+  background: var(--gita-orange-soft);
+  color: rgba(0, 0, 0, .68);
+  font-size: .88rem;
+  line-height: 1.35;
+}
+
+/* A verse still awaiting translation carries a lang attribute naming the
+   language actually shown, so it can be told apart from the finished ones. */
+.translation[lang] {
+  border-left: 2px solid rgba(0, 0, 0, .10);
+  padding-left: .55rem;
+  color: rgba(0, 0, 0, .62);
+}
+
+/* Root landing page: shown only when the automatic redirect cannot run. */
+.lang-chooser {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: 1rem;
+}
+
+.lang-choice {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .5rem .75rem;
+  border: 1px solid var(--gita-soft-border);
+  border-radius: 7px;
+  background: var(--gita-faint);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.lang-choice:hover {
+  text-decoration: none;
+  border-color: rgba(0, 0, 0, .22);
+}
+
 .site-download {
   margin-top: .3rem;
   margin-bottom: .8rem;

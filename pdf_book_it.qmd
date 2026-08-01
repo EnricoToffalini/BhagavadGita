@@ -1,0 +1,5082 @@
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/bhagavadgita_ai_refined.xlsx for verse text
+- data/glossary.it.csv for glossary entries
+- tools/2_generate_pdf_book.py for PDF generation logic
+
+Then run:
+    python tools\2_generate_pdf_book.py
+    quarto render pdf_book_it.qmd --to pdf
+-->
+
+---
+title: "Bhagavad Gita"
+subtitle: "Traduzione italiana"
+output-file: "bhagavad-gita-it"
+format:
+  pdf:
+    documentclass: scrartcl
+    pdf-engine: xelatex
+    papersize: a5
+    fontsize: 10.5pt
+    toc: true
+    toc-depth: 1
+    number-sections: false
+    colorlinks: true
+    geometry:
+      - top=15mm
+      - bottom=17mm
+      - inner=16mm
+      - outer=14mm
+    include-in-header: pdf/pdf-preamble.tex
+---
+
+La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, capitoli 23-40.
+
+\clearpage
+
+\clearpage
+# Capitolo 1 - Arjuna Vishada Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.1} \textit{(Dhritarashtra)}\par
+Sul campo del dharma, a Kurukshetra, radunati e desiderosi di combattere, che cosa fecero i miei uomini e i Pandava, o Sanjaya?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.2} \textit{(Sanjaya)}\par
+Allora il re Duryodhana, vedendo l'esercito dei Pandava schierato, si avvicinò al suo maestro e pronunciò queste parole.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.3} \textit{(Sanjaya)}\par
+Guarda, o maestro, questo grande esercito dei figli di Pandu, schierato dal figlio di Drupada, tuo abile discepolo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.4} \textit{(Sanjaya)}\par
+Qui vi sono eroi e possenti arcieri, pari in battaglia a Bhima e Arjuna: Yuyudhana, Virata e Drupada, il grande guerriero su carro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.5} \textit{(Sanjaya)}\par
+Dhrishtaketu, Chekitana e il valoroso re di Kashi; Purujit, Kuntibhoja e Shaibya, il più eminente fra gli uomini.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.6} \textit{(Sanjaya)}\par
+Il valoroso Yudhamanyu e l'intrepido Uttamauja, Saubhadra e i figli di Draupadi—tutti grandi guerrieri su carro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.7} \textit{(Sanjaya)}\par
+Sappi anche, o migliore dei nati due volte, chi sono i più illustri tra noi, i comandanti del mio esercito: te li nomino.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.8} \textit{(Sanjaya)}\par
+Tu stesso, Bhishma, Karna e Kripa, sempre vittorioso in battaglia; e poi Ashvatthama, Vikarna e Saumadatti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.9} \textit{(Sanjaya)}\par
+E molti altri eroi, pronti a sacrificare la vita per me, muniti di armi diverse—tutti esperti in guerra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.10} \textit{(Sanjaya)}\par
+Le nostre forze, difese da Bhishma, sono insufficienti; le loro invece, difese da Bhima, sono sufficienti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.11} \textit{(Sanjaya)}\par
+Schierati ciascuno al proprio posto, in tutte le divisioni, proteggete anzitutto Bhishma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.12} \textit{(Sanjaya)}\par
+Per rincuorarlo, l'anziano Kuru, il possente avo, ruggì come un leone e suonò con forza la sua conchiglia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.13} \textit{(Sanjaya)}\par
+Allora conchiglie, tamburi, timpani e corni risuonarono d'un tratto, e il fragore fu tumultuoso.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.14} \textit{(Sanjaya)}\par
+Allora Madhava e il Pandava, sul loro grande carro trainato da cavalli bianchi, suonarono le loro conchiglie divine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.15} \textit{(Sanjaya)}\par
+Hrishikesha suonò la Panchajanya, Dhananjaya la Devadatta, e Vrikodara, dalle grandi imprese, la possente conchiglia Paundra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.16} \textit{(Sanjaya)}\par
+Il re Yudhishthira, figlio di Kunti, suonò l'Anantavijaya; Nakula e Sahadeva, rispettivamente la Sughosha e la Manipushpaka.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.17} \textit{(Sanjaya)}\par
+Il re di Kashi, arciere supremo, e Shikhandin, il grande guerriero su carro; Dhrishtadyumna, Virata e l'invitto Satyaki.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.18} \textit{(Sanjaya)}\par
+Da ogni parte, Drupada e i figli di Draupadi, e il possente figlio di Subhadra, suonarono ciascuno la propria conchiglia, o signore della terra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.19} \textit{(Sanjaya)}\par
+Quel fragore tumultuoso, riecheggiando fra cielo e terra, trafisse i cuori dei figli di Dhritarashtra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.20} \textit{(Sanjaya)}\par
+Allora, vedendo schierati i figli di Dhritarashtra, mentre lo scontro stava per iniziare, il Pandava dal vessillo recante la scimmia impugnò l'arco
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.21} \textit{(Arjuna)}\par
+e rivolse queste parole a Hrishikesha, o re: O Acyuta, poni il mio carro fra i due eserciti,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.22} \textit{(Arjuna)}\par
+affinché io possa vedere questi uomini che stanno qui desiderosi di combattere, con i quali dovrò misurarmi in battaglia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.23} \textit{(Arjuna)}\par
+Fammi vedere coloro che si sono qui raccolti per combattere, desiderosi di compiacere in battaglia il malvagio figlio di Dhritarashtra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.24} \textit{(Sanjaya)}\par
+Così interpellato da Gudakesha, o Bharata, Hrishikesha pose il più splendido dei carri fra i due eserciti,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.25} \textit{(Sanjaya)}\par
+dinanzi a Bhishma, Drona e a tutti i sovrani della terra, e disse: «O Partha, guarda questi Kuru qui raccolti».
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.26} \textit{(Sanjaya)}\par
+Là Partha vide davanti a sé padri e nonni, maestri, zii, fratelli, figli, nipoti e anche amici;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.27} \textit{(Sanjaya)}\par
+suoceri e compagni, in entrambi gli eserciti. Vedendo tutti questi congiunti schierati,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.28} \textit{(Arjuna)}\par
+il figlio di Kunti fu sopraffatto da profonda compassione e, addolorato, disse: Vedendo la mia gente, Krishna, qui raccolta e desiderosa di combattere,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.29} \textit{(Arjuna)}\par
+le membra mi cedono e la bocca mi si inaridisce; il corpo mi trema e i peli mi si rizzano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.30} \textit{(Arjuna)}\par
+Il Gandiva mi scivola di mano e la pelle mi brucia; non riesco a reggermi in piedi e la mente mi vacilla.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.31} \textit{(Arjuna)}\par
+E vedo presagi avversi, o Keshava; non vedo alcun bene nell'uccidere la mia gente in battaglia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.32} \textit{(Arjuna)}\par
+Non bramo la vittoria, Krishna, né il regno, né i piaceri. A che ci giova un regno, Govinda, o i godimenti, o la vita stessa?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.33} \textit{(Arjuna)}\par
+Coloro per i quali desidereremmo regno, godimenti e piaceri stanno qui schierati, pronti a sacrificare vita e ricchezze:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.34} \textit{(Arjuna)}\par
+maestri, padri, figli e nonni; zii, suoceri, nipoti, cognati e altri congiunti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.35} \textit{(Arjuna)}\par
+Non voglio ucciderli, o Madhusudana, neppure se fossero loro a uccidere me—nemmeno per la sovranità sui tre mondi, tanto meno per la terra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.36} \textit{(Arjuna)}\par
+Che gioia ne avremmo, o Janardana, nell'uccidere i figli di Dhritarashtra? Uccidendo questi aggressori, su di noi ricadrebbe soltanto il peccato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.37} \textit{(Arjuna)}\par
+Perciò non dobbiamo uccidere i figli di Dhritarashtra, i nostri stessi congiunti; come potremmo essere felici, o Madhava, dopo aver ucciso la nostra gente?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.38} \textit{(Arjuna)}\par
+Anche se costoro, accecati dall'avidità, non vedono colpa nella rovina di una famiglia né delitto nel tradimento degli amici,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.39} \textit{(Arjuna)}\par
+come potremmo non comprendere che dobbiamo ritrarci da questo peccato, o Janardana, noi che vediamo con chiarezza la colpa nella rovina di una famiglia?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.40} \textit{(Arjuna)}\par
+Quando una famiglia va in rovina, periscono i suoi dharma antichi; e quando il dharma perisce, l'adharma sopraffà l'intera famiglia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.41} \textit{(Arjuna)}\par
+Quando prevale l'adharma, o Krishna, le donne della famiglia si corrompono; e quando le donne si corrompono, o Varshneya, nasce la mescolanza degli ordini sociali.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.42} \textit{(Arjuna)}\par
+Questa confusione non porta che l'inferno alla famiglia e a coloro che la rovinano; i loro antenati precipitano, privati delle offerte di riso e d'acqua.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.43} \textit{(Arjuna)}\par
+Per queste colpe di chi distrugge la famiglia, che producono la mescolanza degli ordini sociali, si dissolvono gli eterni dharma della comunità e della stirpe.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.44} \textit{(Arjuna)}\par
+E abbiamo udito, o Janardana, che per coloro i cui dharma familiari sono distrutti è certa la dimora nell'inferno.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.45} \textit{(Arjuna)}\par
+Ahimè, siamo decisi a commettere un grande peccato: per avidità dei piaceri di un regno, siamo pronti a uccidere la nostra gente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.46} \textit{(Arjuna)}\par
+Meglio sarebbe per me che i figli di Dhritarashtra, armi in pugno, mi uccidessero in battaglia inerme e senza difesa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{1.47} \textit{(Sanjaya)}\par
+Dopo aver parlato così sul campo di battaglia, Arjuna si accasciò sul sedile del carro, lasciando cadere arco e frecce, con la mente oppressa dal dolore.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 2 - Sankhya Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.1} \textit{(Sanjaya)}\par
+Vedendolo così sopraffatto dalla compassione, con gli occhi turbati e colmi di lacrime, Madhusudana rivolse queste parole ad Arjuna, abbattuto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.2} \textit{(Krishna)}\par
+Da dove ti è venuto questo smarrimento nell'ora della prova, Arjuna? È indegno, sconveniente a un uomo d'onore, e non conduce né al cielo né alla gloria.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.3} \textit{(Krishna)}\par
+Non cedere alla debolezza, Partha; non ti si addice. Scuoti via questa meschina fiacchezza del cuore e alzati, o flagello dei nemici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.4} \textit{(Arjuna)}\par
+Come potrò, o Madhusudana, rispondere con le frecce a Bhishma e a Drona, che sono degni di venerazione, o distruttore dei nemici?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.5} \textit{(Arjuna)}\par
+Meglio vivere in questo mondo mendicando che uccidere questi nobili maestri. Se li uccidessi, i piaceri stessi di cui godrei sarebbero macchiati di sangue.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.6} \textit{(Arjuna)}\par
+E non sappiamo che cosa sia meglio per noi—vincerli o essere vinti da loro; i figli di Dhritarashtra stanno davanti a noi, e dopo averli uccisi non avremmo più desiderio di vivere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.7} \textit{(Arjuna)}\par
+La mia natura è sopraffatta da una pietà che mi indebolisce, e la mia mente è confusa riguardo al mio dharma. Ti chiedo: dimmi con chiarezza che cosa sia meglio. Sono tuo discepolo; mi rifugio in te—istruiscimi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.8} \textit{(Arjuna)}\par
+Non vedo nulla che possa scacciare il dolore che inaridisce i miei sensi, neppure se conquistassi sulla terra un dominio prospero e senza rivali, o la signoria sugli dèi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.9} \textit{(Sanjaya)}\par
+Dopo aver detto questo a Hrishikesha, Gudakesha, flagello dei nemici, dichiarò a Govinda: «Non combatterò», e tacque.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.10} \textit{(Sanjaya)}\par
+A lui, abbattuto fra i due eserciti, Hrishikesha rivolse, quasi sorridendo, o Bharata, queste parole:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.11} \textit{(Krishna)}\par
+Ti affliggi per coloro per i quali non vi è motivo di affliggersi, eppure pronunci parole di saggezza. I saggi non si affliggono né per i morti né per i vivi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.12} \textit{(Krishna)}\par
+Non vi fu mai un tempo in cui io non esistessi, né tu, né questi signori degli uomini; né in futuro alcuno di noi cesserà di esistere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.13} \textit{(Krishna)}\par
+Come il sé incarnato passa, in questo corpo, attraverso l'infanzia, la giovinezza e la vecchiaia, così passa in un altro corpo; chi è saldo non ne resta turbato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.14} \textit{(Krishna)}\par
+I contatti dei sensi con i loro oggetti, o figlio di Kunti, portano freddo e caldo, piacere e dolore; vanno e vengono e non durano. Sopportali, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.15} \textit{(Krishna)}\par
+Colui che non ne è turbato, o migliore degli uomini, e rimane saldo, uguale nel dolore e nel piacere, è degno dell'immortalità.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.16} \textit{(Krishna)}\par
+Dell'irreale non vi è essere; del reale non vi è cessare di essere. I veggenti della verità hanno colto la natura ultima di entrambi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.17} \textit{(Krishna)}\par
+Sappi che è indistruttibile ciò da cui tutto questo è pervaso; nessuno può distruggere questo imperituro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.18} \textit{(Krishna)}\par
+Si dice che questi corpi del sé incarnato, eterno, abbiano una fine; ma il sé stesso è indistruttibile e incommensurabile. Perciò combatti, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.19} \textit{(Krishna)}\par
+Chi lo crede uccisore e chi lo crede ucciso—nessuno dei due comprende; esso non uccide né è ucciso.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.20} \textit{(Krishna)}\par
+Non nasce mai e non muore mai; venuto all’essere, non cessa più di essere. Non nato, eterno, perenne, primordiale, non viene ucciso quando il corpo è ucciso.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.21} \textit{(Krishna)}\par
+Chi lo conosce come indistruttibile, eterno, non nato e immutabile—come potrebbe costui uccidere o far uccidere qualcuno, o Partha?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.22} \textit{(Krishna)}\par
+Come un uomo getta via le vesti logore e ne indossa altre nuove, così il sé incarnato lascia i corpi logori e ne assume altri nuovi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.23} \textit{(Krishna)}\par
+Le armi non lo tagliano, il fuoco non lo brucia; l'acqua non lo bagna, né il vento lo prosciuga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.24} \textit{(Krishna)}\par
+Non può essere tagliato, bruciato, bagnato né prosciugato; è eterno, onnipervadente, saldo, immobile e primordiale.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.25} \textit{(Krishna)}\par
+È detto immanifesto, impensabile e immutabile; perciò, sapendolo tale, non devi affliggerti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.26} \textit{(Krishna)}\par
+E anche se lo ritenessi soggetto a nascita e morte continue, neppure allora, o dalle possenti braccia, dovresti affliggerti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.27} \textit{(Krishna)}\par
+Per chi nasce, la morte è certa; per chi muore, certa è la nascita. Perciò non devi affliggerti per ciò che non si può evitare.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.28} \textit{(Krishna)}\par
+Gli esseri sono immanifesti al principio, manifesti nel mezzo e di nuovo immanifesti alla fine, o Bharata. Che motivo vi è dunque di lamentarsi?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.29} \textit{(Krishna)}\par
+Uno lo contempla come un prodigio, un altro ne parla come di un prodigio, un altro ancora ne sente parlare come di un prodigio; eppure, anche dopo averne udito, nessuno lo conosce davvero.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.30} \textit{(Krishna)}\par
+Il sé incarnato nel corpo di ogni essere è per sempre invulnerabile, o Bharata; perciò non devi affliggerti per alcun essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.31} \textit{(Krishna)}\par
+Considerando poi il tuo stesso dharma, non devi vacillare; per uno kshatriya non vi è bene maggiore di una battaglia conforme al dharma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.32} \textit{(Krishna)}\par
+Felici sono gli kshatriya, o Partha, ai quali tocca una simile battaglia, giunta spontaneamente come una porta aperta verso il cielo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.33} \textit{(Krishna)}\par
+Ma se non combatterai questa giusta battaglia, allora, abbandonando il tuo dharma e il tuo onore, cadrai nel peccato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.34} \textit{(Krishna)}\par
+La gente parlerà per sempre del tuo disonore; e per chi ha goduto di onore, il disonore è peggiore della morte.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.35} \textit{(Krishna)}\par
+I grandi guerrieri su carro penseranno che tu ti sia ritirato dalla battaglia per paura, e perderai la stima di quanti ti tenevano in grande considerazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.36} \textit{(Krishna)}\par
+I tuoi nemici pronunceranno molte parole oltraggiose, schernendo il tuo valore. Che cosa potrebbe esservi di più doloroso?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.37} \textit{(Krishna)}\par
+Se sarai ucciso, otterrai il cielo; se vincerai, godrai della terra. Perciò alzati, o figlio di Kunti, deciso a combattere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.38} \textit{(Krishna)}\par
+Considera allo stesso modo piacere e dolore, guadagno e perdita, vittoria e sconfitta, e preparati alla battaglia; così non incorrerai in peccato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.39} \textit{(Krishna)}\par
+Questa comprensione ti è stata esposta secondo il Sankhya; ascoltala ora in relazione allo yoga. Saldo in questa comprensione, o Partha, spezzerai il vincolo del karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.40} \textit{(Krishna)}\par
+Su questo cammino nessuno sforzo va perduto e non si produce alcun danno; anche un poco di questo dharma protegge da una grande paura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.41} \textit{(Krishna)}\par
+Su questo cammino la comprensione risoluta è una sola, o gioia dei Kuru; i pensieri degli irresoluti, invece, si ramificano senza fine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.42} \textit{(Krishna)}\par
+Gli ignoranti, che si compiacciono della lettera dei Veda, o Partha, pronunciano discorsi fioriti e affermano che non esiste altro;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.43} \textit{(Krishna)}\par
+pieni di desiderio e intenti al cielo, prescrivono riti che hanno per frutto la rinascita, ricchi di cerimonie particolari volte al godimento e al potere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.44} \textit{(Krishna)}\par
+In coloro che sono attaccati al godimento e al potere, e la cui mente è rapita da tali discorsi, non si stabilisce una comprensione risoluta, raccolta nella concentrazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.45} \textit{(Krishna)}\par
+I Veda trattano dei tre guna; tu sii libero dai tre guna, o Arjuna—al di là delle coppie di opposti, sempre saldo nella purezza, libero dall'assillo di acquisire e conservare, padrone di te stesso.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.46} \textit{(Krishna)}\par
+Quanta utilità ha un pozzo quando l'acqua dilaga da ogni parte, tanta ne hanno tutti i Veda per il brahmin che possiede la conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.47} \textit{(Krishna)}\par
+A te spetta soltanto l'azione, mai i suoi frutti. Non siano i frutti dell'azione il tuo movente, e non attaccarti neppure all'inazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.48} \textit{(Krishna)}\par
+Saldo nello yoga, compi le tue azioni abbandonando l'attaccamento, o Dhananjaya, con animo uguale nel successo e nel fallimento: questa equanimità è chiamata yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.49} \textit{(Krishna)}\par
+L'azione motivata dal frutto è di gran lunga inferiore allo yoga della comprensione, o Dhananjaya; cerca rifugio nella comprensione. Miserabili sono coloro che agiscono per i frutti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.50} \textit{(Krishna)}\par
+Chi è saldo nella comprensione si libera già qui tanto delle opere buone quanto di quelle cattive; perciò dèditi allo yoga—lo yoga è maestria nell’azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.51} \textit{(Krishna)}\par
+I saggi, saldi nella comprensione, rinunciano al frutto nato dall'azione e, liberati dal vincolo della nascita, raggiungono lo stato al di là di ogni male.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.52} \textit{(Krishna)}\par
+Quando la tua comprensione avrà attraversato la selva dell’illusione, diventerai indifferente a ciò che resta da udire e a ciò che hai già udito.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.53} \textit{(Krishna)}\par
+Quando la tua comprensione, ora smarrita fra le dottrine delle scritture, rimarrà immobile e salda nella concentrazione, allora conseguirai lo yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.54} \textit{(Arjuna)}\par
+Quali sono i segni di chi è saldo nella saggezza e stabilito nella concentrazione, o Keshava? Come parla chi ha la mente salda, come siede, come si muove?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.55} \textit{(Krishna)}\par
+Quando un uomo abbandona tutti i desideri che sorgono nella mente, o Partha, ed è appagato nel sé, per mezzo del sé, allora è detto saldo nella saggezza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.56} \textit{(Krishna)}\par
+Colui la cui mente non si turba nel dolore e non brama il piacere, che ha oltrepassato desiderio, paura e ira, è detto saggio dalla mente salda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.57} \textit{(Krishna)}\par
+Colui che non è attaccato a nulla, e che incontrando il bene o il male né si rallegra né prova avversione, ha una saggezza ben salda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.58} \textit{(Krishna)}\par
+E quando, come una tartaruga che ritira le membra, egli ritrae interamente i sensi dai loro oggetti, la sua saggezza è ben fondata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.59} \textit{(Krishna)}\par
+Gli oggetti dei sensi si allontanano da chi è incarnato e se ne astiene, benché ne rimanga il gusto; anche quel gusto svanisce quando egli vede il Supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.60} \textit{(Krishna)}\par
+Poiché, anche nell'uomo che si sforza e vede con chiarezza, o figlio di Kunti, i sensi turbolenti trascinano via la mente con violenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.61} \textit{(Krishna)}\par
+Tenendoli tutti a freno, sieda raccolto nello yoga e rivolto a me; poiché, per chi ha padroneggiato i sensi, la saggezza è ben salda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.62} \textit{(Krishna)}\par
+In chi si sofferma sugli oggetti dei sensi nasce l'attaccamento a essi; dall'attaccamento sorge il desiderio, e dal desiderio l'ira.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.63} \textit{(Krishna)}\par
+Dall'ira nasce lo smarrimento; dallo smarrimento, la confusione della memoria; dalla perdita della memoria, la rovina dell'intelletto; e dalla rovina dell'intelletto, l'uomo perisce.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.64} \textit{(Krishna)}\par
+Ma chi si muove fra gli oggetti dei sensi con sensi liberi da attaccamento e avversione, padroneggiati e sotto il proprio controllo, raggiunge la serenità.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.65} \textit{(Krishna)}\par
+Nella serenità tutti i suoi dolori si dissolvono, poiché l’intelletto di chi ha la mente serena diviene presto saldo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.66} \textit{(Krishna)}\par
+Per chi non è raccolto non vi è intelletto saldo né contemplazione; senza contemplazione non vi è pace, e senza pace come potrebbe esservi felicità?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.67} \textit{(Krishna)}\par
+Quando la mente corre dietro ai sensi erranti, essi trascinano via la saggezza dell'uomo, come il vento trascina una barca sull'acqua.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.68} \textit{(Krishna)}\par
+Perciò, o dalle possenti braccia, colui i cui sensi sono interamente distolti dai loro oggetti ha una saggezza saldamente fondata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.69} \textit{(Krishna)}\par
+Ciò che è notte per tutti gli esseri è veglia per chi è disciplinato; ciò in cui gli esseri vegliano è notte per il saggio che vede.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.70} \textit{(Krishna)}\par
+Come le acque confluiscono nell'oceano, che pur colmandosi rimane saldo e immobile, così tutti i desideri confluiscono in colui che raggiunge la pace—non in chi insegue i desideri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.71} \textit{(Krishna)}\par
+L'uomo che, abbandonando tutti i desideri, procede libero da bramosia, dal senso dell'io e del mio, raggiunge la pace.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{2.72} \textit{(Krishna)}\par
+Questo è lo stato di Brahman, o Partha; raggiuntolo, non si cade più nell'illusione. Chi vi rimane stabilito anche nell'ora della morte raggiunge il nirvana di Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 3 - Karma Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.1} \textit{(Arjuna)}\par
+Janardana, se ritieni la comprensione superiore all'azione, perché allora, Keshava, mi spingi a questa terribile impresa?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.2} \textit{(Arjuna)}\par
+Con queste parole apparentemente contraddittorie confondi il mio intelletto. Dimmi con certezza quale unica via possa condurmi al bene supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.3} \textit{(Krishna)}\par
+In questo mondo, o irreprensibile, un duplice cammino fu da me insegnato in antico: lo yoga della conoscenza per i seguaci del Sankhya e lo yoga dell'azione per gli yogi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.4} \textit{(Krishna)}\par
+Non è astenendosi dall'azione che l'uomo raggiunge la libertà dall'azione, né con la sola rinuncia giunge alla perfezione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.5} \textit{(Krishna)}\par
+Nessuno, infatti, rimane mai, neppure per un istante, senza agire; tutti sono costretti ad agire, loro malgrado, dai guna nati da prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.6} \textit{(Krishna)}\par
+Chi trattiene gli organi dell'azione ma siede rimuginando nella mente sugli oggetti dei sensi, con l'animo smarrito, è detto ipocrita.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.7} \textit{(Krishna)}\par
+Ma chi, dominando i sensi con la mente, si dedica con gli organi dell'azione allo yoga dell'azione, senza attaccamento, eccelle, o Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.8} \textit{(Krishna)}\par
+Compi l'azione che ti è assegnata, perché l'azione è migliore dell'inazione; neppure il sostentamento del corpo sarebbe possibile nell'inazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.9} \textit{(Krishna)}\par
+Questo mondo è vincolato dall'azione, salvo quando essa è compiuta come yajna; perciò, o figlio di Kunti, agisci a quel fine, libero da attaccamento.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.10} \textit{(Krishna)}\par
+In principio, dopo aver creato gli esseri insieme allo yajna, Prajapati disse: «Con questo prospererete; esso sia per voi la vacca che esaudisce i desideri».
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.11} \textit{(Krishna)}\par
+Con questo sostenete gli dèi, e gli dèi sostengano voi; sostenendovi a vicenda, raggiungerete il bene supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.12} \textit{(Krishna)}\par
+Sostenuti dallo yajna, gli dèi vi concederanno i godimenti che desiderate; ma chi gode dei loro doni senza offrire nulla in cambio non è che un ladro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.13} \textit{(Krishna)}\par
+I giusti, che si cibano dei resti dello yajna, sono liberati da ogni colpa; ma i malvagi, che cucinano solo per se stessi, si cibano di peccato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.14} \textit{(Krishna)}\par
+Dal cibo nascono gli esseri; dalla pioggia viene il cibo; dallo yajna viene la pioggia; e lo yajna nasce dall'azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.15} \textit{(Krishna)}\par
+Sappi che l'azione scaturisce da Brahman e Brahman dall'imperituro; perciò Brahman, che tutto pervade, è sempre presente nello yajna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.16} \textit{(Krishna)}\par
+Chi, compiacendosi dei sensi e vivendo nel peccato, non segue la ruota così messa in moto, vive invano, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.17} \textit{(Krishna)}\par
+Ma per chi si compiace soltanto del sé, è appagato nel sé e soddisfatto nel sé, non vi è nulla che debba essere compiuto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.18} \textit{(Krishna)}\par
+Per lui, in questo mondo, non vi è alcun fine nell'azione compiuta né in quella tralasciata, e non dipende da alcun essere per raggiungere alcuno scopo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.19} \textit{(Krishna)}\par
+Perciò compi sempre, senza attaccamento, l'azione che deve essere compiuta; chi agisce senza attaccamento raggiunge il Supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.20} \textit{(Krishna)}\par
+Fu con la sola azione che Janaka e altri raggiunsero la perfezione; anche tu devi agire, tenendo presente il bene del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.21} \textit{(Krishna)}\par
+Qualunque cosa faccia un uomo eminente, gli altri la fanno; qualunque norma egli stabilisca, il mondo la segue.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.22} \textit{(Krishna)}\par
+Non vi è nulla nei tre mondi che io debba fare, o Partha, né alcunché che io non abbia ottenuto e debba ancora conquistare; eppure continuo ad agire.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.23} \textit{(Krishna)}\par
+Se infatti io non agissi sempre, instancabilmente, o Partha, gli uomini seguirebbero in ogni modo il mio esempio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.24} \textit{(Krishna)}\par
+Questi mondi cadrebbero in rovina se io non compissi l'azione; sarei io l'artefice della confusione e distruggerei queste creature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.25} \textit{(Krishna)}\par
+Come gli ignoranti agiscono attaccati all’azione, o Bharata, così agisca il saggio, ma senza attaccamento, cercando il bene del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.26} \textit{(Krishna)}\par
+Il saggio non confonda la mente degli ignoranti attaccati all'azione; agendo egli stesso con disciplina, li coinvolga in tutte le azioni.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.27} \textit{(Krishna)}\par
+Le azioni sono compiute interamente dai guna di prakriti; chi ha la mente ottenebrata dall’ego pensa: «Sono io che agisco».
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.28} \textit{(Krishna)}\par
+Ma chi conosce la verità sulle distinzioni fra guna e azione, o dalle possenti braccia, non vi si attacca, sapendo che sono i guna ad agire sui guna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.29} \textit{(Krishna)}\par
+Coloro che sono ottenebrati dai guna di prakriti si attaccano alle azioni dei guna; chi conosce il tutto non turbi gli ottusi che non lo conoscono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.30} \textit{(Krishna)}\par
+Affidando a me tutte le azioni, con la mente centrata sul sé, libero da bramosia e dal senso del «mio», combatti senza agitazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.31} \textit{(Krishna)}\par
+Coloro che seguono costantemente questo mio insegnamento, pieni di fede e senza criticarlo, sono liberati perfino dal karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.32} \textit{(Krishna)}\par
+Ma coloro che, criticandolo, non seguono questo mio insegnamento—sappili offuscati in ogni conoscenza, privi di discernimento e perduti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.33} \textit{(Krishna)}\par
+Anche i saggi agiscono secondo la propria natura; gli esseri seguono la loro natura—che cosa può fare la costrizione?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.34} \textit{(Krishna)}\par
+In ciascun senso, attrazione e avversione stanno in agguato presso il loro oggetto; nessuno cada in loro potere, poiché sono suoi nemici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.35} \textit{(Krishna)}\par
+Meglio il proprio dharma, imperfettamente compiuto, che il dharma di un altro ben eseguito. Meglio morire nel proprio dharma; il dharma di un altro porta pericolo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.36} \textit{(Arjuna)}\par
+Da che cosa è dunque indotto l'uomo a compiere il male, o Varshneya, anche contro la propria volontà, come costretto da una forza?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.37} \textit{(Krishna)}\par
+È il desiderio, è l’ira, nati dal guna di rajas—voraci e causa di grandi mali; sappi che questo è il nemico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.38} \textit{(Krishna)}\par
+Come il fuoco è velato dal fumo, uno specchio dalla polvere e l'embrione dal grembo, così la conoscenza è velata dal desiderio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.39} \textit{(Krishna)}\par
+La conoscenza è velata, o figlio di Kunti, da questo nemico sempre presente dei saggi: il desiderio, fuoco insaziabile.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.40} \textit{(Krishna)}\par
+I sensi, la mente e l'intelletto sono detti la sua sede; per mezzo di essi il desiderio vela la conoscenza e getta nell'illusione chi è incarnato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.41} \textit{(Krishna)}\par
+Perciò, o migliore dei Bharata, domina anzitutto i sensi e abbatti questo male, distruttore della conoscenza e del discernimento.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.42} \textit{(Krishna)}\par
+I sensi, si dice, sono superiori; superiore ai sensi è la mente; superiore alla mente è l'intelletto; e superiore all'intelletto è il sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{3.43} \textit{(Krishna)}\par
+Sapendo che il sé è superiore all'intelletto, e rendendo saldo il sé mediante il sé, sconfiggi il nemico, o dalle possenti braccia: il desiderio, così difficile da domare.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 4 - Jnana-Karma-Sannyasa Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.1} \textit{(Krishna)}\par
+Io insegnai questo yoga imperituro a Vivasvan; Vivasvan lo trasmise a Manu, e Manu a Ikshvaku.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.2} \textit{(Krishna)}\par
+Così tramandato in successione, lo conobbero i re-veggenti; ma, nel lungo corso del tempo, o flagello dei nemici, questo yoga andò perduto sulla terra.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.3} \textit{(Krishna)}\par
+È questo stesso antico yoga che oggi ti ho esposto, perché sei mio devoto e mio amico: esso è infatti il segreto supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.4} \textit{(Arjuna)}\par
+La tua nascita è posteriore, quella di Vivasvan anteriore; come devo dunque intendere che tu glielo abbia insegnato all'inizio?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.5} \textit{(Krishna)}\par
+Molte mie nascite sono trascorse, e anche le tue, o Arjuna; io le conosco tutte, tu no, o flagello dei nemici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.6} \textit{(Krishna)}\par
+Benché io sia non nato e imperituro, signore degli esseri, governando la mia prakriti vengo all’esistenza per mezzo della mia maya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.7} \textit{(Krishna)}\par
+Ogni volta che il dharma declina, o Bharata, e l'adharma si leva, allora manifesto me stesso.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.8} \textit{(Krishna)}\par
+Per proteggere i buoni, distruggere i malvagi e ristabilire saldamente il dharma, vengo all’esistenza di era in era.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.9} \textit{(Krishna)}\par
+Chi conosce veramente la natura divina della mia nascita e della mia azione, lasciato il corpo non rinasce, ma viene a me, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.10} \textit{(Krishna)}\par
+Liberi da passione, paura e ira, colmi di me e rifugiati in me, molti, purificati dall'ascesi della conoscenza, hanno raggiunto il mio modo d'essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.11} \textit{(Krishna)}\par
+Nel modo in cui si accostano a me, così io li accolgo; gli uomini seguono in ogni modo la mia via, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.12} \textit{(Krishna)}\par
+Desiderando il successo nelle loro opere, gli uomini venerano quaggiù gli dèi; nel mondo umano, infatti, il successo nato dall'azione giunge presto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.13} \textit{(Krishna)}\par
+I quattro varna furono da me prodotti, ripartiti secondo guna e azione. Benché io ne sia l'artefice, sappimi non agente e immutabile.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.14} \textit{(Krishna)}\par
+Le azioni non mi contaminano, né bramo i frutti dell'azione; chi mi conosce così non è legato dalle azioni.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.15} \textit{(Krishna)}\par
+Sapendo questo, anche gli antichi cercatori della liberazione agirono; perciò agisci anche tu, come fecero gli antichi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.16} \textit{(Krishna)}\par
+Che cos'è l'azione? Che cos'è l'inazione? Su questo perfino i saggi si smarriscono. Ti esporrò la natura dell'azione: conoscendola, sarai liberato dal male.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.17} \textit{(Krishna)}\par
+Bisogna comprendere l'azione, l'azione errata e anche l'inazione; profonda è la via dell'azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.18} \textit{(Krishna)}\par
+Chi vede l'inazione nell'azione e l'azione nell'inazione è saggio fra gli uomini; è disciplinato e ha compiuto ogni azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.19} \textit{(Krishna)}\par
+Colui le cui imprese sono tutte libere da desiderio e calcolo, e le cui azioni sono arse nel fuoco della conoscenza, è chiamato sapiente dai saggi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.20} \textit{(Krishna)}\par
+Abbandonato l'attaccamento ai frutti dell'azione, sempre appagato e indipendente da tutto, egli non fa nulla, pur essendo pienamente impegnato nell'azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.21} \textit{(Krishna)}\par
+Libero da aspettative, con mente e sé dominati, privo di ogni possesso, compie azioni con il solo corpo e non incorre in colpa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.22} \textit{(Krishna)}\par
+Appagato di ciò che gli giunge spontaneamente, al di là delle coppie di opposti, libero da invidia, uguale nel successo e nel fallimento, non è vincolato neppure quando agisce.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.23} \textit{(Krishna)}\par
+Per chi è libero e senza attaccamento, con la mente stabilita nella conoscenza e ogni azione compiuta come yajna, l’azione si dissolve interamente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.24} \textit{(Krishna)}\par
+L'atto dell'offrire è Brahman, l'oblazione è Brahman, versata da Brahman nel fuoco di Brahman; Brahman è la meta di chi è assorto nell'azione che è Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.25} \textit{(Krishna)}\par
+Alcuni yogi offrono sacrificio ai soli dèi; altri offrono il sacrificio stesso come oblazione nel fuoco di Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.26} \textit{(Krishna)}\par
+Alcuni offrono l'udito e gli altri sensi nei fuochi del dominio di sé; altri offrono il suono e gli altri oggetti dei sensi nei fuochi dei sensi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.27} \textit{(Krishna)}\par
+E altri ancora offrono tutte le funzioni dei sensi e le funzioni del respiro nel fuoco del dominio di sé, acceso dalla conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.28} \textit{(Krishna)}\par
+Altri ancora compiono il loro sacrificio con i beni, con l’ascesi, con lo yoga, con lo studio e con la conoscenza—asceti dai voti severi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.29} \textit{(Krishna)}\par
+Altri offrono il respiro che esce in quello che entra, e quello che entra in quello che esce, trattenendo il corso di entrambi e dedicandosi al controllo del respiro;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.30} \textit{(Krishna)}\par
+altri, moderati nel cibo, offrono i respiri nei respiri. Tutti costoro conoscono il sacrificio, e mediante il sacrificio le loro colpe vengono cancellate.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.31} \textit{(Krishna)}\par
+Coloro che si cibano del nettare rimasto dallo yajna raggiungono l'eterno Brahman. Questo mondo non è per chi non offre sacrificio—come potrebbe esserlo l'altro, o migliore dei Kuru?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.32} \textit{(Krishna)}\par
+Così, molte specie di sacrificio sono dispiegate dinanzi a Brahman. Sappile tutte nate dall’azione; sapendo questo, sarai liberato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.33} \textit{(Krishna)}\par
+Migliore di qualunque sacrificio di beni è il sacrificio della conoscenza, o flagello dei nemici; poiché ogni azione, senza eccezione, culmina nella conoscenza, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.34} \textit{(Krishna)}\par
+Apprendi questo con riverenza, con domande sincere e con il servizio; coloro che conoscono e vedono la verità ti trasmetteranno quella conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.35} \textit{(Krishna)}\par
+Conoscendola, o Pandava, non cadrai più in tale illusione; grazie a essa vedrai tutti gli esseri, senza eccezione, in te stesso e poi in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.36} \textit{(Krishna)}\par
+Anche se fossi il peggiore di tutti i peccatori, attraverseresti ogni colpa con la sola barca della conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.37} \textit{(Krishna)}\par
+Come un fuoco acceso riduce in cenere la sua legna, o Arjuna, così il fuoco della conoscenza riduce in cenere ogni karma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.38} \textit{(Krishna)}\par
+Non vi è quaggiù nulla che purifichi quanto la conoscenza; chi è perfezionato nello yoga la scopre da sé, col tempo, nel proprio sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.39} \textit{(Krishna)}\par
+Chi è pieno di fede, intento alla conoscenza e padrone dei sensi la raggiunge; e, raggiuntala, ottiene presto la pace suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.40} \textit{(Krishna)}\par
+Ma l’ignorante, privo di fede e divorato dal dubbio, va in rovina; per chi dubita non vi sono né questo mondo, né l’altro, né alcuna felicità.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.41} \textit{(Krishna)}\par
+Le azioni non vincolano chi vi ha rinunciato mediante lo yoga, i cui dubbi sono recisi dalla conoscenza e che è padrone di sé, o Dhananjaya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{4.42} \textit{(Krishna)}\par
+Perciò, con la spada della conoscenza, recidi questo dubbio nato dall'ignoranza e radicato nel tuo cuore; stabilisciti nello yoga e alzati, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 5 - Sannyasa Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.1} \textit{(Arjuna)}\par
+O Krishna, tu lodi la rinuncia alle azioni e poi lo yoga; dimmi con certezza quale dei due sia migliore.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.2} \textit{(Krishna)}\par
+Sia la rinuncia sia lo yoga dell'azione conducono al bene supremo; ma, dei due, lo yoga dell'azione è superiore alla rinuncia all'azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.3} \textit{(Krishna)}\par
+Sappi che è un rinunciante costante colui che né odia né desidera; libero dalle coppie di opposti, o dalle possenti braccia, egli si scioglie facilmente dal vincolo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.4} \textit{(Krishna)}\par
+Sono gli immaturi, non i saggi, a parlare di Sankhya e yoga come di vie diverse; chi è ben stabilito anche in una sola delle due ottiene il frutto di entrambe.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.5} \textit{(Krishna)}\par
+Lo stato raggiunto mediante il Sankhya è raggiunto anche mediante lo yoga; vede davvero chi vede Sankhya e yoga come una cosa sola.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.6} \textit{(Krishna)}\par
+Ma la rinuncia è difficile da conseguire senza lo yoga, o dalle possenti braccia; il saggio saldo nello yoga raggiunge presto Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.7} \textit{(Krishna)}\par
+Saldo nello yoga, con il sé purificato, padrone di sé e con i sensi soggiogati, avendo riconosciuto il proprio sé come il sé di tutti gli esseri, egli non è contaminato neppure mentre agisce.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.8} \textit{(Krishna)}\par
+«Non faccio proprio nulla»: così pensa il conoscitore disciplinato della verità, anche mentre vede, ode, tocca, odora, mangia, cammina, dorme e respira,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.9} \textit{(Krishna)}\par
+parla, evacua, afferra, apre e chiude gli occhi—convinto che siano soltanto i sensi a muoversi fra gli oggetti dei sensi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.10} \textit{(Krishna)}\par
+Chi agisce offrendo le proprie azioni a Brahman e abbandonando l'attaccamento non è toccato dal peccato, come la foglia di loto dall'acqua.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.11} \textit{(Krishna)}\par
+Con il corpo, la mente, l'intelletto e i soli sensi, gli yogi agiscono senza attaccamento, per purificare il sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.12} \textit{(Krishna)}\par
+Il disciplinato, abbandonando il frutto dell'azione, raggiunge una pace duratura; l'indisciplinato, spinto dal desiderio e attaccato al frutto, rimane vincolato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.13} \textit{(Krishna)}\par
+Rinunciando mentalmente a tutte le azioni, chi è incarnato dimora sereno e padrone di sé nella città dalle nove porte, senza agire né far agire.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.14} \textit{(Krishna)}\par
+Il Signore non crea nel mondo né l'agire, né le azioni, né il legame fra l'azione e il suo frutto; è la natura intrinseca a dispiegarsi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.15} \textit{(Krishna)}\par
+Il Signore che tutto pervade non assume il peccato né il merito di alcuno; la conoscenza è velata dall'ignoranza, e per questo gli esseri sono nell'illusione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.16} \textit{(Krishna)}\par
+Ma in coloro nei quali quell'ignoranza è distrutta dalla conoscenza del sé, la conoscenza illumina il Supremo come il sole.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.17} \textit{(Krishna)}\par
+Con l'intelletto fisso in esso, il sé rivolto a esso, consacrati a esso e intenti a esso come meta, essi raggiungono il luogo da cui non vi è ritorno, con le colpe lavate dalla conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.18} \textit{(Krishna)}\par
+Il saggio guarda con occhio equanime un brahmin dotto e umile, una vacca, un elefante, un cane e un fuoricasta.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.19} \textit{(Krishna)}\par
+Già in questo mondo la rinascita è vinta da coloro la cui mente riposa nell'equanimità; Brahman infatti è senza difetto e uguale in tutti, ed essi sono perciò stabiliti in Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.20} \textit{(Krishna)}\par
+Senza esultare per ciò che è gradito né ritrarsi da ciò che è sgradito, saldo nell’intelletto e libero dall’illusione, il conoscitore di Brahman è stabilito in Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.21} \textit{(Krishna)}\par
+Con il sé distaccato dai contatti esteriori, trova la felicità che è nel sé; saldo nello yoga di Brahman, raggiunge una felicità senza fine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.22} \textit{(Krishna)}\par
+I piaceri nati dal contatto sono infatti grembi di sofferenza; hanno un principio e una fine, o figlio di Kunti, e il saggio non se ne compiace.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.23} \textit{(Krishna)}\par
+Colui che, già in questo mondo e prima di essere liberato dal corpo, sa resistere all'impeto nato dal desiderio e dall'ira è disciplinato ed è un uomo felice.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.24} \textit{(Krishna)}\par
+Colui la cui felicità è interiore, la cui gioia è interiore e la cui luce è anch’essa interiore—quello yogi, divenuto Brahman, raggiunge il nirvana di Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.25} \textit{(Krishna)}\par
+I veggenti le cui colpe sono esaurite, i cui dubbi sono recisi, padroni di sé e lieti del bene di tutti gli esseri, raggiungono il nirvana di Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.26} \textit{(Krishna)}\par
+Per gli asceti liberi da desiderio e ira, con la mente dominata e conoscitori del sé, il nirvana di Brahman è vicino da ogni parte.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.27} \textit{(Krishna)}\par
+Escludendo i contatti esteriori, fissando lo sguardo fra le sopracciglia e rendendo uguali il respiro che entra e quello che esce attraverso le narici,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.28} \textit{(Krishna)}\par
+il saggio che ha dominato i sensi, la mente e l'intelletto, intento alla liberazione e libero da desiderio, paura e ira, è libero per sempre.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{5.29} \textit{(Krishna)}\par
+Conoscendomi come colui che riceve i sacrifici e le austerità, il grande signore di tutti i mondi e l’amico di ogni essere, egli raggiunge la pace.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 6 - Atma-Samyama Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.1} \textit{(Krishna)}\par
+Chi compie l'azione che deve essere compiuta senza dipendere dal suo frutto è un rinunciante e uno yogi—non chi non accende il fuoco e non compie alcun rito.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.2} \textit{(Krishna)}\par
+Sappi che ciò che chiamano rinuncia è yoga, o Pandava; nessuno infatti diventa yogi senza rinunciare alla volontà personale.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.3} \textit{(Krishna)}\par
+Per il saggio che cerca di elevarsi allo yoga, l’azione è il mezzo; per chi è giunto allo yoga, il mezzo è la quiete.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.4} \textit{(Krishna)}\par
+Quando non si è attaccati né agli oggetti dei sensi né alle azioni, e si è rinunciato a ogni volontà personale, allora si dice che si è ascesi allo yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.5} \textit{(Krishna)}\par
+Ognuno elevi se stesso mediante se stesso e non si lasci cadere: ciascuno è infatti amico di se stesso, ma anche nemico di se stesso.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.6} \textit{(Krishna)}\par
+Per chi ha vinto se stesso mediante se stesso, il sé è un amico; ma per chi non si è padroneggiato, il sé rimane ostile come un nemico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.7} \textit{(Krishna)}\par
+Per chi si è padroneggiato ed è in pace, l'Atman supremo rimane saldo e uguale nel freddo e nel caldo, nel piacere e nel dolore, nell'onore e nel disonore.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.8} \textit{(Krishna)}\par
+Lo yogi appagato dalla conoscenza e dalla realizzazione, incrollabile, con i sensi soggiogati, per il quale una zolla, una pietra e l’oro sono la stessa cosa, è detto saldo nello yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.9} \textit{(Krishna)}\par
+Colui che mantiene un animo uguale verso il benevolo, l'amico e il nemico, verso il neutrale e il mediatore, verso l'odioso e il parente, e ugualmente verso il buono e il malvagio, è il più elevato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.10} \textit{(Krishna)}\par
+Lo yogi si disciplini costantemente, ritirato in solitudine e da solo, con la mente e il sé dominati, libero da bramosia e da possessi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.11} \textit{(Krishna)}\par
+Dopo aver preparato per sé un seggio stabile in un luogo puro, né troppo alto né troppo basso, coperto di stoffa, pelle di cervo ed erba kusha,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.12} \textit{(Krishna)}\par
+là, concentrando la mente in un solo punto e trattenendo le funzioni della mente e dei sensi, seduto su quel seggio pratichi lo yoga per purificare il sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.13} \textit{(Krishna)}\par
+Mantenendo eretti e immobili il corpo, il capo e il collo, saldo, fissi lo sguardo sulla punta del naso senza guardarsi intorno;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.14} \textit{(Krishna)}\par
+con l’animo sereno e libero dalla paura, fermo nel voto di castità, con la mente dominata e il pensiero fisso in me, sieda raccolto nello yoga e rivolto a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.15} \textit{(Krishna)}\par
+Disciplinandosi così di continuo, lo yogi dalla mente dominata raggiunge la pace che culmina nel nirvana e dimora in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.16} \textit{(Krishna)}\par
+Lo yoga non è per chi mangia troppo, né per chi non mangia affatto, né per chi è dedito a troppo sonno, né per chi è sempre sveglio, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.17} \textit{(Krishna)}\par
+Per chi è misurato nel cibo e nello svago, nelle azioni, nel sonno e nella veglia, lo yoga diviene distruttore del dolore.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.18} \textit{(Krishna)}\par
+Quando la mente disciplinata giunge a riposare nel solo sé, libera dalla brama di ogni desiderio, allora si dice che si è saldi nello yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.19} \textit{(Krishna)}\par
+Come una lampada in un luogo senza vento non tremola—tale è l’immagine dello yogi dalla mente dominata, che pratica lo yoga del sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.20} \textit{(Krishna)}\par
+Quando la mente, trattenuta dalla pratica dello yoga, giunge a quietarsi e, contemplando il sé mediante il sé, trova appagamento nel sé;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.21} \textit{(Krishna)}\par
+quando si conosce quella felicità sconfinata, colta dall'intelletto e al di là dei sensi, e, stabiliti in essa, non ci si allontana mai dalla verità;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.22} \textit{(Krishna)}\par
+e, una volta conseguita, non si considera maggiore alcun altro guadagno, e, stabiliti in essa, non si è scossi neppure dal più grave dolore:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.23} \textit{(Krishna)}\par
+si sappia che questo scioglimento da ogni unione con il dolore è ciò che si chiama yoga; quello yoga va praticato con risolutezza e con animo che non si scoraggia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.24} \textit{(Krishna)}\par
+Abbandonando senza eccezione tutti i desideri nati dalla volontà personale e trattenendo con la sola mente l’intera schiera dei sensi da ogni parte,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.25} \textit{(Krishna)}\par
+a poco a poco si acquieti, mantenendo saldo l'intelletto; fissata la mente nel sé, non pensi a nulla.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.26} \textit{(Krishna)}\par
+Ovunque vada errando la mente irrequieta e instabile, da lì la riconduca sotto il dominio del sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.27} \textit{(Krishna)}\par
+La felicità suprema giunge infatti allo yogi la cui mente è in pace, la cui passione si è quietata, che è libero da macchia ed è divenuto Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.28} \textit{(Krishna)}\par
+Disciplinandosi così di continuo, lo yogi, libero da ogni macchia, raggiunge senza fatica la felicità sconfinata del contatto con Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.29} \textit{(Krishna)}\par
+Saldo nello yoga, egli vede il sé presente in tutti gli esseri e tutti gli esseri nel sé, scorgendo ovunque la stessa realtà.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.30} \textit{(Krishna)}\par
+Per chi mi vede ovunque e vede ogni cosa in me, io non sono mai perduto, né egli è perduto per me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.31} \textit{(Krishna)}\par
+Lo yogi che, stabilito nell’unità, mi venera come colui che dimora in tutti gli esseri, dimora in me qualunque sia il suo modo di vivere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.32} \textit{(Krishna)}\par
+Colui che, per analogia con se stesso, vede ovunque la medesima realtà, tanto nel piacere quanto nel dolore, è ritenuto il più alto degli yogi, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.33} \textit{(Arjuna)}\par
+Questo yoga dell'equanimità che hai insegnato, o Madhusudana, non vedo come possa mantenersi saldo, tanto è irrequieta la mente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.34} \textit{(Arjuna)}\par
+La mente, infatti, è irrequieta, Krishna—turbolenta, forte e ostinata; dominarla, io penso, è difficile quanto dominare il vento.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.35} \textit{(Krishna)}\par
+Senza dubbio, o dalle possenti braccia, la mente è irrequieta e difficile da dominare; ma la si tiene a freno con la pratica, o figlio di Kunti, e con il distacco.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.36} \textit{(Krishna)}\par
+Lo yoga è difficile da raggiungere, questa è la mia opinione, per chi non ha dominato se stesso; ma può essere conseguito con i mezzi giusti da chi si sforza ed è padrone di sé.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.37} \textit{(Arjuna)}\par
+Colui che ha fede ma non si sforza, e la cui mente si è allontanata dallo yoga senza raggiungerne la perfezione—quale sorte incontra, o Krishna?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.38} \textit{(Arjuna)}\par
+Caduto da entrambe le vie, non perisce forse come una nube dispersa, senza sostegno, o dalle possenti braccia, smarrito sul sentiero di Brahman?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.39} \textit{(Arjuna)}\par
+Tu solo, o Krishna, puoi dissipare interamente questo mio dubbio; nessun altro, infatti, è in grado di rimuoverlo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.40} \textit{(Krishna)}\par
+O Partha, né in questo mondo né nell’altro vi è rovina per lui; nessuno che compia il bene, amico mio, va incontro a una cattiva sorte.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.41} \textit{(Krishna)}\par
+Raggiunti i mondi di coloro che agiscono rettamente e dimoratovi per innumerevoli anni, chi è caduto dallo yoga rinasce nella casa dei puri e dei prosperi;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.42} \textit{(Krishna)}\par
+oppure nasce in una famiglia di yogi sapienti—sebbene una simile nascita sia ancora più difficile da ottenere in questo mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.43} \textit{(Krishna)}\par
+Là egli ritrova la disposizione dell’intelletto conseguita nel corpo precedente e, da quel punto, si sforza nuovamente verso la perfezione, o gioia dei Kuru.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.44} \textit{(Krishna)}\par
+Quella stessa pratica anteriore lo sospinge avanti, anche contro la sua volontà; perfino chi si limita a cercare lo yoga oltrepassa la parola dei Veda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.45} \textit{(Krishna)}\par
+Ma lo yogi che si sforza con impegno, purificato da ogni colpa e perfezionato attraverso molte nascite, raggiunge infine la meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.46} \textit{(Krishna)}\par
+Lo yogi è superiore agli asceti, superiore, si ritiene, agli uomini di conoscenza e superiore agli uomini d’azione; perciò diventa uno yogi, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{6.47} \textit{(Krishna)}\par
+E fra tutti gli yogi, colui che, pieno di fede, mi venera con l’intimo di sé rivolto a me è, a mio giudizio, il più profondamente saldo nello yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 7 - Jnana-Vijnana Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.1} \textit{(Krishna)}\par
+Con la mente rivolta a me, o Partha, praticando lo yoga e rifugiandoti in me, ascolta come mi conoscerai pienamente e senza alcun dubbio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.2} \textit{(Krishna)}\par
+Ti esporrò per intero questa conoscenza insieme alla sua realizzazione; una volta conosciuta, nulla più resterà da conoscere in questo mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.3} \textit{(Krishna)}\par
+Fra migliaia di uomini, a stento uno si sforza di raggiungere la perfezione; e fra coloro che si sforzano e vi riescono, a stento uno mi conosce nella verità.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.4} \textit{(Krishna)}\par
+Terra, acqua, fuoco, aria, etere, mente, intelletto ed ego—così la mia prakriti è divisa in otto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.5} \textit{(Krishna)}\par
+Questa è la mia natura inferiore; ma sappi che vi è un'altra mia natura, superiore, o dalle possenti braccia: il principio vivente da cui questo mondo è sostenuto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.6} \textit{(Krishna)}\par
+Sappi che tutti gli esseri hanno in esse il proprio grembo; io sono l'origine dell'intero universo e anche la sua dissoluzione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.7} \textit{(Krishna)}\par
+Nulla vi è di più alto di me, o Dhananjaya; tutto questo è tenuto insieme in me, come gemme infilate su un filo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.8} \textit{(Krishna)}\par
+Io sono il sapore nell'acqua, o figlio di Kunti, la luce nella luna e nel sole, la sillaba Om in tutti i Veda, il suono nello spazio e il vigore negli uomini.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.9} \textit{(Krishna)}\par
+Io sono la pura fragranza della terra e lo splendore del fuoco; sono la vita in tutti gli esseri e l'ascesi negli asceti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.10} \textit{(Krishna)}\par
+Conoscimi, o Partha, come il seme eterno di tutti gli esseri; io sono l'intelligenza dei sapienti e lo splendore degli splendidi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.11} \textit{(Krishna)}\par
+Io sono la forza dei forti, libera da desiderio e passione; negli esseri sono il desiderio che non contrasta con il dharma, o capo dei Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.12} \textit{(Krishna)}\par
+Qualunque siano gli stati—di sattva, rajas o tamas—sappili tutti provenienti da me; eppure io non sono in essi, mentre essi sono in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.13} \textit{(Krishna)}\par
+Illuso da questi tre stati costituiti dai guna, il mondo intero non conosce me, che sono al di sopra di essi e imperituro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.14} \textit{(Krishna)}\par
+Questa mia maya divina, costituita dai guna, è infatti difficile da attraversare; ma coloro che si rifugiano in me soltanto oltrepassano questa maya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.15} \textit{(Krishna)}\par
+I malfattori, gli illusi, i più bassi fra gli uomini, ai quali la maya ha sottratto la conoscenza e che si abbandonano a una natura demoniaca, non si rifugiano in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.16} \textit{(Krishna)}\par
+Quattro tipi di uomini retti mi venerano, Arjuna: chi soffre, chi cerca la conoscenza, chi cerca un vantaggio e il sapiente, o migliore dei Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.17} \textit{(Krishna)}\par
+Fra questi, il sapiente, sempre disciplinato e devoto all’Uno soltanto, è il più alto; io sono immensamente caro al sapiente, ed egli è caro a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.18} \textit{(Krishna)}\par
+Tutti costoro sono nobili, ma il sapiente lo considero il mio stesso sé; saldo in se stesso, egli è rivolto a me soltanto come meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.19} \textit{(Krishna)}\par
+Al termine di molte nascite il sapiente viene a me, sapendo che Vasudeva è tutto; una grande anima simile è assai rara.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.20} \textit{(Krishna)}\par
+Coloro la cui conoscenza è trascinata via da questo o quel desiderio si rifugiano in altri dèi, seguendo questa o quella osservanza, costretti dalla propria natura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.21} \textit{(Krishna)}\par
+Qualunque forma un devoto cerchi di venerare con fede, sono io a rendere salda quella sua fede.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.22} \textit{(Krishna)}\par
+Saldo in quella fede, egli cerca di onorare quella forma e da essa ottiene ciò che desidera—sebbene sia io solo a concederglielo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.23} \textit{(Krishna)}\par
+Ma il frutto ottenuto da costoro, dalla mente angusta, è limitato; chi venera gli dèi va agli dèi, mentre chi è devoto a me viene a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.24} \textit{(Krishna)}\par
+Gli ignoranti credono che io, l'immanifesto, abbia assunto un'esistenza manifesta, perché non conoscono la mia natura più alta, imperitura e suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.25} \textit{(Krishna)}\par
+Velato dalla mia yoga-maya, non mi manifesto a tutti; questo mondo illuso non conosce me, il non nato e imperituro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.26} \textit{(Krishna)}\par
+Io conosco gli esseri che furono, quelli che sono e quelli che saranno, o Arjuna; ma nessuno conosce me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.27} \textit{(Krishna)}\par
+Per l'illusione delle coppie di opposti, nata dal desiderio e dall'avversione, o Bharata, tutti gli esseri cadono nello smarrimento fin dalla nascita, o flagello dei nemici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.28} \textit{(Krishna)}\par
+Ma coloro che compiono azioni pure, le cui colpe sono giunte al termine, liberati dall’illusione delle coppie di opposti, mi venerano con ferma risolutezza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.29} \textit{(Krishna)}\par
+Coloro che, rifugiandosi in me, si sforzano di liberarsi dalla vecchiaia e dalla morte conoscono Brahman, l'intero principio interiore e la totalità dell'azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{7.30} \textit{(Krishna)}\par
+Coloro che mi conoscono insieme al dominio materiale, al principio divino e al principio sacrificale, con la mente raccolta nello yoga, mi conoscono anche nell'ora della morte.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 8 - Akshara-Brahma Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.1} \textit{(Arjuna)}\par
+Che cos'è Brahman? Che cos'è il principio interiore? Che cos'è l'azione, o Purushottama? Che cosa si chiama dominio materiale e che cosa principio divino?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.2} \textit{(Arjuna)}\par
+Chi è, e in che modo è presente, il principio sacrificale in questo corpo, o Madhusudana? E come puoi essere conosciuto nell'ora della morte da coloro che sono padroni di sé?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.3} \textit{(Krishna)}\par
+Brahman è il supremo imperituro; l'essere essenziale proprio di ciascuno è chiamato principio interiore. La forza creatrice che porta gli esseri all'esistenza è chiamata azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.4} \textit{(Krishna)}\par
+Il dominio materiale è l'esistenza peritura; il purusha è il principio divino; e il principio sacrificale sono io stesso, presente qui nel corpo, o migliore degli incarnati.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.5} \textit{(Krishna)}\par
+E chiunque, nell'ora della morte, ricordando me soltanto, lasci il corpo, raggiunge il mio essere; su questo non vi è dubbio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.6} \textit{(Krishna)}\par
+Qualunque stato uno richiami alla mente mentre, alla fine, lascia il corpo, proprio a quello stato egli va, o figlio di Kunti, essendo stato sempre plasmato da quel pensiero.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.7} \textit{(Krishna)}\par
+Perciò ricordati di me in ogni momento e combatti; con la mente e l'intelletto fissi in me, verrai a me senza dubbio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.8} \textit{(Krishna)}\par
+Con la mente disciplinata dalla pratica e non incline a divagare altrove, si raggiunge la suprema persona divina meditando su di lui, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.9} \textit{(Krishna)}\par
+Chi medita sull'antico veggente, il reggitore di tutto, più piccolo del piccolo, il sostegno di tutto, dalla forma oltre il pensiero, splendente come il sole e al di là delle tenebre—
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.10} \textit{(Krishna)}\par
+nell'ora della dipartita, con la mente immobile, unito alla devozione e alla forza dello yoga, dirigendo correttamente il respiro fra le sopracciglia, raggiunge quella suprema persona divina.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.11} \textit{(Krishna)}\par
+Quello stato che i conoscitori del Veda chiamano imperituro, nel quale entrano gli asceti liberi dalla passione e per ottenere il quale vivono in castità—quello stato ti esporrò in breve.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.12} \textit{(Krishna)}\par
+Chiudendo tutte le porte, raccogliendo la mente nel cuore e sollevando il respiro nel capo, stabilito nella concentrazione dello yoga,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.13} \textit{(Krishna)}\par
+pronunciando la sola sillaba Om, che è Brahman, e ricordandosi di me, colui che lascia il corpo raggiunge la meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.14} \textit{(Krishna)}\par
+Per lo yogi che si ricorda di me costantemente, giorno dopo giorno e senza distrazione, io sono facile da raggiungere, o Partha—per colui che è sempre disciplinato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.15} \textit{(Krishna)}\par
+Dopo avermi raggiunto, le grandi anime non rinascono in questa fuggevole dimora di dolore; hanno conseguito la perfezione suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.16} \textit{(Krishna)}\par
+Dal mondo di Brahma in giù, tutti i mondi sono soggetti al ritorno, Arjuna; ma, una volta raggiunto me, o figlio di Kunti, non vi è rinascita.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.17} \textit{(Krishna)}\par
+Coloro che sanno che il giorno di Brahma dura mille ere e che la sua notte termina dopo mille ere conoscono davvero il giorno e la notte.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.18} \textit{(Krishna)}\par
+Al sorgere del giorno tutte le cose manifeste emergono dall'immanifesto; al sopraggiungere della notte si dissolvono in quello stesso immanifesto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.19} \textit{(Krishna)}\par
+Questa stessa schiera di esseri, venendo all’esistenza ancora e ancora, si dissolve impotente al sopraggiungere della notte, o Partha, e torna alla luce al sorgere del giorno.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.20} \textit{(Krishna)}\par
+Ma oltre questo immanifesto vi è un altro immanifesto, eterno, che non perisce quando tutti gli esseri periscono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.21} \textit{(Krishna)}\par
+Questo immanifesto, detto imperituro, è chiamato la meta suprema; raggiuntolo, non si ritorna—quella è la mia dimora suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.22} \textit{(Krishna)}\par
+Quella persona suprema, o Partha, nella quale dimorano tutti gli esseri e dalla quale tutto questo è pervaso, si raggiunge mediante una devozione indivisa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.23} \textit{(Krishna)}\par
+Ora ti dirò, o migliore dei Bharata, in quale tempo gli yogi che lasciano il corpo vanno al non ritorno e in quale invece ritornano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.24} \textit{(Krishna)}\par
+Il fuoco, la luce, il giorno, la quindicina chiara, i sei mesi del cammino settentrionale del sole—partendo allora, coloro che conoscono Brahman raggiungono Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.25} \textit{(Krishna)}\par
+Il fumo, la notte, la quindicina oscura, i sei mesi del cammino meridionale—seguendo questa via, lo yogi raggiunge la luce lunare e ritorna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.26} \textit{(Krishna)}\par
+Queste due vie del mondo, la chiara e l’oscura, sono considerate eterne; per l’una si va al non ritorno, per l’altra si ritorna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.27} \textit{(Krishna)}\par
+Conoscendo queste due vie, o Partha, nessuno yogi cade nell’illusione; perciò, in ogni momento, sii saldo nello yoga, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{8.28} \textit{(Krishna)}\par
+Lo yogi che conosce tutto questo oltrepassa ogni frutto meritorio promesso dai Veda, dai sacrifici, dalle austerità e dai doni, e raggiunge la suprema dimora originaria.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 9 - Raja-Vidya Raja-Guhya Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.1} \textit{(Krishna)}\par
+A te, che non muovi obiezioni, esporrò questa conoscenza segretissima insieme alla sua realizzazione; conoscendola, sarai liberato dal male.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.2} \textit{(Krishna)}\par
+Questa è la conoscenza regale, il segreto regale, il supremo purificatore, evidente nell’esperienza diretta, conforme al dharma, facile da praticare e imperitura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.3} \textit{(Krishna)}\par
+Gli uomini che non ripongono fede in questo dharma, o flagello dei nemici, non mi raggiungono e ritornano sul cammino della morte e del samsara.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.4} \textit{(Krishna)}\par
+Da me, nella mia forma immanifesta, questo mondo intero è pervaso; tutti gli esseri dimorano in me, ma io non dimoro in loro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.5} \textit{(Krishna)}\par
+Eppure gli esseri non dimorano in me—guarda il mio yoga sovrano! Pur sostenendo gli esseri e senza dimorare in essi, il mio sé li porta all’esistenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.6} \textit{(Krishna)}\par
+Come il vento possente, che si muove ovunque, dimora sempre nello spazio, così, comprendilo, tutti gli esseri dimorano in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.7} \textit{(Krishna)}\par
+Tutti gli esseri, o figlio di Kunti, rientrano nella mia prakriti alla fine di un’era, e al principio dell’era io li emetto di nuovo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.8} \textit{(Krishna)}\par
+Avvalendomi della mia prakriti, emetto ancora e ancora l’intera schiera degli esseri, che soggiacciono loro malgrado al dominio di prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.9} \textit{(Krishna)}\par
+E queste azioni non mi vincolano, o Dhananjaya; rimango come seduto in disparte, senza attaccamento a esse.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.10} \textit{(Krishna)}\par
+Sotto la mia supervisione, prakriti genera ciò che si muove e ciò che non si muove; per questo, o figlio di Kunti, il mondo compie il suo ciclo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.11} \textit{(Krishna)}\par
+Gli stolti mi disprezzano quando assumo forma umana, non conoscendo il mio essere più alto quale grande signore degli esseri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.12} \textit{(Krishna)}\par
+Con speranze vane, azioni vane e conoscenza vana, privi di discernimento, essi ricadono in una natura ingannevole, mostruosa e demoniaca.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.13} \textit{(Krishna)}\par
+Ma le grandi anime, o Partha, rifugiate nella natura divina, mi venerano con mente indivisa, conoscendomi come l’imperitura origine degli esseri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.14} \textit{(Krishna)}\par
+Glorificandomi di continuo, sforzandosi con voti saldi e prostrandosi davanti a me con devozione, essi mi venerano con costante perseveranza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.15} \textit{(Krishna)}\par
+Altri, offrendo il sacrificio della conoscenza, mi venerano nell’unità, nella distinzione e in molteplici modi, come colui che ha volti in ogni direzione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.16} \textit{(Krishna)}\par
+Io sono il rito, io il sacrificio, io l’offerta agli antenati, io l’erba; io la formula sacra, io il burro fuso, io il fuoco, io l’oblazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.17} \textit{(Krishna)}\par
+Io sono il padre di questo mondo, la madre, il sostegno e l’avo; l’oggetto della conoscenza, il purificatore, la sillaba Om, e il Rig, il Sama e lo Yajur Veda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.18} \textit{(Krishna)}\par
+Io sono la meta, il sostenitore, il signore, il testimone, la dimora, il rifugio, l’amico; l’origine, la dissoluzione, il fondamento, il luogo di riposo e il seme imperituro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.19} \textit{(Krishna)}\par
+Io do calore; trattengo la pioggia e la lascio cadere; sono l’immortalità e la morte, l’essere e il non essere, Arjuna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.20} \textit{(Krishna)}\par
+I conoscitori dei tre Veda, che bevono il soma e sono purificati dal peccato, mi venerano con sacrifici e cercano la via del cielo; raggiunto il santo mondo di Indra, gustano in cielo i divini piaceri degli dèi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.21} \textit{(Krishna)}\par
+Dopo aver goduto di quel vasto mondo celeste, esaurito il loro merito, rientrano nel mondo dei mortali; così, seguendo il dharma dei tre Veda e desiderando i piaceri, vanno e vengono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.22} \textit{(Krishna)}\par
+Ma a coloro che, senza pensare ad altro, mi venerano e rimangono sempre uniti a me, io procuro ciò che manca e custodisco ciò che possiedono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.23} \textit{(Krishna)}\par
+Anche coloro che, devoti ad altri dèi, li venerano con fede, o figlio di Kunti, venerano in realtà me, sebbene non nel modo prescritto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.24} \textit{(Krishna)}\par
+Io sono infatti colui che riceve e il signore di tutti i sacrifici; ma essi non mi conoscono nella verità e perciò decadono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.25} \textit{(Krishna)}\par
+Chi venera gli dèi va agli dèi; chi venera gli antenati va agli antenati; chi venera gli spiriti va agli spiriti; ma chi venera me viene a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.26} \textit{(Krishna)}\par
+Chiunque mi offra con devozione una foglia, un fiore, un frutto o dell’acqua—quell’offerta devota, fatta da un cuore puro, io la accolgo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.27} \textit{(Krishna)}\par
+Qualunque cosa tu faccia, qualunque cosa tu mangi, qualunque cosa tu offra o doni, qualunque ascesi tu pratichi, o figlio di Kunti, falla come offerta a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.28} \textit{(Krishna)}\par
+Così sarai liberato dai vincoli dell’azione e dai suoi frutti, buoni e cattivi; saldo nello yoga della rinuncia e reso libero, verrai a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.29} \textit{(Krishna)}\par
+Io sono uguale verso tutti gli esseri; nessuno mi è odioso e nessuno mi è caro; ma coloro che mi venerano con devozione sono in me, e anch’io sono in loro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.30} \textit{(Krishna)}\par
+Anche colui la cui condotta è pessima, se mi venera con devozione esclusiva, deve essere considerato giusto, perché la sua risoluzione è retta.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.31} \textit{(Krishna)}\par
+Presto egli diviene retto d’animo e raggiunge una pace duratura; sappilo per certo, o figlio di Kunti: nessuno che sia devoto a me va perduto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.32} \textit{(Krishna)}\par
+Poiché coloro che si rifugiano in me, o Partha, anche se nati da un grembo umile—donne, vaishya e shudra—raggiungono anch’essi la meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.33} \textit{(Krishna)}\par
+Quanto più, dunque, i puri brahmin e i devoti re-veggenti! Giunto in questo mondo fuggevole e privo di gioia, venerami.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{9.34} \textit{(Krishna)}\par
+Fissa in me la mente, sii devoto a me, sacrifica a me, prostrati davanti a me; così, raccogliendoti nello yoga e assumendomi come meta suprema, verrai a me.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 10 - Vibhuti Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.1} \textit{(Krishna)}\par
+Ancora una volta, o dalle possenti braccia, ascolta la mia parola suprema, che ti dirò perché mi sei caro e desidero il tuo bene.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.2} \textit{(Krishna)}\par
+Né le schiere degli dèi né i grandi veggenti conoscono la mia origine; io sono infatti, sotto ogni aspetto, la sorgente degli dèi e dei grandi veggenti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.3} \textit{(Krishna)}\par
+Colui che mi conosce come non nato, senza principio e grande signore dei mondi è libero dall’illusione fra i mortali e sciolto da ogni colpa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.4} \textit{(Krishna)}\par
+Intelletto, conoscenza, libertà dall’illusione, pazienza, verità, dominio di sé e calma; piacere e dolore, nascita e dissoluzione, paura e assenza di paura;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.5} \textit{(Krishna)}\par
+nonviolenza, equanimità, appagamento, ascesi, generosità, fama e discredito—questi diversi stati degli esseri sorgono soltanto da me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.6} \textit{(Krishna)}\par
+I sette grandi veggenti, i quattro antichi e i Manu, partecipi della mia natura, nacquero dalla mia mente; da loro sono sorte le creature del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.7} \textit{(Krishna)}\par
+Colui che conosce nella verità questa mia gloria e questo mio yoga è saldo in uno yoga incrollabile; su questo non vi è dubbio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.8} \textit{(Krishna)}\par
+Io sono l’origine di tutto; da me tutto procede. Sapendo questo, i saggi, colmi di fervore, mi venerano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.9} \textit{(Krishna)}\par
+Con la mente rivolta a me e la vita consegnata a me, illuminandosi a vicenda e parlando sempre di me, essi sono appagati e lieti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.10} \textit{(Krishna)}\par
+A costoro, sempre uniti a me e che mi venerano con amore, dono lo yoga della comprensione mediante il quale vengono a me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.11} \textit{(Krishna)}\par
+Per compassione verso di loro, dimorando nei loro cuori, distruggo le tenebre nate dall’ignoranza con la luminosa lampada della conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.12} \textit{(Arjuna)}\par
+Tu sei il Brahman supremo, la dimora suprema, il supremo purificatore; l’eterna persona divina, il dio primordiale, non nato e onnipresente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.13} \textit{(Arjuna)}\par
+Così ti proclamano tutti i veggenti—il veggente divino Narada, Asita, Devala e Vyasa—e tu stesso me lo dichiari.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.14} \textit{(Arjuna)}\par
+Ritengo vero tutto ciò che mi dici, o Keshava; né gli dèi né i danava conoscono la tua manifestazione, o Bhagavan.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.15} \textit{(Arjuna)}\par
+Tu solo conosci te stesso mediante te stesso, o Purushottama—origine degli esseri, signore degli esseri, dio degli dèi, signore del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.16} \textit{(Arjuna)}\par
+Parlami dunque per intero delle tue glorie divine, mediante le quali pervadi questi mondi e dimori in essi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.17} \textit{(Arjuna)}\par
+Come potrò conoscerti, o yogi, meditandoti di continuo? In quali forme, o Bhagavan, devo contemplarti?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.18} \textit{(Arjuna)}\par
+Parlami ancora, in dettaglio, o Janardana, del tuo yoga e delle tue glorie; non sono sazio di ascoltare questo nettare.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.19} \textit{(Krishna)}\par
+E sia: ti parlerò delle mie glorie divine—ma soltanto delle principali, o migliore dei Kuru, poiché la mia estensione non ha fine.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.20} \textit{(Krishna)}\par
+Io sono l’Atman, o Gudakesha, presente nel cuore di tutti gli esseri; sono il principio, il mezzo e la fine degli esseri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.21} \textit{(Krishna)}\par
+Fra gli Aditya io sono Vishnu; fra le luci, il sole raggiante; fra i Marut io sono Marichi; fra gli astri, la luna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.22} \textit{(Krishna)}\par
+Fra i Veda io sono il Sama Veda; fra gli dèi, Vasava; fra i sensi io sono la mente; negli esseri sono la coscienza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.23} \textit{(Krishna)}\par
+Fra i Rudra io sono Shankara; fra gli yaksha e i rakshasa, il signore della ricchezza; fra i Vasu io sono il fuoco; fra i monti, il Meru.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.24} \textit{(Krishna)}\par
+Fra i cappellani di corte, o Partha, sappimi il loro capo, Brihaspati; fra i condottieri sono Skanda; fra le acque, l’oceano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.25} \textit{(Krishna)}\par
+Fra i grandi veggenti sono Bhrigu; fra le parole, la sola sillaba Om; fra i sacrifici, il sacrificio della ripetizione silenziosa; fra le cose immobili, l’Himalaya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.26} \textit{(Krishna)}\par
+Fra tutti gli alberi io sono l'ashvattha; fra i veggenti divini, Narada; fra i gandharva, Chitraratha; fra i perfetti, il saggio Kapila.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.27} \textit{(Krishna)}\par
+Sappimi, fra i cavalli, Uchchaihshravas, nato dal nettare; fra gli elefanti regali, Airavata; fra gli uomini, il re.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.28} \textit{(Krishna)}\par
+Fra le armi io sono la folgore; fra le vacche, la vacca che esaudisce i desideri; fra i generatori io sono Kandarpa; fra i serpenti, Vasuki.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.29} \textit{(Krishna)}\par
+Fra i naga io sono Ananta; fra le creature delle acque, Varuna; fra gli antenati, Aryaman; fra coloro che governano, Yama.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.30} \textit{(Krishna)}\par
+Fra i daitya sono Prahlada; fra ciò che misura, il tempo stesso; fra le fiere sono il leone e fra gli uccelli Garuda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.31} \textit{(Krishna)}\par
+Fra i purificatori io sono il vento; fra i guerrieri, Rama; fra i pesci io sono il makara, e fra i fiumi, il Gange.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.32} \textit{(Krishna)}\par
+Delle creazioni sono il principio, la fine e il mezzo, Arjuna; fra i rami del sapere, la conoscenza del sé; fra i disputanti, l’argomentazione ragionata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.33} \textit{(Krishna)}\par
+Delle lettere sono la «A»; dei composti, il composto copulativo. Sono il Tempo inesauribile e l’ordinatore dai volti rivolti ovunque.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.34} \textit{(Krishna)}\par
+Sono la morte che tutto divora e l’origine delle cose che verranno; fra le donne sono la fama, la fortuna, la parola, la memoria, la saggezza, la costanza e la pazienza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.35} \textit{(Krishna)}\par
+Fra i canti Sama io sono il Brihat-sama; fra i metri, la Gayatri; fra i mesi io sono Margashirsha; fra le stagioni, la primavera fiorita.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.36} \textit{(Krishna)}\par
+Sono il gioco d’azzardo degli ingannatori e lo splendore degli splendidi; sono la vittoria, la risolutezza e il sattva dei buoni.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.37} \textit{(Krishna)}\par
+Fra i Vrishni io sono Vasudeva; fra i Pandava, Dhananjaya; fra i saggi io sono Vyasa; fra i veggenti, il veggente Ushanas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.38} \textit{(Krishna)}\par
+Fra coloro che puniscono sono la verga; fra coloro che cercano la vittoria, l’arte del governo; fra i segreti sono il silenzio; e sono la conoscenza dei sapienti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.39} \textit{(Krishna)}\par
+E sono il seme di tutti gli esseri, Arjuna; nulla vi è, mobile o immobile, che possa esistere senza di me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.40} \textit{(Krishna)}\par
+Non vi è fine alle mie glorie divine, o flagello dei nemici; ciò che ho esposto della mia estensione non è che un cenno.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.41} \textit{(Krishna)}\par
+Qualunque essere sia glorioso, prospero o potente, sappi che nasce da un frammento del mio splendore.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{10.42} \textit{(Krishna)}\par
+Ma che bisogno hai di conoscere tutto questo nei dettagli, Arjuna? Con un solo frammento di me sostengo questo mondo intero.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 11 - Vishvarupa-Darshana Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.1} \textit{(Arjuna)}\par
+Per benevolenza verso di me hai pronunciato il segreto supremo, noto come insegnamento del sé; grazie a esso questa mia illusione si è dissipata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.2} \textit{(Arjuna)}\par
+Ho udito da te per intero della nascita e della dissoluzione degli esseri, o dagli occhi di loto, e della tua maestà imperitura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.3} \textit{(Arjuna)}\par
+Come tu stesso ti descrivi, o signore supremo, così desidero vedere la tua forma sovrana, o Purushottama.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.4} \textit{(Arjuna)}\par
+Se ritieni che io sia in grado di vederla, o signore, mostrami allora il tuo sé imperituro, o signore dello yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.5} \textit{(Krishna)}\par
+Guarda, o Partha, le mie forme a centinaia e a migliaia, di molte specie, divine, dai molti colori e dalle molte figure.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.6} \textit{(Krishna)}\par
+Vedi gli Aditya, i Vasu, i Rudra, i due Ashvin e i Marut; vedi molti prodigi mai visti prima, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.7} \textit{(Krishna)}\par
+Vedi ora, raccolto qui in un solo luogo, il mondo intero, mobile e immobile, nel mio corpo, o Gudakesha, e qualunque altra cosa desideri vedere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.8} \textit{(Krishna)}\par
+Ma non puoi vedermi con questi tuoi occhi; ti dono un occhio divino—contempla il mio yoga sovrano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.9} \textit{(Sanjaya)}\par
+Dopo aver detto questo, o re, Hari, il grande signore dello yoga, mostrò a Partha la sua suprema forma sovrana:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.10} \textit{(Sanjaya)}\par
+con molte bocche e molti occhi, molti aspetti prodigiosi, molti ornamenti divini e molte armi divine levate in alto;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.11} \textit{(Sanjaya)}\par
+con ghirlande e vesti divine, cosparso di profumi divini, colmo di ogni meraviglia, splendente, sconfinato, con volti rivolti ovunque.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.12} \textit{(Sanjaya)}\par
+Se la luce di mille soli divampasse all’improvviso nel cielo, potrebbe somigliare allo splendore di quel grande essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.13} \textit{(Sanjaya)}\par
+Là il Pandava vide il mondo intero, nelle sue molteplici divisioni, raccolto in un solo luogo nel corpo del dio degli dèi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.14} \textit{(Sanjaya)}\par
+Allora Dhananjaya, colmo di stupore e con i peli ritti, chinò il capo davanti al dio e, a mani giunte, disse:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.15} \textit{(Arjuna)}\par
+Vedo nel tuo corpo tutti gli dèi, o dio, e le diverse schiere degli esseri—Brahma, il signore assiso sul loto, i veggenti e i serpenti divini.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.16} \textit{(Arjuna)}\par
+Ti vedo con innumerevoli braccia, ventri, bocche e occhi, infinito da ogni parte; non vedo in te né fine, né mezzo, né principio, o signore di tutto, o forma universale.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.17} \textit{(Arjuna)}\par
+Ti vedo coronato, con la mazza e il disco, come un fulgore che divampa da ogni parte, difficile da contemplare, incommensurabile, simile al fuoco fiammeggiante e al sole.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.18} \textit{(Arjuna)}\par
+Tu sei l’imperituro, il supremo oggetto della conoscenza; sei l’ultimo luogo di riposo dell’universo, il custode immortale dell’eterno dharma; tu, io ritengo, sei la persona perenne.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.19} \textit{(Arjuna)}\par
+Ti vedo senza principio, mezzo né fine, di potenza sconfinata, con innumerevoli braccia, la luna e il sole per occhi, il volto come un fuoco avvampante, mentre ardi l’intero universo con il tuo fulgore.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.20} \textit{(Arjuna)}\par
+Lo spazio fra cielo e terra e tutte le direzioni sono pervasi da te soltanto; vedendo questa tua forma prodigiosa e terribile, i tre mondi tremano, o grande anima.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.21} \textit{(Arjuna)}\par
+In te entrano queste schiere di dèi; alcuni, impauriti, ti lodano a mani giunte; le schiere dei grandi veggenti e dei perfetti, invocando «Salute!», ti celebrano con inni copiosi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.22} \textit{(Arjuna)}\par
+I Rudra, gli Aditya, i Vasu e i Sadhya, i Vishvedeva, i due Ashvin, i Marut e gli antenati, le schiere dei gandharva, degli yaksha, degli asura e dei perfetti—tutti ti contemplano stupefatti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.23} \textit{(Arjuna)}\par
+Vedendo la tua grande forma, o dalle possenti braccia, con le molte bocche e i molti occhi, le molte braccia, cosce e piedi, i molti ventri e le terribili zanne, i mondi tremano, e io con loro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.24} \textit{(Arjuna)}\par
+Vedendoti toccare il cielo, avvampante di molti colori, con le bocche spalancate e i grandi occhi fiammeggianti, il mio cuore trema, o Vishnu; non trovo né fermezza né pace.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.25} \textit{(Arjuna)}\par
+Vedendo le tue bocche, terribili per le zanne e simili al fuoco della fine del mondo, perdo ogni senso dell’orientamento e non trovo rifugio; sii benevolo, o signore degli dèi, o dimora del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.26} \textit{(Arjuna)}\par
+E tutti questi figli di Dhritarashtra, insieme alla schiera dei re—Bhishma, Drona e anche il figlio dell’auriga, con i capi dei guerrieri della nostra parte—
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.27} \textit{(Arjuna)}\par
+si precipitano nelle tue bocche, spaventose per le zanne; alcuni appaiono con il capo stritolato, preso fra i tuoi denti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.28} \textit{(Arjuna)}\par
+Come i molti fiumi impetuosi corrono verso il mare, così questi eroi del mondo umano entrano nelle tue bocche fiammeggianti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.29} \textit{(Arjuna)}\par
+Come le falene volano a capofitto in una fiamma ardente, incontro alla propria rovina, così questi mondi si precipitano nelle tue bocche, incontro alla propria rovina.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.30} \textit{(Arjuna)}\par
+Tu lambisci da ogni parte tutti i mondi con le tue bocche fiammeggianti, divorandoli; i tuoi raggi feroci riempiono di splendore l’intero universo e lo bruciano, o Vishnu.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.31} \textit{(Arjuna)}\par
+Dimmi chi sei, tu che hai una forma così terribile. Omaggio a te, o migliore degli dèi; sii benevolo. Desidero conoscerti, o essere primordiale, poiché non comprendo il tuo operare.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.32} \textit{(Krishna)}\par
+Io sono il Tempo, divenuto possente, distruttore dei mondi, qui all’opera per dissolverli. Anche senza di te, tutti i guerrieri schierati nelle file avverse cesseranno di essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.33} \textit{(Krishna)}\par
+Perciò alzati e conquista la gloria; vinci i nemici e godi di un regno fiorente. Essi sono già stati uccisi da me: sii soltanto il mio strumento, o Savyasachin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.34} \textit{(Krishna)}\par
+Drona, Bhishma, Jayadratha, Karna e gli altri eroi guerrieri—uccidili, già uccisi da me; non vacillare. Combatti! Vincerai in battaglia i tuoi rivali.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.35} \textit{(Sanjaya)}\par
+Udite queste parole di Keshava, Arjuna, il diademato, tremante, congiunse le mani e si inchinò; poi, prostrandosi atterrito, parlò di nuovo a Krishna con voce rotta:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.36} \textit{(Arjuna)}\par
+Giustamente, o Hrishikesha, il mondo si rallegra e trova gioia nel celebrarti; i rakshasa fuggono atterriti in ogni direzione e tutte le schiere dei perfetti si prostrano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.37} \textit{(Arjuna)}\par
+E perché non dovrebbero prostrarsi a te, o grande anima, più grande perfino di Brahma, il primo creatore? O sconfinato, signore degli dèi, dimora del mondo, tu sei l’imperituro—l’essere, il non essere e ciò che è oltre entrambi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.38} \textit{(Arjuna)}\par
+Tu sei il dio primordiale, l’antica persona, il supremo luogo di riposo dell’universo; sei il conoscitore e il conosciuto, la dimora più alta; da te l’universo è pervaso, o dalle forme infinite.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.39} \textit{(Arjuna)}\par
+Tu sei Vayu, Yama, Agni, Varuna, la luna, Prajapati e il grande avo; omaggio a te mille volte, e ancora e ancora omaggio, omaggio a te.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.40} \textit{(Arjuna)}\par
+Omaggio a te davanti e dietro, omaggio a te da ogni parte, o tutto; sconfinato nella potenza e incommensurabile nella forza, pervadi ogni cosa e perciò sei tutto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.41} \textit{(Arjuna)}\par
+Credendoti un amico, ti chiamai con troppa familiarità—«Krishna! Yadava! Amico mio!»—non conoscendo questa tua grandezza, per leggerezza o per affetto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.42} \textit{(Arjuna)}\par
+E se, per scherzo, ti ho mancato di rispetto mentre giocavamo, riposavamo, sedevamo o mangiavamo, da soli o davanti ad altri, o Acyuta, ti chiedo perdono, o incommensurabile.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.43} \textit{(Arjuna)}\par
+Tu sei il padre di questo mondo, mobile e immobile, il suo oggetto di venerazione e il suo maestro più venerabile; non vi è nessuno pari a te: come potrebbe esservi qualcuno più grande, o dalla potenza senza pari nei tre mondi?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.44} \textit{(Arjuna)}\par
+Perciò, inchinandomi e prostrando il corpo, imploro la tua grazia, o signore degno di lode; come un padre tollera il figlio, un amico l’amico, un amante l’amata, così tu sopportami, o dio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.45} \textit{(Arjuna)}\par
+Sono lieto di aver visto ciò che non era mai stato visto, eppure la mia mente trema di paura; mostrami di nuovo quella forma, o dio; sii benevolo, o signore degli dèi, o dimora del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.46} \textit{(Arjuna)}\par
+Desidero vederti come prima, coronato, con la mazza e il disco in mano; assumi di nuovo quella forma dalle quattro braccia, o dalle mille braccia, o forma universale.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.47} \textit{(Krishna)}\par
+Per grazia verso di te, Arjuna, mediante il mio stesso yoga ti ho mostrato questa forma suprema—radiosa, universale, sconfinata, primordiale—che nessuno all’infuori di te aveva mai visto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.48} \textit{(Krishna)}\par
+Non mediante i Veda e i sacrifici, né mediante lo studio, i doni, i riti o le austerità più severe, posso essere visto in questa forma nel mondo degli uomini da qualcuno diverso da te, o primo dei Kuru.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.49} \textit{(Krishna)}\par
+Non tremare e non smarrirti nel vedere questa mia forma terribile; deposta la paura e con il cuore rasserenato, contempla di nuovo questa mia forma.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.50} \textit{(Sanjaya)}\par
+Dopo aver detto questo ad Arjuna, Vasudeva mostrò nuovamente la propria forma; e la grande anima, ripreso il suo aspetto mite, confortò colui che era atterrito.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.51} \textit{(Arjuna)}\par
+Rivedendo la tua mite forma umana, o Janardana, ho ritrovato me stesso e sono tornato alla mia natura consueta.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.52} \textit{(Krishna)}\par
+Questa mia forma che hai veduto è assai difficile da contemplare; perfino gli dèi desiderano da sempre vederla.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.53} \textit{(Krishna)}\par
+Non mediante i Veda, l’ascesi, i doni o il sacrificio posso essere visto nella forma in cui tu mi hai veduto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.54} \textit{(Krishna)}\par
+Ma con una devozione indivisa, o Arjuna, posso essere conosciuto e visto, e in me si può veramente entrare, o flagello dei nemici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{11.55} \textit{(Krishna)}\par
+Colui che opera per me, mi considera il supremo, è devoto a me, libero da attaccamento e privo di inimicizia verso ogni essere—costui viene a me, o Pandava.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 12 - Bhakti Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.1} \textit{(Arjuna)}\par
+Fra i devoti che, sempre saldi, ti venerano e coloro che venerano l’imperituro e l’immanifesto, quali conoscono meglio lo yoga?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.2} \textit{(Krishna)}\par
+Coloro che fissano in me la mente e, sempre saldi, mi venerano con fede suprema—costoro ritengo i più perfetti nello yoga.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.3} \textit{(Krishna)}\par
+Ma coloro che venerano l’imperituro, l’indefinibile, l’immanifesto, onnipervadente e impensabile, immutabile, saldo e immobile—
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.4} \textit{(Krishna)}\par
+dominando l’intera schiera dei sensi, mantenendo un animo equanime in ogni circostanza e rallegrandosi del bene di tutti gli esseri—anch’essi mi raggiungono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.5} \textit{(Krishna)}\par
+Maggiore è la fatica di coloro la cui mente è rivolta all’immanifesto; la meta immanifesta è infatti difficile da raggiungere per chi è incarnato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.6} \textit{(Krishna)}\par
+Ma coloro che, affidando a me tutte le azioni e interamente rivolti a me, mi venerano meditando con uno yoga indiviso,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.7} \textit{(Krishna)}\par
+per costoro, la cui mente è assorta in me, io divengo presto colui che li trae fuori dall’oceano della morte e del samsara, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.8} \textit{(Krishna)}\par
+Fissa la mente in me soltanto, riponi in me il tuo intelletto; in seguito dimorerai in me soltanto—su questo non vi è dubbio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.9} \textit{(Krishna)}\par
+Ma se non riesci a fissare stabilmente la mente in me, cerca allora di raggiungermi mediante lo yoga della pratica, o Dhananjaya.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.10} \textit{(Krishna)}\par
+Se non sei capace neppure della pratica, sii intento a operare per me; compiendo le tue azioni per amor mio, raggiungerai anche tu la perfezione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.11} \textit{(Krishna)}\par
+E se non puoi fare neppure questo, allora, rifugiandoti nel mio yoga e dominando te stesso, rinuncia al frutto di ogni azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.12} \textit{(Krishna)}\par
+La conoscenza è migliore della pratica; la meditazione supera la conoscenza; migliore della meditazione è la rinuncia ai frutti dell’azione—da tale rinuncia segue immediatamente la pace.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.13} \textit{(Krishna)}\par
+Colui che non odia alcun essere, è amichevole e compassionevole, libero dal senso del possesso e dall’ego, equanime nel dolore e nel piacere, e capace di perdonare;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.14} \textit{(Krishna)}\par
+sempre appagato, yogi padrone di sé, di ferma risolutezza, con la mente e l’intelletto offerti a me—colui che mi è devoto mi è caro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.15} \textit{(Krishna)}\par
+Colui dal quale il mondo non è turbato e che non è turbato dal mondo, libero da euforia, risentimento, paura e agitazione, mi è caro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.16} \textit{(Krishna)}\par
+Colui che non dipende da nulla, puro, capace, imparziale e sereno, che ha rinunciato a ogni impresa—questo mio devoto mi è caro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.17} \textit{(Krishna)}\par
+Colui che né esulta né odia, né si affligge né brama, che ha abbandonato la preoccupazione per gli esiti buoni e cattivi—questo mio devoto mi è caro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.18} \textit{(Krishna)}\par
+Uguale verso il nemico e l’amico, nell’onore e nel disonore, nel freddo e nel caldo, nel piacere e nel dolore, libero da attaccamento;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.19} \textit{(Krishna)}\par
+che considera allo stesso modo biasimo e lode, silenzioso, appagato di qualunque cosa gli giunga, senza dimora fissa, saldo di mente e pieno di devozione—un uomo simile mi è caro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{12.20} \textit{(Krishna)}\par
+Ma coloro che onorano questo nettare del dharma così come l’ho esposto, pieni di fede e considerandomi il supremo—quei devoti mi sono immensamente cari.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 13 - Kshetra-Kshetrajna Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.1} \textit{(Arjuna)}\par
+Desidero conoscere prakriti e purusha, il campo e il conoscitore del campo, la conoscenza e ciò che deve essere conosciuto, o Keshava.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.2} \textit{(Krishna)}\par
+Questo corpo, o figlio di Kunti, è chiamato il campo; e colui che lo conosce è chiamato, da coloro che sanno, il conoscitore del campo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.3} \textit{(Krishna)}\par
+Conosci anche me, o Bharata, come il conoscitore del campo in tutti i campi; la conoscenza del campo e del suo conoscitore—quella, io ritengo, è la vera conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.4} \textit{(Krishna)}\par
+Che cosa sia il campo, quale sia la sua natura e quali i suoi mutamenti, da dove sorga, chi sia il suo conoscitore e quali siano i suoi poteri—ascoltalo da me in breve.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.5} \textit{(Krishna)}\par
+Questo è stato cantato dai veggenti in molti modi, in vari inni e negli aforismi su Brahman, ben argomentati e conclusivi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.6} \textit{(Krishna)}\par
+I grandi elementi, l’ego, l’intelletto e l’immanifesto; i dieci sensi, la mente e i cinque campi dei sensi;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.7} \textit{(Krishna)}\par
+desiderio e avversione, piacere e dolore, l’insieme corporeo, la consapevolezza e la costanza—questo, in breve, è il campo con i suoi mutamenti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.8} \textit{(Krishna)}\par
+Umiltà, sincerità, nonviolenza, pazienza, rettitudine, servizio al maestro, purezza, fermezza e dominio di sé;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.9} \textit{(Krishna)}\par
+indifferenza agli oggetti dei sensi, assenza di ego e chiara percezione del male insito nella nascita, nella morte, nella vecchiaia, nella malattia e nel dolore;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.10} \textit{(Krishna)}\par
+distacco, libertà dall’attaccamento al figlio, alla moglie, alla casa e al resto, e costante equanimità verso ciò che è gradito e ciò che non lo è;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.11} \textit{(Krishna)}\par
+devozione incrollabile verso di me mediante uno yoga senza distrazioni, ritiro in luoghi appartati e nessuna attrazione per le folle;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.12} \textit{(Krishna)}\par
+costanza nella conoscenza del sé e comprensione del fine della vera conoscenza—questo è dichiarato conoscenza; ciò che ne differisce è ignoranza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.13} \textit{(Krishna)}\par
+Ti esporrò ciò che deve essere conosciuto, conoscendo il quale si consegue l’immortalità: Brahman supremo e senza principio, detto né essere né non essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.14} \textit{(Krishna)}\par
+Con mani e piedi ovunque, con occhi, teste e volti ovunque, con orecchi ovunque, esso dimora nel mondo avvolgendo ogni cosa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.15} \textit{(Krishna)}\par
+Manifesto attraverso le facoltà di tutti i sensi, eppure libero da tutti i sensi; senza attaccamento, eppure sostegno di tutto; senza guna, eppure capace di sperimentare i guna;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.16} \textit{(Krishna)}\par
+fuori e dentro tutti gli esseri; immobile, eppure in movimento; troppo sottile per essere conosciuto; lontano, eppure vicino.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.17} \textit{(Krishna)}\par
+Indiviso, eppure come diviso fra gli esseri; è il sostegno degli esseri, colui che li divora e la loro sorgente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.18} \textit{(Krishna)}\par
+È la luce delle luci, detta al di là delle tenebre; è la conoscenza, l’oggetto della conoscenza e ciò che si raggiunge mediante la conoscenza, dimorante nel cuore di tutti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.19} \textit{(Krishna)}\par
+Così il campo, la conoscenza e il conoscibile sono stati esposti in breve; il mio devoto, conoscendo questo, diviene capace di partecipare al mio essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.20} \textit{(Krishna)}\par
+Sappi che sia prakriti sia purusha sono senza principio; e sappi che i mutamenti e i guna nascono da prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.21} \textit{(Krishna)}\par
+Si dice che prakriti sia la causa dell’operare di cause ed effetti; si dice che purusha sia la causa dell’esperienza del piacere e del dolore.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.22} \textit{(Krishna)}\par
+purusha, presente in prakriti, sperimenta infatti i guna nati da prakriti; l’attaccamento ai guna è la causa della sua nascita in grembi buoni e cattivi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.23} \textit{(Krishna)}\par
+Il purusha supremo in questo corpo è chiamato anche testimone, consenziente, sostenitore, colui che sperimenta, grande signore e Atman supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.24} \textit{(Krishna)}\par
+Colui che conosce in questo modo purusha e prakriti, insieme ai guna, qualunque sia la condizione in cui vive, non rinasce più.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.25} \textit{(Krishna)}\par
+Alcuni, mediante la meditazione, contemplano il sé nel sé attraverso il sé; altri mediante lo yoga del Sankhya, altri ancora mediante lo yoga dell’azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.26} \textit{(Krishna)}\par
+Altri ancora, non conoscendo questo direttamente, venerano secondo quanto hanno udito da altri; anch’essi, devoti a ciò che odono, oltrepassano la morte.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.27} \textit{(Krishna)}\par
+Qualunque essere nasca, mobile o immobile, sappilo sorgere dall’unione di kshetra e kshetrajna, o migliore dei Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.28} \textit{(Krishna)}\par
+Colui che vede il signore supremo dimorare ugualmente in tutti gli esseri, immortale fra i mortali, vede davvero.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.29} \textit{(Krishna)}\par
+Vedendo il signore presente ugualmente ovunque, egli non reca danno al sé mediante il sé, e così raggiunge la meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.30} \textit{(Krishna)}\par
+Colui che vede che le azioni sono compiute interamente da prakriti, mentre il sé non agisce, vede davvero.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.31} \textit{(Krishna)}\par
+Quando vede i diversi stati degli esseri come riposti nell’Uno e il loro dispiegarsi da quello soltanto, allora raggiunge Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.32} \textit{(Krishna)}\par
+Senza principio e senza guna, questo sé supremo e imperituro, benché presente nel corpo, o figlio di Kunti, non agisce né è contaminato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.33} \textit{(Krishna)}\par
+Come lo spazio onnipervadente, essendo sottile, non è contaminato, così il sé, presente in ogni corpo, non è contaminato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.34} \textit{(Krishna)}\par
+Come un solo sole illumina questo mondo intero, così il conoscitore del campo illumina l’intero campo, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{13.35} \textit{(Krishna)}\par
+Coloro che, con l’occhio della conoscenza, discernono la differenza fra kshetra e kshetrajna e la liberazione degli esseri da prakriti raggiungono il Supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 14 - Guna-Traya Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.1} \textit{(Krishna)}\par
+Esporrò ancora la conoscenza suprema, la migliore di tutte le conoscenze: conoscendola, tutti i saggi sono passati da questo mondo alla perfezione più alta.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.2} \textit{(Krishna)}\par
+Rifugiandosi in questa conoscenza, essi giungono a condividere la mia natura; non nascono al momento della creazione né sono turbati al momento della dissoluzione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.3} \textit{(Krishna)}\par
+Il grande Brahman è il mio grembo; in esso depongo il seme e da esso, o Bharata, nasce ogni essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.4} \textit{(Krishna)}\par
+Qualunque forma nasca in qualunque grembo, o figlio di Kunti, il grande Brahman è quel grembo e io sono il padre che depone il seme.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.5} \textit{(Krishna)}\par
+Sattva, rajas e tamas—i guna nati da prakriti—legano saldamente al corpo, o dalle possenti braccia, l’imperituro che vi è incarnato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.6} \textit{(Krishna)}\par
+Fra questi, sattva, essendo puro, è luminoso e libero dal male; esso lega, o irreprensibile, mediante l’attaccamento alla felicità e alla conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.7} \textit{(Krishna)}\par
+Sappi che rajas è di natura passionale, nato dalla bramosia e dall’attaccamento; esso lega chi è incarnato, o figlio di Kunti, mediante l’attaccamento all’azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.8} \textit{(Krishna)}\par
+Ma sappi che tamas, nato dall’ignoranza, illude tutti gli esseri incarnati; li lega mediante la negligenza, l’inerzia e il sonno, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.9} \textit{(Krishna)}\par
+Sattva lega alla felicità, rajas all’azione, o Bharata; tamas invece, velando la conoscenza, lega alla negligenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.10} \textit{(Krishna)}\par
+Sattva prevale sopraffacendo rajas e tamas, o Bharata; rajas sopraffacendo sattva e tamas; e allo stesso modo tamas sopraffacendo sattva e rajas.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.11} \textit{(Krishna)}\par
+Quando la luce della conoscenza risplende attraverso tutte le porte del corpo, si deve sapere che sattva è divenuto predominante.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.12} \textit{(Krishna)}\par
+Avidità, attività febbrile, intraprendere opere, irrequietezza e bramosia sorgono quando rajas diviene predominante, o migliore dei Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.13} \textit{(Krishna)}\par
+Oscurità, inerzia, negligenza e illusione sorgono quando tamas diviene predominante, o gioia dei Kuru.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.14} \textit{(Krishna)}\par
+Quando chi è incarnato incontra la morte mentre prevale sattva, raggiunge i mondi immacolati di coloro che conoscono il Supremo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.15} \textit{(Krishna)}\par
+Incontrando la morte sotto il dominio di rajas, rinasce fra coloro che sono attaccati all’azione; morendo sotto il dominio di tamas, rinasce nei grembi degli illusi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.16} \textit{(Krishna)}\par
+Il frutto dell’azione buona, si dice, è di natura sattvica e senza macchia; il frutto di rajas è invece dolore, e quello di tamas ignoranza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.17} \textit{(Krishna)}\par
+Da sattva nasce la conoscenza, da rajas l’avidità, e da tamas la negligenza, l’illusione e l’ignoranza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.18} \textit{(Krishna)}\par
+Coloro che sono stabiliti in sattva salgono in alto; quelli in rajas rimangono nel mezzo; quelli in tamas, stabiliti nella disposizione più bassa, sprofondano.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.19} \textit{(Krishna)}\par
+Quando il veggente non scorge altro agente all’infuori dei guna e conosce ciò che è al di là dei guna, raggiunge il mio essere.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.20} \textit{(Krishna)}\par
+Oltrepassando questi tre guna, dai quali ha origine il corpo, chi è incarnato è liberato dalla nascita, dalla morte, dalla vecchiaia e dal dolore, e consegue l’immortalità.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.21} \textit{(Arjuna)}\par
+Da quali segni si riconosce colui che ha oltrepassato questi tre guna, o signore? Come agisce e come oltrepassa questi tre guna?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.22} \textit{(Krishna)}\par
+Egli non rifugge la luce, l’attività o l’illusione quando sorgono, o Pandava, né le desidera quando cessano;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.23} \textit{(Krishna)}\par
+seduto come in disparte, non scosso dai guna, rimane saldo e non vacilla, sapendo che sono soltanto i guna a operare;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.24} \textit{(Krishna)}\par
+uguale nel dolore e nel piacere, padrone di sé, considerando allo stesso modo zolla, pietra e oro, uguale verso ciò che è caro e ciò che è sgradito, costante, equanime nel biasimo e nella lode;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.25} \textit{(Krishna)}\par
+uguale nell’onore e nel disonore, verso l’amico e il nemico, e avendo rinunciato a ogni impresa—di costui si dice che ha oltrepassato i guna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.26} \textit{(Krishna)}\par
+E colui che mi serve con devozione incrollabile, oltrepassando questi guna, diviene degno di divenire Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{14.27} \textit{(Krishna)}\par
+Io sono infatti il fondamento di Brahman, dell’immortale e imperituro, dell’eterno dharma e della beatitudine assoluta.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 15 - Purushottama Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.1} \textit{(Krishna)}\par
+Si parla di un albero ashvattha imperituro, con le radici in alto e i rami in basso, le cui foglie sono gli inni; chi lo conosce conosce i Veda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.2} \textit{(Krishna)}\par
+I suoi rami si estendono in basso e in alto, nutriti dai guna, con gli oggetti dei sensi come gemme; e in basso si protendono le sue radici, che legano all’azione nel mondo degli uomini.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.3} \textit{(Krishna)}\par
+La sua forma, quale realmente è, non viene percepita quaggiù—né la sua fine, né il principio, né il luogo in cui poggia. Abbattuto questo ashvattha dalle salde radici con la robusta scure del distacco,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.4} \textit{(Krishna)}\par
+si deve poi cercare quel luogo dal quale, una volta giunti, non si ritorna, con la risoluzione: «Mi rifugio in quella persona primordiale dalla quale ebbe origine l’antico dispiegarsi».
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.5} \textit{(Krishna)}\par
+Liberi da orgoglio e illusione, vinto il male dell’attaccamento, sempre dimoranti nel sé, acquietato il desiderio e sciolti dalle coppie di opposti chiamate piacere e dolore, coloro che sono liberi dall’illusione raggiungono quel luogo imperituro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.6} \textit{(Krishna)}\par
+Né il sole, né la luna, né il fuoco illuminano quel luogo; giunti là, non si ritorna—quella è la mia dimora suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.7} \textit{(Krishna)}\par
+Un frammento eterno di me, divenuto essere vivente nel mondo dei viventi, attira a sé i sensi, con la mente come sesto, che dimorano in prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.8} \textit{(Krishna)}\par
+Quando entra in un corpo e quando lo lascia, porta con sé questi sensi, come il vento porta i profumi dai luoghi in cui risiedono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.9} \textit{(Krishna)}\par
+Presiedendo all’udito, alla vista, al tatto, al gusto, all’olfatto e alla mente, sperimenta gli oggetti dei sensi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.10} \textit{(Krishna)}\par
+Gli illusi non lo vedono mentre lascia il corpo, vi dimora o sperimenta, unito ai guna; lo vedono coloro che possiedono l’occhio della conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.11} \textit{(Krishna)}\par
+Gli yogi che si sforzano lo vedono presente nel sé; ma coloro che sono privi di discernimento e non hanno disciplinato se stessi non lo vedono, per quanto si sforzino.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.12} \textit{(Krishna)}\par
+La luce che dimora nel sole e illumina il mondo intero, e quella che è nella luna e nel fuoco—sappi che quella luce è mia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.13} \textit{(Krishna)}\par
+Penetrando nella terra, sostengo tutti gli esseri con la mia forza; divenuto la luna ricca di linfa, nutro tutte le piante.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.14} \textit{(Krishna)}\par
+Divenuto il fuoco della digestione e dimorando nei corpi dei viventi, unito al respiro che entra e a quello che esce, digerisco i quattro tipi di cibo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.15} \textit{(Krishna)}\par
+Io dimoro nel cuore di tutti; da me vengono la memoria, la conoscenza e la loro perdita; sono ciò che deve essere conosciuto attraverso tutti i Veda, l’autore del Vedanta e il conoscitore dei Veda.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.16} \textit{(Krishna)}\par
+Vi sono nel mondo due persone, quella peritura e quella imperitura: tutti gli esseri costituiscono la peritura, mentre l’immutabile è detta imperitura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.17} \textit{(Krishna)}\par
+Ma vi è un’altra persona, la suprema, chiamata Atman supremo: il signore imperituro che entra nei tre mondi e li sostiene.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.18} \textit{(Krishna)}\par
+Poiché oltrepasso il perituro e sono superiore anche all’imperituro, sono celebrato nel mondo e nei Veda come Purushottama, la persona suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.19} \textit{(Krishna)}\par
+Colui che, libero dall’illusione, mi conosce così come persona suprema conosce ogni cosa e mi venera con tutto il suo essere, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{15.20} \textit{(Krishna)}\par
+Così ti ho insegnato questa dottrina segretissima, o irreprensibile; chi la conosce diviene saggio e porta a compimento il proprio compito, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 16 - Daivasura-Sampad Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.1} \textit{(Krishna)}\par
+Assenza di paura, purezza del cuore, fermezza nello yoga della conoscenza, generosità, dominio di sé, sacrificio, studio delle scritture, ascesi e rettitudine;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.2} \textit{(Krishna)}\par
+nonviolenza, verità, libertà dall’ira, rinuncia, calma, assenza di maldicenza, compassione per tutti gli esseri, libertà dall’avidità, mitezza, pudore e fermezza;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.3} \textit{(Krishna)}\par
+vigore, pazienza, forza d’animo, purezza, libertà dalla malevolenza e dall’orgoglio—queste qualità appartengono a chi è nato a una sorte divina, o Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.4} \textit{(Krishna)}\par
+Ipocrisia, arroganza, presunzione, ira, durezza e ignoranza appartengono, o Partha, a chi è nato a una sorte demoniaca.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.5} \textit{(Krishna)}\par
+La sorte divina conduce alla liberazione, quella demoniaca al vincolo; non affliggerti, o Pandava—tu sei nato a una sorte divina.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.6} \textit{(Krishna)}\par
+In questo mondo vi sono due ordini di esseri creati: quello divino e quello demoniaco; il divino è stato descritto a lungo, ascolta ora da me il demoniaco, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.7} \textit{(Krishna)}\par
+I demoniaci non conoscono né l’azione né la sua cessazione; in loro non si trovano né purezza, né retta condotta, né verità.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.8} \textit{(Krishna)}\par
+Dicono che il mondo sia privo di verità, di fondamento e di un signore, nato soltanto dall’unione reciproca e causato dal desiderio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.9} \textit{(Krishna)}\par
+Attenendosi a questa visione, queste anime perdute, dall’intelletto debole e dalle opere crudeli, si levano come nemici per la rovina del mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.10} \textit{(Krishna)}\par
+Aggrappati a un desiderio insaziabile, pieni di ipocrisia, orgoglio e arroganza, scambiando per vere idee false nate dall’illusione, agiscono secondo propositi impuri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.11} \textit{(Krishna)}\par
+Assillati da preoccupazioni smisurate che terminano soltanto con la morte, ritenendo la soddisfazione dei desideri il bene più alto e certi che questo sia tutto,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.12} \textit{(Krishna)}\par
+legati da cento lacci della speranza, dediti al desiderio e all’ira, si affannano ad ammassare ricchezze con mezzi disonesti, per soddisfare i propri desideri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.13} \textit{(Krishna)}\par
+«Questo ho ottenuto oggi; questa bramosia la appagherò ora; questo è mio, e anche questa ricchezza sarà mia;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.14} \textit{(Krishna)}\par
+quel nemico l’ho ucciso e ucciderò anche gli altri; io sono il signore, io sono colui che gode, ho successo, sono forte e felice;
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.15} \textit{(Krishna)}\par
+sono ricco e di nobile nascita; chi altri è pari a me? Sacrificherò, donerò, mi rallegrerò»—così dicono, ingannati dall’ignoranza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.16} \textit{(Krishna)}\par
+Sviati da molte fantasie, intrappolati nella rete dell’illusione e dediti al godimento dei desideri, precipitano in un immondo inferno.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.17} \textit{(Krishna)}\par
+Pieni di sé, ostinati, colmi dell’orgoglio e dell’ebbrezza della ricchezza, offrono sacrifici che lo sono soltanto di nome, per ostentazione e contro le regole.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.18} \textit{(Krishna)}\par
+Aggrappati all’ego, alla forza, alla tracotanza, al desiderio e all’ira, questi uomini astiosi odiano me che dimoro nel loro corpo e in quello degli altri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.19} \textit{(Krishna)}\par
+Questi esseri pieni d’odio, crudeli e vili, i peggiori del mondo, io li scaglio ripetutamente in grembi demoniaci, nei cicli del samsara.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.20} \textit{(Krishna)}\par
+Gettati in grembi demoniaci, nascita dopo nascita, gli illusi, senza mai raggiungermi, o figlio di Kunti, sprofondano sempre più nella condizione più bassa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.21} \textit{(Krishna)}\par
+Triplice è questa porta dell’inferno che conduce alla rovina del sé: desiderio, ira e avidità; perciò si devono abbandonare tutte e tre.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.22} \textit{(Krishna)}\par
+Liberato da queste tre porte delle tenebre, o figlio di Kunti, l’uomo agisce per il proprio bene e così raggiunge la meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.23} \textit{(Krishna)}\par
+Ma colui che respinge la norma delle scritture e agisce seguendo l’impulso del desiderio non raggiunge né la perfezione, né la felicità, né la meta suprema.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{16.24} \textit{(Krishna)}\par
+Perciò la scrittura sia il tuo criterio nel decidere ciò che deve e non deve essere fatto; conoscendo ciò che la sua norma prescrive, devi agire in questo mondo.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 17 - Shraddha-Traya Vibhaga Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.1} \textit{(Arjuna)}\par
+Coloro che, mettendo da parte la norma delle scritture, venerano tuttavia con fede—qual è la loro condizione, o Krishna? Sattva, rajas o tamas?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.2} \textit{(Krishna)}\par
+La fede degli esseri incarnati è di tre tipi, nata dalla loro stessa natura—sattvica, rajasica e tamasica; ascolta come si distingue.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.3} \textit{(Krishna)}\par
+La fede di ciascuno, o Bharata, si accorda con la sua natura; l’uomo è fatto di fede—qual è la sua fede, tale egli è.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.4} \textit{(Krishna)}\par
+Gli uomini sattvici venerano gli dèi; i rajasici gli yaksha e i rakshasa; gli altri, i tamasici, venerano i morti e le schiere degli spiriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.5} \textit{(Krishna)}\par
+Coloro che praticano austerità feroci non prescritte dalle scritture, pieni di ipocrisia ed ego, spinti dalla forza del desiderio e dell’attaccamento,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.6} \textit{(Krishna)}\par
+tormentando nella loro follia il complesso degli elementi nel corpo, e anche me che vi dimoro—sappili animati da una risoluzione demoniaca.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.7} \textit{(Krishna)}\par
+Anche il cibo prediletto da ciascuno è di tre tipi, e così il sacrificio, l’ascesi e il dono; ascolta in che cosa differiscono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.8} \textit{(Krishna)}\par
+I cibi succosi, morbidi, nutrienti e graditi al cuore sono cari ai sattvici; accrescono la vita, il vigore, la forza, la salute, il benessere e la letizia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.9} \textit{(Krishna)}\par
+I cibi amari, acidi, salati, molto caldi, piccanti, aspri e brucianti sono desiderati dai rajasici e portano dolore, afflizione e malattia.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.10} \textit{(Krishna)}\par
+Il cibo stantio, insipido, putrido o lasciato da un giorno all’altro, insieme agli avanzi e a ciò che non è adatto all’offerta, è caro ai tamasici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.11} \textit{(Krishna)}\par
+Il sacrificio offerto come prescritto da coloro che non cercano frutto, con la mente salda nel convincimento che debba semplicemente essere compiuto, è sattvico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.12} \textit{(Krishna)}\par
+Ma il sacrificio offerto mirando al suo frutto o per ostentazione, sappilo rajasico, o migliore dei Bharata.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.13} \textit{(Krishna)}\par
+Un sacrificio offerto contro le regole, senza distribuzione di cibo, senza parole sacre, senza compenso rituale e senza fede, è detto tamasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.14} \textit{(Krishna)}\par
+La venerazione degli dèi, dei brahmin, dei maestri e dei saggi; la purezza, la rettitudine, la castità e la nonviolenza—queste sono chiamate ascesi del corpo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.15} \textit{(Krishna)}\par
+Un discorso che non offende, veritiero, benevolo e benefico, insieme alla recitazione regolare delle scritture, è chiamato ascesi della parola.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.16} \textit{(Krishna)}\par
+La serenità della mente, la mitezza, il silenzio, il dominio di sé e la purezza del cuore—questa è chiamata ascesi della mente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.17} \textit{(Krishna)}\par
+Questa triplice ascesi, praticata con fede suprema da uomini saldi che non cercano frutto, è detta sattvica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.18} \textit{(Krishna)}\par
+L’ascesi praticata per ottenere rispetto, onore e riverenza, o con ipocrisia, è detta quaggiù rajasica—instabile e fuggevole.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.19} \textit{(Krishna)}\par
+L’ascesi praticata con ottusa ostinazione, torturando se stessi o per nuocere ad altri, è detta tamasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.20} \textit{(Krishna)}\par
+Il dono fatto perché deve essere fatto, senza pensiero di contraccambio, nel luogo e nel tempo giusti e a una persona degna, è ritenuto sattvico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.21} \textit{(Krishna)}\par
+Ma il dono fatto in attesa di un contraccambio, mirando al suo frutto o a malincuore, è ritenuto rajasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.22} \textit{(Krishna)}\par
+Il dono fatto nel luogo e nel tempo sbagliati, a chi non ne è degno, senza rispetto o con disprezzo, è detto tamasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.23} \textit{(Krishna)}\par
+Om Tat Sat—questa è ritenuta la triplice designazione di Brahman; mediante essa furono istituiti in antico i brahmin, i Veda e i sacrifici.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.24} \textit{(Krishna)}\par
+Perciò gli atti di sacrificio, dono e ascesi prescritti dalle regole sono sempre iniziati con la pronuncia di «Om» dai conoscitori di Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.25} \textit{(Krishna)}\par
+Con «Tat», e senza cercare frutto, i diversi atti di sacrificio, ascesi e dono sono compiuti da coloro che aspirano alla liberazione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.26} \textit{(Krishna)}\par
+La parola «Sat» designa ciò che è reale e ciò che è buono; e «Sat», o Partha, si applica anche a un atto lodevole.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.27} \textit{(Krishna)}\par
+La perseveranza nel sacrificio, nell’ascesi e nel dono è anch’essa chiamata «Sat», e l’azione compiuta a quel fine è ugualmente detta «Sat».
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{17.28} \textit{(Krishna)}\par
+Tutto ciò che è offerto, donato o compiuto come ascesi senza fede è chiamato «Asat», o Partha; non ha valore né in questo mondo né nell’altro.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Capitolo 18 - Moksha-Sannyasa Yoga
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.1} \textit{(Arjuna)}\par
+Desidero conoscere, o dalle possenti braccia, la verità della rinuncia e anche dell’abbandono, distintamente, o Hrishikesha, uccisore di Keshin.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.2} \textit{(Krishna)}\par
+Il deporre le azioni mosse dal desiderio è chiamato rinuncia dai saggi; il cedere il frutto di tutte le azioni è chiamato abbandono da coloro che discernono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.3} \textit{(Krishna)}\par
+Alcuni pensatori dicono che l’azione debba essere abbandonata come un male; altri che gli atti di sacrificio, dono e ascesi non debbano essere abbandonati.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.4} \textit{(Krishna)}\par
+Ascolta la mia conclusione riguardo a questo abbandono, o migliore dei Bharata; l’abbandono, o tigre fra gli uomini, è dichiarato di tre tipi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.5} \textit{(Krishna)}\par
+Gli atti di sacrificio, dono e ascesi non devono essere abbandonati, ma compiuti; il sacrificio, il dono e l’ascesi sono infatti purificatori dei saggi.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.6} \textit{(Krishna)}\par
+Eppure anche queste azioni devono essere compiute rinunciando all’attaccamento e ai loro frutti; questa, o Partha, è la mia ferma e suprema convinzione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.7} \textit{(Krishna)}\par
+Ma abbandonare un’azione prescritta non è appropriato; lasciarla per illusione è ritenuto tamasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.8} \textit{(Krishna)}\par
+Colui che abbandona un’azione soltanto perché è gravosa, temendo il dolore fisico, pratica un abbandono rajasico e non ne ottiene alcun frutto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.9} \textit{(Krishna)}\par
+Ma quando un’azione prescritta è compiuta semplicemente perché deve essere compiuta, o Arjuna, rinunciando all’attaccamento e al frutto, quell’abbandono è ritenuto sattvico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.10} \textit{(Krishna)}\par
+Colui che pratica l’abbandono, colmo di sattva, saggio e libero dal dubbio, non rifugge l’azione sgradita né si aggrappa a quella gradita.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.11} \textit{(Krishna)}\par
+Chi è incarnato non può infatti abbandonare completamente le azioni; ma colui che abbandona il frutto dell’azione è chiamato rinunciante.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.12} \textit{(Krishna)}\par
+Per coloro che non praticano l’abbandono, il frutto dell’azione dopo la morte è triplice—non desiderato, desiderato e misto; per coloro che rinunciano, invece, non ve n’è alcuno.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.13} \textit{(Krishna)}\par
+Apprendi da me, o dalle possenti braccia, questi cinque fattori, dichiarati nella dottrina del Sankhya per il compimento di ogni azione:
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.14} \textit{(Krishna)}\par
+la sede dell’azione, l’agente, i vari strumenti, i molti e diversi movimenti e, come quinto, la provvidenza divina.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.15} \textit{(Krishna)}\par
+Qualunque azione una persona intraprenda con il corpo, la parola o la mente, giusta o sbagliata, questi cinque ne sono i fattori.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.16} \textit{(Krishna)}\par
+Stando così le cose, colui che, con un intelletto non disciplinato, vede soltanto il sé come agente—quello sciocco non vede veramente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.17} \textit{(Krishna)}\par
+Colui che è libero dal senso dell’«io» e il cui intelletto è senza macchia, anche se uccidesse questi uomini, non uccide e non è vincolato.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.18} \textit{(Krishna)}\par
+La conoscenza, l’oggetto della conoscenza e il conoscitore sono i tre fattori che spingono all’azione; lo strumento, l’atto e l’agente sono i tre componenti dell’azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.19} \textit{(Krishna)}\par
+La conoscenza, l’azione e l’agente sono detti di tre tipi nell’analisi dei guna, secondo le differenze fra i guna; ascolta quali sono.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.20} \textit{(Krishna)}\par
+La conoscenza mediante la quale si vede in tutti gli esseri un unico essere imperituro, indiviso fra i divisi—sappi che è sattvica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.21} \textit{(Krishna)}\par
+Ma la conoscenza che vede in tutti gli esseri soltanto molteplici entità separate, ciascuna per sé—sappi che è rajasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.22} \textit{(Krishna)}\par
+Ma la conoscenza che si aggrappa a una sola cosa come se fosse il tutto, priva di fondamento razionale, lontana dalla verità e angusta, è detta tamasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.23} \textit{(Krishna)}\par
+L’azione prescritta, compiuta senza attaccamento, senza bramosia né avversione, da chi non cerca frutto, è detta sattvica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.24} \textit{(Krishna)}\par
+Ma l’azione compiuta con grande sforzo da chi cerca di appagare un desiderio o agisce per egoismo è detta rajasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.25} \textit{(Krishna)}\par
+L’azione intrapresa per illusione, senza considerare le conseguenze, la perdita, il danno e le proprie capacità, è detta tamasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.26} \textit{(Krishna)}\par
+Un agente libero da attaccamento e da ego, dotato di risolutezza e ardore, che non muta nel successo e nel fallimento, è detto sattvico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.27} \textit{(Krishna)}\par
+Un agente mosso dalla passione, che brama il frutto dell’azione, avido, crudele, impuro e travolto dalla gioia e dal dolore, è detto rajasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.28} \textit{(Krishna)}\par
+Un agente indisciplinato, volgare, ostinato, disonesto, malevolo, indolente, abbattuto e sempre incline a rimandare è detto tamasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.29} \textit{(Krishna)}\par
+Ascolta ora, o Dhananjaya, la triplice divisione dell’intelletto e della risolutezza secondo i guna, esposta per intero e nelle sue distinzioni.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.30} \textit{(Krishna)}\par
+L’intelletto che distingue l’azione e la rinuncia, ciò che deve e non deve essere fatto, la paura e l’assenza di paura, il vincolo e la liberazione, o Partha, è sattvico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.31} \textit{(Krishna)}\par
+L’intelletto che comprende erroneamente il dharma e l’adharma, e ciò che deve e non deve essere fatto, o Partha, è rajasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.32} \textit{(Krishna)}\par
+L’intelletto che, avvolto nelle tenebre, prende l’adharma per dharma e vede ogni cosa rovesciata, o Partha, è tamasico.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.33} \textit{(Krishna)}\par
+La risolutezza che mantiene salde le funzioni della mente, del respiro e dei sensi mediante uno yoga incrollabile è sattvica, o Partha.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.34} \textit{(Krishna)}\par
+Ma la risolutezza mediante la quale, attaccati ai frutti e desiderandone la ricompensa, ci si aggrappa al dharma, al piacere e alla ricchezza, o Partha, è rajasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.35} \textit{(Krishna)}\par
+La risolutezza mediante la quale chi è ottuso non sa abbandonare il sonno, la paura, l’afflizione, lo sconforto e la stoltezza, o Partha, è tamasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.36} \textit{(Krishna)}\par
+Ascolta ora da me, o migliore dei Bharata, la felicità nei suoi tre tipi, mediante la quale si giunge a gioire con la pratica e si raggiunge la fine della sofferenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.37} \textit{(Krishna)}\par
+La felicità che dapprima è come veleno ma alla fine come nettare, nata dalla serena limpidezza del proprio intelletto, è detta sattvica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.38} \textit{(Krishna)}\par
+La felicità nata dal contatto dei sensi con i loro oggetti, come nettare dapprima ma come veleno alla fine, è ritenuta rajasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.39} \textit{(Krishna)}\par
+La felicità che offusca il sé tanto al principio quanto alla fine, sorta dal sonno, dall’inerzia e dalla noncuranza, è detta tamasica.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.40} \textit{(Krishna)}\par
+Non vi è alcun essere, sulla terra o fra gli dèi in cielo, che sia libero da questi tre guna nati da prakriti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.41} \textit{(Krishna)}\par
+I doveri dei brahmin, degli kshatriya, dei vaishya e degli shudra, o flagello dei nemici, sono ripartiti secondo i guna che sorgono dalle loro nature.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.42} \textit{(Krishna)}\par
+Calma, dominio di sé, ascesi, purezza, pazienza e rettitudine; conoscenza, realizzazione e fede nell’invisibile—questi sono i doveri di un brahmin, nati dalla sua natura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.43} \textit{(Krishna)}\par
+Valore, vigore, forza d’animo, abilità, il non fuggire in battaglia, generosità e natura signorile—questi sono i doveri di uno kshatriya, nati dalla sua natura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.44} \textit{(Krishna)}\par
+L’agricoltura, l’allevamento e il commercio sono i doveri di un vaishya, nati dalla sua natura; il servizio è il dovere di uno shudra, nato dalla sua natura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.45} \textit{(Krishna)}\par
+Dedicandosi alla propria opera, ciascuno raggiunge la perfezione; ascolta come chi è dedito alla propria opera la consegue.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.46} \textit{(Krishna)}\par
+Venerando mediante la propria opera colui dal quale tutti gli esseri scaturiscono e dal quale tutto questo è pervaso, l’uomo raggiunge la perfezione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.47} \textit{(Krishna)}\par
+Meglio il proprio dharma, imperfettamente compiuto, che il dharma di un altro ben eseguito; compiendo l’opera stabilita dalla propria natura, non si incorre in colpa.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.48} \textit{(Krishna)}\par
+Non si deve abbandonare l’opera nata dalla propria natura, o figlio di Kunti, anche se difettosa; ogni impresa è infatti avvolta dal difetto, come il fuoco dal fumo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.49} \textit{(Krishna)}\par
+Colui il cui intelletto è distaccato da ogni cosa, che ha dominato se stesso e spento ogni bramosia, raggiunge mediante la rinuncia la suprema perfezione della libertà dall’azione.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.50} \textit{(Krishna)}\par
+Ascolta da me in breve, o figlio di Kunti, come chi ha raggiunto la perfezione raggiunga anche Brahman—quel culmine supremo della conoscenza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.51} \textit{(Krishna)}\par
+Con l’intelletto purificato, dominando il sé con fermezza, distogliendosi dal suono e dagli altri oggetti dei sensi, abbandonando bramosia e avversione,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.52} \textit{(Krishna)}\par
+dimorando in disparte, mangiando poco, con la parola, il corpo e la mente dominati, sempre assorto nello yoga della meditazione e rifugiato nel distacco,
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.53} \textit{(Krishna)}\par
+libero da ego, forza, orgoglio, desiderio, ira e possesso, privo del senso del «mio» e in pace—egli è degno dello stato di Brahman.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.54} \textit{(Krishna)}\par
+Divenuto Brahman, sereno nel sé, non si affligge né brama; uguale verso tutti gli esseri, raggiunge la devozione suprema verso di me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.55} \textit{(Krishna)}\par
+Mediante la devozione giunge a conoscere chi io sia e quanto grande io sia veramente; e, conoscendomi nella verità, entra immediatamente in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.56} \textit{(Krishna)}\par
+Compiendo sempre tutte le azioni e rifugiandosi in me, per mia grazia raggiunge la dimora eterna e imperitura.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.57} \textit{(Krishna)}\par
+Affidandomi mentalmente tutte le azioni, interamente rivolto a me e rifugiandoti nello yoga della comprensione, mantieni la mente sempre fissa in me.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.58} \textit{(Krishna)}\par
+Con la mente rivolta a me, per mia grazia supererai tutte le difficoltà; ma se, per ego, non vorrai ascoltare, andrai perduto.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.59} \textit{(Krishna)}\par
+Se, affidandoti al tuo ego, pensi: «Non combatterò», questa tua risoluzione è vana; la tua stessa natura ti costringerà.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.60} \textit{(Krishna)}\par
+Legato dalla tua opera, nata dalla tua natura, o figlio di Kunti, ciò che per illusione non vuoi fare lo farai anche contro la tua volontà.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.61} \textit{(Krishna)}\par
+Il signore dimora nel cuore di tutti gli esseri, Arjuna, facendoli girare tutti mediante la sua maya, come posti su una macchina.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.62} \textit{(Krishna)}\par
+Rifugiati soltanto in lui con tutto il tuo essere, o Bharata; per la sua grazia otterrai la pace suprema e la dimora eterna.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.63} \textit{(Krishna)}\par
+Così ti ho esposto la conoscenza più segreta di ogni segreto; riflettici pienamente e poi fa’ come desideri.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.64} \textit{(Krishna)}\par
+Ascolta di nuovo la mia parola suprema, la più segreta di tutte; mi sei profondamente caro e perciò ti dirò ciò che è per il tuo bene.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.65} \textit{(Krishna)}\par
+Fissa in me la mente, sii devoto a me, sacrifica a me, prostrati davanti a me; così verrai a me. Te lo prometto in verità, poiché mi sei caro.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.66} \textit{(Krishna)}\par
+Rinunciando a ogni forma di dharma, rifugiati soltanto in me; io ti libererò da ogni male—non affliggerti.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.67} \textit{(Krishna)}\par
+Questo non deve mai essere insegnato a chi è privo di ascesi o di devozione, a chi non vuole ascoltare o a chi mi disprezza.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.68} \textit{(Krishna)}\par
+Colui che esporrà questo supremo segreto fra coloro che mi sono devoti, offrendomi la più alta devozione, verrà a me senza dubbio.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.69} \textit{(Krishna)}\par
+Fra gli uomini non ve n’è alcuno che mi renda un servizio più caro, e non vi sarà sulla terra nessuno più caro a me di lui.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.70} \textit{(Krishna)}\par
+E colui che studia questo nostro dialogo sul dharma mi venererà mediante il sacrificio della conoscenza; così ritengo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.71} \textit{(Krishna)}\par
+E colui che semplicemente lo ascolta, pieno di fede e senza ostilità, anch’egli, reso libero, raggiungerà i mondi felici di coloro che agiscono rettamente.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.72} \textit{(Krishna)}\par
+Hai udito questo, o Partha, con la mente concentrata in un solo punto? La tua illusione nata dall’ignoranza è stata distrutta, o Dhananjaya?
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.73} \textit{(Arjuna)}\par
+La mia illusione è svanita; per la tua grazia, o Acyuta, ho riacquistato la memoria. Sono saldo, i miei dubbi sono dissipati; farò secondo la tua parola.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.74} \textit{(Sanjaya)}\par
+Così ho udito questo prodigioso dialogo fra Vasudeva e il magnanimo Partha, che mi ha fatto rizzare i capelli.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.75} \textit{(Sanjaya)}\par
+Per la grazia di Vyasa ho udito questo yoga supremo e segretissimo direttamente da Krishna, il signore dello yoga, mentre egli stesso lo esponeva.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.76} \textit{(Sanjaya)}\par
+O re, ricordando ancora e ancora questo prodigioso e santo dialogo fra Keshava e Arjuna, mi rallegro ogni volta di nuovo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.77} \textit{(Sanjaya)}\par
+E ricordando ancora e ancora quella forma sommamente prodigiosa di Hari, grande è il mio stupore, o re, e ogni volta mi rallegro di nuovo.
+\par\endgroup
+\vspace{0.42em}
+
+\begingroup
+\setlength{\parindent}{0pt}
+\textbf{18.78} \textit{(Sanjaya)}\par
+Dovunque si trovino Krishna, il signore dello yoga, e Partha, l’arciere, là vi sono, io ritengo, fortuna, vittoria, benessere e salda rettitudine.
+\par\endgroup
+\vspace{0.42em}
+
+\clearpage
+# Glossario
+
+## Concetti
+
+\begin{description}
+\item[Atman] Vero Sé, anima o principio interiore; tenuto distinto dall'ego ordinario e dalla personalità individuale. \textit{Forme: Atman | Ātman}
+\item[Brahman] La realtà ultima o principio assoluto. \textit{Forme: Brahman | Brahma-nirvana | Brahman-nirvana | Brahma-yoga | Brahma-sūtra | Brahman-realization}
+\item[dharma] Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto. \textit{Forme: dharma | dharma-field}
+\item[guna] Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas. \textit{Forme: guna | gunas | guṇa | guṇas}
+\item[karma] Azione, atto, o le conseguenze legate all'azione. \textit{Forme: karma | karma-yoga}
+\item[kshetra] Campo, in particolare il corpo o campo dell'esperienza nel capitolo 13. \textit{Forme: kshetra | kṣetra}
+\item[kshetrajna] Conoscitore del campo; il principio cosciente correlato a kshetra. \textit{Forme: kshetrajna | kṣetrajña}
+\item[maya] Potere di apparenza, occultamento o manifestazione; dipende dal contesto. \textit{Forme: maya | Maya | māyā | Māyā | yoga-maya}
+\item[nirvana] Estinzione, pace o liberazione; qui spesso collegato a Brahman. \textit{Forme: nirvana | nirvāṇa | Brahma-nirvana | Brahman-nirvana}
+\item[prakriti] Natura, processo materiale, o il campo del mutamento e della manifestazione. \textit{Forme: prakriti | Prakriti | prakṛti | Prakṛti}
+\item[purusha] Persona, spirito o principio cosciente; il significato varia a seconda del passo. \textit{Forme: purusha | Purusha | puruṣa | Puruṣa}
+\item[rajas] Il guna associato ad attività, passione, impulso e irrequietezza. \textit{Forme: rajas | rājasika | Rajas | rajasic | rajasico | rajasica | rajasici | rajasiche}
+\item[samsara] Il ciclo continuo del divenire mondano, della nascita, della morte e dell'attaccamento. \textit{Forme: saṃsāra | samsara}
+\item[Sankhya] Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale. \textit{Forme: Sankhya | Sāṅkhya | Sāṅkhyas | Sāṅkhya-yoga}
+\item[Sat] Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat. \textit{Forme: Sat}
+\item[sattva] Il guna associato a chiarezza, equilibrio e illuminazione. \textit{Forme: sattva | sāttvika | Sattva | sattvic | sattvico | sattvica | sattvici | sattviche}
+\item[tamas] Il guna associato a inerzia, ottusità, confusione e ostruzione. \textit{Forme: tamas | tāmasika | Tamas | tamasic | tamasico | tamasica | tamasici | tamasiche}
+\item[Vedanta] La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica. \textit{Forme: Vedanta}
+\item[yoga] Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»). \textit{Forme: yoga | yogī | yogi | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | practice-yoga | yoga-maya}
+\end{description}
+
+## Termini sociali e rituali
+
+\begin{description}
+\item[Brahmin] Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa. \textit{Forme: Brahmin | brahmin | brāhmaṇa | brāhmaṇas}
+\item[kshatriya] Membro della classe guerriera o dominante. \textit{Forme: kshatriya | kṣatriya}
+\item[Om] Sillaba sacra usata come segno conciso dell'assoluto o del divino. \textit{Forme: Om | AUM}
+\item[shudra] Membro della classe servile nello schema tradizionale dei varna. \textit{Forme: śūdra | śūdras | shudra | shudras}
+\item[Tat] Formula sacra che significa «Quello», parte dell'espressione Om Tat Sat. \textit{Forme: Tat}
+\item[vaishya] Membro della classe associata al commercio, all'agricoltura e all'allevamento. \textit{Forme: vaiśya | vaiśyas | vaishya | vaishyas}
+\item[Veda] Antichi testi sacri della tradizione vedica. \textit{Forme: Veda | Vedas | Ṛg | Sāma | Bṛhat-sāma | Gāyatrī | Rig | Yajur | Sama | Gayatri | Brihat-sama}
+\item[yajna] Sacrificio, offerta rituale o azione consacrata. \textit{Forme: yajna | yajña}
+\end{description}
+
+## Nomi ed epiteti
+
+\begin{description}
+\item[Acyuta] Epiteto di Krishna, spesso glossato come colui che non vien meno. \textit{Forme: Acyuta}
+\item[Arjuna] Arjuna, il guerriero a cui Krishna si rivolge. \textit{Forme: Arjuna}
+\item[Bhagavan] Titolo onorifico per il Signore o il Beato, usato per Krishna. \textit{Forme: Bhagavan}
+\item[Bharata] Nome dinastico o ancestrale, spesso usato come appellativo. \textit{Forme: Bharata | Bhārata | Bharatas | Bhāratas}
+\item[Bhima] Uno dei Pandava, fratello di Arjuna. \textit{Forme: Bhima}
+\item[Bhishma] Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava. \textit{Forme: Bhishma}
+\item[Brahma] Il dio creatore; distinto da Brahman, la realtà ultima. \textit{Forme: Brahma | Brahma's}
+\item[Dhananjaya] Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze. \textit{Forme: Dhananjaya | Dhanañjaya}
+\item[Dhritarashtra] Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra. \textit{Forme: Dhritarashtra | Dhritarashtra's}
+\item[Draupadi] Sposa dei Pandava. \textit{Forme: Draupadi}
+\item[Drona] Maestro dei principi Kuru e guerriero nello schieramento Kaurava. \textit{Forme: Drona}
+\item[Drupada] Re di Panchala, padre di Draupadi e Dhrishtadyumna. \textit{Forme: Drupada}
+\item[Duryodhana] Capo dei Kaurava e figlio di Dhritarashtra. \textit{Forme: Duryodhana}
+\item[Govinda] Epiteto di Krishna. \textit{Forme: Govinda}
+\item[Gudakesha] Epiteto di Arjuna, comunemente collegato al dominio sul sonno. \textit{Forme: Guḍākeśa | Gudakesha}
+\item[Hari] Epiteto di Krishna o Vishnu. \textit{Forme: Hari}
+\item[Hrishikesha] Epiteto di Krishna, spesso inteso come signore dei sensi. \textit{Forme: Hṛṣīkeśa | Hrishikesha}
+\item[Ikshvaku] Antico re che riceve l'insegnamento da Manu. \textit{Forme: Ikshvaku}
+\item[Janardana] Epiteto di Krishna. \textit{Forme: Janardana | Janārdana}
+\item[Karna] Guerriero alleato di Duryodhana nello schieramento Kaurava. \textit{Forme: Karna}
+\item[Kaunteya] Epiteto di Arjuna: figlio di Kunti. \textit{Forme: Kaunteya}
+\item[Keshava] Epiteto di Krishna. \textit{Forme: Keshava | Keśava}
+\item[Krishna] Krishna, che espone l'insegnamento ad Arjuna. \textit{Forme: Krishna | Kṛṣṇa}
+\item[Kuru] Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all'intera dinastia o allo schieramento Kaurava. \textit{Forme: Kuru | Kurus}
+\item[Kurukshetra] Il campo di battaglia in cui si svolge il dialogo. \textit{Forme: Kurukshetra}
+\item[Madhava] Epiteto di Krishna. \textit{Forme: Madhava | Mādhava}
+\item[Madhusudana] Epiteto di Krishna: uccisore di Madhu. \textit{Forme: Madhusudana | Madhusūdana}
+\item[Manu] Antico progenitore o legislatore che riceve l'insegnamento da Vivasvan. \textit{Forme: Manu}
+\item[Pandava] Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli. \textit{Forme: Pāṇḍava | Pāṇḍavas | Pandava | Pandavas}
+\item[Partha] Epiteto di Arjuna: figlio di Pritha/Kunti. \textit{Forme: Partha | Pārtha}
+\item[Prajapati] Signore delle creature; figura creatrice. \textit{Forme: Prajapati}
+\item[Purushottama] La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l'imperituro \textit{Forme: Purushottama}
+\item[Sanjaya] Colui che narra il dialogo a Dhritarashtra. \textit{Forme: Sanjaya}
+\item[Varuna] Divinità vedica associata all'ordine cosmico e alle acque. \textit{Forme: Varuna}
+\item[Vasudeva] Nome o epiteto di Krishna, figlio di Vasudeva. \textit{Forme: Vāsudeva | Vasudeva}
+\item[Vishnu] Nome divino associato a Krishna nel testo. \textit{Forme: Vishnu}
+\item[Vivasvan] Divinità solare alla quale, dice Krishna, egli insegnò per primo questo yoga. \textit{Forme: Vivasvan}
+\item[Yama] Divinità associata alla morte e alla disciplina. \textit{Forme: Yama}
+\end{description}

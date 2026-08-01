@@ -1,0 +1,286 @@
+---
+title: "Capitolo 12 - Bhakti Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">भक्तियोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-11.html">Capitolo precedente</a><a href="chapter-13.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-12-1" data-reference="12.1">
+<header class="verse-head">
+<a class="ref" href="#v-12-1">12.1</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Fra i devoti che, sempre saldi, ti venerano e coloro che venerano l’imperituro e l’immanifesto, quali conoscono meglio lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।<br>
+ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-2" data-reference="12.2">
+<header class="verse-head">
+<a class="ref" href="#v-12-2">12.2</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Coloro che fissano in me la mente e, sempre saldi, mi venerano con fede suprema—costoro ritengo i più perfetti nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।<br>
+श्रद्धया परयोपेताः ते मे युक्ततमा मताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-3" data-reference="12.3">
+<header class="verse-head">
+<a class="ref" href="#v-12-3">12.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma coloro che venerano l’imperituro, l’indefinibile, l’immanifesto, onnipervadente e impensabile, immutabile, saldo e immobile—</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते ।<br>
+सर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-4" data-reference="12.4">
+<header class="verse-head">
+<a class="ref" href="#v-12-4">12.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">dominando l’intera schiera dei sensi, mantenendo un animo equanime in ogni circostanza e rallegrandosi del bene di tutti gli esseri—anch’essi mi raggiungono.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः ।<br>
+ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-5" data-reference="12.5">
+<header class="verse-head">
+<a class="ref" href="#v-12-5">12.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Maggiore è la fatica di coloro la cui mente è rivolta all’immanifesto; la meta immanifesta è infatti difficile da raggiungere per chi è incarnato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।<br>
+अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-6" data-reference="12.6">
+<header class="verse-head">
+<a class="ref" href="#v-12-6">12.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma coloro che, affidando a me tutte le azioni e interamente rivolti a me, mi venerano meditando con uno <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> indiviso,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः ।<br>
+अनन्येनैव योगेन मां ध्यायन्त उपासते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-7" data-reference="12.7">
+<header class="verse-head">
+<a class="ref" href="#v-12-7">12.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">per costoro, la cui mente è assorta in me, io divengo presto colui che li trae fuori dall’oceano della morte e del <span class="glossary-term" tabindex="0" data-gloss="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." aria-label="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." title="Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento." data-glossary-id="samsara">samsara</span>, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।<br>
+भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-8" data-reference="12.8">
+<header class="verse-head">
+<a class="ref" href="#v-12-8">12.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Fissa la mente in me soltanto, riponi in me il tuo intelletto; in seguito dimorerai in me soltanto—su questo non vi è dubbio.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">मय्येव मन आधत्स्व मयि बुद्धिं निवेशय ।<br>
+निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-9" data-reference="12.9">
+<header class="verse-head">
+<a class="ref" href="#v-12-9">12.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma se non riesci a fissare stabilmente la mente in me, cerca allora di raggiungermi mediante lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> della pratica, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." aria-label="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." title="Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze." data-glossary-id="dhananjaya">Dhananjaya</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् ।<br>
+अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-10" data-reference="12.10">
+<header class="verse-head">
+<a class="ref" href="#v-12-10">12.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Se non sei capace neppure della pratica, sii intento a operare per me; compiendo le tue azioni per amor mio, raggiungerai anche tu la perfezione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव ।<br>
+मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-11" data-reference="12.11">
+<header class="verse-head">
+<a class="ref" href="#v-12-11">12.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">E se non puoi fare neppure questo, allora, rifugiandoti nel mio <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> e dominando te stesso, rinuncia al frutto di ogni azione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः ।<br>
+सर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-12" data-reference="12.12">
+<header class="verse-head">
+<a class="ref" href="#v-12-12">12.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La conoscenza è migliore della pratica; la meditazione supera la conoscenza; migliore della meditazione è la rinuncia ai frutti dell’azione—da tale rinuncia segue immediatamente la pace.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते ।<br>
+ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-13" data-reference="12.13">
+<header class="verse-head">
+<a class="ref" href="#v-12-13">12.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che non odia alcun essere, è amichevole e compassionevole, libero dal senso del possesso e dall’ego, equanime nel dolore e nel piacere, e capace di perdonare;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।<br>
+निर्ममो निरहङ्कारः समदुःखसुखः क्षमी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-14" data-reference="12.14">
+<header class="verse-head">
+<a class="ref" href="#v-12-14">12.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">sempre appagato, <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> padrone di sé, di ferma risolutezza, con la mente e l’intelletto offerti a me—colui che mi è devoto mi è caro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः ।<br>
+मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-15" data-reference="12.15">
+<header class="verse-head">
+<a class="ref" href="#v-12-15">12.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui dal quale il mondo non è turbato e che non è turbato dal mondo, libero da euforia, risentimento, paura e agitazione, mi è caro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।<br>
+हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-16" data-reference="12.16">
+<header class="verse-head">
+<a class="ref" href="#v-12-16">12.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che non dipende da nulla, puro, capace, imparziale e sereno, che ha rinunciato a ogni impresa—questo mio devoto mi è caro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः ।<br>
+सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-17" data-reference="12.17">
+<header class="verse-head">
+<a class="ref" href="#v-12-17">12.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che né esulta né odia, né si affligge né brama, che ha abbandonato la preoccupazione per gli esiti buoni e cattivi—questo mio devoto mi è caro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति ।<br>
+शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-18" data-reference="12.18">
+<header class="verse-head">
+<a class="ref" href="#v-12-18">12.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Uguale verso il nemico e l’amico, nell’onore e nel disonore, nel freddo e nel caldo, nel piacere e nel dolore, libero da attaccamento;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">समः शत्रौ च मित्रे च तथा मानापमानयोः ।<br>
+शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-19" data-reference="12.19">
+<header class="verse-head">
+<a class="ref" href="#v-12-19">12.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">che considera allo stesso modo biasimo e lode, silenzioso, appagato di qualunque cosa gli giunga, senza dimora fissa, saldo di mente e pieno di devozione—un uomo simile mi è caro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।<br>
+अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-12-20" data-reference="12.20">
+<header class="verse-head">
+<a class="ref" href="#v-12-20">12.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma coloro che onorano questo nettare del <span class="glossary-term" tabindex="0" data-gloss="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." aria-label="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." title="Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto." data-glossary-id="dharma">dharma</span> così come l’ho esposto, pieni di fede e considerandomi il supremo—quei devoti mi sono immensamente cari.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते ।<br>
+श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ॥</div>
+</details>
+</article>
+
+</div>

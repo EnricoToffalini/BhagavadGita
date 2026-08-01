@@ -1,0 +1,403 @@
+---
+title: "Capitolo 5 - Sannyasa Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">संन्यासयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-04.html">Capitolo precedente</a><a href="chapter-06.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-5-1" data-reference="5.1">
+<header class="verse-head">
+<a class="ref" href="#v-5-1">5.1</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">O <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, tu lodi la rinuncia alle azioni e poi lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>; dimmi con certezza quale dei due sia migliore.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।<br>
+यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-2" data-reference="5.2">
+<header class="verse-head">
+<a class="ref" href="#v-5-2">5.2</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sia la rinuncia sia lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione conducono al bene supremo; ma, dei due, lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;azione è superiore alla rinuncia all&#x27;azione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">संन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।<br>
+तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-3" data-reference="5.3">
+<header class="verse-head">
+<a class="ref" href="#v-5-3">5.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sappi che è un rinunciante costante colui che né odia né desidera; libero dalle coppie di opposti, o dalle possenti braccia, egli si scioglie facilmente dal vincolo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति ।<br>
+निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-4" data-reference="5.4">
+<header class="verse-head">
+<a class="ref" href="#v-5-4">5.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sono gli immaturi, non i saggi, a parlare di <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span> e <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> come di vie diverse; chi è ben stabilito anche in una sola delle due ottiene il frutto di entrambe.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">साङ्ख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।<br>
+एकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-5" data-reference="5.5">
+<header class="verse-head">
+<a class="ref" href="#v-5-5">5.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo stato raggiunto mediante il <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span> è raggiunto anche mediante lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>; vede davvero chi vede <span class="glossary-term" tabindex="0" data-gloss="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." aria-label="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." title="Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale." data-glossary-id="sankhya">Sankhya</span> e <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> come una cosa sola.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते ।<br>
+एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-6" data-reference="5.6">
+<header class="verse-head">
+<a class="ref" href="#v-5-6">5.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma la rinuncia è difficile da conseguire senza lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, o dalle possenti braccia; il saggio saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> raggiunge presto <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः ।<br>
+योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-7" data-reference="5.7">
+<header class="verse-head">
+<a class="ref" href="#v-5-7">5.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, con il sé purificato, padrone di sé e con i sensi soggiogati, avendo riconosciuto il proprio sé come il sé di tutti gli esseri, egli non è contaminato neppure mentre agisce.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।<br>
+सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-8" data-reference="5.8">
+<header class="verse-head">
+<a class="ref" href="#v-5-8">5.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">«Non faccio proprio nulla»: così pensa il conoscitore disciplinato della verità, anche mentre vede, ode, tocca, odora, mangia, cammina, dorme e respira,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।<br>
+पश्यञ्श‍ृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-9" data-reference="5.9">
+<header class="verse-head">
+<a class="ref" href="#v-5-9">5.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">parla, evacua, afferra, apre e chiude gli occhi—convinto che siano soltanto i sensi a muoversi fra gli oggetti dei sensi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि ।<br>
+इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-10" data-reference="5.10">
+<header class="verse-head">
+<a class="ref" href="#v-5-10">5.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi agisce offrendo le proprie azioni a <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> e abbandonando l&#x27;attaccamento non è toccato dal peccato, come la foglia di loto dall&#x27;acqua.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।<br>
+लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-11" data-reference="5.11">
+<header class="verse-head">
+<a class="ref" href="#v-5-11">5.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Con il corpo, la mente, l&#x27;intelletto e i soli sensi, gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> agiscono senza attaccamento, per purificare il sé.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।<br>
+योगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-12" data-reference="5.12">
+<header class="verse-head">
+<a class="ref" href="#v-5-12">5.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il disciplinato, abbandonando il frutto dell&#x27;azione, raggiunge una pace duratura; l&#x27;indisciplinato, spinto dal desiderio e attaccato al frutto, rimane vincolato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।<br>
+अयुक्तः कामकारेण फले सक्तो निबध्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-13" data-reference="5.13">
+<header class="verse-head">
+<a class="ref" href="#v-5-13">5.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Rinunciando mentalmente a tutte le azioni, chi è incarnato dimora sereno e padrone di sé nella città dalle nove porte, senza agire né far agire.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।<br>
+नवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-14" data-reference="5.14">
+<header class="verse-head">
+<a class="ref" href="#v-5-14">5.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il Signore non crea nel mondo né l&#x27;agire, né le azioni, né il legame fra l&#x27;azione e il suo frutto; è la natura intrinseca a dispiegarsi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः ।<br>
+न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-15" data-reference="5.15">
+<header class="verse-head">
+<a class="ref" href="#v-5-15">5.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il Signore che tutto pervade non assume il peccato né il merito di alcuno; la conoscenza è velata dall&#x27;ignoranza, e per questo gli esseri sono nell&#x27;illusione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः ।<br>
+अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-16" data-reference="5.16">
+<header class="verse-head">
+<a class="ref" href="#v-5-16">5.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma in coloro nei quali quell&#x27;ignoranza è distrutta dalla conoscenza del sé, la conoscenza illumina il Supremo come il sole.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।<br>
+तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-17" data-reference="5.17">
+<header class="verse-head">
+<a class="ref" href="#v-5-17">5.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Con l&#x27;intelletto fisso in esso, il sé rivolto a esso, consacrati a esso e intenti a esso come meta, essi raggiungono il luogo da cui non vi è ritorno, con le colpe lavate dalla conoscenza.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः ।<br>
+गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-18" data-reference="5.18">
+<header class="verse-head">
+<a class="ref" href="#v-5-18">5.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il saggio guarda con occhio equanime un <span class="glossary-term" tabindex="0" data-gloss="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." aria-label="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." title="Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa." data-glossary-id="brahmin">brahmin</span> dotto e umile, una vacca, un elefante, un cane e un fuoricasta.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।<br>
+शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-19" data-reference="5.19">
+<header class="verse-head">
+<a class="ref" href="#v-5-19">5.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Già in questo mondo la rinascita è vinta da coloro la cui mente riposa nell&#x27;equanimità; <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> infatti è senza difetto e uguale in tutti, ed essi sono perciò stabiliti in <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।<br>
+निर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-20" data-reference="5.20">
+<header class="verse-head">
+<a class="ref" href="#v-5-20">5.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Senza esultare per ciò che è gradito né ritrarsi da ciò che è sgradito, saldo nell’intelletto e libero dall’illusione, il conoscitore di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> è stabilito in <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।<br>
+स्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-21" data-reference="5.21">
+<header class="verse-head">
+<a class="ref" href="#v-5-21">5.21</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Con il sé distaccato dai contatti esteriori, trova la felicità che è nel sé; saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, raggiunge una felicità senza fine.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।<br>
+स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-22" data-reference="5.22">
+<header class="verse-head">
+<a class="ref" href="#v-5-22">5.22</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I piaceri nati dal contatto sono infatti grembi di sofferenza; hanno un principio e una fine, o figlio di Kunti, e il saggio non se ne compiace.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।<br>
+आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-23" data-reference="5.23">
+<header class="verse-head">
+<a class="ref" href="#v-5-23">5.23</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che, già in questo mondo e prima di essere liberato dal corpo, sa resistere all&#x27;impeto nato dal desiderio e dall&#x27;ira è disciplinato ed è un uomo felice.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।<br>
+कामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-24" data-reference="5.24">
+<header class="verse-head">
+<a class="ref" href="#v-5-24">5.24</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui la cui felicità è interiore, la cui gioia è interiore e la cui luce è anch’essa interiore—quello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>, divenuto <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, raggiunge il <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः ।<br>
+स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-25" data-reference="5.25">
+<header class="verse-head">
+<a class="ref" href="#v-5-25">5.25</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I veggenti le cui colpe sono esaurite, i cui dubbi sono recisi, padroni di sé e lieti del bene di tutti gli esseri, raggiungono il <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः ।<br>
+छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-26" data-reference="5.26">
+<header class="verse-head">
+<a class="ref" href="#v-5-26">5.26</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per gli asceti liberi da desiderio e ira, con la mente dominata e conoscitori del sé, il <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> è vicino da ogni parte.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।<br>
+अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-27" data-reference="5.27">
+<header class="verse-head">
+<a class="ref" href="#v-5-27">5.27</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Escludendo i contatti esteriori, fissando lo sguardo fra le sopracciglia e rendendo uguali il respiro che entra e quello che esce attraverso le narici,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।<br>
+प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-28" data-reference="5.28">
+<header class="verse-head">
+<a class="ref" href="#v-5-28">5.28</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">il saggio che ha dominato i sensi, la mente e l&#x27;intelletto, intento alla liberazione e libero da desiderio, paura e ira, è libero per sempre.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।<br>
+विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-5-29" data-reference="5.29">
+<header class="verse-head">
+<a class="ref" href="#v-5-29">5.29</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Conoscendomi come colui che riceve i sacrifici e le austerità, il grande signore di tutti i mondi e l’amico di ogni essere, egli raggiunge la pace.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।<br>
+सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥</div>
+</details>
+</article>
+
+</div>

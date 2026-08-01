@@ -1,0 +1,54 @@
+---
+title: "Bhagavad Gita"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">भगवद्गीता</div>
+
+<div class="site-note">
+La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, capitoli 23-40. Questa bozza inglese è stata preparata a partire dall&#x27;output di Google Translate, rivista con GPT-5.4-mini, GPT-5.5, Claude-Opus-4.8, oltre a qualche revisione manuale.
+</div>
+
+<div class="site-usage">
+I termini sanscriti evidenziati mostrano una breve glossa al passaggio del mouse o al tocco.
+</div>
+
+<div class="site-download">
+<a href="../bhagavad-gita-it.pdf">Scarica il PDF in italiano</a>
+</div>
+
+<div class="chapter-grid">
+<a class="chapter-card" href="chapters/chapter-01.html"><span class="chapter-number">Capitolo 1</span><span class="chapter-title">Arjuna Vishada Yoga</span><span class="chapter-count">47 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-02.html"><span class="chapter-number">Capitolo 2</span><span class="chapter-title">Sankhya Yoga</span><span class="chapter-count">72 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-03.html"><span class="chapter-number">Capitolo 3</span><span class="chapter-title">Karma Yoga</span><span class="chapter-count">43 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-04.html"><span class="chapter-number">Capitolo 4</span><span class="chapter-title">Jnana-Karma-Sannyasa Yoga</span><span class="chapter-count">42 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-05.html"><span class="chapter-number">Capitolo 5</span><span class="chapter-title">Sannyasa Yoga</span><span class="chapter-count">29 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-06.html"><span class="chapter-number">Capitolo 6</span><span class="chapter-title">Atma-Samyama Yoga</span><span class="chapter-count">47 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-07.html"><span class="chapter-number">Capitolo 7</span><span class="chapter-title">Jnana-Vijnana Yoga</span><span class="chapter-count">30 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-08.html"><span class="chapter-number">Capitolo 8</span><span class="chapter-title">Akshara-Brahma Yoga</span><span class="chapter-count">28 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-09.html"><span class="chapter-number">Capitolo 9</span><span class="chapter-title">Raja-Vidya Raja-Guhya Yoga</span><span class="chapter-count">34 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-10.html"><span class="chapter-number">Capitolo 10</span><span class="chapter-title">Vibhuti Yoga</span><span class="chapter-count">42 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-11.html"><span class="chapter-number">Capitolo 11</span><span class="chapter-title">Vishvarupa-Darshana Yoga</span><span class="chapter-count">55 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-12.html"><span class="chapter-number">Capitolo 12</span><span class="chapter-title">Bhakti Yoga</span><span class="chapter-count">20 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-13.html"><span class="chapter-number">Capitolo 13</span><span class="chapter-title">Kshetra-Kshetrajna Vibhaga Yoga</span><span class="chapter-count">35 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-14.html"><span class="chapter-number">Capitolo 14</span><span class="chapter-title">Guna-Traya Vibhaga Yoga</span><span class="chapter-count">27 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-15.html"><span class="chapter-number">Capitolo 15</span><span class="chapter-title">Purushottama Yoga</span><span class="chapter-count">20 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-16.html"><span class="chapter-number">Capitolo 16</span><span class="chapter-title">Daivasura-Sampad Vibhaga Yoga</span><span class="chapter-count">24 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-17.html"><span class="chapter-number">Capitolo 17</span><span class="chapter-title">Shraddha-Traya Vibhaga Yoga</span><span class="chapter-count">28 versetti</span></a>
+<a class="chapter-card" href="chapters/chapter-18.html"><span class="chapter-number">Capitolo 18</span><span class="chapter-title">Moksha-Sannyasa Yoga</span><span class="chapter-count">78 versetti</span></a>
+</div>

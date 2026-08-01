@@ -1,0 +1,398 @@
+---
+title: "Capitolo 8 - Akshara-Brahma Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">अक्षरब्रह्मयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-07.html">Capitolo precedente</a><a href="chapter-09.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-8-1" data-reference="8.1">
+<header class="verse-head">
+<a class="ref" href="#v-8-1">8.1</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Che cos&#x27;è <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>? Che cos&#x27;è il principio interiore? Che cos&#x27;è l&#x27;azione, o <span class="glossary-term" tabindex="0" data-gloss="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" aria-label="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" title="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" data-glossary-id="purushottama">Purushottama</span>? Che cosa si chiama dominio materiale e che cosa principio divino?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">किं तद् ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम ।<br>
+अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-2" data-reference="8.2">
+<header class="verse-head">
+<a class="ref" href="#v-8-2">8.2</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi è, e in che modo è presente, il principio sacrificale in questo corpo, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna: uccisore di Madhu." aria-label="Epiteto di Krishna: uccisore di Madhu." title="Epiteto di Krishna: uccisore di Madhu." data-glossary-id="madhusudana">Madhusudana</span>? E come puoi essere conosciuto nell&#x27;ora della morte da coloro che sono padroni di sé?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन ।<br>
+प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-3" data-reference="8.3">
+<header class="verse-head">
+<a class="ref" href="#v-8-3">8.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it"><span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> è il supremo imperituro; l&#x27;essere essenziale proprio di ciascuno è chiamato principio interiore. La forza creatrice che porta gli esseri all&#x27;esistenza è chiamata azione.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते ।<br>
+भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-4" data-reference="8.4">
+<header class="verse-head">
+<a class="ref" href="#v-8-4">8.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il dominio materiale è l&#x27;esistenza peritura; il <span class="glossary-term" tabindex="0" data-gloss="Persona, spirito o principio cosciente; il significato varia a seconda del passo." aria-label="Persona, spirito o principio cosciente; il significato varia a seconda del passo." title="Persona, spirito o principio cosciente; il significato varia a seconda del passo." data-glossary-id="purusha">purusha</span> è il principio divino; e il principio sacrificale sono io stesso, presente qui nel corpo, o migliore degli incarnati.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम् ।<br>
+अधियज्ञोऽहमेवात्र देहे देहभृतां वर ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-5" data-reference="8.5">
+<header class="verse-head">
+<a class="ref" href="#v-8-5">8.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">E chiunque, nell&#x27;ora della morte, ricordando me soltanto, lasci il corpo, raggiunge il mio essere; su questo non vi è dubbio.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।<br>
+यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-6" data-reference="8.6">
+<header class="verse-head">
+<a class="ref" href="#v-8-6">8.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Qualunque stato uno richiami alla mente mentre, alla fine, lascia il corpo, proprio a quello stato egli va, o figlio di Kunti, essendo stato sempre plasmato da quel pensiero.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।<br>
+तं तमेवैति कौन्तेय सदा तद्भावभावितः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-7" data-reference="8.7">
+<header class="verse-head">
+<a class="ref" href="#v-8-7">8.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Perciò ricordati di me in ogni momento e combatti; con la mente e l&#x27;intelletto fissi in me, verrai a me senza dubbio.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।<br>
+मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-8" data-reference="8.8">
+<header class="verse-head">
+<a class="ref" href="#v-8-8">8.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Con la mente disciplinata dalla pratica e non incline a divagare altrove, si raggiunge la suprema persona divina meditando su di lui, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।<br>
+परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-9" data-reference="8.9">
+<header class="verse-head">
+<a class="ref" href="#v-8-9">8.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi medita sull&#x27;antico veggente, il reggitore di tutto, più piccolo del piccolo, il sostegno di tutto, dalla forma oltre il pensiero, splendente come il sole e al di là delle tenebre—</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कविं पुराणमनुशासितार-<br>
+मणोरणीयंसमनुस्मरेद्यः ।<br>
+सर्वस्य धातारमचिन्त्यरूप-<br>
+मादित्यवर्णं तमसः परस्तात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-10" data-reference="8.10">
+<header class="verse-head">
+<a class="ref" href="#v-8-10">8.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">nell&#x27;ora della dipartita, con la mente immobile, unito alla devozione e alla forza dello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, dirigendo correttamente il respiro fra le sopracciglia, raggiunge quella suprema persona divina.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रयाणकाले मनसाऽचलेन<br>
+भक्त्या युक्तो योगबलेन चैव ।<br>
+भ्रुवोर्मध्ये प्राणमावेश्य सम्यक्<br>
+स तं परं पुरुषमुपैति दिव्यम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-11" data-reference="8.11">
+<header class="verse-head">
+<a class="ref" href="#v-8-11">8.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quello stato che i conoscitori del <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> chiamano imperituro, nel quale entrano gli asceti liberi dalla passione e per ottenere il quale vivono in castità—quello stato ti esporrò in breve.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदक्षरं वेदविदो वदन्ति<br>
+विशन्ति यद्यतयो वीतरागाः ।<br>
+यदिच्छन्तो ब्रह्मचर्यं चरन्ति<br>
+तत्ते पदं सङ्ग्रहेण प्रवक्ष्ये ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-12" data-reference="8.12">
+<header class="verse-head">
+<a class="ref" href="#v-8-12">8.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chiudendo tutte le porte, raccogliendo la mente nel cuore e sollevando il respiro nel capo, stabilito nella concentrazione dello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।<br>
+मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-13" data-reference="8.13">
+<header class="verse-head">
+<a class="ref" href="#v-8-13">8.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">pronunciando la sola sillaba <span class="glossary-term" tabindex="0" data-gloss="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." aria-label="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." title="Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino." data-glossary-id="om">Om</span>, che è <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>, e ricordandosi di me, colui che lascia il corpo raggiunge la meta suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।<br>
+यः प्रयाति त्यजन्देहं स याति परमां गतिम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-14" data-reference="8.14">
+<header class="verse-head">
+<a class="ref" href="#v-8-14">8.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> che si ricorda di me costantemente, giorno dopo giorno e senza distrazione, io sono facile da raggiungere, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>—per colui che è sempre disciplinato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अनन्यचेताः सततं यो मां स्मरति नित्यशः ।<br>
+तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-15" data-reference="8.15">
+<header class="verse-head">
+<a class="ref" href="#v-8-15">8.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dopo avermi raggiunto, le grandi anime non rinascono in questa fuggevole dimora di dolore; hanno conseguito la perfezione suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम् ।<br>
+नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-16" data-reference="8.16">
+<header class="verse-head">
+<a class="ref" href="#v-8-16">8.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dal mondo di <span class="glossary-term" tabindex="0" data-gloss="Il dio creatore; distinto da Brahman, la realtà ultima." aria-label="Il dio creatore; distinto da Brahman, la realtà ultima." title="Il dio creatore; distinto da Brahman, la realtà ultima." data-glossary-id="brahma">Brahma</span> in giù, tutti i mondi sono soggetti al ritorno, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>; ma, una volta raggiunto me, o figlio di Kunti, non vi è rinascita.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन ।<br>
+मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-17" data-reference="8.17">
+<header class="verse-head">
+<a class="ref" href="#v-8-17">8.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Coloro che sanno che il giorno di <span class="glossary-term" tabindex="0" data-gloss="Il dio creatore; distinto da Brahman, la realtà ultima." aria-label="Il dio creatore; distinto da Brahman, la realtà ultima." title="Il dio creatore; distinto da Brahman, la realtà ultima." data-glossary-id="brahma">Brahma</span> dura mille ere e che la sua notte termina dopo mille ere conoscono davvero il giorno e la notte.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सहस्रयुगपर्यन्तमहर्यद् ब्रह्मणो विदुः ।<br>
+रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-18" data-reference="8.18">
+<header class="verse-head">
+<a class="ref" href="#v-8-18">8.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Al sorgere del giorno tutte le cose manifeste emergono dall&#x27;immanifesto; al sopraggiungere della notte si dissolvono in quello stesso immanifesto.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अव्यक्ताद् व्यक्तयः सर्वाः प्रभवन्त्यहरागमे ।<br>
+रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-19" data-reference="8.19">
+<header class="verse-head">
+<a class="ref" href="#v-8-19">8.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questa stessa schiera di esseri, venendo all’esistenza ancora e ancora, si dissolve impotente al sopraggiungere della notte, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, e torna alla luce al sorgere del giorno.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते ।<br>
+रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-20" data-reference="8.20">
+<header class="verse-head">
+<a class="ref" href="#v-8-20">8.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma oltre questo immanifesto vi è un altro immanifesto, eterno, che non perisce quando tutti gli esseri periscono.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः ।<br>
+यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-21" data-reference="8.21">
+<header class="verse-head">
+<a class="ref" href="#v-8-21">8.21</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questo immanifesto, detto imperituro, è chiamato la meta suprema; raggiuntolo, non si ritorna—quella è la mia dimora suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम् ।<br>
+यं प्राप्य न निवर्तन्ते तद्धाम परमं मम ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-22" data-reference="8.22">
+<header class="verse-head">
+<a class="ref" href="#v-8-22">8.22</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quella persona suprema, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, nella quale dimorano tutti gli esseri e dalla quale tutto questo è pervaso, si raggiunge mediante una devozione indivisa.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया ।<br>
+यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-23" data-reference="8.23">
+<header class="verse-head">
+<a class="ref" href="#v-8-23">8.23</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ora ti dirò, o migliore dei <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>, in quale tempo gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> che lasciano il corpo vanno al non ritorno e in quale invece ritornano.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः ।<br>
+प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-24" data-reference="8.24">
+<header class="verse-head">
+<a class="ref" href="#v-8-24">8.24</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il fuoco, la luce, il giorno, la quindicina chiara, i sei mesi del cammino settentrionale del sole—partendo allora, coloro che conoscono <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span> raggiungono <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम् ।<br>
+तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-25" data-reference="8.25">
+<header class="verse-head">
+<a class="ref" href="#v-8-25">8.25</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Il fumo, la notte, la quindicina oscura, i sei mesi del cammino meridionale—seguendo questa via, lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> raggiunge la luce lunare e ritorna.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् ।<br>
+तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-26" data-reference="8.26">
+<header class="verse-head">
+<a class="ref" href="#v-8-26">8.26</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Queste due vie del mondo, la chiara e l’oscura, sono considerate eterne; per l’una si va al non ritorno, per l’altra si ritorna.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते ।<br>
+एकया यात्यनावृत्तिमन्ययावर्तते पुनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-27" data-reference="8.27">
+<header class="verse-head">
+<a class="ref" href="#v-8-27">8.27</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Conoscendo queste due vie, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, nessuno <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> cade nell’illusione; perciò, in ogni momento, sii saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।<br>
+तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-8-28" data-reference="8.28">
+<header class="verse-head">
+<a class="ref" href="#v-8-28">8.28</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> che conosce tutto questo oltrepassa ogni frutto meritorio promesso dai <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>, dai sacrifici, dalle austerità e dai doni, e raggiunge la suprema dimora originaria.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">वेदेषु यज्ञेषु तपःसु चैव<br>
+दानेषु यत्पुण्यफलं प्रदिष्टम् ।<br>
+अत्येति तत्सर्वमिदं विदित्वा<br>
+योगी परं स्थानमुपैति चाद्यम् ॥</div>
+</details>
+</article>
+
+</div>

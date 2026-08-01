@@ -1,0 +1,296 @@
+---
+title: "Capitolo 15 - Purushottama Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">पुरुषोत्तमयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-14.html">Capitolo precedente</a><a href="chapter-16.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-15-1" data-reference="15.1">
+<header class="verse-head">
+<a class="ref" href="#v-15-1">15.1</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Si parla di un albero ashvattha imperituro, con le radici in alto e i rami in basso, le cui foglie sono gli inni; chi lo conosce conosce i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।<br>
+छन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-2" data-reference="15.2">
+<header class="verse-head">
+<a class="ref" href="#v-15-2">15.2</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">I suoi rami si estendono in basso e in alto, nutriti dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, con gli oggetti dei sensi come gemme; e in basso si protendono le sue radici, che legano all’azione nel mondo degli uomini.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अधश्चोर्ध्वं प्रसृतास्तस्य शाखा<br>
+गुणप्रवृद्धा विषयप्रवालाः ।<br>
+अधश्च मूलान्यनुसन्ततानि<br>
+कर्मानुबन्धीनि मनुष्यलोके ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-3" data-reference="15.3">
+<header class="verse-head">
+<a class="ref" href="#v-15-3">15.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La sua forma, quale realmente è, non viene percepita quaggiù—né la sua fine, né il principio, né il luogo in cui poggia. Abbattuto questo ashvattha dalle salde radici con la robusta scure del distacco,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न रूपमस्येह तथोपलभ्यते<br>
+नान्तो न चादिर्न च सम्प्रतिष्ठा ।<br>
+अश्वत्थमेनं सुविरूढमूलं<br>
+असङ्गशस्त्रेण दृढेन छित्त्वा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-4" data-reference="15.4">
+<header class="verse-head">
+<a class="ref" href="#v-15-4">15.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">si deve poi cercare quel luogo dal quale, una volta giunti, non si ritorna, con la risoluzione: «Mi rifugio in quella persona primordiale dalla quale ebbe origine l’antico dispiegarsi».</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ततः पदं तत्परिमार्गितव्यं<br>
+यस्मिन्गता न निवर्तन्ति भूयः ।<br>
+तमेव चाद्यं पुरुषं प्रपद्ये ।<br>
+यतः प्रवृत्तिः प्रसृता पुराणी ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-5" data-reference="15.5">
+<header class="verse-head">
+<a class="ref" href="#v-15-5">15.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Liberi da orgoglio e illusione, vinto il male dell’attaccamento, sempre dimoranti nel sé, acquietato il desiderio e sciolti dalle coppie di opposti chiamate piacere e dolore, coloro che sono liberi dall’illusione raggiungono quel luogo imperituro.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">निर्मानमोहा जितसङ्गदोषा<br>
+अध्यात्मनित्या विनिवृत्तकामाः ।<br>
+द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै-<br>
+र्गच्छन्त्यमूढाः पदमव्ययं तत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-6" data-reference="15.6">
+<header class="verse-head">
+<a class="ref" href="#v-15-6">15.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Né il sole, né la luna, né il fuoco illuminano quel luogo; giunti là, non si ritorna—quella è la mia dimora suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">न तद्भासयते सूर्यो न शशाङ्को न पावकः ।<br>
+यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-7" data-reference="15.7">
+<header class="verse-head">
+<a class="ref" href="#v-15-7">15.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Un frammento eterno di me, divenuto essere vivente nel mondo dei viventi, attira a sé i sensi, con la mente come sesto, che dimorano in <span class="glossary-term" tabindex="0" data-gloss="Natura, processo materiale, o il campo del mutamento e della manifestazione." aria-label="Natura, processo materiale, o il campo del mutamento e della manifestazione." title="Natura, processo materiale, o il campo del mutamento e della manifestazione." data-glossary-id="prakriti">prakriti</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ममैवांशो जीवलोके जीवभूतः सनातनः ।<br>
+मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-8" data-reference="15.8">
+<header class="verse-head">
+<a class="ref" href="#v-15-8">15.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando entra in un corpo e quando lo lascia, porta con sé questi sensi, come il vento porta i profumi dai luoghi in cui risiedono.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।<br>
+गृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-9" data-reference="15.9">
+<header class="verse-head">
+<a class="ref" href="#v-15-9">15.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Presiedendo all’udito, alla vista, al tatto, al gusto, all’olfatto e alla mente, sperimenta gli oggetti dei sensi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च ।<br>
+अधिष्ठाय मनश्चायं विषयानुपसेवते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-10" data-reference="15.10">
+<header class="verse-head">
+<a class="ref" href="#v-15-10">15.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Gli illusi non lo vedono mentre lascia il corpo, vi dimora o sperimenta, unito ai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>; lo vedono coloro che possiedono l’occhio della conoscenza.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् ।<br>
+विमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-11" data-reference="15.11">
+<header class="verse-head">
+<a class="ref" href="#v-15-11">15.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> che si sforzano lo vedono presente nel sé; ma coloro che sono privi di discernimento e non hanno disciplinato se stessi non lo vedono, per quanto si sforzino.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।<br>
+यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-12" data-reference="15.12">
+<header class="verse-head">
+<a class="ref" href="#v-15-12">15.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La luce che dimora nel sole e illumina il mondo intero, e quella che è nella luna e nel fuoco—sappi che quella luce è mia.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।<br>
+यच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-13" data-reference="15.13">
+<header class="verse-head">
+<a class="ref" href="#v-15-13">15.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Penetrando nella terra, sostengo tutti gli esseri con la mia forza; divenuto la luna ricca di linfa, nutro tutte le piante.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">गामाविश्य च भूतानि धारयाम्यहमोजसा ।<br>
+पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-14" data-reference="15.14">
+<header class="verse-head">
+<a class="ref" href="#v-15-14">15.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Divenuto il fuoco della digestione e dimorando nei corpi dei viventi, unito al respiro che entra e a quello che esce, digerisco i quattro tipi di cibo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।<br>
+प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-15" data-reference="15.15">
+<header class="verse-head">
+<a class="ref" href="#v-15-15">15.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Io dimoro nel cuore di tutti; da me vengono la memoria, la conoscenza e la loro perdita; sono ciò che deve essere conosciuto attraverso tutti i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>, l’autore del <span class="glossary-term" tabindex="0" data-gloss="La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica." aria-label="La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica." title="La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica." data-glossary-id="vedanta">Vedanta</span> e il conoscitore dei <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सर्वस्य चाहं हृदि सन्निविष्टो<br>
+मत्तः स्मृतिर्ज्ञानमपोहनञ्च ।<br>
+वेदैश्च सर्वैरहमेव वेद्यो<br>
+वेदान्तकृद्वेदविदेव चाहम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-16" data-reference="15.16">
+<header class="verse-head">
+<a class="ref" href="#v-15-16">15.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Vi sono nel mondo due persone, quella peritura e quella imperitura: tutti gli esseri costituiscono la peritura, mentre l’immutabile è detta imperitura.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।<br>
+क्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-17" data-reference="15.17">
+<header class="verse-head">
+<a class="ref" href="#v-15-17">15.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma vi è un’altra persona, la suprema, chiamata <span class="glossary-term" tabindex="0" data-gloss="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." aria-label="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." title="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." data-glossary-id="atman">Atman</span> supremo: il signore imperituro che entra nei tre mondi e li sostiene.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।<br>
+यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-18" data-reference="15.18">
+<header class="verse-head">
+<a class="ref" href="#v-15-18">15.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Poiché oltrepasso il perituro e sono superiore anche all’imperituro, sono celebrato nel mondo e nei <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span> come <span class="glossary-term" tabindex="0" data-gloss="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" aria-label="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" title="La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro" data-glossary-id="purushottama">Purushottama</span>, la persona suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।<br>
+अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-19" data-reference="15.19">
+<header class="verse-head">
+<a class="ref" href="#v-15-19">15.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che, libero dall’illusione, mi conosce così come persona suprema conosce ogni cosa e mi venera con tutto il suo essere, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।<br>
+स सर्वविद्भजति मां सर्वभावेन भारत ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-15-20" data-reference="15.20">
+<header class="verse-head">
+<a class="ref" href="#v-15-20">15.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Così ti ho insegnato questa dottrina segretissima, o irreprensibile; chi la conosce diviene saggio e porta a compimento il proprio compito, o <span class="glossary-term" tabindex="0" data-gloss="Nome dinastico o ancestrale, spesso usato come appellativo." aria-label="Nome dinastico o ancestrale, spesso usato come appellativo." title="Nome dinastico o ancestrale, spesso usato come appellativo." data-glossary-id="bharata">Bharata</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।<br>
+एतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥</div>
+</details>
+</article>
+
+</div>

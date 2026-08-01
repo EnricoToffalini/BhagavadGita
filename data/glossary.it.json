@@ -1,0 +1,687 @@
+[
+  {
+    "id": "dharma",
+    "term": "dharma",
+    "group": "Concetti",
+    "definition": "Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto.",
+    "variants": [
+      "dharma",
+      "dharma-field"
+    ]
+  },
+  {
+    "id": "karma",
+    "term": "karma",
+    "group": "Concetti",
+    "definition": "Azione, atto, o le conseguenze legate all'azione.",
+    "variants": [
+      "karma",
+      "karma-yoga"
+    ]
+  },
+  {
+    "id": "yoga",
+    "term": "yoga",
+    "group": "Concetti",
+    "definition": "Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»).",
+    "variants": [
+      "Sāṅkhya-yoga",
+      "bhakti-yoga",
+      "buddhi-yoga",
+      "karma-yoga",
+      "practice-yoga",
+      "yoga",
+      "yoga-maya",
+      "yogi",
+      "yogī"
+    ]
+  },
+  {
+    "id": "atman",
+    "term": "Atman",
+    "group": "Concetti",
+    "definition": "Vero Sé, anima o principio interiore; tenuto distinto dall'ego ordinario e dalla personalità individuale.",
+    "variants": [
+      "Atman",
+      "Ātman"
+    ]
+  },
+  {
+    "id": "brahman",
+    "term": "Brahman",
+    "group": "Concetti",
+    "definition": "La realtà ultima o principio assoluto.",
+    "variants": [
+      "Brahma-nirvana",
+      "Brahma-sūtra",
+      "Brahma-yoga",
+      "Brahman",
+      "Brahman-nirvana",
+      "Brahman-realization"
+    ]
+  },
+  {
+    "id": "brahmin",
+    "term": "Brahmin",
+    "group": "Termini sociali e rituali",
+    "definition": "Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.",
+    "variants": [
+      "Brahmin",
+      "brahmin",
+      "brāhmaṇa",
+      "brāhmaṇas"
+    ]
+  },
+  {
+    "id": "guna",
+    "term": "guna",
+    "group": "Concetti",
+    "definition": "Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas.",
+    "variants": [
+      "guna",
+      "gunas",
+      "guṇa",
+      "guṇas"
+    ]
+  },
+  {
+    "id": "sattva",
+    "term": "sattva",
+    "group": "Concetti",
+    "definition": "Il guna associato a chiarezza, equilibrio e illuminazione.",
+    "variants": [
+      "Sattva",
+      "sattva",
+      "sattvic",
+      "sattvica",
+      "sattviche",
+      "sattvici",
+      "sattvico",
+      "sāttvika"
+    ]
+  },
+  {
+    "id": "rajas",
+    "term": "rajas",
+    "group": "Concetti",
+    "definition": "Il guna associato ad attività, passione, impulso e irrequietezza.",
+    "variants": [
+      "Rajas",
+      "rajas",
+      "rajasic",
+      "rajasica",
+      "rajasiche",
+      "rajasici",
+      "rajasico",
+      "rājasika"
+    ]
+  },
+  {
+    "id": "tamas",
+    "term": "tamas",
+    "group": "Concetti",
+    "definition": "Il guna associato a inerzia, ottusità, confusione e ostruzione.",
+    "variants": [
+      "Tamas",
+      "tamas",
+      "tamasic",
+      "tamasica",
+      "tamasiche",
+      "tamasici",
+      "tamasico",
+      "tāmasika"
+    ]
+  },
+  {
+    "id": "prakriti",
+    "term": "prakriti",
+    "group": "Concetti",
+    "definition": "Natura, processo materiale, o il campo del mutamento e della manifestazione.",
+    "variants": [
+      "Prakriti",
+      "Prakṛti",
+      "prakriti",
+      "prakṛti"
+    ]
+  },
+  {
+    "id": "purusha",
+    "term": "purusha",
+    "group": "Concetti",
+    "definition": "Persona, spirito o principio cosciente; il significato varia a seconda del passo.",
+    "variants": [
+      "Purusha",
+      "Puruṣa",
+      "purusha",
+      "puruṣa"
+    ]
+  },
+  {
+    "id": "purushottama",
+    "term": "Purushottama",
+    "group": "Nomi ed epiteti",
+    "definition": "La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l'imperituro",
+    "variants": [
+      "Purushottama"
+    ]
+  },
+  {
+    "id": "kshetra",
+    "term": "kshetra",
+    "group": "Concetti",
+    "definition": "Campo, in particolare il corpo o campo dell'esperienza nel capitolo 13.",
+    "variants": [
+      "kshetra",
+      "kṣetra"
+    ]
+  },
+  {
+    "id": "kshetrajna",
+    "term": "kshetrajna",
+    "group": "Concetti",
+    "definition": "Conoscitore del campo; il principio cosciente correlato a kshetra.",
+    "variants": [
+      "kshetrajna",
+      "kṣetrajña"
+    ]
+  },
+  {
+    "id": "maya",
+    "term": "maya",
+    "group": "Concetti",
+    "definition": "Potere di apparenza, occultamento o manifestazione; dipende dal contesto.",
+    "variants": [
+      "Maya",
+      "Māyā",
+      "maya",
+      "māyā",
+      "yoga-maya"
+    ]
+  },
+  {
+    "id": "yajna",
+    "term": "yajna",
+    "group": "Termini sociali e rituali",
+    "definition": "Sacrificio, offerta rituale o azione consacrata.",
+    "variants": [
+      "yajna",
+      "yajña"
+    ]
+  },
+  {
+    "id": "nirvana",
+    "term": "nirvana",
+    "group": "Concetti",
+    "definition": "Estinzione, pace o liberazione; qui spesso collegato a Brahman.",
+    "variants": [
+      "Brahma-nirvana",
+      "Brahman-nirvana",
+      "nirvana",
+      "nirvāṇa"
+    ]
+  },
+  {
+    "id": "samsara",
+    "term": "samsara",
+    "group": "Concetti",
+    "definition": "Il ciclo continuo del divenire mondano, della nascita, della morte e dell'attaccamento.",
+    "variants": [
+      "samsara",
+      "saṃsāra"
+    ]
+  },
+  {
+    "id": "sankhya",
+    "term": "Sankhya",
+    "group": "Concetti",
+    "definition": "Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale.",
+    "variants": [
+      "Sankhya",
+      "Sāṅkhya",
+      "Sāṅkhya-yoga",
+      "Sāṅkhyas"
+    ]
+  },
+  {
+    "id": "veda",
+    "term": "Veda",
+    "group": "Termini sociali e rituali",
+    "definition": "Antichi testi sacri della tradizione vedica.",
+    "variants": [
+      "Brihat-sama",
+      "Bṛhat-sāma",
+      "Gayatri",
+      "Gāyatrī",
+      "Rig",
+      "Sama",
+      "Sāma",
+      "Veda",
+      "Vedas",
+      "Yajur",
+      "Ṛg"
+    ]
+  },
+  {
+    "id": "om",
+    "term": "Om",
+    "group": "Termini sociali e rituali",
+    "definition": "Sillaba sacra usata come segno conciso dell'assoluto o del divino.",
+    "variants": [
+      "AUM",
+      "Om"
+    ]
+  },
+  {
+    "id": "kshatriya",
+    "term": "kshatriya",
+    "group": "Termini sociali e rituali",
+    "definition": "Membro della classe guerriera o dominante.",
+    "variants": [
+      "kshatriya",
+      "kṣatriya"
+    ]
+  },
+  {
+    "id": "vaishya",
+    "term": "vaishya",
+    "group": "Termini sociali e rituali",
+    "definition": "Membro della classe associata al commercio, all'agricoltura e all'allevamento.",
+    "variants": [
+      "vaishya",
+      "vaishyas",
+      "vaiśya",
+      "vaiśyas"
+    ]
+  },
+  {
+    "id": "shudra",
+    "term": "shudra",
+    "group": "Termini sociali e rituali",
+    "definition": "Membro della classe servile nello schema tradizionale dei varna.",
+    "variants": [
+      "shudra",
+      "shudras",
+      "śūdra",
+      "śūdras"
+    ]
+  },
+  {
+    "id": "krishna",
+    "term": "Krishna",
+    "group": "Nomi ed epiteti",
+    "definition": "Krishna, che espone l'insegnamento ad Arjuna.",
+    "variants": [
+      "Krishna",
+      "Kṛṣṇa"
+    ]
+  },
+  {
+    "id": "arjuna",
+    "term": "Arjuna",
+    "group": "Nomi ed epiteti",
+    "definition": "Arjuna, il guerriero a cui Krishna si rivolge.",
+    "variants": [
+      "Arjuna"
+    ]
+  },
+  {
+    "id": "partha",
+    "term": "Partha",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Arjuna: figlio di Pritha/Kunti.",
+    "variants": [
+      "Partha",
+      "Pārtha"
+    ]
+  },
+  {
+    "id": "kaunteya",
+    "term": "Kaunteya",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Arjuna: figlio di Kunti.",
+    "variants": [
+      "Kaunteya"
+    ]
+  },
+  {
+    "id": "dhananjaya",
+    "term": "Dhananjaya",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze.",
+    "variants": [
+      "Dhananjaya",
+      "Dhanañjaya"
+    ]
+  },
+  {
+    "id": "gudakesha",
+    "term": "Gudakesha",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Arjuna, comunemente collegato al dominio sul sonno.",
+    "variants": [
+      "Gudakesha",
+      "Guḍākeśa"
+    ]
+  },
+  {
+    "id": "bharata",
+    "term": "Bharata",
+    "group": "Nomi ed epiteti",
+    "definition": "Nome dinastico o ancestrale, spesso usato come appellativo.",
+    "variants": [
+      "Bharata",
+      "Bharatas",
+      "Bhārata",
+      "Bhāratas"
+    ]
+  },
+  {
+    "id": "pandava",
+    "term": "Pandava",
+    "group": "Nomi ed epiteti",
+    "definition": "Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli.",
+    "variants": [
+      "Pandava",
+      "Pandavas",
+      "Pāṇḍava",
+      "Pāṇḍavas"
+    ]
+  },
+  {
+    "id": "janardana",
+    "term": "Janardana",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna.",
+    "variants": [
+      "Janardana",
+      "Janārdana"
+    ]
+  },
+  {
+    "id": "keshava",
+    "term": "Keshava",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna.",
+    "variants": [
+      "Keshava",
+      "Keśava"
+    ]
+  },
+  {
+    "id": "madhusudana",
+    "term": "Madhusudana",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna: uccisore di Madhu.",
+    "variants": [
+      "Madhusudana",
+      "Madhusūdana"
+    ]
+  },
+  {
+    "id": "madhava",
+    "term": "Madhava",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna.",
+    "variants": [
+      "Madhava",
+      "Mādhava"
+    ]
+  },
+  {
+    "id": "hrishikesha",
+    "term": "Hrishikesha",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna, spesso inteso come signore dei sensi.",
+    "variants": [
+      "Hrishikesha",
+      "Hṛṣīkeśa"
+    ]
+  },
+  {
+    "id": "vasudeva",
+    "term": "Vasudeva",
+    "group": "Nomi ed epiteti",
+    "definition": "Nome o epiteto di Krishna, figlio di Vasudeva.",
+    "variants": [
+      "Vasudeva",
+      "Vāsudeva"
+    ]
+  },
+  {
+    "id": "govinda",
+    "term": "Govinda",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna.",
+    "variants": [
+      "Govinda"
+    ]
+  },
+  {
+    "id": "acyuta",
+    "term": "Acyuta",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna, spesso glossato come colui che non vien meno.",
+    "variants": [
+      "Acyuta"
+    ]
+  },
+  {
+    "id": "dhritarashtra",
+    "term": "Dhritarashtra",
+    "group": "Nomi ed epiteti",
+    "definition": "Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra.",
+    "variants": [
+      "Dhritarashtra",
+      "Dhritarashtra's"
+    ]
+  },
+  {
+    "id": "sanjaya",
+    "term": "Sanjaya",
+    "group": "Nomi ed epiteti",
+    "definition": "Colui che narra il dialogo a Dhritarashtra.",
+    "variants": [
+      "Sanjaya"
+    ]
+  },
+  {
+    "id": "duryodhana",
+    "term": "Duryodhana",
+    "group": "Nomi ed epiteti",
+    "definition": "Capo dei Kaurava e figlio di Dhritarashtra.",
+    "variants": [
+      "Duryodhana"
+    ]
+  },
+  {
+    "id": "bhishma",
+    "term": "Bhishma",
+    "group": "Nomi ed epiteti",
+    "definition": "Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava.",
+    "variants": [
+      "Bhishma"
+    ]
+  },
+  {
+    "id": "drona",
+    "term": "Drona",
+    "group": "Nomi ed epiteti",
+    "definition": "Maestro dei principi Kuru e guerriero nello schieramento Kaurava.",
+    "variants": [
+      "Drona"
+    ]
+  },
+  {
+    "id": "kuru",
+    "term": "Kuru",
+    "group": "Nomi ed epiteti",
+    "definition": "Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all'intera dinastia o allo schieramento Kaurava.",
+    "variants": [
+      "Kuru",
+      "Kurus"
+    ]
+  },
+  {
+    "id": "kurukshetra",
+    "term": "Kurukshetra",
+    "group": "Nomi ed epiteti",
+    "definition": "Il campo di battaglia in cui si svolge il dialogo.",
+    "variants": [
+      "Kurukshetra"
+    ]
+  },
+  {
+    "id": "bhima",
+    "term": "Bhima",
+    "group": "Nomi ed epiteti",
+    "definition": "Uno dei Pandava, fratello di Arjuna.",
+    "variants": [
+      "Bhima"
+    ]
+  },
+  {
+    "id": "karna",
+    "term": "Karna",
+    "group": "Nomi ed epiteti",
+    "definition": "Guerriero alleato di Duryodhana nello schieramento Kaurava.",
+    "variants": [
+      "Karna"
+    ]
+  },
+  {
+    "id": "drupada",
+    "term": "Drupada",
+    "group": "Nomi ed epiteti",
+    "definition": "Re di Panchala, padre di Draupadi e Dhrishtadyumna.",
+    "variants": [
+      "Drupada"
+    ]
+  },
+  {
+    "id": "draupadi",
+    "term": "Draupadi",
+    "group": "Nomi ed epiteti",
+    "definition": "Sposa dei Pandava.",
+    "variants": [
+      "Draupadi"
+    ]
+  },
+  {
+    "id": "vivasvan",
+    "term": "Vivasvan",
+    "group": "Nomi ed epiteti",
+    "definition": "Divinità solare alla quale, dice Krishna, egli insegnò per primo questo yoga.",
+    "variants": [
+      "Vivasvan"
+    ]
+  },
+  {
+    "id": "manu",
+    "term": "Manu",
+    "group": "Nomi ed epiteti",
+    "definition": "Antico progenitore o legislatore che riceve l'insegnamento da Vivasvan.",
+    "variants": [
+      "Manu"
+    ]
+  },
+  {
+    "id": "ikshvaku",
+    "term": "Ikshvaku",
+    "group": "Nomi ed epiteti",
+    "definition": "Antico re che riceve l'insegnamento da Manu.",
+    "variants": [
+      "Ikshvaku"
+    ]
+  },
+  {
+    "id": "brahma",
+    "term": "Brahma",
+    "group": "Nomi ed epiteti",
+    "definition": "Il dio creatore; distinto da Brahman, la realtà ultima.",
+    "variants": [
+      "Brahma",
+      "Brahma's"
+    ]
+  },
+  {
+    "id": "bhagavan",
+    "term": "Bhagavan",
+    "group": "Nomi ed epiteti",
+    "definition": "Titolo onorifico per il Signore o il Beato, usato per Krishna.",
+    "variants": [
+      "Bhagavan"
+    ]
+  },
+  {
+    "id": "hari",
+    "term": "Hari",
+    "group": "Nomi ed epiteti",
+    "definition": "Epiteto di Krishna o Vishnu.",
+    "variants": [
+      "Hari"
+    ]
+  },
+  {
+    "id": "vishnu",
+    "term": "Vishnu",
+    "group": "Nomi ed epiteti",
+    "definition": "Nome divino associato a Krishna nel testo.",
+    "variants": [
+      "Vishnu"
+    ]
+  },
+  {
+    "id": "prajapati",
+    "term": "Prajapati",
+    "group": "Nomi ed epiteti",
+    "definition": "Signore delle creature; figura creatrice.",
+    "variants": [
+      "Prajapati"
+    ]
+  },
+  {
+    "id": "varuna",
+    "term": "Varuna",
+    "group": "Nomi ed epiteti",
+    "definition": "Divinità vedica associata all'ordine cosmico e alle acque.",
+    "variants": [
+      "Varuna"
+    ]
+  },
+  {
+    "id": "yama",
+    "term": "Yama",
+    "group": "Nomi ed epiteti",
+    "definition": "Divinità associata alla morte e alla disciplina.",
+    "variants": [
+      "Yama"
+    ]
+  },
+  {
+    "id": "tat",
+    "term": "Tat",
+    "group": "Termini sociali e rituali",
+    "definition": "Formula sacra che significa «Quello», parte dell'espressione Om Tat Sat.",
+    "variants": [
+      "Tat"
+    ]
+  },
+  {
+    "id": "sat",
+    "term": "Sat",
+    "group": "Concetti",
+    "definition": "Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat.",
+    "variants": [
+      "Sat"
+    ]
+  },
+  {
+    "id": "vedanta",
+    "term": "Vedanta",
+    "group": "Concetti",
+    "definition": "La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica.",
+    "variants": [
+      "Vedanta"
+    ]
+  }
+]

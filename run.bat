@@ -46,7 +46,7 @@ if errorlevel 1 (
 )
 
 echo.
-echo [4/6] Generating PDF source...
+echo [4/7] Generating PDF sources...
 python tools\2_generate_pdf_book.py
 if errorlevel 1 (
     echo ERROR in tools\2_generate_pdf_book.py
@@ -55,10 +55,10 @@ if errorlevel 1 (
 )
 
 echo.
-echo [5/6] Rendering PDF...
+echo [5/7] Rendering English PDF...
 quarto render pdf_book.qmd --to pdf
 if errorlevel 1 (
-    echo ERROR during PDF render.
+    echo ERROR during English PDF render.
     echo.
     echo If this is the first time you render PDF with Quarto, run:
     echo quarto install tinytex
@@ -68,24 +68,44 @@ if errorlevel 1 (
 )
 
 echo.
-echo [6/6] Copying PDF into docs...
+echo [6/7] Rendering Italian PDF...
+quarto render pdf_book_it.qmd --to pdf
+if errorlevel 1 (
+    echo ERROR during Italian PDF render.
+    echo.
+    echo If this is the first time you render PDF with Quarto, run:
+    echo quarto install tinytex
+    echo.
+    pause
+    exit /b 1
+)
+
+echo.
+echo [7/7] Checking PDFs in docs...
 if not exist docs (
     echo ERROR: docs folder does not exist.
     pause
     exit /b 1
 )
 
-copy /Y bhagavad-gita.pdf docs\bhagavad-gita.pdf
-if errorlevel 1 (
-    echo ERROR while copying PDF into docs.
+if not exist docs\bhagavad-gita-en.pdf (
+    echo ERROR: English PDF was not written to docs.
     pause
     exit /b 1
 )
 
+if not exist docs\bhagavad-gita-it.pdf (
+    echo ERROR: Italian PDF was not written to docs.
+    pause
+    exit /b 1
+)
+
+if exist docs\bhagavad-gita.pdf del /Q docs\bhagavad-gita.pdf
+
 echo.
 echo Done.
 echo Website: docs\
-echo PDF: bhagavad-gita.pdf
-echo PDF for website: _site\bhagavad-gita.pdf
+echo PDFs: bhagavad-gita-en.pdf and bhagavad-gita-it.pdf
+echo PDFs for website: docs\bhagavad-gita-en.pdf and docs\bhagavad-gita-it.pdf
 echo.
 pause

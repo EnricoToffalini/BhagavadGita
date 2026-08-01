@@ -1,0 +1,637 @@
+---
+title: "Capitolo 6 - Atma-Samyama Yoga"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="chapter-title-sanskrit">आत्मसंयमयोगः</div>
+
+<nav class="chapter-nav"><a href="chapter-05.html">Capitolo precedente</a><a href="chapter-07.html">Capitolo successivo</a></nav>
+
+<div class="verse-list">
+<article class="verse" id="v-6-1" data-reference="6.1">
+<header class="verse-head">
+<a class="ref" href="#v-6-1">6.1</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Chi compie l&#x27;azione che deve essere compiuta senza dipendere dal suo frutto è un rinunciante e uno <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>—non chi non accende il fuoco e non compie alcun rito.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।<br>
+स संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-2" data-reference="6.2">
+<header class="verse-head">
+<a class="ref" href="#v-6-2">6.2</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Sappi che ciò che chiamano rinuncia è <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, o <span class="glossary-term" tabindex="0" data-gloss="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." aria-label="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." title="Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli." data-glossary-id="pandava">Pandava</span>; nessuno infatti diventa <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> senza rinunciare alla volontà personale.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।<br>
+न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-3" data-reference="6.3">
+<header class="verse-head">
+<a class="ref" href="#v-6-3">6.3</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per il saggio che cerca di elevarsi allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, l’azione è il mezzo; per chi è giunto allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, il mezzo è la quiete.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते ।<br>
+योगारूढस्य तस्यैव शमः कारणमुच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-4" data-reference="6.4">
+<header class="verse-head">
+<a class="ref" href="#v-6-4">6.4</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando non si è attaccati né agli oggetti dei sensi né alle azioni, e si è rinunciato a ogni volontà personale, allora si dice che si è ascesi allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।<br>
+सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-5" data-reference="6.5">
+<header class="verse-head">
+<a class="ref" href="#v-6-5">6.5</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ognuno elevi se stesso mediante se stesso e non si lasci cadere: ciascuno è infatti amico di se stesso, ma anche nemico di se stesso.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।<br>
+आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-6" data-reference="6.6">
+<header class="verse-head">
+<a class="ref" href="#v-6-6">6.6</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per chi ha vinto se stesso mediante se stesso, il sé è un amico; ma per chi non si è padroneggiato, il sé rimane ostile come un nemico.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।<br>
+अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-7" data-reference="6.7">
+<header class="verse-head">
+<a class="ref" href="#v-6-7">6.7</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per chi si è padroneggiato ed è in pace, l&#x27;<span class="glossary-term" tabindex="0" data-gloss="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." aria-label="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." title="Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale." data-glossary-id="atman">Atman</span> supremo rimane saldo e uguale nel freddo e nel caldo, nel piacere e nel dolore, nell&#x27;onore e nel disonore.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।<br>
+शीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-8" data-reference="6.8">
+<header class="verse-head">
+<a class="ref" href="#v-6-8">6.8</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> appagato dalla conoscenza e dalla realizzazione, incrollabile, con i sensi soggiogati, per il quale una zolla, una pietra e l’oro sono la stessa cosa, è detto saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।<br>
+युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-9" data-reference="6.9">
+<header class="verse-head">
+<a class="ref" href="#v-6-9">6.9</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che mantiene un animo uguale verso il benevolo, l&#x27;amico e il nemico, verso il neutrale e il mediatore, verso l&#x27;odioso e il parente, e ugualmente verso il buono e il malvagio, è il più elevato.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।<br>
+साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-10" data-reference="6.10">
+<header class="verse-head">
+<a class="ref" href="#v-6-10">6.10</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> si disciplini costantemente, ritirato in solitudine e da solo, con la mente e il sé dominati, libero da bramosia e da possessi.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">योगी युञ्जीत सततमात्मानं रहसि स्थितः ।<br>
+एकाकी यतचित्तात्मा निराशीरपरिग्रहः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-11" data-reference="6.11">
+<header class="verse-head">
+<a class="ref" href="#v-6-11">6.11</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Dopo aver preparato per sé un seggio stabile in un luogo puro, né troppo alto né troppo basso, coperto di stoffa, pelle di cervo ed erba kusha,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः ।<br>
+नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-12" data-reference="6.12">
+<header class="verse-head">
+<a class="ref" href="#v-6-12">6.12</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">là, concentrando la mente in un solo punto e trattenendo le funzioni della mente e dei sensi, seduto su quel seggio pratichi lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> per purificare il sé.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः ।<br>
+उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-13" data-reference="6.13">
+<header class="verse-head">
+<a class="ref" href="#v-6-13">6.13</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Mantenendo eretti e immobili il corpo, il capo e il collo, saldo, fissi lo sguardo sulla punta del naso senza guardarsi intorno;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।<br>
+सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-14" data-reference="6.14">
+<header class="verse-head">
+<a class="ref" href="#v-6-14">6.14</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">con l’animo sereno e libero dalla paura, fermo nel voto di castità, con la mente dominata e il pensiero fisso in me, sieda raccolto nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> e rivolto a me.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।<br>
+मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-15" data-reference="6.15">
+<header class="verse-head">
+<a class="ref" href="#v-6-15">6.15</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Disciplinandosi così di continuo, lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> dalla mente dominata raggiunge la pace che culmina nel <span class="glossary-term" tabindex="0" data-gloss="Estinzione, pace o liberazione; qui spesso collegato a Brahman." aria-label="Estinzione, pace o liberazione; qui spesso collegato a Brahman." title="Estinzione, pace o liberazione; qui spesso collegato a Brahman." data-glossary-id="nirvana">nirvana</span> e dimora in me.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">युञ्जन्नेवं सदात्मानं योगी नियतमानसः ।<br>
+शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-16" data-reference="6.16">
+<header class="verse-head">
+<a class="ref" href="#v-6-16">6.16</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> non è per chi mangia troppo, né per chi non mangia affatto, né per chi è dedito a troppo sonno, né per chi è sempre sveglio, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।<br>
+न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-17" data-reference="6.17">
+<header class="verse-head">
+<a class="ref" href="#v-6-17">6.17</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per chi è misurato nel cibo e nello svago, nelle azioni, nel sonno e nella veglia, lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> diviene distruttore del dolore.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।<br>
+युक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-18" data-reference="6.18">
+<header class="verse-head">
+<a class="ref" href="#v-6-18">6.18</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando la mente disciplinata giunge a riposare nel solo sé, libera dalla brama di ogni desiderio, allora si dice che si è saldi nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।<br>
+निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-19" data-reference="6.19">
+<header class="verse-head">
+<a class="ref" href="#v-6-19">6.19</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Come una lampada in un luogo senza vento non tremola—tale è l’immagine dello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> dalla mente dominata, che pratica lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> del sé.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।<br>
+योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-20" data-reference="6.20">
+<header class="verse-head">
+<a class="ref" href="#v-6-20">6.20</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quando la mente, trattenuta dalla pratica dello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, giunge a quietarsi e, contemplando il sé mediante il sé, trova appagamento nel sé;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यत्रोपरमते चित्तं निरुद्धं योगसेवया ।<br>
+यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-21" data-reference="6.21">
+<header class="verse-head">
+<a class="ref" href="#v-6-21">6.21</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">quando si conosce quella felicità sconfinata, colta dall&#x27;intelletto e al di là dei sensi, e, stabiliti in essa, non ci si allontana mai dalla verità;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सुखमात्यन्तिकं यत्तद् बुद्धिग्राह्यमतीन्द्रियम् ।<br>
+वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-22" data-reference="6.22">
+<header class="verse-head">
+<a class="ref" href="#v-6-22">6.22</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">e, una volta conseguita, non si considera maggiore alcun altro guadagno, e, stabiliti in essa, non si è scossi neppure dal più grave dolore:</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।<br>
+यस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-23" data-reference="6.23">
+<header class="verse-head">
+<a class="ref" href="#v-6-23">6.23</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">si sappia che questo scioglimento da ogni unione con il dolore è ciò che si chiama <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>; quello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> va praticato con risolutezza e con animo che non si scoraggia.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् ।<br>
+स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-24" data-reference="6.24">
+<header class="verse-head">
+<a class="ref" href="#v-6-24">6.24</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Abbandonando senza eccezione tutti i desideri nati dalla volontà personale e trattenendo con la sola mente l’intera schiera dei sensi da ogni parte,</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।<br>
+मनसैवेन्द्रियग्रामं विनियम्य समन्ततः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-25" data-reference="6.25">
+<header class="verse-head">
+<a class="ref" href="#v-6-25">6.25</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">a poco a poco si acquieti, mantenendo saldo l&#x27;intelletto; fissata la mente nel sé, non pensi a nulla.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया ।<br>
+आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-26" data-reference="6.26">
+<header class="verse-head">
+<a class="ref" href="#v-6-26">6.26</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ovunque vada errando la mente irrequieta e instabile, da lì la riconduca sotto il dominio del sé.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।<br>
+ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-27" data-reference="6.27">
+<header class="verse-head">
+<a class="ref" href="#v-6-27">6.27</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La felicità suprema giunge infatti allo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> la cui mente è in pace, la cui passione si è quietata, che è libero da macchia ed è divenuto <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।<br>
+उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-28" data-reference="6.28">
+<header class="verse-head">
+<a class="ref" href="#v-6-28">6.28</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Disciplinandosi così di continuo, lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>, libero da ogni macchia, raggiunge senza fatica la felicità sconfinata del contatto con <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">युञ्जन्नेवं सदात्मानं योगी विगतकल्मषः ।<br>
+सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-29" data-reference="6.29">
+<header class="verse-head">
+<a class="ref" href="#v-6-29">6.29</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>, egli vede il sé presente in tutti gli esseri e tutti gli esseri nel sé, scorgendo ovunque la stessa realtà.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।<br>
+ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-30" data-reference="6.30">
+<header class="verse-head">
+<a class="ref" href="#v-6-30">6.30</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Per chi mi vede ovunque e vede ogni cosa in me, io non sono mai perduto, né egli è perduto per me.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।<br>
+तस्याहं न प्रणश्यामि स च मे न प्रणश्यति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-31" data-reference="6.31">
+<header class="verse-head">
+<a class="ref" href="#v-6-31">6.31</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> che, stabilito nell’unità, mi venera come colui che dimora in tutti gli esseri, dimora in me qualunque sia il suo modo di vivere.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः ।<br>
+सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-32" data-reference="6.32">
+<header class="verse-head">
+<a class="ref" href="#v-6-32">6.32</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che, per analogia con se stesso, vede ovunque la medesima realtà, tanto nel piacere quanto nel dolore, è ritenuto il più alto degli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन ।<br>
+सुखं वा यदि वा दुःखं स योगी परमो मतः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-33" data-reference="6.33">
+<header class="verse-head">
+<a class="ref" href="#v-6-33">6.33</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Questo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> dell&#x27;equanimità che hai insegnato, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Krishna: uccisore di Madhu." aria-label="Epiteto di Krishna: uccisore di Madhu." title="Epiteto di Krishna: uccisore di Madhu." data-glossary-id="madhusudana">Madhusudana</span>, non vedo come possa mantenersi saldo, tanto è irrequieta la mente.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन ।<br>
+एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-34" data-reference="6.34">
+<header class="verse-head">
+<a class="ref" href="#v-6-34">6.34</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">La mente, infatti, è irrequieta, <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>—turbolenta, forte e ostinata; dominarla, io penso, è difficile quanto dominare il vento.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">चञ्चलं हि मनः कृष्ण प्रमाथि बलवद् दृढम् ।<br>
+तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-35" data-reference="6.35">
+<header class="verse-head">
+<a class="ref" href="#v-6-35">6.35</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Senza dubbio, o dalle possenti braccia, la mente è irrequieta e difficile da dominare; ma la si tiene a freno con la pratica, o figlio di Kunti, e con il distacco.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">असंशयं महाबाहो मनो दुर्निग्रहं चलम् ।<br>
+अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-36" data-reference="6.36">
+<header class="verse-head">
+<a class="ref" href="#v-6-36">6.36</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> è difficile da raggiungere, questa è la mia opinione, per chi non ha dominato se stesso; ma può essere conseguito con i mezzi giusti da chi si sforza ed è padrone di sé.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">असंयतात्मना योगो दुष्प्राप इति मे मतिः ।<br>
+वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-37" data-reference="6.37">
+<header class="verse-head">
+<a class="ref" href="#v-6-37">6.37</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Colui che ha fede ma non si sforza, e la cui mente si è allontanata dallo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> senza raggiungerne la perfezione—quale sorte incontra, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अयतिः श्रद्धयोपेतो योगाच्चलितमानसः ।<br>
+अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-38" data-reference="6.38">
+<header class="verse-head">
+<a class="ref" href="#v-6-38">6.38</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Caduto da entrambe le vie, non perisce forse come una nube dispersa, senza sostegno, o dalle possenti braccia, smarrito sul sentiero di <span class="glossary-term" tabindex="0" data-gloss="La realtà ultima o principio assoluto." aria-label="La realtà ultima o principio assoluto." title="La realtà ultima o principio assoluto." data-glossary-id="brahman">Brahman</span>?</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।<br>
+अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-39" data-reference="6.39">
+<header class="verse-head">
+<a class="ref" href="#v-6-39">6.39</a>
+<span class="speaker">(Arjuna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Tu solo, o <span class="glossary-term" tabindex="0" data-gloss="Krishna, che espone l&#x27;insegnamento ad Arjuna." aria-label="Krishna, che espone l&#x27;insegnamento ad Arjuna." title="Krishna, che espone l&#x27;insegnamento ad Arjuna." data-glossary-id="krishna">Krishna</span>, puoi dissipare interamente questo mio dubbio; nessun altro, infatti, è in grado di rimuoverlo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः ।<br>
+त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-40" data-reference="6.40">
+<header class="verse-head">
+<a class="ref" href="#v-6-40">6.40</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">O <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>, né in questo mondo né nell’altro vi è rovina per lui; nessuno che compia il bene, amico mio, va incontro a una cattiva sorte.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।<br>
+न हि कल्याणकृत्कश्चिद् दुर्गतिं तात गच्छति ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-41" data-reference="6.41">
+<header class="verse-head">
+<a class="ref" href="#v-6-41">6.41</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Raggiunti i mondi di coloro che agiscono rettamente e dimoratovi per innumerevoli anni, chi è caduto dallo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> rinasce nella casa dei puri e dei prosperi;</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः ।<br>
+शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-42" data-reference="6.42">
+<header class="verse-head">
+<a class="ref" href="#v-6-42">6.42</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">oppure nasce in una famiglia di <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> sapienti—sebbene una simile nascita sia ancora più difficile da ottenere in questo mondo.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">अथवा योगिनामेव कुले भवति धीमताम् ।<br>
+एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-43" data-reference="6.43">
+<header class="verse-head">
+<a class="ref" href="#v-6-43">6.43</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Là egli ritrova la disposizione dell’intelletto conseguita nel corpo precedente e, da quel punto, si sforza nuovamente verso la perfezione, o gioia dei <span class="glossary-term" tabindex="0" data-gloss="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." aria-label="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." title="Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava." data-glossary-id="kuru">Kuru</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।<br>
+यतते च ततो भूयः संसिद्धौ कुरुनन्दन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-44" data-reference="6.44">
+<header class="verse-head">
+<a class="ref" href="#v-6-44">6.44</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Quella stessa pratica anteriore lo sospinge avanti, anche contro la sua volontà; perfino chi si limita a cercare lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span> oltrepassa la parola dei <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः ।<br>
+जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-45" data-reference="6.45">
+<header class="verse-head">
+<a class="ref" href="#v-6-45">6.45</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Ma lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> che si sforza con impegno, purificato da ogni colpa e perfezionato attraverso molte nascite, raggiunge infine la meta suprema.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः ।<br>
+अनेकजन्मसंसिद्धस्ततो याति परां गतिम् ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-46" data-reference="6.46">
+<header class="verse-head">
+<a class="ref" href="#v-6-46">6.46</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">Lo <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span> è superiore agli asceti, superiore, si ritiene, agli uomini di conoscenza e superiore agli uomini d’azione; perciò diventa uno <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, il guerriero a cui Krishna si rivolge." aria-label="Arjuna, il guerriero a cui Krishna si rivolge." title="Arjuna, il guerriero a cui Krishna si rivolge." data-glossary-id="arjuna">Arjuna</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः ।<br>
+कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ॥</div>
+</details>
+</article>
+
+<article class="verse" id="v-6-47" data-reference="6.47">
+<header class="verse-head">
+<a class="ref" href="#v-6-47">6.47</a>
+<span class="speaker">(Krishna)</span>
+</header>
+<p class="translation translation-it" data-lang="it">E fra tutti gli <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yogi</span>, colui che, pieno di fede, mi venera con l’intimo di sé rivolto a me è, a mio giudizio, il più profondamente saldo nello <span class="glossary-term" tabindex="0" data-gloss="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." aria-label="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." title="Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»)." data-glossary-id="yoga">yoga</span>.</p>
+<details class="sanskrit">
+<summary>Sanscrito</summary>
+<div class="sanskrit-text">योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।<br>
+श्रद्धावान्भजते यो मां स मे युक्ततमो मतः ॥</div>
+</details>
+</article>
+
+</div>

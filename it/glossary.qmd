@@ -1,0 +1,362 @@
+---
+title: "Glossario"
+lang: it
+sidebar: it
+---
+
+<!--
+GENERATED FILE. DO NOT EDIT DIRECTLY.
+
+Edit instead:
+- data/glossary.en.csv / data/glossary.it.csv for glossary content
+- data/bhagavadgita_ai_refined.xlsx for verses/translations
+- tools/0_generate_site.py for generation logic and language settings
+- styles.css for visual style
+
+Then run:
+    run.bat
+-->
+
+
+<div class="site-note glossary-note">
+Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nella traduzione italiana.
+</div>
+
+## Concetti
+
+<div class="glossary-list">
+<section class="glossary-entry" id="glossary-atman">
+<h3>Atman</h3>
+<p>Vero Sé, anima o principio interiore; tenuto distinto dall&#x27;ego ordinario e dalla personalità individuale.</p>
+<p class="glossary-variants">Forme nel testo: Atman</p>
+</section>
+<section class="glossary-entry" id="glossary-brahman">
+<h3>Brahman</h3>
+<p>La realtà ultima o principio assoluto.</p>
+<p class="glossary-variants">Forme nel testo: Brahman</p>
+</section>
+<section class="glossary-entry" id="glossary-dharma">
+<h3>dharma</h3>
+<p>Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto.</p>
+<p class="glossary-variants">Forme nel testo: dharma</p>
+</section>
+<section class="glossary-entry" id="glossary-guna">
+<h3>guna</h3>
+<p>Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas.</p>
+<p class="glossary-variants">Forme nel testo: guna</p>
+</section>
+<section class="glossary-entry" id="glossary-karma">
+<h3>karma</h3>
+<p>Azione, atto, o le conseguenze legate all&#x27;azione.</p>
+<p class="glossary-variants">Forme nel testo: karma</p>
+</section>
+<section class="glossary-entry" id="glossary-kshetra">
+<h3>kshetra</h3>
+<p>Campo, in particolare il corpo o campo dell&#x27;esperienza nel capitolo 13.</p>
+<p class="glossary-variants">Forme nel testo: kshetra</p>
+</section>
+<section class="glossary-entry" id="glossary-kshetrajna">
+<h3>kshetrajna</h3>
+<p>Conoscitore del campo; il principio cosciente correlato a kshetra.</p>
+<p class="glossary-variants">Forme nel testo: kshetrajna</p>
+</section>
+<section class="glossary-entry" id="glossary-maya">
+<h3>maya</h3>
+<p>Potere di apparenza, occultamento o manifestazione; dipende dal contesto.</p>
+<p class="glossary-variants">Forme nel testo: Maya, maya, yoga-maya</p>
+</section>
+<section class="glossary-entry" id="glossary-nirvana">
+<h3>nirvana</h3>
+<p>Estinzione, pace o liberazione; qui spesso collegato a Brahman.</p>
+<p class="glossary-variants">Forme nel testo: nirvana</p>
+</section>
+<section class="glossary-entry" id="glossary-prakriti">
+<h3>prakriti</h3>
+<p>Natura, processo materiale, o il campo del mutamento e della manifestazione.</p>
+<p class="glossary-variants">Forme nel testo: Prakriti, prakriti</p>
+</section>
+<section class="glossary-entry" id="glossary-purusha">
+<h3>purusha</h3>
+<p>Persona, spirito o principio cosciente; il significato varia a seconda del passo.</p>
+<p class="glossary-variants">Forme nel testo: purusha, Purusha</p>
+</section>
+<section class="glossary-entry" id="glossary-rajas">
+<h3>rajas</h3>
+<p>Il guna associato ad attività, passione, impulso e irrequietezza.</p>
+<p class="glossary-variants">Forme nel testo: Rajas, rajas, rajasica, rajasici, rajasico</p>
+</section>
+<section class="glossary-entry" id="glossary-samsara">
+<h3>samsara</h3>
+<p>Il ciclo continuo del divenire mondano, della nascita, della morte e dell&#x27;attaccamento.</p>
+<p class="glossary-variants">Forme nel testo: samsara</p>
+</section>
+<section class="glossary-entry" id="glossary-sankhya">
+<h3>Sankhya</h3>
+<p>Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale.</p>
+<p class="glossary-variants">Forme nel testo: Sankhya</p>
+</section>
+<section class="glossary-entry" id="glossary-sat">
+<h3>Sat</h3>
+<p>Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat.</p>
+<p class="glossary-variants">Forme nel testo: Sat</p>
+</section>
+<section class="glossary-entry" id="glossary-sattva">
+<h3>sattva</h3>
+<p>Il guna associato a chiarezza, equilibrio e illuminazione.</p>
+<p class="glossary-variants">Forme nel testo: Sattva, sattva, sattvica, sattvici, sattvico</p>
+</section>
+<section class="glossary-entry" id="glossary-tamas">
+<h3>tamas</h3>
+<p>Il guna associato a inerzia, ottusità, confusione e ostruzione.</p>
+<p class="glossary-variants">Forme nel testo: tamas, Tamas, tamasica, tamasici, tamasico</p>
+</section>
+<section class="glossary-entry" id="glossary-vedanta">
+<h3>Vedanta</h3>
+<p>La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica.</p>
+<p class="glossary-variants">Forme nel testo: Vedanta</p>
+</section>
+<section class="glossary-entry" id="glossary-yoga">
+<h3>yoga</h3>
+<p>Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»).</p>
+<p class="glossary-variants">Forme nel testo: yoga, yogi</p>
+</section>
+</div>
+
+## Termini sociali e rituali
+
+<div class="glossary-list">
+<section class="glossary-entry" id="glossary-brahmin">
+<h3>Brahmin</h3>
+<p>Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.</p>
+<p class="glossary-variants">Forme nel testo: brahmin, Brahmin</p>
+</section>
+<section class="glossary-entry" id="glossary-kshatriya">
+<h3>kshatriya</h3>
+<p>Membro della classe guerriera o dominante.</p>
+<p class="glossary-variants">Forme nel testo: kshatriya</p>
+</section>
+<section class="glossary-entry" id="glossary-om">
+<h3>Om</h3>
+<p>Sillaba sacra usata come segno conciso dell&#x27;assoluto o del divino.</p>
+<p class="glossary-variants">Forme nel testo: Om</p>
+</section>
+<section class="glossary-entry" id="glossary-shudra">
+<h3>shudra</h3>
+<p>Membro della classe servile nello schema tradizionale dei varna.</p>
+<p class="glossary-variants">Forme nel testo: shudra</p>
+</section>
+<section class="glossary-entry" id="glossary-tat">
+<h3>Tat</h3>
+<p>Formula sacra che significa «Quello», parte dell&#x27;espressione Om Tat Sat.</p>
+<p class="glossary-variants">Forme nel testo: Tat</p>
+</section>
+<section class="glossary-entry" id="glossary-vaishya">
+<h3>vaishya</h3>
+<p>Membro della classe associata al commercio, all&#x27;agricoltura e all&#x27;allevamento.</p>
+<p class="glossary-variants">Forme nel testo: vaishya</p>
+</section>
+<section class="glossary-entry" id="glossary-veda">
+<h3>Veda</h3>
+<p>Antichi testi sacri della tradizione vedica.</p>
+<p class="glossary-variants">Forme nel testo: Brihat-sama, Gayatri, Rig, Sama, Veda, Yajur</p>
+</section>
+<section class="glossary-entry" id="glossary-yajna">
+<h3>yajna</h3>
+<p>Sacrificio, offerta rituale o azione consacrata.</p>
+<p class="glossary-variants">Forme nel testo: yajna</p>
+</section>
+</div>
+
+## Nomi ed epiteti
+
+<div class="glossary-list">
+<section class="glossary-entry" id="glossary-acyuta">
+<h3>Acyuta</h3>
+<p>Epiteto di Krishna, spesso glossato come colui che non vien meno.</p>
+<p class="glossary-variants">Forme nel testo: Acyuta</p>
+</section>
+<section class="glossary-entry" id="glossary-arjuna">
+<h3>Arjuna</h3>
+<p>Arjuna, il guerriero a cui Krishna si rivolge.</p>
+<p class="glossary-variants">Forme nel testo: Arjuna</p>
+</section>
+<section class="glossary-entry" id="glossary-bhagavan">
+<h3>Bhagavan</h3>
+<p>Titolo onorifico per il Signore o il Beato, usato per Krishna.</p>
+<p class="glossary-variants">Forme nel testo: Bhagavan</p>
+</section>
+<section class="glossary-entry" id="glossary-bharata">
+<h3>Bharata</h3>
+<p>Nome dinastico o ancestrale, spesso usato come appellativo.</p>
+<p class="glossary-variants">Forme nel testo: Bharata</p>
+</section>
+<section class="glossary-entry" id="glossary-bhima">
+<h3>Bhima</h3>
+<p>Uno dei Pandava, fratello di Arjuna.</p>
+<p class="glossary-variants">Forme nel testo: Bhima</p>
+</section>
+<section class="glossary-entry" id="glossary-bhishma">
+<h3>Bhishma</h3>
+<p>Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava.</p>
+<p class="glossary-variants">Forme nel testo: Bhishma</p>
+</section>
+<section class="glossary-entry" id="glossary-brahma">
+<h3>Brahma</h3>
+<p>Il dio creatore; distinto da Brahman, la realtà ultima.</p>
+<p class="glossary-variants">Forme nel testo: Brahma</p>
+</section>
+<section class="glossary-entry" id="glossary-dhananjaya">
+<h3>Dhananjaya</h3>
+<p>Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze.</p>
+<p class="glossary-variants">Forme nel testo: Dhananjaya</p>
+</section>
+<section class="glossary-entry" id="glossary-dhritarashtra">
+<h3>Dhritarashtra</h3>
+<p>Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra.</p>
+<p class="glossary-variants">Forme nel testo: Dhritarashtra</p>
+</section>
+<section class="glossary-entry" id="glossary-draupadi">
+<h3>Draupadi</h3>
+<p>Sposa dei Pandava.</p>
+<p class="glossary-variants">Forme nel testo: Draupadi</p>
+</section>
+<section class="glossary-entry" id="glossary-drona">
+<h3>Drona</h3>
+<p>Maestro dei principi Kuru e guerriero nello schieramento Kaurava.</p>
+<p class="glossary-variants">Forme nel testo: Drona</p>
+</section>
+<section class="glossary-entry" id="glossary-drupada">
+<h3>Drupada</h3>
+<p>Re di Panchala, padre di Draupadi e Dhrishtadyumna.</p>
+<p class="glossary-variants">Forme nel testo: Drupada</p>
+</section>
+<section class="glossary-entry" id="glossary-duryodhana">
+<h3>Duryodhana</h3>
+<p>Capo dei Kaurava e figlio di Dhritarashtra.</p>
+<p class="glossary-variants">Forme nel testo: Duryodhana</p>
+</section>
+<section class="glossary-entry" id="glossary-govinda">
+<h3>Govinda</h3>
+<p>Epiteto di Krishna.</p>
+<p class="glossary-variants">Forme nel testo: Govinda</p>
+</section>
+<section class="glossary-entry" id="glossary-gudakesha">
+<h3>Gudakesha</h3>
+<p>Epiteto di Arjuna, comunemente collegato al dominio sul sonno.</p>
+<p class="glossary-variants">Forme nel testo: Gudakesha</p>
+</section>
+<section class="glossary-entry" id="glossary-hari">
+<h3>Hari</h3>
+<p>Epiteto di Krishna o Vishnu.</p>
+<p class="glossary-variants">Forme nel testo: Hari</p>
+</section>
+<section class="glossary-entry" id="glossary-hrishikesha">
+<h3>Hrishikesha</h3>
+<p>Epiteto di Krishna, spesso inteso come signore dei sensi.</p>
+<p class="glossary-variants">Forme nel testo: Hrishikesha</p>
+</section>
+<section class="glossary-entry" id="glossary-ikshvaku">
+<h3>Ikshvaku</h3>
+<p>Antico re che riceve l&#x27;insegnamento da Manu.</p>
+<p class="glossary-variants">Forme nel testo: Ikshvaku</p>
+</section>
+<section class="glossary-entry" id="glossary-janardana">
+<h3>Janardana</h3>
+<p>Epiteto di Krishna.</p>
+<p class="glossary-variants">Forme nel testo: Janardana</p>
+</section>
+<section class="glossary-entry" id="glossary-karna">
+<h3>Karna</h3>
+<p>Guerriero alleato di Duryodhana nello schieramento Kaurava.</p>
+<p class="glossary-variants">Forme nel testo: Karna</p>
+</section>
+<section class="glossary-entry" id="glossary-kaunteya">
+<h3>Kaunteya</h3>
+<p>Epiteto di Arjuna: figlio di Kunti.</p>
+</section>
+<section class="glossary-entry" id="glossary-keshava">
+<h3>Keshava</h3>
+<p>Epiteto di Krishna.</p>
+<p class="glossary-variants">Forme nel testo: Keshava</p>
+</section>
+<section class="glossary-entry" id="glossary-krishna">
+<h3>Krishna</h3>
+<p>Krishna, che espone l&#x27;insegnamento ad Arjuna.</p>
+<p class="glossary-variants">Forme nel testo: Krishna</p>
+</section>
+<section class="glossary-entry" id="glossary-kuru">
+<h3>Kuru</h3>
+<p>Il lignaggio Kuru o i suoi membri; il contesto può riferirsi all&#x27;intera dinastia o allo schieramento Kaurava.</p>
+<p class="glossary-variants">Forme nel testo: Kuru</p>
+</section>
+<section class="glossary-entry" id="glossary-kurukshetra">
+<h3>Kurukshetra</h3>
+<p>Il campo di battaglia in cui si svolge il dialogo.</p>
+<p class="glossary-variants">Forme nel testo: Kurukshetra</p>
+</section>
+<section class="glossary-entry" id="glossary-madhava">
+<h3>Madhava</h3>
+<p>Epiteto di Krishna.</p>
+<p class="glossary-variants">Forme nel testo: Madhava</p>
+</section>
+<section class="glossary-entry" id="glossary-madhusudana">
+<h3>Madhusudana</h3>
+<p>Epiteto di Krishna: uccisore di Madhu.</p>
+<p class="glossary-variants">Forme nel testo: Madhusudana</p>
+</section>
+<section class="glossary-entry" id="glossary-manu">
+<h3>Manu</h3>
+<p>Antico progenitore o legislatore che riceve l&#x27;insegnamento da Vivasvan.</p>
+<p class="glossary-variants">Forme nel testo: Manu</p>
+</section>
+<section class="glossary-entry" id="glossary-pandava">
+<h3>Pandava</h3>
+<p>Uno dei figli o discendenti di Pandu; spesso si riferisce ad Arjuna e ai suoi fratelli.</p>
+<p class="glossary-variants">Forme nel testo: Pandava</p>
+</section>
+<section class="glossary-entry" id="glossary-partha">
+<h3>Partha</h3>
+<p>Epiteto di Arjuna: figlio di Pritha/Kunti.</p>
+<p class="glossary-variants">Forme nel testo: Partha</p>
+</section>
+<section class="glossary-entry" id="glossary-prajapati">
+<h3>Prajapati</h3>
+<p>Signore delle creature; figura creatrice.</p>
+<p class="glossary-variants">Forme nel testo: Prajapati</p>
+</section>
+<section class="glossary-entry" id="glossary-purushottama">
+<h3>Purushottama</h3>
+<p>La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l&#x27;imperituro</p>
+<p class="glossary-variants">Forme nel testo: Purushottama</p>
+</section>
+<section class="glossary-entry" id="glossary-sanjaya">
+<h3>Sanjaya</h3>
+<p>Colui che narra il dialogo a Dhritarashtra.</p>
+<p class="glossary-variants">Forme nel testo: Sanjaya</p>
+</section>
+<section class="glossary-entry" id="glossary-varuna">
+<h3>Varuna</h3>
+<p>Divinità vedica associata all&#x27;ordine cosmico e alle acque.</p>
+<p class="glossary-variants">Forme nel testo: Varuna</p>
+</section>
+<section class="glossary-entry" id="glossary-vasudeva">
+<h3>Vasudeva</h3>
+<p>Nome o epiteto di Krishna, figlio di Vasudeva.</p>
+<p class="glossary-variants">Forme nel testo: Vasudeva</p>
+</section>
+<section class="glossary-entry" id="glossary-vishnu">
+<h3>Vishnu</h3>
+<p>Nome divino associato a Krishna nel testo.</p>
+<p class="glossary-variants">Forme nel testo: Vishnu</p>
+</section>
+<section class="glossary-entry" id="glossary-vivasvan">
+<h3>Vivasvan</h3>
+<p>Divinità solare alla quale, dice Krishna, egli insegnò per primo questo yoga.</p>
+<p class="glossary-variants">Forme nel testo: Vivasvan</p>
+</section>
+<section class="glossary-entry" id="glossary-yama">
+<h3>Yama</h3>
+<p>Divinità associata alla morte e alla disciplina.</p>
+<p class="glossary-variants">Forme nel testo: Yama</p>
+</section>
+</div>

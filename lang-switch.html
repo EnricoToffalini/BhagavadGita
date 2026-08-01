@@ -1,0 +1,91 @@
+<!--
+Language switcher.
+
+The site is one Quarto project with a subtree per language (en/, it/, ...).
+Every page has an equivalent at the same relative path in every other language,
+so switching language can keep the reader on the same chapter instead of
+sending them back to a home page.
+
+Without JavaScript the flags still work: they are ordinary links to each
+language's home page.  This script only upgrades them to point at the
+counterpart of the page actually being read.
+
+Settings (language list, navbar wording, page list) come from lang-config.html,
+which tools/0_generate_site.py generates from LANGS.  This file is the logic
+only and can be edited by hand.
+-->
+<script>
+(() => {
+  const cfg = window.GITA_LANG || {};
+  const langs = cfg.langs || [];
+  const fallback = cfg.default || langs[0];
+  if (!langs.length) return;
+
+  const known = new Set(cfg.pages || []);
+
+  // Language links are marked with a .gita-lang span carrying data-lang, in the
+  // navbar, in the sidebar and on the root landing page alike.
+  const flagLinks = [];
+  document.querySelectorAll(".gita-lang[data-lang]").forEach((span) => {
+    const anchor = span.closest("a");
+    const lang = span.dataset.lang;
+    if (anchor && langs.includes(lang)) flagLinks.push({ lang, anchor });
+  });
+  if (!flagLinks.length) return;
+
+  // Derive the site root from a language link, so the switcher works both at the
+  // domain root and under a GitHub Pages project subpath.
+  let root;
+  for (const { lang, anchor } of flagLinks) {
+    const path = new URL(anchor.href, location.href).pathname;
+    const suffix = lang + "/index.html";
+    if (path.endsWith(suffix)) {
+      root = path.slice(0, path.length - suffix.length);
+      break;
+    }
+  }
+  if (root === undefined) return;
+
+  // Split the current location into "which language" and "which page".
+  const here = location.pathname.startsWith(root)
+    ? location.pathname.slice(root.length)
+    : "";
+  const segments = here.split("/");
+  const inLanguage = langs.includes(segments[0]);
+  const current = inLanguage ? segments[0] : fallback;
+  let page = (inLanguage ? segments.slice(1).join("/") : here) || "index.html";
+  if (page.endsWith("/")) page += "index.html";
+
+  const target = (lang) =>
+    root + lang + "/" + (known.size === 0 || known.has(page) ? page : "index.html");
+
+  // Point each flag at the counterpart of the page being read, and remember the
+  // choice so the root landing page can honour it next time.
+  flagLinks.forEach(({ lang, anchor }) => {
+    anchor.href = target(lang) + location.hash;
+    anchor.setAttribute("hreflang", lang);
+    anchor.classList.add("gita-lang-link");
+    anchor.classList.toggle("gita-lang-active", lang === current);
+    if (lang === current) anchor.setAttribute("aria-current", "true");
+    anchor.addEventListener("click", () => {
+      try { localStorage.setItem("gita-lang", lang); } catch (e) { /* private mode */ }
+    });
+  });
+
+  // The navbar is shared by the whole site and is generated in the default
+  // language, so re-point and re-label it when reading another language.
+  if (current === fallback) return;
+  const prefix = root + fallback + "/";
+  const labels = (cfg.labels || {})[current] || {};
+  document.querySelectorAll("#quarto-header a").forEach((anchor) => {
+    if (anchor.classList.contains("gita-lang-link")) return;
+    const url = new URL(anchor.href, location.href);
+    if (url.pathname.startsWith(prefix)) {
+      anchor.href =
+        root + current + "/" + url.pathname.slice(prefix.length) + url.hash;
+    }
+    const label = labels[anchor.textContent.trim()];
+    if (label) anchor.textContent = label;
+  });
+})();
+</script>

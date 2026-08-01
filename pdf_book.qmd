@@ -3,7 +3,7 @@ GENERATED FILE. DO NOT EDIT DIRECTLY.
 
 Edit instead:
 - data/bhagavadgita_ai_refined.xlsx for verse text
-- data/glossary.csv for glossary entries
+- data/glossary.en.csv for glossary entries
 - tools/2_generate_pdf_book.py for PDF generation logic
 
 Then run:
@@ -14,7 +14,7 @@ Then run:
 ---
 title: "Bhagavad Gita"
 subtitle: "English draft"
-output-file: "bhagavad-gita"
+output-file: "bhagavad-gita-en"
 format:
   pdf:
     documentclass: scrartcl
@@ -183,7 +183,7 @@ Then, seeing Dhritarashtra's sons arrayed, as the clash of weapons was about to 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.21} \textit{(Arjuna)}\par
-and spoke these words to Hrishikesha, O king: "O Acyuta, place my chariot between the two armies,
+and spoke these words to Hrishikesha, O king: O Acyuta, place my chariot between the two armies,
 \par\endgroup
 \vspace{0.42em}
 
@@ -232,7 +232,7 @@ fathers-in-law and companions too, in both armies. Seeing all these kinsmen arra
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.28} \textit{(Arjuna)}\par
-the son of Kunti was overcome with deep compassion, and in sorrow he said: "Seeing my own people, Krishna, gathered here eager to fight,
+the son of Kunti was overcome with deep compassion, and in sorrow he said: Seeing my own people, Krishna, gathered here eager to fight,
 \par\endgroup
 \vspace{0.42em}
 
@@ -323,7 +323,7 @@ When a family is ruined, its ancient dharmas perish; and when dharma perishes, a
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.41} \textit{(Arjuna)}\par
-When adharma prevails, O Krishna, the women of the family are corrupted; and when the women are corrupted, O Varshneya, there arises confusion of order.
+When adharma prevails, O Krishna, the women of the family are corrupted; and when the women are corrupted, O Varshneya, there arises intermingling of social orders.
 \par\endgroup
 \vspace{0.42em}
 
@@ -337,7 +337,7 @@ This confusion brings only hell for the family and for those who ruin it; their 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{1.43} \textit{(Arjuna)}\par
-By these faults of the family-destroyers, which bring about confusion of varna, the eternal dharmas of community and family are undone.
+By these faults of the family-destroyers, which bring about intermingling of social orders, the eternal dharmas of community and family are undone.
 \par\endgroup
 \vspace{0.42em}
 
@@ -431,7 +431,7 @@ For I see nothing that could drive away the grief withering my senses, even were
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.9} \textit{(Sanjaya)}\par
-Having spoken thus to Hrishikesha, Gudakesha, scorcher of foes, said to Govinda, "I will not fight," and fell silent.
+Having spoken thus to Hrishikesha, Gudakesha, scorcher of foes, said to Govinda, 'I will not fight,' and fell silent.
 \par\endgroup
 \vspace{0.42em}
 
@@ -480,7 +480,7 @@ The one whom these do not trouble, O best of men, who is steady, alike in pain a
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.16} \textit{(Krishna)}\par
-Of the unreal there is no being; of the real there is no ceasing to be. The seers of truth have discerned the conclusion of both.
+Of the unreal there is no being; of the real there is no ceasing to be. The seers of truth have discerned the ultimate nature of both.
 \par\endgroup
 \vspace{0.42em}
 
@@ -683,7 +683,7 @@ For those attached to enjoyment and power, whose minds are carried away by such 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.45} \textit{(Krishna)}\par
-The Vedas treat of the three gunas; be free of the three gunas, O Arjuna—beyond the pairs of opposites, ever poised in purity, indifferent to gain and safety, and possessed of the self.
+The Vedas treat of the three gunas; be free of the three gunas, O Arjuna—beyond the pairs of opposites, ever poised in purity, free from concern with acquiring and preserving, and possessed of the self.
 \par\endgroup
 \vspace{0.42em}
 
@@ -823,14 +823,14 @@ But one who moves among the objects of sense with senses freed from attachment a
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.65} \textit{(Krishna)}\par
-In serenity, all his sorrows are dissolved; because the discernment of the one who is serene soon becomes steady.
+In serenity, all his sorrows are dissolved; for the understanding of one whose mind is serene soon becomes steady.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.66} \textit{(Krishna)}\par
-For the one who is not steady there is no stable understanding and no inner orientation; without inner orientation, there is no peace, and for one without peace, how can there be happiness?
+For the one who is not steady there is no stable understanding and no contemplation; without contemplation there is no peace, and for one without peace, how can there be happiness?
 \par\endgroup
 \vspace{0.42em}
 
@@ -851,7 +851,7 @@ Therefore, O mighty-armed one, for the one whose senses are wholly restrained fr
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.69} \textit{(Krishna)}\par
-What is night for all beings is the waking of the disciplined one;  where beings are awake, there it is night for the sage who sees.
+What is night for all beings is the waking of the disciplined one; where beings are awake, there it is night for the sage who sees.
 \par\endgroup
 \vspace{0.42em}
 
@@ -945,7 +945,7 @@ This world is bound by action, except when action is done as yajna; therefore, O
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.10} \textit{(Krishna)}\par
-Having created humankind together with yajna, Prajapati said of old: "By this you shall increase; let it be the cow that grants your desires.
+Having created beings together with yajna, Prajapati said in the beginning: Through yajna you shall prosper; let it be for you like a cow that grants your desires.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1036,7 +1036,7 @@ There is nothing in the three worlds I need to do, O Partha, nor anything unatta
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.23} \textit{(Krishna)}\par
-For if I did not remain ever tireless in action, O Partha, people everywhere would follow my path.
+For if I did not remain ever tireless in action, O Partha, people would follow my way in every respect.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1169,7 +1169,7 @@ Therefore, O best of the Bharatas, first master your senses, then strike down th
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.42} \textit{(Krishna)}\par
-The senses, they say, are high; higher than the senses is the mind; higher than the mind is the understanding; and higher than the understanding is the self.
+The senses, they say, are superior; higher than the senses is the mind; higher than the mind is the understanding; and higher than the understanding is the self.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1298,7 +1298,7 @@ What is action? What is inaction? On this even the wise are bewildered. I shall 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{4.17} \textit{(Krishna)}\par
-One must understand action, and must understand wrong action, and must understand inaction too; deep is the way of karma.
+One must understand action, and must understand wrong action, and must understand inaction too; deep is the way of action.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1375,7 +1375,7 @@ And others offer all the workings of the senses and the workings of the breath i
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{4.28} \textit{(Krishna)}\par
-Others again make their sacrifice with wealth, with austerity, with yoga, and with study and knowledge—ascetics of keen vows.
+Others again make their sacrifice with wealth, with austerity, with yoga, and with study and knowledge—ascetics of stern vows.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1539,7 +1539,7 @@ Yoked in yoga, his self purified, self-mastered, his senses subdued, his self be
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.9} \textit{(Krishna)}\par
-speaking, releasing, grasping, opening and closing the eyes—convinced that it is only the senses moving among the objects of sense.
+speaking, discharging, grasping, opening and closing the eyes—convinced that it is only the senses moving among the objects of sense.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1850,7 +1850,7 @@ let it be known that this severance of all union with sorrow is what is called y
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.24} \textit{(Krishna)}\par
-Abandoning without remainder all desires born of self-will, restraining the whole throng of senses on every side by the mind alone,
+Abandoning without remainder all desires born of self-will, restraining the whole host of senses on every side by the mind alone,
 \par\endgroup
 \vspace{0.42em}
 
@@ -1934,7 +1934,7 @@ No doubt, O mighty-armed one, the mind is hard to restrain and restless; but by 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.36} \textit{(Krishna)}\par
-Yoga is hard to reach, I agree, for one whose self is unrestrained; but for one who strives, self-controlled, it can be attained by the right means.
+Yoga is hard to reach, such is my view, for one whose self is unrestrained; but for one who strives, self-controlled, it can be attained by the right means.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1990,7 +1990,7 @@ There he regains the union of understanding gained in his former body, and from 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.44} \textit{(Krishna)}\par
-By that very former practice he is carried onward, even against his will; even one who merely seeks to know yoga passes beyond the formalistic domain of the words of the Vedas.
+By that very former practice he is carried onward, even against his will; even one who merely seeks to know yoga passes beyond the word of the Vedas.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2346,7 +2346,7 @@ From the world of Brahma downward, all worlds are subject to return, Arjuna; but
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.17} \textit{(Krishna)}\par
-Those who know that Brahma's day lasts a thousand ages, and his night ends after a thousand ages—they are the people who know day and night.
+Those who know that Brahma's day lasts a thousand ages, and his night ends after a thousand ages—they are the knowers of day and night.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2510,7 +2510,7 @@ The foolish scorn me when I have taken on a human form, not knowing my higher be
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{9.12} \textit{(Krishna)}\par
-Their hopes vain, their actions vain, their knowledge vain, bereft of sense, they fall into a deluding, fiendish, and brutish nature.
+Their hopes vain, their actions vain, their knowledge vain, bereft of sense, they fall into a deluding nature, fiendish and demonic.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2531,7 +2531,7 @@ Ever glorifying me, striving with firm vows, bowing before me with devotion, the
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{9.15} \textit{(Krishna)}\par
-Others, offering the sacrifice of knowledge, worship me as the one, as the many, and as facing in all directions, in my manifold forms.
+Others, offering the sacrifice of knowledge, worship me in oneness, in separateness, and in manifold forms, as the one whose faces are everywhere.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2723,7 +2723,7 @@ He who knows in truth this glory and yoga of mine is yoked with unshaken yoga; o
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.8} \textit{(Krishna)}\par
-I am the origin of all; from me everything proceeds. Knowing this, the wise, filled with feeling, worship me.
+I am the origin of all; from me everything proceeds. Knowing this, the wise, filled with fervor, worship me.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2807,7 +2807,7 @@ So be it: I shall tell you of my divine glories—but only the chief of them, O 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.20} \textit{(Krishna)}\par
-I am the true Self (Atman), O Gudakesha, seated in the heart of all beings; I am the beginning, the middle, and the end of beings.
+I am the Atman, O Gudakesha, seated in the heart of all beings; I am the beginning, the middle, and the end of beings.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2898,14 +2898,14 @@ Of creations I am the beginning, the end, and the middle, Arjuna; of branches of
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.33} \textit{(Krishna)}\par
-Of letters I am "A"; of grammatical compounds I am the dual word. I am the inexhaustible time, the creator, and the omnipresent sustainer.
+Of letters I am "A"; of compounds I am the copulative compound. I am inexhaustible time, and the ordainer whose faces are everywhere.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.34} \textit{(Krishna)}\par
-I am all-devouring death, and the origin of things to come; among feminine powers I am fame, fortune, speech, memory, wisdom, steadfastness, and patience.
+I am all-devouring death, and the origin of things to come; among women I am fame, fortune, speech, memory, wisdom, steadfastness, and patience.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3188,7 +3188,7 @@ Tell me who you are, so terrible in form. Homage to you, O best of gods; be grac
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{11.32} \textit{(Krishna)}\par
-I am Time, the almighty destroyer of the worlds, here at work to gather the worlds in. Even without you, the warriors arrayed in the opposing ranks shall all cease to be.
+I am Time, grown mighty, destroyer of the worlds, here at work to gather the worlds in. Even without you, the warriors arrayed in the opposing ranks shall all cease to be.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3209,7 +3209,7 @@ Drona, Bhishma, Jayadratha, Karna, and the other warrior-heroes as well—slay t
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{11.35} \textit{(Sanjaya)}\par
-Hearing these words of Keshava, the diademed one, trembling, with folded hands, bowed again to Krishna and, faltering and terrified, prostrate, spoke once more:
+Hearing these words of Keshava, the diademed one, trembling, joined his palms and bowed; then, prostrating himself in terror, he spoke again to Krishna in a faltering voice:
 \par\endgroup
 \vspace{0.42em}
 
@@ -3265,7 +3265,7 @@ And if, in jest, I slighted you while at play, resting, sitting, or at meals, al
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{11.43} \textit{(Arjuna)}\par
-You are the father of this world, moving and unmoving, its object of worship and most venerable teacher; there is none equal to you—how then a greater?—O unrivaled in power in the three worlds.
+You are the father of this world, moving and unmoving, its object of worship and most venerable teacher; there is none equal to you; how then could any be greater, O you of matchless power in the three worlds?
 \par\endgroup
 \vspace{0.42em}
 
@@ -3380,7 +3380,7 @@ But those who worship the imperishable, the undefinable, the unmanifest, all-per
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{12.4} \textit{(Krishna)}\par
-having restrained the whole set of senses, even-minded in all circumstances, rejoicing in the welfare of all beings—they too attain me.
+having restrained the whole host of senses, even-minded in all circumstances, rejoicing in the welfare of all beings—they too attain me.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3530,7 +3530,7 @@ What that field is, of what kind, with what changes, whence it arises, and who h
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{13.5} \textit{(Krishna)}\par
-This has been sung by seers in many ways, in various hymns, and in the well-reasoned, definitive words of the aphorisms on Brahman.
+This has been sung by seers in many ways, in various hymns, and in well-reasoned, conclusive aphorisms concerning Brahman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3656,7 +3656,7 @@ For purusha, seated in prakriti, experiences the gunas born of prakriti; attachm
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{13.23} \textit{(Krishna)}\par
-The supreme purusha in this body is also called the witness, the consenter, the bearer, the experiencer, the great lord, and the supreme Atman.
+The supreme purusha in this body is also called the witness, the one who permits, the sustainer, the experiencer, the great lord, and the supreme Atman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3677,7 +3677,7 @@ Some, by meditation, see the self in the self by the self; others by the yoga of
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{13.26} \textit{(Krishna)}\par
-Others, not knowing this themselves, worship on the basis of having heard it from others; they too, devoted to what they hear, cross beyond death.
+Others, not knowing this themselves, worship as they have heard it from others; they too, devoted to what they hear, cross beyond death.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3897,7 +3897,7 @@ By what marks is the one who has passed beyond these three gunas known, O lord? 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{14.22} \textit{(Krishna)}\par
-He neither shuns light, activity, or delusion when they come, O Pandava, nor longs for them when they go;
+He does not shun light, activity, or delusion when they come, O Pandava, nor long for them when they go;
 \par\endgroup
 \vspace{0.42em}
 
@@ -3963,7 +3963,7 @@ Its form is not perceived here as it is—no end, no beginning, no resting place
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{15.4} \textit{(Krishna)}\par
-one must then seek that place from which, having gone, none return again. 'I take refuge in that primal person, from whom the ancient unfolding streamed forth.'
+one must then seek that place from which, having gone, none return again, with the resolve: "I take refuge in that primal person, from whom the ancient unfolding streamed forth."
 \par\endgroup
 \vspace{0.42em}
 
@@ -3984,7 +3984,7 @@ Neither sun nor moon nor fire lights up that place; having gone there, they do n
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{15.7} \textit{(Krishna)}\par
-A portion of myself, become an eternal living soul in the world of the living, draws to itself the senses, with the mind as the sixth, that rest in prakriti.
+An eternal portion of me, becoming a living being in the world of living beings, draws to itself the senses, with the mind as the sixth, which abide in prakriti.
 \par\endgroup
 \vspace{0.42em}
 
@@ -3998,7 +3998,7 @@ When it takes on a body, and when it departs from one, it carries these along, a
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{15.9} \textit{(Krishna)}\par
-Presiding over hearing, sight, touch, taste, and smell, and over the mind, it experiences the objects of sense.
+Presiding over hearing, sight, touch, taste, and smell, and over the mind, it experiences the objects of senses.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4204,7 +4204,7 @@ Self-important, stubborn, filled with the pride and intoxication of wealth, they
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{16.18} \textit{(Krishna)}\par
-Clinging to ego, force, insolence, desire, and anger, these spiteful people hate me in their own and others' bodies.
+Clinging to ego, strength, insolence, desire, and anger, these spiteful people hate me in their own and others' bodies.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4319,7 +4319,7 @@ Foods that are bitter, sour, salty, very hot, sharp, harsh, and burning are crav
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{17.10} \textit{(Krishna)}\par
-Food that is stale, tasteless, putrid, and left overnight, leavings, and what is unfit for offering, is dear to the tamasic.
+Food that is stale, tasteless, putrid, or left overnight, along with leavings and what is unfit for offering, is dear to the tamasic.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4340,7 +4340,7 @@ But the sacrifice offered with an eye to its fruit, or for show, know that to be
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{17.13} \textit{(Krishna)}\par
-A sacrifice offered against the rules, with no food distributed, without sacred words, gifts, or faith, they call tamasic.
+A sacrifice offered against the rules, with no food distributed, without sacred words, without the priestly fee, and without faith, they call tamasic.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4574,7 +4574,7 @@ He who is free of the sense of 'I,' whose understanding is untainted, though he 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.18} \textit{(Krishna)}\par
-Knowledge, the object of knowledge, and the knower—these are the threefold spur to action; the instrument, the act, and the agent—these are the threefold makeup of action.
+Knowledge, the object of knowledge, and the knower—these are the threefold spur to action; the instrument, the act, and the agent—these are the three components of action.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4819,14 +4819,14 @@ dwelling apart, eating little, his speech, body, and mind controlled, ever absor
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.53} \textit{(Krishna)}\par
-freed from ego, force, pride, desire, anger, and possession, without a sense of 'mine,' and at peace—he is fit for the state of Brahman.
+freed from ego, strength, pride, desire, anger, and possession, without a sense of 'mine,' and at peace—he is fit for the state of Brahman.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.54} \textit{(Krishna)}\par
-Having become the Brahman, serene in himself, this soul neither grieves nor craves; being equal toward all beings, attains supreme devotion to me.
+Having become Brahman, serene in himself, he neither grieves nor craves; equal toward all beings, he attains supreme devotion to me.
 \par\endgroup
 \vspace{0.42em}
 

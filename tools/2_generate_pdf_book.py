@@ -1,14 +1,48 @@
 from pathlib import Path
+import argparse
 import json
 import csv
 import re
 
 ROOT = Path(__file__).resolve().parents[1]
 VERSES_JSON = ROOT / "data" / "verses.json"
-GLOSSARY_CSV = ROOT / "data" / "glossary.csv"
-GLOSSARY_JSON = ROOT / "data" / "glossary.json"
 CHAPTER_TITLES_JSON = ROOT / "data" / "chapter_titles.json"
-OUT_QMD = ROOT / "pdf_book.qmd"
+
+LANGUAGES = {
+    "en": {
+        "output_qmd": ROOT / "pdf_book.qmd",
+        "output_pdf": "bhagavad-gita-en",
+        "subtitle": "English draft",
+        "intro": (
+            "The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, "
+            "chapters 23-40. This English draft was prepared from Google Translate "
+            "output and revised with GPT-5.4 mini."
+        ),
+        "chapter": "Chapter",
+        "glossary": "Glossary",
+        "forms": "Forms",
+        "glossary_csv": ROOT / "data" / "glossary.en.csv",
+        "glossary_json": ROOT / "data" / "glossary.json",
+        "glossary_groups": ["Concepts", "Social and ritual terms", "Names and epithets"],
+        "translation_keys": ["translation_en", "ai_refined_en", "english"],
+    },
+    "it": {
+        "output_qmd": ROOT / "pdf_book_it.qmd",
+        "output_pdf": "bhagavad-gita-it",
+        "subtitle": "Traduzione italiana",
+        "intro": (
+            "La Bhagavad Gita fa parte del Mahabharata, Libro 6, Bhishma Parva, "
+            "capitoli 23-40."
+        ),
+        "chapter": "Capitolo",
+        "glossary": "Glossario",
+        "forms": "Forme",
+        "glossary_csv": ROOT / "data" / "glossary.it.csv",
+        "glossary_json": ROOT / "data" / "glossary.it.json",
+        "glossary_groups": ["Concetti", "Termini sociali e rituali", "Nomi ed epiteti"],
+        "translation_keys": ["translation_it", "ai_refined_it", "italian_translation", "it_translation", "traduzione_italiana"],
+    },
+}
 
 DEFAULT_CHAPTER_TITLES = {
     1: "Arjuna Vishada Yoga",
@@ -87,7 +121,7 @@ def normalize_paragraphs(text):
     return parts
 
 
-def load_verses():
+def load_verses(language):
     data = read_json_file(VERSES_JSON)
     verses = []
     for item in data:
@@ -101,11 +135,7 @@ def load_verses():
                 "verse": int(verse),
                 "reference": f"{int(chapter)}.{int(verse)}",
                 "speaker": as_text(item.get("speaker")),
-                "translation": first_nonempty(
-                    item.get("translation_en"),
-                    item.get("ai_refined_en"),
-                    item.get("english"),
-                ),
+                "translation": first_nonempty(*(item.get(key) for key in LANGUAGES[language]["translation_keys"])),
             }
         )
     verses.sort(key=lambda item: (item["chapter"], item["verse"]))
@@ -144,14 +174,14 @@ def load_chapter_titles():
     return titles
 
 
-def load_glossary_csv():
+def load_glossary_csv(path):
     entries = []
-    with GLOSSARY_CSV.open(encoding="utf-8-sig", newline="") as handle:
+    with path.open(encoding="utf-8-sig", newline="") as handle:
         reader = csv.DictReader(handle)
         required = {"id", "term", "group", "definition", "variants"}
         missing = required.difference(reader.fieldnames or [])
         if missing:
-            raise ValueError(f"Missing columns in glossary.csv: {sorted(missing)}")
+            raise ValueError(f"Missing columns in {path.name}: {sorted(missing)}")
         for row in reader:
             variants = [piece.strip() for piece in row["variants"].split("|") if piece.strip()]
             entries.append(
@@ -177,8 +207,8 @@ def normalize_variants(value):
     return [text] if text else []
 
 
-def load_glossary_json():
-    data = read_json_file(GLOSSARY_JSON)
+def load_glossary_json(path):
+    data = read_json_file(path)
     entries = []
     for item in data:
         if not isinstance(item, dict):
@@ -195,17 +225,21 @@ def load_glossary_json():
     return entries
 
 
-def load_glossary():
-    if GLOSSARY_CSV.exists():
-        return load_glossary_csv()
-    if GLOSSARY_JSON.exists():
-        return load_glossary_json()
-    raise FileNotFoundError("Missing glossary source: data/glossary.csv or data/glossary.json")
+def load_glossary(language):
+    config = LANGUAGES[language]
+    if config["glossary_csv"].exists():
+        return load_glossary_csv(config["glossary_csv"])
+    if config["glossary_json"].exists():
+        return load_glossary_json(config["glossary_json"])
+    raise FileNotFoundError(
+        f"Missing glossary source for {language}: "
+        f"{config['glossary_csv'].name} or {config['glossary_json'].name}"
+    )
 
 
-def render_intro():
+def render_intro(language):
     return [
-        "The Bhagavad Gita is part of the Mahabharata, Book 6, Bhishma Parva, chapters 23-40. This English draft was prepared from Google Translate output and revised with GPT-5.4 mini.",
+        LANGUAGES[language]["intro"],
         "",
         r"\clearpage",
         "",
@@ -236,34 +270,36 @@ def render_verse(verse):
     return lines
 
 
-def render_chapters(verses, chapter_titles):
+def render_chapters(verses, chapter_titles, language):
     chapters = {}
     for verse in verses:
         chapters.setdefault(verse["chapter"], []).append(verse)
 
     parts = []
     for chapter in sorted(chapters):
-        title = escape_latex(chapter_titles.get(chapter, f"Chapter {chapter}"))
+        chapter_label = LANGUAGES[language]["chapter"]
+        title = escape_latex(chapter_titles.get(chapter, f"{chapter_label} {chapter}"))
         parts.append(r"\clearpage")
-        parts.append(f"# Chapter {chapter} - {title}")
+        parts.append(f"# {chapter_label} {chapter} - {title}")
         parts.append("")
         for verse in chapters[chapter]:
             parts.extend(render_verse(verse))
     return parts
 
 
-def render_glossary(entries):
-    grouped = {group: [] for group in GLOSSARY_GROUPS}
+def render_glossary(entries, language):
+    config = LANGUAGES[language]
+    grouped = {group: [] for group in config["glossary_groups"]}
     extra_groups = {}
     for entry in entries:
-        group = entry["group"] or "Concepts"
+        group = entry["group"] or config["glossary_groups"][0]
         if group in grouped:
             grouped[group].append(entry)
         else:
             extra_groups.setdefault(group, []).append(entry)
 
-    parts = [r"\clearpage", "# Glossary", ""]
-    ordered_groups = list(GLOSSARY_GROUPS) + sorted(extra_groups)
+    parts = [r"\clearpage", f"# {config['glossary']}", ""]
+    ordered_groups = list(config["glossary_groups"]) + sorted(extra_groups)
     for group in ordered_groups:
         items = grouped.get(group, []) or extra_groups.get(group, [])
         if not items:
@@ -277,17 +313,18 @@ def render_glossary(entries):
             line = f"\\item[{term}] {definition}"
             variants = [escape_latex(value) for value in item.get("variants", []) if as_text(value)]
             if variants:
-                line += f" \\textit{{Forms: {' | '.join(variants)}}}"
+                line += f" \\textit{{{config['forms']}: {' | '.join(variants)}}}"
             parts.append(line)
         parts.append(r"\end{description}")
         parts.append("")
     return parts
 
 
-def build_qmd():
-    verses = load_verses()
+def build_qmd(language):
+    config = LANGUAGES[language]
+    verses = load_verses(language)
     chapter_titles = load_chapter_titles()
-    glossary = load_glossary()
+    glossary = load_glossary(language)
 
     parts = [
         "<!--",
@@ -295,18 +332,18 @@ def build_qmd():
         "",
         "Edit instead:",
         "- data/bhagavadgita_ai_refined.xlsx for verse text",
-        "- data/glossary.csv for glossary entries",
+        f"- {config['glossary_csv'].relative_to(ROOT).as_posix()} for glossary entries",
         "- tools/2_generate_pdf_book.py for PDF generation logic",
         "",
         "Then run:",
         "    python tools\\2_generate_pdf_book.py",
-        "    quarto render pdf_book.qmd --to pdf",
+        f"    quarto render {config['output_qmd'].name} --to pdf",
         "-->",
         "",
         "---",
         'title: "Bhagavad Gita"',
-        'subtitle: "English draft"',
-        'output-file: "bhagavad-gita"',
+        f'subtitle: "{config["subtitle"]}"',
+        f'output-file: "{config["output_pdf"]}"',
         "format:",
         "  pdf:",
         "    documentclass: scrartcl",
@@ -326,15 +363,21 @@ def build_qmd():
         "---",
         "",
     ]
-    parts.extend(render_intro())
-    parts.extend(render_chapters(verses, chapter_titles))
-    parts.extend(render_glossary(glossary))
+    parts.extend(render_intro(language))
+    parts.extend(render_chapters(verses, chapter_titles, language))
+    parts.extend(render_glossary(glossary, language))
     return "\n".join(parts).rstrip() + "\n"
 
 
 def main():
-    OUT_QMD.write_text(build_qmd(), encoding="utf-8")
-    print(f"Wrote {OUT_QMD}")
+    parser = argparse.ArgumentParser(description="Generate the PDF source files.")
+    parser.add_argument("--lang", choices=LANGUAGES, help="Generate only one language.")
+    args = parser.parse_args()
+    languages = [args.lang] if args.lang else LANGUAGES
+    for language in languages:
+        output = LANGUAGES[language]["output_qmd"]
+        output.write_text(build_qmd(language), encoding="utf-8")
+        print(f"Wrote {output}")
 
 
 if __name__ == "__main__":
