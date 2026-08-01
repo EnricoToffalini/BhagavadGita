@@ -1,6 +1,9 @@
 ---
 title: "Capitolo 11 - Vishvarupa-Darshana Yoga"
 lang: it
+pagetitle: "Bhagavad Gita, capitolo 11 — Traduzione italiana con sanscrito"
+title-prefix: ""
+description-meta: "Traduzione italiana del capitolo 11 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
 sidebar: it
 ---
 

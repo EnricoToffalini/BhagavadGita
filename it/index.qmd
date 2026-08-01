@@ -1,7 +1,13 @@
 ---
 title: "Bhagavad Gita"
 lang: it
+pagetitle: "Bhagavad Gita — traduzione italiana semplice e letterale"
+title-prefix: ""
+description-meta: "Traduzione italiana leggibile e il più possibile letterale della Bhagavad Gita, con testo sanscrito, glossario e PDF gratuito."
 sidebar: it
+format:
+  html:
+    include-in-header: seo-head.html
 ---
 
 <!--

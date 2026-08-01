@@ -1,6 +1,9 @@
 ---
 title: "Capitolo 17 - Shraddha-Traya Vibhaga Yoga"
 lang: it
+pagetitle: "Bhagavad Gita, capitolo 17 — Traduzione italiana con sanscrito"
+title-prefix: ""
+description-meta: "Traduzione italiana del capitolo 17 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
 sidebar: it
 ---
 

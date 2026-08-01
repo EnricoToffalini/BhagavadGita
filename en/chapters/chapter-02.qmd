@@ -1,6 +1,9 @@
 ---
 title: "Chapter 2 - Sankhya Yoga"
 lang: en
+pagetitle: "Bhagavad Gita Chapter 2 — English Translation with Sanskrit"
+title-prefix: ""
+description-meta: "English translation of Bhagavad Gita Chapter 2, with the original Sanskrit text and brief glossary notes."
 sidebar: en
 ---
 

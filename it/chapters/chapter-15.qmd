@@ -1,6 +1,9 @@
 ---
 title: "Capitolo 15 - Purushottama Yoga"
 lang: it
+pagetitle: "Bhagavad Gita, capitolo 15 — Traduzione italiana con sanscrito"
+title-prefix: ""
+description-meta: "Traduzione italiana del capitolo 15 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
 sidebar: it
 ---
 

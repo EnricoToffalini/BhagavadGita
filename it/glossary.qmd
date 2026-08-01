@@ -1,6 +1,9 @@
 ---
 title: "Glossario"
 lang: it
+pagetitle: "Glossario della Bhagavad Gita — Sanscrito e italiano"
+title-prefix: ""
+description-meta: "Glossario essenziale dei principali termini sanscriti della Bhagavad Gita, con spiegazioni in italiano."
 sidebar: it
 ---
 
@@ -103,12 +106,12 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-sattva">
 <h3>sattva</h3>
 <p>Il guna associato a chiarezza, equilibrio e illuminazione.</p>
-<p class="glossary-variants">Forme nel testo: Sattva, sattva, sattvica, sattvici, sattvico</p>
+<p class="glossary-variants">Forme nel testo: sattva, Sattva, sattvica, sattvici, sattvico</p>
 </section>
 <section class="glossary-entry" id="glossary-tamas">
 <h3>tamas</h3>
 <p>Il guna associato a inerzia, ottusità, confusione e ostruzione.</p>
-<p class="glossary-variants">Forme nel testo: Tamas, tamas, tamasica, tamasici, tamasico</p>
+<p class="glossary-variants">Forme nel testo: tamas, Tamas, tamasica, tamasici, tamasico</p>
 </section>
 <section class="glossary-entry" id="glossary-vedanta">
 <h3>Vedanta</h3>

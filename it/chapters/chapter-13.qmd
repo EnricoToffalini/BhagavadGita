@@ -1,6 +1,9 @@
 ---
 title: "Capitolo 13 - Kshetra-Kshetrajna Vibhaga Yoga"
 lang: it
+pagetitle: "Bhagavad Gita, capitolo 13 — Traduzione italiana con sanscrito"
+title-prefix: ""
+description-meta: "Traduzione italiana del capitolo 13 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
 sidebar: it
 ---
 

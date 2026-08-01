@@ -1,6 +1,9 @@
 ---
 title: "Capitolo 2 - Sankhya Yoga"
 lang: it
+pagetitle: "Bhagavad Gita, capitolo 2 — Traduzione italiana con sanscrito"
+title-prefix: ""
+description-meta: "Traduzione italiana del capitolo 2 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
 sidebar: it
 ---
 

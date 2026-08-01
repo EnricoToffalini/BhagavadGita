@@ -1,6 +1,9 @@
 ---
 title: "Chapter 17 - Shraddha-Traya Vibhaga Yoga"
 lang: en
+pagetitle: "Bhagavad Gita Chapter 17 — English Translation with Sanskrit"
+title-prefix: ""
+description-meta: "English translation of Bhagavad Gita Chapter 17, with the original Sanskrit text and brief glossary notes."
 sidebar: en
 ---
 

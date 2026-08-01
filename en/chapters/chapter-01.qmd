@@ -1,6 +1,9 @@
 ---
 title: "Chapter 1 - Arjuna Vishada Yoga"
 lang: en
+pagetitle: "Bhagavad Gita Chapter 1 — English Translation with Sanskrit"
+title-prefix: ""
+description-meta: "English translation of Bhagavad Gita Chapter 1, with the original Sanskrit text and brief glossary notes."
 sidebar: en
 ---
 

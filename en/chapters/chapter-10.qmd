@@ -1,6 +1,9 @@
 ---
 title: "Chapter 10 - Vibhuti Yoga"
 lang: en
+pagetitle: "Bhagavad Gita Chapter 10 — English Translation with Sanskrit"
+title-prefix: ""
+description-meta: "English translation of Bhagavad Gita Chapter 10, with the original Sanskrit text and brief glossary notes."
 sidebar: en
 ---
 

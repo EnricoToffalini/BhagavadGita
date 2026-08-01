@@ -1,6 +1,9 @@
 ---
 title: "Chapter 3 - Karma Yoga"
 lang: en
+pagetitle: "Bhagavad Gita Chapter 3 — English Translation with Sanskrit"
+title-prefix: ""
+description-meta: "English translation of Bhagavad Gita Chapter 3, with the original Sanskrit text and brief glossary notes."
 sidebar: en
 ---
 

@@ -42,6 +42,8 @@ Then run:
 '''
 
 SITE_TITLE = 'Bhagavad Gita'
+SITE_URL = 'https://enricotoffalini.github.io/BhagavadGita/'
+TRANSLATOR = 'Enrico Toffalini'
 SITE_TITLE_SANSKRIT = 'भगवद्गीता'
 
 # Conventional romanized chapter titles, aligned with the Sanskrit titles in the
@@ -120,6 +122,27 @@ LANGS = {
             'A compact guide to transliterated Sanskrit terms and recurring names '
             'used in the English rendering.'
         ),
+        'seo': {
+            'home_title': 'Bhagavad Gita — Simple and Literal English Translation',
+            'home_description': (
+                'A readable and as-literal-as-possible English translation of the '
+                'Bhagavad Gita, with Sanskrit text, glossary, and free PDF.'
+            ),
+            'glossary_title': 'Bhagavad Gita Glossary — Sanskrit and English',
+            'glossary_description': (
+                'An essential glossary of key Sanskrit terms in the Bhagavad Gita, '
+                'with explanations in English.'
+            ),
+            'chapter_title': 'Bhagavad Gita Chapter {chapter} — English Translation with Sanskrit',
+            'chapter_description': (
+                'English translation of Bhagavad Gita Chapter {chapter}, with the '
+                'original Sanskrit text and brief glossary notes.'
+            ),
+            'book_description': (
+                'A readable and as-literal-as-possible English translation of the '
+                'Bhagavad Gita, with Sanskrit text and glossary.'
+            ),
+        },
     },
     'it': {
         'label': 'Italiano',
@@ -167,6 +190,27 @@ LANGS = {
             'Una guida essenziale ai termini sanscriti traslitterati e ai nomi '
             'ricorrenti nella traduzione italiana.'
         ),
+        'seo': {
+            'home_title': 'Bhagavad Gita — traduzione italiana semplice e letterale',
+            'home_description': (
+                'Traduzione italiana leggibile e il più possibile letterale della '
+                'Bhagavad Gita, con testo sanscrito, glossario e PDF gratuito.'
+            ),
+            'glossary_title': 'Glossario della Bhagavad Gita — Sanscrito e italiano',
+            'glossary_description': (
+                'Glossario essenziale dei principali termini sanscriti della '
+                'Bhagavad Gita, con spiegazioni in italiano.'
+            ),
+            'chapter_title': 'Bhagavad Gita, capitolo {chapter} — Traduzione italiana con sanscrito',
+            'chapter_description': (
+                'Traduzione italiana del capitolo {chapter} della Bhagavad Gita, '
+                'con testo sanscrito e brevi note di glossario.'
+            ),
+            'book_description': (
+                'Traduzione italiana leggibile e il più possibile letterale della '
+                'Bhagavad Gita, con testo sanscrito e glossario.'
+            ),
+        },
     },
 }
 
@@ -430,10 +474,22 @@ def glossary_banner(lang, glossaries):
     return [f'<div class="lang-pending">{esc(note)}</div>', '']
 
 
-def page_header(title, lang, sidebar_id=None):
+def page_header(title, lang, sidebar_id=None, pagetitle=None, description=None,
+                include_in_header=None):
     parts = ['---', f'title: "{title}"', f'lang: {lang}']
+    if pagetitle:
+        parts.append(f'pagetitle: {json.dumps(pagetitle, ensure_ascii=False)}')
+        parts.append('title-prefix: ""')
+    if description:
+        parts.append(f'description-meta: {json.dumps(description, ensure_ascii=False)}')
     if sidebar_id:
         parts.append(f'sidebar: {sidebar_id}')
+    if include_in_header:
+        parts += [
+            'format:',
+            '  html:',
+            f'    include-in-header: {include_in_header}',
+        ]
     parts += ['---', '']
     return parts
 
@@ -492,6 +548,7 @@ project:
 
 website:
   title: "{SITE_TITLE}"
+  site-url: {SITE_URL}
   search: false
   page-navigation: true
   navbar:
@@ -519,6 +576,7 @@ format:
     smooth-scroll: true
     anchor-sections: false
     link-external-newwindow: true
+    canonical-url: true
 '''
     (OUT / '_quarto.yml').write_text(quarto_yml, encoding='utf-8')
 
@@ -556,6 +614,29 @@ def write_lang_config(chapters):
     (OUT / 'lang-config.html').write_text(
         '<!-- GENERATED FILE. Edit LANGS in tools/0_generate_site.py instead. -->\n'
         f'<script>\nwindow.GITA_LANG = {body};\n</script>\n',
+        encoding='utf-8',
+    )
+
+
+def write_seo_head(lang):
+    """Write the language-specific Book JSON-LD included by each language home."""
+    seo = LANGS[lang]['seo']
+    data = {
+        '@context': 'https://schema.org',
+        '@type': 'Book',
+        'name': SITE_TITLE,
+        'alternateName': seo['home_title'],
+        'inLanguage': [lang, 'sa'],
+        'translator': {
+            '@type': 'Person',
+            'name': TRANSLATOR,
+        },
+        'description': seo['book_description'],
+        'url': f'{SITE_URL}{lang}/',
+    }
+    body = json.dumps(data, ensure_ascii=False, indent=2)
+    (OUT / lang / 'seo-head.html').write_text(
+        f'<script type="application/ld+json">\n{body}\n</script>\n',
         encoding='utf-8',
     )
 
@@ -605,6 +686,7 @@ def write_root_index():
 def write_index(lang, chapters):
     cfg = LANGS[lang]
     ui = cfg['ui']
+    seo = cfg['seo']
     cards = []
     for ch in sorted(chapters):
         count = len(chapters[ch])
@@ -616,7 +698,14 @@ def write_index(lang, chapters):
             f'<span class="chapter-title">{esc(title_roman)}</span>'
             f'<span class="chapter-count">{count} {esc(verse_word)}</span></a>'
         )
-    parts = page_header(SITE_TITLE, lang, sidebar_id=lang)
+    parts = page_header(
+        SITE_TITLE,
+        lang,
+        sidebar_id=lang,
+        pagetitle=seo['home_title'],
+        description=seo['home_description'],
+        include_in_header='seo-head.html',
+    )
     parts += [
         GENERATED_FILE_NOTE,
         '',
@@ -648,6 +737,7 @@ def write_glossary(lang, glossaries, verses):
     glossary = glossaries[lang]
     cfg = LANGS[lang]
     ui = cfg['ui']
+    seo = cfg['seo']
     forms = glossary.forms_used(translation_for(v, lang)[0] for v in verses)
     groups = defaultdict(list)
     for item in glossary.entries:
@@ -656,7 +746,13 @@ def write_glossary(lang, glossaries, verses):
     ordered = list(cfg['glossary_groups'])
     ordered += sorted(g for g in groups if g not in ordered)
 
-    parts = page_header(ui['glossary'], lang, sidebar_id=lang)
+    parts = page_header(
+        ui['glossary'],
+        lang,
+        sidebar_id=lang,
+        pagetitle=seo['glossary_title'],
+        description=seo['glossary_description'],
+    )
     parts += [GENERATED_FILE_NOTE, '']
     parts += glossary_banner(lang, glossaries)
     parts += [
@@ -691,6 +787,7 @@ def write_glossary(lang, glossaries, verses):
 
 def write_chapters(lang, chapters, glossary):
     ui = LANGS[lang]['ui']
+    seo = LANGS[lang]['seo']
     chapter_dir = OUT / lang / 'chapters'
     chapter_dir.mkdir(parents=True, exist_ok=True)
     for old in chapter_dir.glob('chapter-*.qmd'):
@@ -711,7 +808,13 @@ def write_chapters(lang, chapters, glossary):
             f'<a href="chapter-{next_ch:02d}.html">{esc(ui["next_chapter"])}</a>'
             if next_ch else '<span></span>'
         )
-        parts = page_header(f'{ui["chapter"]} {ch} - {title_roman}', lang, sidebar_id=lang)
+        parts = page_header(
+            f'{ui["chapter"]} {ch} - {title_roman}',
+            lang,
+            sidebar_id=lang,
+            pagetitle=seo['chapter_title'].format(chapter=ch),
+            description=seo['chapter_description'].format(chapter=ch),
+        )
         parts += [GENERATED_FILE_NOTE, '']
         if title_sanskrit:
             parts += [
@@ -857,6 +960,7 @@ def main():
     for lang in LANG_ORDER:
         glossary = glossaries[lang]
         (OUT / lang).mkdir(exist_ok=True)
+        write_seo_head(lang)
         with open(OUT / 'data' / f'glossary.{lang}.json', 'w', encoding='utf-8') as f:
             json.dump(glossary.payload(), f, ensure_ascii=False, indent=2)
         if lang == DEFAULT_LANG:

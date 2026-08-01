@@ -1,7 +1,13 @@
 ---
 title: "Bhagavad Gita"
 lang: en
+pagetitle: "Bhagavad Gita — Simple and Literal English Translation"
+title-prefix: ""
+description-meta: "A readable and as-literal-as-possible English translation of the Bhagavad Gita, with Sanskrit text, glossary, and free PDF."
 sidebar: en
+format:
+  html:
+    include-in-header: seo-head.html
 ---
 
 <!--

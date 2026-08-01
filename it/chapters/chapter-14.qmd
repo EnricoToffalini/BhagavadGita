@@ -1,6 +1,9 @@
 ---
 title: "Capitolo 14 - Guna-Traya Vibhaga Yoga"
 lang: it
+pagetitle: "Bhagavad Gita, capitolo 14 — Traduzione italiana con sanscrito"
+title-prefix: ""
+description-meta: "Traduzione italiana del capitolo 14 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
 sidebar: it
 ---
 

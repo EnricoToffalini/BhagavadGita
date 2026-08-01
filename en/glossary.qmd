@@ -1,6 +1,9 @@
 ---
 title: "Glossary"
 lang: en
+pagetitle: "Bhagavad Gita Glossary — Sanskrit and English"
+title-prefix: ""
+description-meta: "An essential glossary of key Sanskrit terms in the Bhagavad Gita, with explanations in English."
 sidebar: en
 ---
 
