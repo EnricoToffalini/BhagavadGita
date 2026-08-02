@@ -2,6 +2,7 @@
 GENERATED FILE. DO NOT EDIT DIRECTLY.
 
 Edit instead:
+- data/intro.json for the introductory note
 - data/bhagavadgita_ai_refined.xlsx for verse text
 - data/glossary.en.csv for glossary entries
 - tools/2_generate_pdf_book.py for PDF generation logic
@@ -33,7 +34,11 @@ format:
     include-before-body: pdf/cover-en.tex
 ---
 
-The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, chapters 23–40. This English version was prepared from Google Translate output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, along with some manual editing. The aim was to produce an English translation that is readable, unbiased, and as literal as possible.
+This English version was prepared from Google Translate output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, along with some manual editing. The aim was to produce an English translation that is readable, unbiased, and as literal as possible.
+
+\vspace{0.2em}
+
+The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, chapters 23–40. It is a dialogue set on a battlefield. Its protagonists are Arjuna, who hesitates to fight against his own relatives, and Krishna, an _avatar_ of God. Its theme is _dharma_: action in accordance with one's nature and the order of things. The answer is _yoga_: not gymnastics, but discipline (of action, knowledge, and love), free from attachment. The battle may perhaps be read as metaphorical. The text is rightly considered a synthesis and a masterpiece of Indian philosophy.
 
 \clearpage
 

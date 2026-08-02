@@ -7,6 +7,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 VERSES_JSON = ROOT / "data" / "verses.json"
 CHAPTER_TITLES_JSON = ROOT / "data" / "chapter_titles.json"
+INTRO_JSON = ROOT / "data" / "intro.json"
 
 LANGUAGES = {
     "en": {
@@ -14,13 +15,6 @@ LANGUAGES = {
         "output_pdf": "bhagavad-gita-en",
         "cover_tex": "pdf/cover-en.tex",
         "subtitle": "English draft",
-        "intro": (
-            "The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, "
-            "chapters 23–40. This English version was prepared from Google Translate "
-            "output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, along "
-            "with some manual editing. The aim was to produce an English translation "
-            "that is readable, unbiased, and as literal as possible."
-        ),
         "chapter": "Chapter",
         "glossary": "Glossary",
         "forms": "Forms",
@@ -34,14 +28,6 @@ LANGUAGES = {
         "output_pdf": "bhagavad-gita-it",
         "cover_tex": "pdf/cover-it.tex",
         "subtitle": "Traduzione italiana",
-        "intro": (
-            "La Bhagavad Gita fa parte del Mahabharata, Libro 6, il Bhishma Parva, "
-            "capitoli 23-40. Questa versione italiana è stata preparata a partire "
-            "dall'output di Google Translate, rivista con GPT-5.4/5.5/5.6 e "
-            "Claude-Opus-4.8/5.0, oltre a qualche revisione manuale. L’obiettivo era "
-            "produrre una traduzione italiana leggibile, imparziale e il più possibile "
-            "letterale."
-        ),
         "chapter": "Capitolo",
         "glossary": "Glossario",
         "forms": "Forme",
@@ -246,12 +232,19 @@ def load_glossary(language):
 
 
 def render_intro(language):
-    return [
-        LANGUAGES[language]["intro"],
-        "",
-        r"\clearpage",
-        "",
-    ]
+    intros = read_json_file(INTRO_JSON)
+    paragraphs = intros.get(language)
+    if not isinstance(paragraphs, list) or not paragraphs or not all(
+        isinstance(paragraph, str) and paragraph.strip() for paragraph in paragraphs
+    ):
+        raise ValueError(f"Missing or invalid introductory note for {language} in {INTRO_JSON}")
+    parts = []
+    for index, paragraph in enumerate(paragraphs):
+        parts.extend([paragraph, ""])
+        if index < len(paragraphs) - 1:
+            parts.extend([r"\vspace{0.2em}", ""])
+    parts.extend([r"\clearpage", ""])
+    return parts
 
 
 def render_verse(verse):
@@ -339,6 +332,7 @@ def build_qmd(language):
         "GENERATED FILE. DO NOT EDIT DIRECTLY.",
         "",
         "Edit instead:",
+        "- data/intro.json for the introductory note",
         "- data/bhagavadgita_ai_refined.xlsx for verse text",
         f"- {config['glossary_csv'].relative_to(ROOT).as_posix()} for glossary entries",
         "- tools/2_generate_pdf_book.py for PDF generation logic",

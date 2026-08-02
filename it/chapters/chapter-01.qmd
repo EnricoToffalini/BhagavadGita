@@ -11,6 +11,7 @@ sidebar: it
 GENERATED FILE. DO NOT EDIT DIRECTLY.
 
 Edit instead:
+- data/intro.json for the introductory note
 - data/glossary.en.csv / data/glossary.it.csv for glossary content
 - data/bhagavadgita_ai_refined.xlsx for verses/translations
 - tools/0_generate_site.py for generation logic and language settings

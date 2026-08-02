@@ -26,11 +26,13 @@ SRC_XLSX = ROOT / 'data' / 'bhagavadgita_ai_refined.xlsx'
 OUT = ROOT
 FLAG_SRC_DIR = ROOT / 'data'
 FLAG_OUT_DIR = ROOT / 'assets' / 'flags'
+INTRO_PATH = ROOT / 'data' / 'intro.json'
 
 GENERATED_FILE_NOTE = '''<!--
 GENERATED FILE. DO NOT EDIT DIRECTLY.
 
 Edit instead:
+- data/intro.json for the introductory note
 - data/glossary.en.csv / data/glossary.it.csv for glossary content
 - data/bhagavadgita_ai_refined.xlsx for verses/translations
 - tools/0_generate_site.py for generation logic and language settings
@@ -110,14 +112,6 @@ LANGS = {
             'pending_some': '',
             'pending_glossary': '',
         },
-        # Longer descriptive prose, kept as content rather than interface text.
-        'site_note': (
-                'The Bhagavad Gita is part of the Mahabharata, Book 6, the Bhishma Parva, '
-                'chapters 23–40. This English version was prepared from Google Translate '
-                'output and revised using GPT-5.4/5.5/5.6 and Claude Opus 4.8/5.0, '
-                'along with some manual editing. The aim was to produce an English translation '
-                'that is readable, unbiased, and as literal as possible.'
-        ),
         'glossary_note': (
             'A compact guide to transliterated Sanskrit terms and recurring names '
             'used in the English rendering.'
@@ -175,17 +169,6 @@ LANGS = {
                 'Il glossario non è ancora tradotto: le voci sono mostrate in inglese.'
             ),
         },
-        # TODO: the wording is a literal translation of the English note and
-        # still describes how the English draft was made; update the provenance
-        # to describe the Italian rendering.
-        'site_note': (
-            'La Bhagavad Gita fa parte del Mahabharata, Libro 6, il Bhishma Parva, '
-            'capitoli 23-40. Questa versione italiana è stata preparata a partire '
-            "dall'output di Google Translate, rivista con GPT-5.4/5.5/5.6 e "
-            'Claude-Opus-4.8/5.0, oltre a qualche revisione manuale. '
-            'L’obiettivo era produrre una traduzione italiana leggibile, imparziale '
-            'e il più possibile letterale.'
-        ),
         'glossary_note': (
             'Una guida essenziale ai termini sanscriti traslitterati e ai nomi '
             'ricorrenti nella traduzione italiana.'
@@ -240,6 +223,22 @@ def as_text(v):
 
 def esc(v):
     return html.escape(as_text(v), quote=True)
+
+
+def load_intro(lang):
+    with INTRO_PATH.open(encoding='utf-8') as handle:
+        intro = json.load(handle)
+    paragraphs = intro.get(lang)
+    if not isinstance(paragraphs, list) or not paragraphs or not all(
+        isinstance(paragraph, str) and paragraph.strip() for paragraph in paragraphs
+    ):
+        raise ValueError(f'Missing or invalid introductory note for {lang} in {INTRO_PATH}')
+    return paragraphs
+
+
+def intro_html(text):
+    """Escape intro prose and render its deliberately small Markdown subset."""
+    return re.sub(r'(?<!\w)_([^_\n]+)_(?!\w)', r'<i>\1</i>', esc(text))
 
 
 def speaker_display(v):
@@ -715,7 +714,7 @@ def write_index(lang, chapters):
     parts += pending_banner(lang, [v for items in chapters.values() for v in items])
     parts += [
         '<div class="site-note">',
-        esc(cfg['site_note']),
+        *(f'<p>{intro_html(paragraph)}</p>' for paragraph in load_intro(lang)),
         '</div>',
         '',
         '<div class="site-usage">',

@@ -44,10 +44,18 @@ h1.title {
 }
 
 .site-note {
-  font-size: .98rem;
+  font-size: .9rem;
   line-height: 1.45;
   margin-top: .2rem;
   margin-bottom: .8rem;
+}
+
+.site-note p {
+  margin-bottom: .75rem;
+}
+
+.site-note p:last-child {
+  margin-bottom: 0;
 }
 
 .site-usage {
@@ -347,6 +355,7 @@ details.sanskrit summary {
 
 /* Glossary page: compact list */
 .glossary-note {
+  font-size: .84rem;
   margin-bottom: .8rem;
 }
 
