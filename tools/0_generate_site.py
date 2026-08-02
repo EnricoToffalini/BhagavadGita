@@ -566,11 +566,13 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://gita.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
     include-after-body:
       - glossary-tooltip.html
       - lang-config.html
       - lang-switch.html
-      - goatcounter.html
     toc: false
     smooth-scroll: true
     anchor-sections: false

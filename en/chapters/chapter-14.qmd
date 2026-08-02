@@ -357,7 +357,7 @@ Then run:
 <a class="ref" href="#v-14-26">14.26</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">And he who serves me with unswerving devotion, passing beyond these <span class="glossary-term" tabindex="0" data-gloss="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, becomes fit to become <span class="glossary-term" tabindex="0" data-gloss="The ultimate reality or absolute principle." aria-label="The ultimate reality or absolute principle." title="The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
+<p class="translation translation-en" data-lang="en">And he who serves me with unswerving devotion, passing beyond these <span class="glossary-term" tabindex="0" data-gloss="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, becomes able to attain <span class="glossary-term" tabindex="0" data-gloss="The ultimate reality or absolute principle." aria-label="The ultimate reality or absolute principle." title="The ultimate reality or absolute principle." data-glossary-id="brahman">Brahman</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">मां च योऽव्यभिचारेण भक्तियोगेन सेवते ।<br>

@@ -45,7 +45,7 @@ Then run:
 <a class="ref" href="#v-15-2">15.2</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Its branches spread below and above, nourished by the <span class="glossary-term" tabindex="0" data-gloss="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, with the objects of sense for buds; and below, its roots stretch on, binding to action in the world of men.</p>
+<p class="translation translation-en" data-lang="en">Its branches spread below and above, nourished by the <span class="glossary-term" tabindex="0" data-gloss="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." aria-label="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." title="A quality or constituent tendency of prakriti: sattva, rajas, and tamas." data-glossary-id="guna">gunas</span>, with the objects of sense for buds; and below, its roots stretch on too, binding to action in the world of men.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अधश्चोर्ध्वं प्रसृतास्तस्य शाखा<br>

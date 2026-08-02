@@ -32,7 +32,7 @@ Then run:
 <a class="ref" href="#v-15-1">15.1</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Si parla di un albero ashvattha imperituro, con le radici in alto e i rami in basso, le cui foglie sono gli inni; chi lo conosce conosce i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>.</p>
+<p class="translation translation-it" data-lang="it">Si parla di un albero ashvattha imperituro, con le radici in alto e i rami in basso, le cui foglie sono gli inni vedici; chi lo conosce conosce i <span class="glossary-term" tabindex="0" data-gloss="Antichi testi sacri della tradizione vedica." aria-label="Antichi testi sacri della tradizione vedica." title="Antichi testi sacri della tradizione vedica." data-glossary-id="veda">Veda</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।<br>
@@ -45,7 +45,7 @@ Then run:
 <a class="ref" href="#v-15-2">15.2</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">I suoi rami si estendono in basso e in alto, nutriti dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, con gli oggetti dei sensi come gemme; e in basso si protendono le sue radici, che legano all’azione nel mondo degli uomini.</p>
+<p class="translation translation-it" data-lang="it">I suoi rami si estendono in basso e in alto, nutriti dai <span class="glossary-term" tabindex="0" data-gloss="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." aria-label="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." title="Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas." data-glossary-id="guna">guna</span>, con gli oggetti dei sensi come gemme; e in basso si protendono anche le sue radici, che legano all’azione nel mondo degli uomini.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अधश्चोर्ध्वं प्रसृतास्तस्य शाखा<br>
