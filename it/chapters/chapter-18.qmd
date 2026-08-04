@@ -1,9 +1,9 @@
 ---
 title: "Capitolo 18 - Moksha-Sannyasa Yoga"
 lang: it
-pagetitle: "Bhagavad Gita, capitolo 18 — Traduzione italiana con sanscrito"
+pagetitle: "Capitolo 18 — Moksha-Sannyasa Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana del capitolo 18 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
+description-meta: "Capitolo 18, Moksha-Sannyasa Yoga, della Bhagavad Gita in sanscrito, con traduzione italiana letterale e note."
 sidebar: it
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">मोक्षसंन्यासयोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-17.html">Capitolo precedente</a><span></span></nav>
+<nav class="chapter-nav"><a href="chapter-17.html">Capitolo precedente</a><a class="chapter-home" href="../index.html">Home</a><span></span></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-18-1" data-reference="18.1">

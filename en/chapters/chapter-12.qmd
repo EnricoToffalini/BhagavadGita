@@ -1,9 +1,9 @@
 ---
 title: "Chapter 12 - Bhakti Yoga"
 lang: en
-pagetitle: "Bhagavad Gita Chapter 12 — English Translation with Sanskrit"
+pagetitle: "Chapter 12 — Bhakti Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "English translation of Bhagavad Gita Chapter 12, with the original Sanskrit text and brief glossary notes."
+description-meta: "Chapter 12, Bhakti Yoga, of the Bhagavad Gita, with the Sanskrit text, a literal English translation, and notes."
 sidebar: en
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">भक्तियोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-11.html">Previous chapter</a><a href="chapter-13.html">Next chapter</a></nav>
+<nav class="chapter-nav"><a href="chapter-11.html">Previous chapter</a><a class="chapter-home" href="../index.html">Home</a><a href="chapter-13.html">Next chapter</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-12-1" data-reference="12.1">

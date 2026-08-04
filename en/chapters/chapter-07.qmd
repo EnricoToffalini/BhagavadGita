@@ -1,9 +1,9 @@
 ---
 title: "Chapter 7 - Jnana-Vijnana Yoga"
 lang: en
-pagetitle: "Bhagavad Gita Chapter 7 — English Translation with Sanskrit"
+pagetitle: "Chapter 7 — Jnana-Vijnana Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "English translation of Bhagavad Gita Chapter 7, with the original Sanskrit text and brief glossary notes."
+description-meta: "Chapter 7, Jnana-Vijnana Yoga, of the Bhagavad Gita, with the Sanskrit text, a literal English translation, and notes."
 sidebar: en
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">ज्ञानविज्ञानयोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-06.html">Previous chapter</a><a href="chapter-08.html">Next chapter</a></nav>
+<nav class="chapter-nav"><a href="chapter-06.html">Previous chapter</a><a class="chapter-home" href="../index.html">Home</a><a href="chapter-08.html">Next chapter</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-7-1" data-reference="7.1">

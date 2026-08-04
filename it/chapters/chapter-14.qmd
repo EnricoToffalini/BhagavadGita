@@ -1,9 +1,9 @@
 ---
 title: "Capitolo 14 - Guna-Traya Vibhaga Yoga"
 lang: it
-pagetitle: "Bhagavad Gita, capitolo 14 — Traduzione italiana con sanscrito"
+pagetitle: "Capitolo 14 — Guna-Traya Vibhaga Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana del capitolo 14 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
+description-meta: "Capitolo 14, Guna-Traya Vibhaga Yoga, della Bhagavad Gita in sanscrito, con traduzione italiana letterale e note."
 sidebar: it
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">गुणत्रयविभागयोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-13.html">Capitolo precedente</a><a href="chapter-15.html">Capitolo successivo</a></nav>
+<nav class="chapter-nav"><a href="chapter-13.html">Capitolo precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="chapter-15.html">Capitolo successivo</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-14-1" data-reference="14.1">

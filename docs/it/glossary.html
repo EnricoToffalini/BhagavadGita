@@ -8,7 +8,7 @@
 
 <meta name="description" content="Glossario essenziale dei principali termini sanscriti della Bhagavad Gita, con spiegazioni in italiano.">
 
-<title>Glossario della Bhagavad Gita — Sanscrito e italiano</title>
+<title>Glossario della Bhagavad Gita — Sanscrito e italiano | Enrico Toffalini</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -53,6 +53,31 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <script data-goatcounter="https://gita.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+
+<script type="application/ld+json">
+
+{
+
+  "@context": "https://schema.org",
+
+  "@type": "WebSite",
+
+  "name": "Bhagavad Gita",
+
+  "url": "https://enricotoffalini.github.io/BhagavadGita/",
+
+  "inLanguage": [
+
+    "en",
+
+    "it"
+
+  ]
+
+}
+
+</script>
+
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -480,7 +505,7 @@ prakriti
 Natura, processo materiale, o il campo del mutamento e della manifestazione.
 </p>
 <p class="glossary-variants">
-Forme nel testo: prakriti, Prakriti
+Forme nel testo: Prakriti, prakriti
 </p>
 </section>
 <section class="glossary-entry" id="glossary-purusha">
@@ -557,7 +582,7 @@ tamas
 Il guna associato a inerzia, ottusità, confusione e ostruzione.
 </p>
 <p class="glossary-variants">
-Forme nel testo: tamas, Tamas, tamasica, tamasici, tamasico
+Forme nel testo: Tamas, tamas, tamasica, tamasici, tamasico
 </p>
 </section>
 <section class="glossary-entry" id="glossary-vedanta">
@@ -1319,22 +1344,19 @@ only and can be edited by hand.
   const target = (lang) =>
     root + lang + "/" + (known.size === 0 || known.has(page) ? page : "index.html");
 
-  // Point each flag at the counterpart of the page being read, and remember the
-  // choice so the root landing page can honour it next time.
+  // Point each flag at the counterpart of the page being read.  On the root
+  // landing page neither language is marked as the current content language.
   flagLinks.forEach(({ lang, anchor }) => {
     anchor.href = target(lang) + location.hash;
     anchor.setAttribute("hreflang", lang);
     anchor.classList.add("gita-lang-link");
-    anchor.classList.toggle("gita-lang-active", lang === current);
-    if (lang === current) anchor.setAttribute("aria-current", "true");
-    anchor.addEventListener("click", () => {
-      try { localStorage.setItem("gita-lang", lang); } catch (e) { /* private mode */ }
-    });
+    anchor.classList.toggle("gita-lang-active", inLanguage && lang === current);
+    if (inLanguage && lang === current) anchor.setAttribute("aria-current", "true");
   });
 
   // The navbar is shared by the whole site and is generated in the default
   // language, so re-point and re-label it when reading another language.
-  if (current === fallback) return;
+  if (!inLanguage || current === fallback) return;
   const prefix = root + fallback + "/";
   const labels = (cfg.labels || {})[current] || {};
   document.querySelectorAll("#quarto-header a").forEach((anchor) => {

@@ -1,9 +1,9 @@
 ---
 title: "Capitolo 1 - Arjuna Vishada Yoga"
 lang: it
-pagetitle: "Bhagavad Gita, capitolo 1 — Traduzione italiana con sanscrito"
+pagetitle: "Capitolo 1 — Arjuna Vishada Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana del capitolo 1 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
+description-meta: "Capitolo 1, Arjuna Vishada Yoga, della Bhagavad Gita in sanscrito, con traduzione italiana letterale e note."
 sidebar: it
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">अर्जुनविषादयोगः</div>
 
-<nav class="chapter-nav"><span></span><a href="chapter-02.html">Capitolo successivo</a></nav>
+<nav class="chapter-nav"><span></span><a class="chapter-home" href="../index.html">Home</a><a href="chapter-02.html">Capitolo successivo</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-1-1" data-reference="1.1">

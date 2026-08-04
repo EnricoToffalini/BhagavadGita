@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="English translation of Bhagavad Gita Chapter 18, with the original Sanskrit text and brief glossary notes.">
+<meta name="description" content="Chapter 18, Moksha-Sannyasa Yoga, of the Bhagavad Gita, with the Sanskrit text, a literal English translation, and notes.">
 
-<title>Bhagavad Gita Chapter 18 — English Translation with Sanskrit</title>
+<title>Chapter 18 — Moksha-Sannyasa Yoga — Bhagavad Gita | Enrico Toffalini</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -54,6 +54,31 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 <script data-goatcounter="https://gita.goatcounter.com/count" async="" src="//gc.zgo.at/count.js"></script>
+
+<script type="application/ld+json">
+
+{
+
+  "@context": "https://schema.org",
+
+  "@type": "WebSite",
+
+  "name": "Bhagavad Gita",
+
+  "url": "https://enricotoffalini.github.io/BhagavadGita/",
+
+  "inLanguage": [
+
+    "en",
+
+    "it"
+
+  ]
+
+}
+
+</script>
+
 
 
 <link rel="stylesheet" href="../../styles.css">
@@ -372,7 +397,7 @@ Then run:
 मोक्षसंन्यासयोगः
 </div>
 <nav class="chapter-nav">
-<a href="chapter-17.html">Previous chapter</a><span></span>
+<a href="chapter-17.html">Previous chapter</a><a class="chapter-home" href="../index.html">Home</a><span></span>
 </nav>
 <div class="verse-list">
 <article class="verse" id="v-18-1" data-reference="18.1">
@@ -1835,22 +1860,19 @@ only and can be edited by hand.
   const target = (lang) =>
     root + lang + "/" + (known.size === 0 || known.has(page) ? page : "index.html");
 
-  // Point each flag at the counterpart of the page being read, and remember the
-  // choice so the root landing page can honour it next time.
+  // Point each flag at the counterpart of the page being read.  On the root
+  // landing page neither language is marked as the current content language.
   flagLinks.forEach(({ lang, anchor }) => {
     anchor.href = target(lang) + location.hash;
     anchor.setAttribute("hreflang", lang);
     anchor.classList.add("gita-lang-link");
-    anchor.classList.toggle("gita-lang-active", lang === current);
-    if (lang === current) anchor.setAttribute("aria-current", "true");
-    anchor.addEventListener("click", () => {
-      try { localStorage.setItem("gita-lang", lang); } catch (e) { /* private mode */ }
-    });
+    anchor.classList.toggle("gita-lang-active", inLanguage && lang === current);
+    if (inLanguage && lang === current) anchor.setAttribute("aria-current", "true");
   });
 
   // The navbar is shared by the whole site and is generated in the default
   // language, so re-point and re-label it when reading another language.
-  if (current === fallback) return;
+  if (!inLanguage || current === fallback) return;
   const prefix = root + fallback + "/";
   const labels = (cfg.labels || {})[current] || {};
   document.querySelectorAll("#quarto-header a").forEach((anchor) => {

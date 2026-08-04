@@ -535,7 +535,7 @@ details.sanskrit summary {
   color: rgba(0, 0, 0, .62);
 }
 
-/* Root landing page: shown only when the automatic redirect cannot run. */
+/* Root landing page: stable language chooser and indexable chapter links. */
 .lang-chooser {
   display: flex;
   flex-wrap: wrap;

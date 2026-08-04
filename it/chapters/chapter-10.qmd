@@ -1,9 +1,9 @@
 ---
 title: "Capitolo 10 - Vibhuti Yoga"
 lang: it
-pagetitle: "Bhagavad Gita, capitolo 10 — Traduzione italiana con sanscrito"
+pagetitle: "Capitolo 10 — Vibhuti Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana del capitolo 10 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
+description-meta: "Capitolo 10, Vibhuti Yoga, della Bhagavad Gita in sanscrito, con traduzione italiana letterale e note."
 sidebar: it
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">विभूतियोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-09.html">Capitolo precedente</a><a href="chapter-11.html">Capitolo successivo</a></nav>
+<nav class="chapter-nav"><a href="chapter-09.html">Capitolo precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="chapter-11.html">Capitolo successivo</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-10-1" data-reference="10.1">

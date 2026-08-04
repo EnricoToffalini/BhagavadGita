@@ -3,6 +3,7 @@
 project:
   type: website
   output-dir: docs
+  post-render: tools/3_finalize_seo.py
   resources:
     - .nojekyll
     - assets
@@ -165,9 +166,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    include-in-header:
-      - text: |
-          <script data-goatcounter="https://gita.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    include-in-header: site-head.html
     include-after-body:
       - glossary-tooltip.html
       - lang-config.html

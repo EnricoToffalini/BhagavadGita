@@ -5,7 +5,7 @@ Every language gets its own subtree of the project:
     en/index.qmd  en/glossary.qmd  en/chapters/chapter-01.qmd ...
     it/index.qmd  it/glossary.qmd  it/chapters/chapter-01.qmd ...
 
-plus a small root index.qmd that sends the visitor to one of them.
+plus an indexable root index.qmd with language choices and chapter links.
 A single `quarto render` still builds the whole site.
 
 To add or change a language, edit LANGS below.  Everything else
@@ -47,6 +47,21 @@ SITE_TITLE = 'Bhagavad Gita'
 SITE_URL = 'https://enricotoffalini.github.io/BhagavadGita/'
 TRANSLATOR = 'Enrico Toffalini'
 SITE_TITLE_SANSKRIT = 'भगवद्गीता'
+
+# Google Search Console verification is deliberately disabled until the real
+# token is available.  Set only the token supplied by Google (not the complete
+# <meta> element); write_site_head() omits the tag while this remains empty.
+GOOGLE_SITE_VERIFICATION = ''
+
+ROOT_HOME_TITLE = 'Bhagavad Gita — testo sanscrito e traduzione italiana | Enrico Toffalini'
+ROOT_HOME_DESCRIPTION = (
+    'Bhagavad Gita in sanscrito, con traslitterazione, traduzione italiana '
+    'letterale e note di Enrico Toffalini.'
+)
+ROOT_HOME_INTRO = (
+    'Testo sanscrito della Bhagavad Gita con traslitterazione, traduzione '
+    'italiana letterale e note di Enrico Toffalini.'
+)
 
 # Conventional romanized chapter titles, aligned with the Sanskrit titles in the
 # spreadsheet.  Some editions use close variants, for example Karma-Sannyasa Yoga
@@ -117,20 +132,20 @@ LANGS = {
             'used in the English rendering.'
         ),
         'seo': {
-            'home_title': 'Bhagavad Gita — Simple and Literal English Translation',
+            'home_title': 'Bhagavad Gita — Sanskrit Text and English Translation | Enrico Toffalini',
             'home_description': (
                 'A readable and as-literal-as-possible English translation of the '
-                'Bhagavad Gita, with Sanskrit text, glossary, and free PDF.'
+                'Bhagavad Gita, with Sanskrit text, notes, glossary, and free PDF.'
             ),
-            'glossary_title': 'Bhagavad Gita Glossary — Sanskrit and English',
+            'glossary_title': 'Bhagavad Gita Glossary — Sanskrit and English | Enrico Toffalini',
             'glossary_description': (
                 'An essential glossary of key Sanskrit terms in the Bhagavad Gita, '
                 'with explanations in English.'
             ),
-            'chapter_title': 'Bhagavad Gita Chapter {chapter} — English Translation with Sanskrit',
+            'chapter_title': 'Chapter {chapter} — {chapter_title} — Bhagavad Gita | Enrico Toffalini',
             'chapter_description': (
-                'English translation of Bhagavad Gita Chapter {chapter}, with the '
-                'original Sanskrit text and brief glossary notes.'
+                'Chapter {chapter}, {chapter_title}, of the Bhagavad Gita, with '
+                'the Sanskrit text, a literal English translation, and notes.'
             ),
             'book_description': (
                 'A readable and as-literal-as-possible English translation of the '
@@ -174,20 +189,20 @@ LANGS = {
             'ricorrenti nella traduzione italiana.'
         ),
         'seo': {
-            'home_title': 'Bhagavad Gita — traduzione italiana semplice e letterale',
+            'home_title': 'Bhagavad Gita — traduzione italiana | Enrico Toffalini',
             'home_description': (
-                'Traduzione italiana leggibile e il più possibile letterale della '
-                'Bhagavad Gita, con testo sanscrito, glossario e PDF gratuito.'
+                'Bhagavad Gita in sanscrito, con traduzione italiana letterale, '
+                'note, glossario e PDF gratuito.'
             ),
-            'glossary_title': 'Glossario della Bhagavad Gita — Sanscrito e italiano',
+            'glossary_title': 'Glossario della Bhagavad Gita — Sanscrito e italiano | Enrico Toffalini',
             'glossary_description': (
                 'Glossario essenziale dei principali termini sanscriti della '
                 'Bhagavad Gita, con spiegazioni in italiano.'
             ),
-            'chapter_title': 'Bhagavad Gita, capitolo {chapter} — Traduzione italiana con sanscrito',
+            'chapter_title': 'Capitolo {chapter} — {chapter_title} — Bhagavad Gita | Enrico Toffalini',
             'chapter_description': (
-                'Traduzione italiana del capitolo {chapter} della Bhagavad Gita, '
-                'con testo sanscrito e brevi note di glossario.'
+                'Capitolo {chapter}, {chapter_title}, della Bhagavad Gita in '
+                'sanscrito, con traduzione italiana letterale e note.'
             ),
             'book_description': (
                 'Traduzione italiana leggibile e il più possibile letterale della '
@@ -541,6 +556,7 @@ def write_quarto_yml(chapters):
 project:
   type: website
   output-dir: docs
+  post-render: tools/3_finalize_seo.py
   resources:
     - .nojekyll
     - assets
@@ -566,9 +582,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    include-in-header:
-      - text: |
-          <script data-goatcounter="https://gita.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+    include-in-header: site-head.html
     include-after-body:
       - glossary-tooltip.html
       - lang-config.html
@@ -619,12 +633,41 @@ def write_lang_config(chapters):
     )
 
 
+def write_site_head():
+    """Write metadata shared by every HTML page.
+
+    Keeping the verification token in one empty-by-default setting avoids ever
+    publishing a placeholder that could be mistaken for a real Google token.
+    """
+    website_data = {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        'name': SITE_TITLE,
+        'url': SITE_URL,
+        'inLanguage': LANG_ORDER,
+    }
+    parts = [
+        '<script data-goatcounter="https://gita.goatcounter.com/count" '
+        'async src="//gc.zgo.at/count.js"></script>',
+        '<script type="application/ld+json">',
+        json.dumps(website_data, ensure_ascii=False, indent=2),
+        '</script>',
+    ]
+    verification = GOOGLE_SITE_VERIFICATION.strip()
+    if verification:
+        parts.append(
+            '<meta name="google-site-verification" '
+            f'content="{html.escape(verification, quote=True)}">'
+        )
+    (OUT / 'site-head.html').write_text('\n'.join(parts) + '\n', encoding='utf-8')
+
+
 def write_seo_head(lang):
-    """Write the language-specific Book JSON-LD included by each language home."""
+    """Write accurate CreativeWork JSON-LD for each language home."""
     seo = LANGS[lang]['seo']
     data = {
         '@context': 'https://schema.org',
-        '@type': 'Book',
+        '@type': 'CreativeWork',
         'name': SITE_TITLE,
         'alternateName': seo['home_title'],
         'inLanguage': [lang, 'sa'],
@@ -642,18 +685,28 @@ def write_seo_head(lang):
     )
 
 
-def write_root_index():
-    """Small landing page: sends visitors to their language, and works as a
-    plain chooser when JavaScript is off."""
+def write_root_index(chapters):
+    """Indexable project homepage with language choices and chapter links."""
     choices = '\n'.join(
         f'<a class="lang-choice" href="{lang}/index.html">'
         f'<span class="gita-lang" data-lang="{lang}">{esc(LANGS[lang]["label"])}</span></a>'
         for lang in LANG_ORDER
     )
-    langs_js = json.dumps(LANG_ORDER)
+    italian = LANGS['it']
+    chapter_cards = []
+    for ch in sorted(chapters):
+        chapter_cards.append(
+            f'<a class="chapter-card" href="it/chapters/chapter-{ch:02d}.html">'
+            f'<span class="chapter-number">{esc(italian["ui"]["chapter"])} {ch}</span>'
+            f'<span class="chapter-title">{esc(CHAPTER_TITLES_ROMAN[ch])}</span></a>'
+        )
     parts = [
         '---',
         f'title: "{SITE_TITLE}"',
+        'lang: it',
+        f'pagetitle: {json.dumps(ROOT_HOME_TITLE, ensure_ascii=False)}',
+        'title-prefix: ""',
+        f'description-meta: {json.dumps(ROOT_HOME_DESCRIPTION, ensure_ascii=False)}',
         'sidebar: false',
         'page-navigation: false',
         '---',
@@ -666,19 +719,15 @@ def write_root_index():
         choices,
         '</div>',
         '',
-        '<script>',
-        '(() => {',
-        f'  const langs = {langs_js};',
-        f'  const fallback = "{DEFAULT_LANG}";',
-        '  const stored = (() => { try { return localStorage.getItem("gita-lang"); } catch (e) { return null; } })();',
-        '  const preferred = (navigator.languages || [navigator.language || ""])',
-        '    .map(tag => String(tag).slice(0, 2).toLowerCase())',
-        '    .find(code => langs.includes(code));',
-        '  const target = langs.includes(stored) ? stored : (preferred || fallback);',
-        '  const base = location.pathname.replace(/index\\.html?$/, "").replace(/\\/?$/, "/");',
-        '  location.replace(base + target + "/index.html" + location.hash);',
-        '})();',
-        '</script>',
+        '<div class="site-note">',
+        f'<p>{esc(ROOT_HOME_INTRO)}</p>',
+        '</div>',
+        '',
+        '## Capitoli in italiano',
+        '',
+        '<div class="chapter-grid">',
+        *chapter_cards,
+        '</div>',
         '',
     ]
     (OUT / 'index.qmd').write_text('\n'.join(parts), encoding='utf-8')
@@ -809,12 +858,17 @@ def write_chapters(lang, chapters, glossary):
             f'<a href="chapter-{next_ch:02d}.html">{esc(ui["next_chapter"])}</a>'
             if next_ch else '<span></span>'
         )
+        home_link = f'<a class="chapter-home" href="../index.html">{esc(ui["home"])}</a>'
         parts = page_header(
             f'{ui["chapter"]} {ch} - {title_roman}',
             lang,
             sidebar_id=lang,
-            pagetitle=seo['chapter_title'].format(chapter=ch),
-            description=seo['chapter_description'].format(chapter=ch),
+            pagetitle=seo['chapter_title'].format(
+                chapter=ch, chapter_title=title_roman
+            ),
+            description=seo['chapter_description'].format(
+                chapter=ch, chapter_title=title_roman
+            ),
         )
         parts += [GENERATED_FILE_NOTE, '']
         if title_sanskrit:
@@ -824,7 +878,7 @@ def write_chapters(lang, chapters, glossary):
             ]
         parts += pending_banner(lang, items)
         parts += [
-            f'<nav class="chapter-nav">{prev_link}{next_link}</nav>',
+            f'<nav class="chapter-nav">{prev_link}{home_link}{next_link}</nav>',
             '',
             '<div class="verse-list">',
         ]
@@ -951,7 +1005,8 @@ def main():
     remove_legacy_pages()
     write_quarto_yml(chapters)
     write_lang_config(chapters)
-    write_root_index()
+    write_site_head()
+    write_root_index(chapters)
     write_chapter_titles_json(chapters)
 
     # Every glossary is loaded up front: a language needs the default one to

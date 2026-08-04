@@ -1,9 +1,9 @@
 ---
 title: "Capitolo 11 - Vishvarupa-Darshana Yoga"
 lang: it
-pagetitle: "Bhagavad Gita, capitolo 11 — Traduzione italiana con sanscrito"
+pagetitle: "Capitolo 11 — Vishvarupa-Darshana Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana del capitolo 11 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
+description-meta: "Capitolo 11, Vishvarupa-Darshana Yoga, della Bhagavad Gita in sanscrito, con traduzione italiana letterale e note."
 sidebar: it
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">विश्वरूपदर्शनयोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-10.html">Capitolo precedente</a><a href="chapter-12.html">Capitolo successivo</a></nav>
+<nav class="chapter-nav"><a href="chapter-10.html">Capitolo precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="chapter-12.html">Capitolo successivo</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-11-1" data-reference="11.1">

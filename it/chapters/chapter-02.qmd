@@ -1,9 +1,9 @@
 ---
 title: "Capitolo 2 - Sankhya Yoga"
 lang: it
-pagetitle: "Bhagavad Gita, capitolo 2 — Traduzione italiana con sanscrito"
+pagetitle: "Capitolo 2 — Sankhya Yoga — Bhagavad Gita | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana del capitolo 2 della Bhagavad Gita, con testo sanscrito e brevi note di glossario."
+description-meta: "Capitolo 2, Sankhya Yoga, della Bhagavad Gita in sanscrito, con traduzione italiana letterale e note."
 sidebar: it
 ---
 
@@ -24,7 +24,7 @@ Then run:
 
 <div class="chapter-title-sanskrit">साङ्ख्ययोगः</div>
 
-<nav class="chapter-nav"><a href="chapter-01.html">Capitolo precedente</a><a href="chapter-03.html">Capitolo successivo</a></nav>
+<nav class="chapter-nav"><a href="chapter-01.html">Capitolo precedente</a><a class="chapter-home" href="../index.html">Home</a><a href="chapter-03.html">Capitolo successivo</a></nav>
 
 <div class="verse-list">
 <article class="verse" id="v-2-1" data-reference="2.1">

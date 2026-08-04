@@ -1,9 +1,9 @@
 ---
 title: "Bhagavad Gita"
 lang: it
-pagetitle: "Bhagavad Gita — traduzione italiana semplice e letterale"
+pagetitle: "Bhagavad Gita — traduzione italiana | Enrico Toffalini"
 title-prefix: ""
-description-meta: "Traduzione italiana leggibile e il più possibile letterale della Bhagavad Gita, con testo sanscrito, glossario e PDF gratuito."
+description-meta: "Bhagavad Gita in sanscrito, con traduzione italiana letterale, note, glossario e PDF gratuito."
 sidebar: it
 format:
   html:
