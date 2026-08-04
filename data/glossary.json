@@ -23,7 +23,7 @@
     "id": "yoga",
     "term": "yoga",
     "group": "Concepts",
-    "definition": "Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is \"yoking\", \"uniting\", \"joining\" (from the root yuj: \"to yoke\", \"to unite\").",
+    "definition": "Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is \"yoking\", \"uniting\" (from the root yuj).",
     "variants": [
       "Sāṅkhya-yoga",
       "bhakti-yoga",
@@ -31,9 +31,19 @@
       "karma-yoga",
       "practice-yoga",
       "yoga",
-      "yoga-maya",
+      "yoga-maya"
+    ]
+  },
+  {
+    "id": "yogin",
+    "term": "yogin",
+    "group": "Concepts",
+    "definition": "One who practices yoga",
+    "variants": [
       "yogi",
-      "yogī"
+      "yogin",
+      "yogini",
+      "yogīn"
     ]
   },
   {

@@ -67,7 +67,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-maya">
 <h3>maya</h3>
 <p>Potere di apparenza, occultamento o manifestazione; dipende dal contesto.</p>
-<p class="glossary-variants">Forme nel testo: maya, Maya, yoga-maya</p>
+<p class="glossary-variants">Forme nel testo: Maya, maya, yoga-maya</p>
 </section>
 <section class="glossary-entry" id="glossary-nirvana">
 <h3>nirvana</h3>
@@ -77,17 +77,17 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-prakriti">
 <h3>prakriti</h3>
 <p>Natura, processo materiale, o il campo del mutamento e della manifestazione.</p>
-<p class="glossary-variants">Forme nel testo: Prakriti, prakriti</p>
+<p class="glossary-variants">Forme nel testo: prakriti, Prakriti</p>
 </section>
 <section class="glossary-entry" id="glossary-purusha">
 <h3>purusha</h3>
 <p>Persona, spirito o principio cosciente; il significato varia a seconda del passo.</p>
-<p class="glossary-variants">Forme nel testo: purusha, Purusha</p>
+<p class="glossary-variants">Forme nel testo: Purusha, purusha</p>
 </section>
 <section class="glossary-entry" id="glossary-rajas">
 <h3>rajas</h3>
 <p>Il guna associato ad attività, passione, impulso e irrequietezza.</p>
-<p class="glossary-variants">Forme nel testo: rajas, Rajas, rajasica, rajasici, rajasico</p>
+<p class="glossary-variants">Forme nel testo: Rajas, rajas, rajasica, rajasici, rajasico</p>
 </section>
 <section class="glossary-entry" id="glossary-samsara">
 <h3>samsara</h3>
@@ -107,7 +107,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-sattva">
 <h3>sattva</h3>
 <p>Il guna associato a chiarezza, equilibrio e illuminazione.</p>
-<p class="glossary-variants">Forme nel testo: sattva, Sattva, sattvica, sattvici, sattvico</p>
+<p class="glossary-variants">Forme nel testo: Sattva, sattva, sattvica, sattvici, sattvico</p>
 </section>
 <section class="glossary-entry" id="glossary-tamas">
 <h3>tamas</h3>
@@ -121,8 +121,13 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 </section>
 <section class="glossary-entry" id="glossary-yoga">
 <h3>yoga</h3>
-<p>Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»).</p>
-<p class="glossary-variants">Forme nel testo: karma-yoga, yoga, yogi</p>
+<p>Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj).</p>
+<p class="glossary-variants">Forme nel testo: karma-yoga, yoga</p>
+</section>
+<section class="glossary-entry" id="glossary-yogin">
+<h3>yogin</h3>
+<p>Praticante dello yoga</p>
+<p class="glossary-variants">Forme nel testo: yogin</p>
 </section>
 </div>
 
@@ -132,7 +137,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-brahmin">
 <h3>Brahmin</h3>
 <p>Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.</p>
-<p class="glossary-variants">Forme nel testo: brahmin, Brahmin</p>
+<p class="glossary-variants">Forme nel testo: brahmini, brahmino</p>
 </section>
 <section class="glossary-entry" id="glossary-kshatriya">
 <h3>kshatriya</h3>

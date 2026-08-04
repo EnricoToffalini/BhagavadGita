@@ -716,7 +716,7 @@ Saldo nello yoga, compi le tue azioni abbandonando l'attaccamento, o Dhananjaya,
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{2.49} \textit{(Krishna)}\par
-L'azione motivata dal frutto è di gran lunga inferiore allo yoga della comprensione, o Dhananjaya; cerca rifugio nella comprensione. Miserabili sono coloro che agiscono per i frutti.
+L'azione motivata dal suo frutto è di gran lunga inferiore allo yoga della comprensione, o Dhananjaya; cerca rifugio nella comprensione. Miserabili sono coloro che agiscono per i frutti dell'azione.
 \par\endgroup
 \vspace{0.42em}
 
@@ -901,7 +901,7 @@ Con queste parole apparentemente contraddittorie confondi il mio intelletto. Dim
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{3.3} \textit{(Krishna)}\par
-In questo mondo, o Arjuna senza colpa, in antico ho insegnato un duplice cammino: lo yoga della conoscenza per i seguaci del Sankhya e lo yoga dell'azione per gli yogi.
+In questo mondo, o Arjuna senza colpa, in antico ho insegnato un duplice cammino: lo yoga della conoscenza per i seguaci del Sankhya e lo yoga dell'azione per gli yogin.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1310,7 +1310,7 @@ Bisogna comprendere l'azione, l'azione errata e anche l'inazione; profonda è la
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{4.18} \textit{(Krishna)}\par
-Chi vede l'inazione nell'azione e l'azione nell'inazione è saggio fra gli uomini; è uno yogi e ha portato a compimento ogni azione.
+Chi vede l'inazione nell'azione e l'azione nell'inazione è saggio fra gli uomini; è uno yogin e ha portato a compimento ogni azione.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1359,7 +1359,7 @@ L'atto dell'offrire è Brahman, l'oblazione è Brahman, versata da Brahman nel f
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{4.25} \textit{(Krishna)}\par
-Alcuni yogi offrono sacrificio ai soli dèi; altri offrono il sacrificio stesso come oblazione nel fuoco di Brahman.
+Alcuni yogin offrono sacrificio ai soli dèi; altri offrono il sacrificio stesso come oblazione nel fuoco di Brahman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1488,14 +1488,14 @@ Perciò, con la spada della conoscenza, recidi questo dubbio nato dall'ignoranza
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.1} \textit{(Arjuna)}\par
-O Krishna, tu lodi la rinuncia alle azioni e poi lo yoga; dimmi con certezza quale dei due sia migliore.
+O Krishna, tu lodi la rinuncia alle azioni e poi lo yoga dell'azione; dimmi con certezza quale dei due sia migliore.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.2} \textit{(Krishna)}\par
-Sia la rinuncia sia lo yoga dell'azione conducono al bene supremo; ma, dei due, lo yoga dell'azione è superiore alla rinuncia all'azione.
+Sia la rinuncia all'azione sia lo yoga dell'azione conducono al bene supremo; ma, dei due, lo yoga dell'azione è superiore alla rinuncia all'azione.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1509,7 +1509,7 @@ Sappi che è sempre un vero rinunciante colui che né odia né desidera; libero 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.4} \textit{(Krishna)}\par
-Sono gli immaturi, non i saggi, a parlare di Sankhya e yoga come di vie diverse; chi segue saldamente anche una sola delle due vie ottiene il frutto di entrambe.
+Sono gli immaturi, non i saggi, a parlare di Sankhya e di yoga come di vie diverse; chi segue saldamente anche una sola delle due vie ottiene il frutto di entrambe.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1537,7 +1537,7 @@ Saldo nello yoga, con il sé purificato, padrone di sé e con i sensi soggiogati
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.8} \textit{(Krishna)}\par
-«Non faccio proprio nulla»: così pensa il conoscitore disciplinato della verità, anche mentre vede, ode, tocca, odora, mangia, cammina, dorme e respira,
+«Non faccio assolutamente nulla»: così pensa il conoscitore disciplinato della verità, anche mentre vede, ode, tocca, odora, mangia, cammina, dorme e respira,
 \par\endgroup
 \vspace{0.42em}
 
@@ -1551,21 +1551,21 @@ parla, evacua, afferra, apre e chiude gli occhi—convinto che siano soltanto i 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.10} \textit{(Krishna)}\par
-Chi agisce offrendo le proprie azioni a Brahman e abbandonando l'attaccamento non è toccato dal peccato, come la foglia di loto dall'acqua.
+Chi agisce offrendo le proprie azioni a Brahman e abbandonando l'attaccamento non è toccato dalla colpa, come la foglia di loto dall'acqua.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.11} \textit{(Krishna)}\par
-Con il corpo, la mente, l'intelletto e persino con i sensi, gli yogi agiscono senza attaccamento, per purificare il sé.
+Con il corpo, la mente, l'intelletto e persino con i sensi, gli yogin agiscono senza attaccamento, per purificare il sé.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.12} \textit{(Krishna)}\par
-Il disciplinato, abbandonando il frutto dell'azione, raggiunge una pace duratura; l'indisciplinato, spinto dal desiderio e attaccato al frutto, rimane vincolato.
+Chi è disciplinato, abbandonando il frutto dell'azione, raggiunge una pace duratura; l'indisciplinato, spinto dal desiderio e attaccato al frutto, rimane vincolato.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1607,7 +1607,7 @@ Con l'intelletto fisso in Brahman, interamente rivolti a Brahman, consacrati a B
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.18} \textit{(Krishna)}\par
-Il saggio guarda con occhio equanime un brahmin dotto e umile, una vacca, un elefante, un cane e un fuoricasta.
+Il saggio guarda con occhio equanime un brahmino dotto e umile, una vacca, un elefante, un cane e un fuoricasta.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1649,7 +1649,7 @@ Colui che, già in questo mondo e prima di essere liberato dal corpo, sa resiste
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.24} \textit{(Krishna)}\par
-Colui la cui felicità è interiore, la cui gioia è interiore e la cui luce è anch’essa interiore—un tale yogi, divenuto Brahman, raggiunge il nirvana di Brahman.
+Colui la cui felicità è interiore, la cui gioia è interiore e la cui luce è anch’essa interiore—un tale yogin, divenuto Brahman, raggiunge il nirvana di Brahman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1694,14 +1694,14 @@ Conoscendomi come colui che riceve i sacrifici e le austerità, il grande signor
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.1} \textit{(Krishna)}\par
-Chi compie l'azione che deve essere compiuta senza dipendere dal suo frutto è un rinunciante e uno yogi—non chi non accende il fuoco e non compie alcun rito.
+Chi compie l'azione che deve essere compiuta senza dipendere dal suo frutto è un rinunciante e uno yogin—non chi non accende il fuoco e non compie alcun rito.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.2} \textit{(Krishna)}\par
-Sappi che ciò che chiamano rinuncia è yoga, o Pandava; nessuno infatti diventa yogi senza rinunciare alla volontà personale.
+Sappi che ciò che chiamano rinuncia è yoga, o Pandava; nessuno infatti diventa yogin senza rinunciare alla volontà personale.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1743,7 +1743,7 @@ Per chi ha dominato se stesso ed è in pace, l'Atman supremo resta saldo, impert
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.8} \textit{(Krishna)}\par
-Lo yogi appagato dalla conoscenza e dalla realizzazione, incrollabile, con i sensi soggiogati, per il quale una zolla, una pietra e l’oro sono la stessa cosa, è detto saldo nello yoga.
+Lo yogin appagato dalla conoscenza e dalla realizzazione, incrollabile, con i sensi soggiogati, per il quale una zolla, una pietra e l’oro sono la stessa cosa, è detto saldo nello yoga.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1757,7 +1757,7 @@ Colui che mantiene un animo uguale verso il benevolo, l'amico e il nemico, verso
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.10} \textit{(Krishna)}\par
-Lo yogi si disciplini costantemente, ritirato in solitudine, con la mente e il sé dominati, libero da bramosia e da possessi.
+Lo yogin si disciplini costantemente, ritirato in solitudine, con la mente e il sé dominati, libero da bramosia e da possessi.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1792,7 +1792,7 @@ con l’animo sereno e libero dalla paura, fermo nel voto di castità, con la me
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.15} \textit{(Krishna)}\par
-Disciplinandosi così di continuo, lo yogi dalla mente dominata raggiunge la pace suprema, che culmina nel nirvana e ha dimora in me.
+Disciplinandosi così di continuo, lo yogin dalla mente dominata raggiunge la pace suprema, che culmina nel nirvana e ha dimora in me.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1820,7 +1820,7 @@ Quando la mente disciplinata giunge a riposare nel solo sé, libera dalla brama 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.19} \textit{(Krishna)}\par
-Come una lampada in un luogo senza vento non tremola—tale è l’immagine dello yogi dalla mente dominata, che pratica lo yoga del sé.
+Come una lampada in un luogo senza vento non tremola—tale è l’immagine dello yogin dalla mente dominata, che pratica lo yoga del sé.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1876,14 +1876,14 @@ Ovunque vada errando la mente irrequieta e instabile, ogni volta la riconduca so
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.27} \textit{(Krishna)}\par
-La felicità suprema giunge infatti allo yogi la cui mente è in pace, la cui passione si è quietata, che è libero da macchia ed è divenuto Brahman.
+La felicità suprema giunge infatti allo yogin la cui mente è in pace, la cui passione si è quietata, che è libero da macchia ed è divenuto Brahman.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.28} \textit{(Krishna)}\par
-Disciplinandosi così di continuo, lo yogi, libero da ogni macchia, raggiunge senza fatica la felicità sconfinata che nasce dal contatto con Brahman.
+Disciplinandosi così di continuo, lo yogin, libero da ogni macchia, raggiunge senza fatica la felicità sconfinata che nasce dal contatto con Brahman.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1904,14 +1904,14 @@ Chi mi vede ovunque e vede ogni cosa in me non perde mai di vista me, né io per
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.31} \textit{(Krishna)}\par
-Lo yogi che, saldo nella visione dell'unità, mi venera come colui che dimora in tutti gli esseri, dimora in me qualunque sia il suo modo di vivere.
+Lo yogin che, saldo nella visione dell'unità, mi venera come colui che dimora in tutti gli esseri, dimora in me qualunque sia il suo modo di vivere.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.32} \textit{(Krishna)}\par
-Colui che, riconoscendo negli altri ciò che riconosce in se stesso, vede ovunque la medesima realtà, tanto nel piacere quanto nel dolore, è ritenuto il più alto degli yogi, Arjuna.
+Colui che, riconoscendo negli altri ciò che riconosce in se stesso, vede ovunque la medesima realtà, tanto nel piacere quanto nel dolore, è ritenuto il più alto degli yogin, Arjuna.
 \par\endgroup
 \vspace{0.42em}
 
@@ -1981,7 +1981,7 @@ Raggiunti i mondi di coloro che agiscono rettamente e dimoratovi per innumerevol
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.42} \textit{(Krishna)}\par
-oppure nasce in una famiglia di yogi sapienti—sebbene una simile nascita sia ancora più difficile da ottenere in questo mondo.
+oppure nasce in una famiglia di yogin sapienti—sebbene una simile nascita sia ancora più difficile da ottenere in questo mondo.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2002,21 +2002,21 @@ Quella stessa pratica anteriore lo sospinge avanti, anche contro la sua volontà
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.45} \textit{(Krishna)}\par
-Ma lo yogi che si sforza con impegno, purificato da ogni colpa e perfezionato attraverso molte nascite, raggiunge infine la meta suprema.
+Ma lo yogin che si sforza con impegno, purificato da ogni colpa e perfezionato attraverso molte nascite, raggiunge infine la meta suprema.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.46} \textit{(Krishna)}\par
-Lo yogi è superiore agli asceti, è ritenuto superiore anche agli uomini di conoscenza e superiore agli uomini d’azione; perciò diventa uno yogi, Arjuna.
+Lo yogin è superiore agli asceti, è ritenuto superiore anche agli uomini di conoscenza e superiore agli uomini d’azione; perciò diventa uno yogin, Arjuna.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{6.47} \textit{(Krishna)}\par
-E fra tutti gli yogi, colui che, pieno di fede, mi venera con il più profondo del proprio essere rivolto a me è, a mio giudizio, il più pienamente unito nello yoga.
+E fra tutti gli yogin, colui che, pieno di fede, mi venera con il più profondo del proprio essere rivolto a me è, a mio giudizio, il più pienamente unito nello yoga.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2330,7 +2330,7 @@ pronunciando la sola sillaba Om, che è Brahman, e ricordandosi di me, colui che
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.14} \textit{(Krishna)}\par
-Per lo yogi che si ricorda di me costantemente, giorno dopo giorno e senza distrazione, io sono facile da raggiungere, o Partha—per colui che è sempre disciplinato.
+Per lo yogin che si ricorda di me costantemente, giorno dopo giorno e senza distrazione, io sono facile da raggiungere, o Partha—per colui che è sempre disciplinato.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2393,7 +2393,7 @@ Quella persona suprema, o Partha, nella quale dimorano tutti gli esseri e che pe
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.23} \textit{(Krishna)}\par
-Ora ti dirò, o migliore fra i Bharata, in quale tempo gli yogi che lasciano il corpo non ritornano più e in quale invece ritornano.
+Ora ti dirò, o migliore fra i Bharata, in quale tempo gli yogin che lasciano il corpo non ritornano più e in quale invece ritornano.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2407,7 +2407,7 @@ Il fuoco, la luce, il giorno, la quindicina chiara, i sei mesi del cammino sette
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.25} \textit{(Krishna)}\par
-Il fumo, la notte, la quindicina oscura, i sei mesi del cammino meridionale—seguendo questa via, lo yogi raggiunge la luce lunare e ritorna.
+Il fumo, la notte, la quindicina oscura, i sei mesi del cammino meridionale—seguendo questa via, lo yogin raggiunge la luce lunare e ritorna.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2421,14 +2421,14 @@ Queste due vie del mondo, la chiara e l’oscura, sono considerate eterne; segue
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.27} \textit{(Krishna)}\par
-Conoscendo queste due vie, o Partha, nessuno yogi cade nell’illusione; perciò, in ogni momento, sii saldo nello yoga, Arjuna.
+Conoscendo queste due vie, o Partha, nessuno yogin cade nell’illusione; perciò, in ogni momento, sii saldo nello yoga, Arjuna.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{8.28} \textit{(Krishna)}\par
-Lo yogi che conosce tutto questo oltrepassa ogni frutto meritorio promesso dai Veda, dai sacrifici, dalle austerità e dai doni, e raggiunge la suprema dimora originaria.
+Lo yogin che conosce tutto questo oltrepassa ogni frutto meritorio promesso dai Veda, dai sacrifici, dalle austerità e dai doni, e raggiunge la suprema dimora originaria.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2662,7 +2662,7 @@ Poiché coloro che si rifugiano in me, o Partha, anche se nati in condizioni soc
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{9.33} \textit{(Krishna)}\par
-Quanto più facilmente, dunque, raggiungono la meta i puri brahmin e i devoti re saggi! Giunto in questo mondo fuggevole e privo di gioia, venerami.
+Quanto più facilmente, dunque, raggiungono la meta i puri brahmino e i devoti re saggi! Giunto in questo mondo fuggevole e privo di gioia, venerami.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2791,7 +2791,7 @@ Parlami dunque per intero delle tue glorie divine, mediante le quali pervadi que
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{10.17} \textit{(Arjuna)}\par
-Come potrò conoscerti, o yogi, meditandoti di continuo? In quali forme, o Bhagavan, devo contemplarti?
+Come potrò conoscerti, o yogin, meditandoti di continuo? In quali forme, o Bhagavan, devo contemplarti?
 \par\endgroup
 \vspace{0.42em}
 
@@ -3455,7 +3455,7 @@ Colui che non odia alcun essere, è amichevole e compassionevole, libero dal sen
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{12.14} \textit{(Krishna)}\par
-sempre appagato, yogi padrone di sé, di ferma risolutezza, con la mente e l’intelletto offerti a me—colui che mi è devoto mi è caro.
+sempre appagato, yogin padrone di sé, di ferma risolutezza, con la mente e l’intelletto offerti a me—colui che mi è devoto mi è caro.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4017,7 +4017,7 @@ Gli illusi non lo vedono mentre lascia il corpo, mentre vi dimora o mentre speri
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{15.11} \textit{(Krishna)}\par
-Gli yogi che si sforzano lo vedono presente nel sé; ma coloro che sono privi di discernimento e non hanno disciplinato se stessi non lo vedono, per quanto si sforzino.
+Gli yogin che si sforzano lo vedono presente nel sé; ma coloro che sono privi di discernimento e non hanno disciplinato se stessi non lo vedono, per quanto si sforzino.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4352,7 +4352,7 @@ Un sacrificio offerto contro le regole, senza distribuzione di cibo, senza parol
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{17.14} \textit{(Krishna)}\par
-La venerazione degli dèi, dei brahmin, dei maestri e dei saggi; la purezza, la rettitudine, la castità e la nonviolenza—queste sono chiamate ascesi del corpo.
+La venerazione degli dèi, dei brahmini, dei maestri e dei saggi; la purezza, la rettitudine, la castità e la nonviolenza—queste sono chiamate ascesi del corpo.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4415,7 +4415,7 @@ Il dono fatto nel luogo e nel tempo sbagliati, a chi non ne è degno, senza risp
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{17.23} \textit{(Krishna)}\par
-Om Tat Sat—questa è ritenuta la triplice designazione di Brahman; con questa designazione furono anticamente consacrati i brahmin, i Veda e i sacrifici.
+Om Tat Sat—questa è ritenuta la triplice designazione di Brahman; con questa designazione furono anticamente consacrati i brahmini, i Veda e i sacrifici.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4691,7 +4691,7 @@ La risolutezza che mantiene sotto saldo controllo le attività della mente, del 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.34} \textit{(Krishna)}\par
-Ma la risolutezza con cui, per attaccamento ai frutti e desiderio della ricompensa, ci si aggrappa al dharma, al piacere e alla ricchezza, o Partha, è rajasica.
+Ma la risolutezza con cui, per attaccamento ai frutti dell'azione e per desiderio di ricompensa, ci si aggrappa al dharma, al piacere e alla ricchezza, o Partha, è rajasica.
 \par\endgroup
 \vspace{0.42em}
 
@@ -4740,14 +4740,14 @@ Non vi è alcun essere, sulla terra o fra gli dèi in cielo, che sia libero da q
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.41} \textit{(Krishna)}\par
-I doveri dei brahmin, degli kshatriya, dei vaishya e degli shudra, o vincitore dei nemici, sono ripartiti secondo i guna che sorgono dalle loro nature.
+I doveri dei brahmini, degli kshatriya, dei vaishya e degli shudra, o vincitore dei nemici, sono ripartiti secondo i guna che sorgono dalle loro nature.
 \par\endgroup
 \vspace{0.42em}
 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{18.42} \textit{(Krishna)}\par
-Calma, dominio di sé, ascesi, purezza, pazienza e rettitudine; conoscenza, realizzazione e fede nell’invisibile—questi sono i doveri di un brahmin, nati dalla sua natura.
+Calma, dominio di sé, ascesi, purezza, pazienza e rettitudine; conoscenza, realizzazione e fede nell’invisibile—questi sono i doveri di un brahmino, nati dalla sua natura.
 \par\endgroup
 \vspace{0.42em}
 
@@ -5010,7 +5010,7 @@ Dovunque si trovino Krishna, il signore dello yoga, e Partha, l’arciere, là v
 
 \begin{description}
 \item[Atman] Vero Sé, anima o principio interiore; tenuto distinto dall'ego ordinario e dalla personalità individuale. \textit{Forme: Atman | Ātman}
-\item[Brahman] La realtà ultima o principio assoluto. \textit{Forme: Brahman | Brahma-nirvana | Brahman-nirvana | Brahma-yoga | Brahma-sūtra | Brahman-realization}
+\item[Brahman] La realtà ultima o principio assoluto. \textit{Forme: Brahman | Brahma-nirvana | Brahman-nirvana | Brahma-yoga | Brahma-sūtra}
 \item[dharma] Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto. \textit{Forme: dharma | dharma-field}
 \item[guna] Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas. \textit{Forme: guna | gunas | guṇa | guṇas}
 \item[karma] Azione, atto, o le conseguenze legate all'azione. \textit{Forme: karma | karma-yoga}
@@ -5020,26 +5020,27 @@ Dovunque si trovino Krishna, il signore dello yoga, e Partha, l’arciere, là v
 \item[nirvana] Estinzione, pace o liberazione; qui spesso collegato a Brahman. \textit{Forme: nirvana | nirvāṇa | Brahma-nirvana | Brahman-nirvana}
 \item[prakriti] Natura, processo materiale, o il campo del mutamento e della manifestazione. \textit{Forme: prakriti | Prakriti | prakṛti | Prakṛti}
 \item[purusha] Persona, spirito o principio cosciente; il significato varia a seconda del passo. \textit{Forme: purusha | Purusha | puruṣa | Puruṣa}
-\item[rajas] Il guna associato ad attività, passione, impulso e irrequietezza. \textit{Forme: rajas | rājasika | Rajas | rajasic | rajasico | rajasica | rajasici | rajasiche}
+\item[rajas] Il guna associato ad attività, passione, impulso e irrequietezza. \textit{Forme: rajas | rājasika | Rajas | rajasico | rajasica | rajasici | rajasiche}
 \item[samsara] Il ciclo continuo del divenire mondano, della nascita, della morte e dell'attaccamento. \textit{Forme: saṃsāra | samsara}
 \item[Sankhya] Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale. \textit{Forme: Sankhya | Sāṅkhya | Sāṅkhyas | Sāṅkhya-yoga}
 \item[Sat] Essere, verità o bontà; in 17.23 parte della formula sacra Om Tat Sat. \textit{Forme: Sat}
-\item[sattva] Il guna associato a chiarezza, equilibrio e illuminazione. \textit{Forme: sattva | sāttvika | Sattva | sattvic | sattvico | sattvica | sattvici | sattviche}
-\item[tamas] Il guna associato a inerzia, ottusità, confusione e ostruzione. \textit{Forme: tamas | tāmasika | Tamas | tamasic | tamasico | tamasica | tamasici | tamasiche}
+\item[sattva] Il guna associato a chiarezza, equilibrio e illuminazione. \textit{Forme: sattva | sāttvika | Sattva | sattvico | sattvica | sattvici | sattviche}
+\item[tamas] Il guna associato a inerzia, ottusità, confusione e ostruzione. \textit{Forme: tamas | tāmasika | Tamas | tamasico | tamasica | tamasici | tamasiche}
 \item[Vedanta] La fine o il culmine dei Veda; nel testo, la conoscenza insegnata dalla tradizione vedica. \textit{Forme: Vedanta}
-\item[yoga] Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»). \textit{Forme: yoga | yogī | yogi | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | practice-yoga | yoga-maya}
+\item[yoga] Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj). \textit{Forme: yoga | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | yoga-maya}
+\item[yogin] Praticante dello yoga \textit{Forme: yogīn | yogin | yogi | yogini}
 \end{description}
 
 ## Termini sociali e rituali
 
 \begin{description}
-\item[Brahmin] Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa. \textit{Forme: Brahmin | brahmin | brāhmaṇa | brāhmaṇas}
+\item[Brahmin] Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa. \textit{Forme: brahmin | brahmino | brahmini | brāhmaṇa}
 \item[kshatriya] Membro della classe guerriera o dominante. \textit{Forme: kshatriya | kṣatriya}
 \item[Om] Sillaba sacra usata come segno conciso dell'assoluto o del divino. \textit{Forme: Om | AUM}
 \item[shudra] Membro della classe servile nello schema tradizionale dei varna. \textit{Forme: śūdra | śūdras | shudra | shudras}
 \item[Tat] Formula sacra che significa «Quello», parte dell'espressione Om Tat Sat. \textit{Forme: Tat}
 \item[vaishya] Membro della classe associata al commercio, all'agricoltura e all'allevamento. \textit{Forme: vaiśya | vaiśyas | vaishya | vaishyas}
-\item[Veda] Antichi testi sacri della tradizione vedica. \textit{Forme: Veda | Vedas | Ṛg | Sāma | Bṛhat-sāma | Gāyatrī | Rig | Yajur | Sama | Gayatri | Brihat-sama}
+\item[Veda] Antichi testi sacri della tradizione vedica. \textit{Forme: Veda | Ṛg | Sāma | Bṛhat-sāma | Gāyatrī | Rig | Yajur | Sama | Gayatri | Brihat-sama}
 \item[yajna] Sacrificio, offerta rituale o azione consacrata. \textit{Forme: yajna | yajña}
 \end{description}
 
@@ -5052,9 +5053,9 @@ Dovunque si trovino Krishna, il signore dello yoga, e Partha, l’arciere, là v
 \item[Bharata] Nome dinastico o ancestrale, spesso usato come appellativo. \textit{Forme: Bharata | Bhārata | Bharatas | Bhāratas}
 \item[Bhima] Uno dei Pandava, fratello di Arjuna. \textit{Forme: Bhima}
 \item[Bhishma] Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava. \textit{Forme: Bhishma}
-\item[Brahma] Il dio creatore; distinto da Brahman, la realtà ultima. \textit{Forme: Brahma | Brahma's}
+\item[Brahma] Il dio creatore; distinto da Brahman, la realtà ultima. \textit{Forme: Brahma}
 \item[Dhananjaya] Epiteto di Arjuna, spesso inteso come conquistatore di ricchezze. \textit{Forme: Dhananjaya | Dhanañjaya}
-\item[Dhritarashtra] Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra. \textit{Forme: Dhritarashtra | Dhritarashtra's}
+\item[Dhritarashtra] Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra. \textit{Forme: Dhritarashtra}
 \item[Draupadi] Sposa dei Pandava. \textit{Forme: Draupadi}
 \item[Drona] Maestro dei principi Kuru e guerriero nello schieramento Kaurava. \textit{Forme: Drona}
 \item[Drupada] Re di Panchala, padre di Draupadi e Dhrishtadyumna. \textit{Forme: Drupada}

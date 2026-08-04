@@ -1,7 +1,8 @@
 ﻿id,term,group,definition,variants
 dharma,dharma,Concepts,"Order, duty, law, or right conduct; the exact sense depends on context.",dharma|dharma-field
 karma,karma,Concepts,"Action, deed, or the consequences bound to action.",karma|karma-yoga
-yoga,yoga,Concepts,"Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is ""yoking"", ""uniting"", ""joining"" (from the root yuj: ""to yoke"", ""to unite"").",yoga|yogī|yogi|karma-yoga|buddhi-yoga|Sāṅkhya-yoga|bhakti-yoga|practice-yoga|yoga-maya
+yoga,yoga,Concepts,"Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is ""yoking"", ""uniting"" (from the root yuj).",yoga|karma-yoga|buddhi-yoga|Sāṅkhya-yoga|bhakti-yoga|practice-yoga|yoga-maya
+yogin,yogin,Concepts,One who practices yoga,yogīn|yogin|yogi|yogini
 atman,Atman,Concepts,"True Self, Soul, or inner principle; kept distinct from ordinary ego or individual personality.",Atman|Ātman
 brahman,Brahman,Concepts,The ultimate reality or absolute principle.,Brahman|Brahma-nirvana|Brahman-nirvana|Brahma-yoga|Brahma-sūtra|Brahman-realization
 brahmin,Brahmin,Social and ritual terms,A member of the priestly or learned class; Sanskrit brāhmaṇa.,Brahmin|brahmin|brāhmaṇa|brāhmaṇas

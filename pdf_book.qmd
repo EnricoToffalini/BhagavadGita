@@ -1488,7 +1488,7 @@ Therefore, with the sword of knowledge cut away this doubt in your heart, born o
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.1} \textit{(Arjuna)}\par
-O Krishna, you praise the renunciation of actions, and again yoga; tell me for certain which of the two is better.
+O Krishna, you praise the renunciation of actions, and again the yoga of action; tell me for certain which of the two is better.
 \par\endgroup
 \vspace{0.42em}
 
@@ -5027,7 +5027,8 @@ Wherever Krishna, the lord of yoga, is, and wherever Partha, the archer, is, the
 \item[sattva] The guna associated with clarity, balance, and illumination. \textit{Forms: sattva | sāttvika | Sattva | sattvic}
 \item[tamas] The guna associated with inertia, dullness, confusion, and obstruction. \textit{Forms: tamas | tāmasika | Tamas | tamasic}
 \item[Vedanta] The end or culmination of the Vedas; in the text, the knowledge taught by the Vedic tradition. \textit{Forms: Vedanta}
-\item[yoga] Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is "yoking", "uniting", "joining" (from the root yuj: "to yoke", "to unite"). \textit{Forms: yoga | yogī | yogi | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | practice-yoga | yoga-maya}
+\item[yoga] Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is "yoking", "uniting" (from the root yuj). \textit{Forms: yoga | karma-yoga | buddhi-yoga | Sāṅkhya-yoga | bhakti-yoga | practice-yoga | yoga-maya}
+\item[yogin] One who practices yoga \textit{Forms: yogīn | yogin | yogi | yogini}
 \end{description}
 
 ## Social and ritual terms

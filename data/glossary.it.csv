@@ -1,14 +1,15 @@
 ﻿id,term,group,definition,variants
 dharma,dharma,Concetti,"Ordine, dovere, legge o retta condotta; il senso preciso dipende dal contesto.",dharma|dharma-field
 karma,karma,Concetti,"Azione, atto, o le conseguenze legate all'azione.",karma|karma-yoga
-yoga,yoga,Concetti,"Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»).",yoga|yogī|yogi|karma-yoga|buddhi-yoga|Sāṅkhya-yoga|bhakti-yoga|practice-yoga|yoga-maya
+yoga,yoga,Concetti,"Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj).",yoga|karma-yoga|buddhi-yoga|Sāṅkhya-yoga|bhakti-yoga|yoga-maya
+yogin,yogin,Concetti,Praticante dello yoga,yogīn|yogin|yogi|yogini
 atman,Atman,Concetti,"Vero Sé, anima o principio interiore; tenuto distinto dall'ego ordinario e dalla personalità individuale.",Atman|Ātman
-brahman,Brahman,Concetti,La realtà ultima o principio assoluto.,Brahman|Brahma-nirvana|Brahman-nirvana|Brahma-yoga|Brahma-sūtra|Brahman-realization
-brahmin,Brahmin,Termini sociali e rituali,Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.,Brahmin|brahmin|brāhmaṇa|brāhmaṇas
+brahman,Brahman,Concetti,La realtà ultima o principio assoluto.,Brahman|Brahma-nirvana|Brahman-nirvana|Brahma-yoga|Brahma-sūtra
+brahmin,Brahmin,Termini sociali e rituali,Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.,brahmin|brahmino|brahmini|brāhmaṇa
 guna,guna,Concetti,"Qualità o tendenza costitutiva di prakriti: sattva, rajas e tamas.",guna|gunas|guṇa|guṇas
-sattva,sattva,Concetti,"Il guna associato a chiarezza, equilibrio e illuminazione.",sattva|sāttvika|Sattva|sattvic|sattvico|sattvica|sattvici|sattviche
-rajas,rajas,Concetti,"Il guna associato ad attività, passione, impulso e irrequietezza.",rajas|rājasika|Rajas|rajasic|rajasico|rajasica|rajasici|rajasiche
-tamas,tamas,Concetti,"Il guna associato a inerzia, ottusità, confusione e ostruzione.",tamas|tāmasika|Tamas|tamasic|tamasico|tamasica|tamasici|tamasiche
+sattva,sattva,Concetti,"Il guna associato a chiarezza, equilibrio e illuminazione.",sattva|sāttvika|Sattva|sattvico|sattvica|sattvici|sattviche
+rajas,rajas,Concetti,"Il guna associato ad attività, passione, impulso e irrequietezza.",rajas|rājasika|Rajas|rajasico|rajasica|rajasici|rajasiche
+tamas,tamas,Concetti,"Il guna associato a inerzia, ottusità, confusione e ostruzione.",tamas|tāmasika|Tamas|tamasico|tamasica|tamasici|tamasiche
 prakriti,prakriti,Concetti,"Natura, processo materiale, o il campo del mutamento e della manifestazione.",prakriti|Prakriti|prakṛti|Prakṛti
 purusha,purusha,Concetti,"Persona, spirito o principio cosciente; il significato varia a seconda del passo.",purusha|Purusha|puruṣa|Puruṣa
 purushottama,Purushottama,Nomi ed epiteti,La Persona Suprema: epiteto di Krishna che indica la realtà suprema che trascende sia il perituro sia l'imperituro,Purushottama
@@ -19,7 +20,7 @@ yajna,yajna,Termini sociali e rituali,"Sacrificio, offerta rituale o azione cons
 nirvana,nirvana,Concetti,"Estinzione, pace o liberazione; qui spesso collegato a Brahman.",nirvana|nirvāṇa|Brahma-nirvana|Brahman-nirvana
 samsara,samsara,Concetti,"Il ciclo continuo del divenire mondano, della nascita, della morte e dell'attaccamento.",saṃsāra|samsara
 sankhya,Sankhya,Concetti,Un cammino o quadro di conoscenza discriminativa; qui non sempre indica una scuola formale.,Sankhya|Sāṅkhya|Sāṅkhyas|Sāṅkhya-yoga
-veda,Veda,Termini sociali e rituali,Antichi testi sacri della tradizione vedica.,Veda|Vedas|Ṛg|Sāma|Bṛhat-sāma|Gāyatrī|Rig|Yajur|Sama|Gayatri|Brihat-sama
+veda,Veda,Termini sociali e rituali,Antichi testi sacri della tradizione vedica.,Veda|Ṛg|Sāma|Bṛhat-sāma|Gāyatrī|Rig|Yajur|Sama|Gayatri|Brihat-sama
 om,Om,Termini sociali e rituali,Sillaba sacra usata come segno conciso dell'assoluto o del divino.,Om|AUM
 kshatriya,kshatriya,Termini sociali e rituali,Membro della classe guerriera o dominante.,kshatriya|kṣatriya
 vaishya,vaishya,Termini sociali e rituali,"Membro della classe associata al commercio, all'agricoltura e all'allevamento.",vaiśya|vaiśyas|vaishya|vaishyas
@@ -40,7 +41,7 @@ hrishikesha,Hrishikesha,Nomi ed epiteti,"Epiteto di Krishna, spesso inteso come 
 vasudeva,Vasudeva,Nomi ed epiteti,"Nome o epiteto di Krishna, figlio di Vasudeva.",Vāsudeva|Vasudeva
 govinda,Govinda,Nomi ed epiteti,Epiteto di Krishna.,Govinda
 acyuta,Acyuta,Nomi ed epiteti,"Epiteto di Krishna, spesso glossato come colui che non vien meno.",Acyuta
-dhritarashtra,Dhritarashtra,Nomi ed epiteti,"Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra.",Dhritarashtra|Dhritarashtra's
+dhritarashtra,Dhritarashtra,Nomi ed epiteti,"Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra.",Dhritarashtra
 sanjaya,Sanjaya,Nomi ed epiteti,Colui che narra il dialogo a Dhritarashtra.,Sanjaya
 duryodhana,Duryodhana,Nomi ed epiteti,Capo dei Kaurava e figlio di Dhritarashtra.,Duryodhana
 bhishma,Bhishma,Nomi ed epiteti,Anziano della dinastia Kuru e guerriero di primo piano nello schieramento Kaurava.,Bhishma
@@ -54,7 +55,7 @@ draupadi,Draupadi,Nomi ed epiteti,Sposa dei Pandava.,Draupadi
 vivasvan,Vivasvan,Nomi ed epiteti,"Divinità solare alla quale, dice Krishna, egli insegnò per primo questo yoga.",Vivasvan
 manu,Manu,Nomi ed epiteti,Antico progenitore o legislatore che riceve l'insegnamento da Vivasvan.,Manu
 ikshvaku,Ikshvaku,Nomi ed epiteti,Antico re che riceve l'insegnamento da Manu.,Ikshvaku
-brahma,Brahma,Nomi ed epiteti,"Il dio creatore; distinto da Brahman, la realtà ultima.",Brahma|Brahma's
+brahma,Brahma,Nomi ed epiteti,"Il dio creatore; distinto da Brahman, la realtà ultima.",Brahma
 bhagavan,Bhagavan,Nomi ed epiteti,"Titolo onorifico per il Signore o il Beato, usato per Krishna.",Bhagavan
 hari,Hari,Nomi ed epiteti,Epiteto di Krishna o Vishnu.,Hari
 vishnu,Vishnu,Nomi ed epiteti,Nome divino associato a Krishna nel testo.,Vishnu

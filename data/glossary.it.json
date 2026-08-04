@@ -23,17 +23,26 @@
     "id": "yoga",
     "term": "yoga",
     "group": "Concetti",
-    "definition": "Disciplina, pratica, integrazione o cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire», «congiungere» (dalla radice yuj: «aggiogare», «unire»).",
+    "definition": "Disciplina o pratica spirituale, cammino verso la stabilità e la liberazione. Il significato letterale è «aggiogare», «unire» (dalla radice yuj).",
     "variants": [
       "Sāṅkhya-yoga",
       "bhakti-yoga",
       "buddhi-yoga",
       "karma-yoga",
-      "practice-yoga",
       "yoga",
-      "yoga-maya",
+      "yoga-maya"
+    ]
+  },
+  {
+    "id": "yogin",
+    "term": "yogin",
+    "group": "Concetti",
+    "definition": "Praticante dello yoga",
+    "variants": [
       "yogi",
-      "yogī"
+      "yogin",
+      "yogini",
+      "yogīn"
     ]
   },
   {
@@ -56,8 +65,7 @@
       "Brahma-sūtra",
       "Brahma-yoga",
       "Brahman",
-      "Brahman-nirvana",
-      "Brahman-realization"
+      "Brahman-nirvana"
     ]
   },
   {
@@ -66,10 +74,10 @@
     "group": "Termini sociali e rituali",
     "definition": "Membro della classe sacerdotale o dotta; in sanscrito brāhmaṇa.",
     "variants": [
-      "Brahmin",
       "brahmin",
-      "brāhmaṇa",
-      "brāhmaṇas"
+      "brahmini",
+      "brahmino",
+      "brāhmaṇa"
     ]
   },
   {
@@ -92,7 +100,6 @@
     "variants": [
       "Sattva",
       "sattva",
-      "sattvic",
       "sattvica",
       "sattviche",
       "sattvici",
@@ -108,7 +115,6 @@
     "variants": [
       "Rajas",
       "rajas",
-      "rajasic",
       "rajasica",
       "rajasiche",
       "rajasici",
@@ -124,7 +130,6 @@
     "variants": [
       "Tamas",
       "tamas",
-      "tamasic",
       "tamasica",
       "tamasiche",
       "tamasici",
@@ -256,7 +261,6 @@
       "Sama",
       "Sāma",
       "Veda",
-      "Vedas",
       "Yajur",
       "Ṛg"
     ]
@@ -471,8 +475,7 @@
     "group": "Nomi ed epiteti",
     "definition": "Il re cieco dei Kuru, padre dei Kaurava; apre il dialogo chiedendo a Sanjaya che cosa sia accaduto a Kurukshetra.",
     "variants": [
-      "Dhritarashtra",
-      "Dhritarashtra's"
+      "Dhritarashtra"
     ]
   },
   {
@@ -599,8 +602,7 @@
     "group": "Nomi ed epiteti",
     "definition": "Il dio creatore; distinto da Brahman, la realtà ultima.",
     "variants": [
-      "Brahma",
-      "Brahma's"
+      "Brahma"
     ]
   },
   {

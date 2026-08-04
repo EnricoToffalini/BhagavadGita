@@ -151,7 +151,7 @@ Then run:
 <a class="ref" href="#v-8-10">8.10</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">at the hour of departure, with mind unmoving, joined with devotion and the power of <span class="glossary-term" tabindex="0" data-gloss="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, setting the breath rightly between the brows, he reaches that supreme divine person.</p>
+<p class="translation translation-en" data-lang="en">at the hour of departure, with mind unmoving, joined with devotion and the power of <span class="glossary-term" tabindex="0" data-gloss="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." aria-label="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." title="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." data-glossary-id="yoga">yoga</span>, setting the breath rightly between the brows, he reaches that supreme divine person.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">प्रयाणकाले मनसाऽचलेन<br>
@@ -181,7 +181,7 @@ Then run:
 <a class="ref" href="#v-8-12">8.12</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Closing all the gates, confining the mind in the heart, drawing the breath up into the head, established in the concentration of <span class="glossary-term" tabindex="0" data-gloss="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>,</p>
+<p class="translation translation-en" data-lang="en">Closing all the gates, confining the mind in the heart, drawing the breath up into the head, established in the concentration of <span class="glossary-term" tabindex="0" data-gloss="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." aria-label="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." title="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." data-glossary-id="yoga">yoga</span>,</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।<br>
@@ -207,7 +207,7 @@ Then run:
 <a class="ref" href="#v-8-14">8.14</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">For the yogin who, undistracted, remembers me constantly, day after day, I am easy to reach, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna: son of Pritha/Kunti." aria-label="Epithet of Arjuna: son of Pritha/Kunti." title="Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>—for the ever-disciplined one.</p>
+<p class="translation translation-en" data-lang="en">For the <span class="glossary-term" tabindex="0" data-gloss="One who practices yoga" aria-label="One who practices yoga" title="One who practices yoga" data-glossary-id="yogin">yogin</span> who, undistracted, remembers me constantly, day after day, I am easy to reach, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna: son of Pritha/Kunti." aria-label="Epithet of Arjuna: son of Pritha/Kunti." title="Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>—for the ever-disciplined one.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">अनन्यचेताः सततं यो मां स्मरति नित्यशः ।<br>
@@ -350,7 +350,7 @@ Then run:
 <a class="ref" href="#v-8-25">8.25</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Smoke, night, the dark fortnight, the six months of the southward course—by these the yogin reaches the lunar light and returns.</p>
+<p class="translation translation-en" data-lang="en">Smoke, night, the dark fortnight, the six months of the southward course—by these the <span class="glossary-term" tabindex="0" data-gloss="One who practices yoga" aria-label="One who practices yoga" title="One who practices yoga" data-glossary-id="yogin">yogin</span> reaches the lunar light and returns.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् ।<br>
@@ -376,7 +376,7 @@ Then run:
 <a class="ref" href="#v-8-27">8.27</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Knowing these two paths, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna: son of Pritha/Kunti." aria-label="Epithet of Arjuna: son of Pritha/Kunti." title="Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, no yogin is deluded; therefore at all times be yoked in <span class="glossary-term" tabindex="0" data-gloss="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." aria-label="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." title="Discipline, practice, integration, or path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot;, &quot;joining&quot; (from the root yuj: &quot;to yoke&quot;, &quot;to unite&quot;)." data-glossary-id="yoga">yoga</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, the warrior addressed by Krishna." aria-label="Arjuna, the warrior addressed by Krishna." title="Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>.</p>
+<p class="translation translation-en" data-lang="en">Knowing these two paths, O <span class="glossary-term" tabindex="0" data-gloss="Epithet of Arjuna: son of Pritha/Kunti." aria-label="Epithet of Arjuna: son of Pritha/Kunti." title="Epithet of Arjuna: son of Pritha/Kunti." data-glossary-id="partha">Partha</span>, no <span class="glossary-term" tabindex="0" data-gloss="One who practices yoga" aria-label="One who practices yoga" title="One who practices yoga" data-glossary-id="yogin">yogin</span> is deluded; therefore at all times be yoked in <span class="glossary-term" tabindex="0" data-gloss="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." aria-label="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." title="Discipline or practice, or spiritual path toward steadiness and liberation. Literal meaning is &quot;yoking&quot;, &quot;uniting&quot; (from the root yuj)." data-glossary-id="yoga">yoga</span>, <span class="glossary-term" tabindex="0" data-gloss="Arjuna, the warrior addressed by Krishna." aria-label="Arjuna, the warrior addressed by Krishna." title="Arjuna, the warrior addressed by Krishna." data-glossary-id="arjuna">Arjuna</span>.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।<br>
@@ -389,7 +389,7 @@ Then run:
 <a class="ref" href="#v-8-28">8.28</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">The yogin who knows all this passes beyond whatever fruit of merit is laid down for the <span class="glossary-term" tabindex="0" data-gloss="Ancient sacred texts of the Vedic tradition." aria-label="Ancient sacred texts of the Vedic tradition." title="Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, for sacrifices, austerities, and gifts, and reaches the supreme, primal abode.</p>
+<p class="translation translation-en" data-lang="en">The <span class="glossary-term" tabindex="0" data-gloss="One who practices yoga" aria-label="One who practices yoga" title="One who practices yoga" data-glossary-id="yogin">yogin</span> who knows all this passes beyond whatever fruit of merit is laid down for the <span class="glossary-term" tabindex="0" data-gloss="Ancient sacred texts of the Vedic tradition." aria-label="Ancient sacred texts of the Vedic tradition." title="Ancient sacred texts of the Vedic tradition." data-glossary-id="veda">Vedas</span>, for sacrifices, austerities, and gifts, and reaches the supreme, primal abode.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">वेदेषु यज्ञेषु तपःसु चैव<br>
