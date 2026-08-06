@@ -123,7 +123,7 @@ Then run:
 <a class="ref" href="#v-8-8">8.8</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Con la mente disciplinata dalla pratica e non incline a divagare altrove, si raggiunge la suprema persona divina meditando su di lui, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
+<p class="translation translation-it" data-lang="it">Con la mente disciplinata dalla pratica e non incline a divagare altrove, si raggiunge la suprema persona divina meditando su di essa, o <span class="glossary-term" tabindex="0" data-gloss="Epiteto di Arjuna: figlio di Pritha/Kunti." aria-label="Epiteto di Arjuna: figlio di Pritha/Kunti." title="Epiteto di Arjuna: figlio di Pritha/Kunti." data-glossary-id="partha">Partha</span>.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">अभ्यासयोगयुक्तेन चेतसा नान्यगामिना ।<br>

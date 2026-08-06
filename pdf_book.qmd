@@ -1572,7 +1572,7 @@ The disciplined one, abandoning the fruit of action, attains lasting peace; the 
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{5.13} \textit{(Krishna)}\par
-Renouncing all actions with the mind, the embodied one rests at ease, in command, in the city of nine gates, neither acting nor causing action.
+Renouncing all actions with the mind, the embodied one rests at ease, in command, in the city of nine gates [the body], neither acting nor causing action.
 \par\endgroup
 \vspace{0.42em}
 
@@ -2103,7 +2103,7 @@ I am the strength of the strong, free of desire and passion; in beings I am desi
 \begingroup
 \setlength{\parindent}{0pt}
 \textbf{7.12} \textit{(Krishna)}\par
-Whatever states there are—of sattva, of rajas, or of tamas—know them all to come from me; yet I am not in them, but they are in me.
+Whatever states of the gunas there are—of sattva, of rajas, or of tamas—know them all to come from me; yet I am not in them, but they are in me.
 \par\endgroup
 \vspace{0.42em}
 

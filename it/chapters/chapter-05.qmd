@@ -188,7 +188,7 @@ Then run:
 <a class="ref" href="#v-5-13">5.13</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-it" data-lang="it">Rinunciando mentalmente a tutte le azioni, chi è incarnato dimora sereno e padrone di sé nella città dalle nove porte, senza agire né far agire.</p>
+<p class="translation translation-it" data-lang="it">Rinunciando mentalmente a tutte le azioni, chi è incarnato dimora sereno e padrone di sé nella città dalle nove porte [il corpo], senza agire né far agire.</p>
 <details class="sanskrit">
 <summary>Sanscrito</summary>
 <div class="sanskrit-text">सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।<br>

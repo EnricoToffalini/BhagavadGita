@@ -188,7 +188,7 @@ Then run:
 <a class="ref" href="#v-5-13">5.13</a>
 <span class="speaker">(Krishna)</span>
 </header>
-<p class="translation translation-en" data-lang="en">Renouncing all actions with the mind, the embodied one rests at ease, in command, in the city of nine gates, neither acting nor causing action.</p>
+<p class="translation translation-en" data-lang="en">Renouncing all actions with the mind, the embodied one rests at ease, in command, in the city of nine gates [the body], neither acting nor causing action.</p>
 <details class="sanskrit">
 <summary>Sanskrit</summary>
 <div class="sanskrit-text">सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।<br>

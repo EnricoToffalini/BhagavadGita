@@ -53,10 +53,12 @@ SITE_TITLE_SANSKRIT = 'भगवद्गीता'
 # <meta> element); write_site_head() omits the tag while this remains empty.
 GOOGLE_SITE_VERIFICATION = ''
 
-ROOT_HOME_TITLE = 'Bhagavad Gita — testo sanscrito e traduzione italiana | Enrico Toffalini'
+ROOT_HOME_TITLE = (
+    'Bhagavad Gita — English and Italian Translations | Enrico Toffalini'
+)
 ROOT_HOME_DESCRIPTION = (
-    'Bhagavad Gita in sanscrito, con traslitterazione, traduzione italiana '
-    'letterale e note di Enrico Toffalini.'
+    'Read the Bhagavad Gita in Sanskrit with English or Italian translation, '
+    'notes, glossaries, and free PDFs.'
 )
 
 # Conventional romanized chapter titles, aligned with the Sanskrit titles in the
@@ -686,26 +688,29 @@ def write_root_index(chapters):
 
     The introductory note deliberately comes from the same source as the
     default-language home.  This keeps the visible wording at ``/`` and
-    ``/en/`` in sync while the root page remains a distinct bilingual landing
-    page for search engines rather than a complete duplicate of ``/en/``.
+    ``/en/`` in sync while the root page remains a distinct language-selection
+    landing page for search engines rather than a complete duplicate of
+    ``/en/``.
     """
+    root_lang = DEFAULT_LANG
+    root_cfg = LANGS[root_lang]
+    root_ui = root_cfg['ui']
     choices = '\n'.join(
         f'<a class="lang-choice" href="{lang}/index.html">'
         f'<span class="gita-lang" data-lang="{lang}">{esc(LANGS[lang]["label"])}</span></a>'
         for lang in LANG_ORDER
     )
-    italian = LANGS['it']
     chapter_cards = []
     for ch in sorted(chapters):
         chapter_cards.append(
-            f'<a class="chapter-card" href="it/chapters/chapter-{ch:02d}.html">'
-            f'<span class="chapter-number">{esc(italian["ui"]["chapter"])} {ch}</span>'
+            f'<a class="chapter-card" href="{root_lang}/chapters/chapter-{ch:02d}.html">'
+            f'<span class="chapter-number">{esc(root_ui["chapter"])} {ch}</span>'
             f'<span class="chapter-title">{esc(CHAPTER_TITLES_ROMAN[ch])}</span></a>'
         )
     parts = [
         '---',
         f'title: "{SITE_TITLE}"',
-        'lang: it',
+        f'lang: {root_lang}',
         f'pagetitle: {json.dumps(ROOT_HOME_TITLE, ensure_ascii=False)}',
         'title-prefix: ""',
         f'description-meta: {json.dumps(ROOT_HOME_DESCRIPTION, ensure_ascii=False)}',
@@ -721,11 +726,11 @@ def write_root_index(chapters):
         choices,
         '</div>',
         '',
-        f'<div class="site-note" lang="{DEFAULT_LANG}">',
-        *(f'<p>{intro_html(paragraph)}</p>' for paragraph in load_intro(DEFAULT_LANG)),
+        f'<div class="site-note" lang="{root_lang}">',
+        *(f'<p>{intro_html(paragraph)}</p>' for paragraph in load_intro(root_lang)),
         '</div>',
         '',
-        '## Capitoli in italiano',
+        f'## {root_ui["chapters"]} in {root_cfg["label"]}',
         '',
         '<div class="chapter-grid">',
         *chapter_cards,
