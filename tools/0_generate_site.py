@@ -58,10 +58,6 @@ ROOT_HOME_DESCRIPTION = (
     'Bhagavad Gita in sanscrito, con traslitterazione, traduzione italiana '
     'letterale e note di Enrico Toffalini.'
 )
-ROOT_HOME_INTRO = (
-    'Testo sanscrito della Bhagavad Gita con traslitterazione, traduzione '
-    'italiana letterale e note di Enrico Toffalini.'
-)
 
 # Conventional romanized chapter titles, aligned with the Sanskrit titles in the
 # spreadsheet.  Some editions use close variants, for example Karma-Sannyasa Yoga
@@ -686,7 +682,13 @@ def write_seo_head(lang):
 
 
 def write_root_index(chapters):
-    """Indexable project homepage with language choices and chapter links."""
+    """Indexable project homepage with language choices and chapter links.
+
+    The introductory note deliberately comes from the same source as the
+    default-language home.  This keeps the visible wording at ``/`` and
+    ``/en/`` in sync while the root page remains a distinct bilingual landing
+    page for search engines rather than a complete duplicate of ``/en/``.
+    """
     choices = '\n'.join(
         f'<a class="lang-choice" href="{lang}/index.html">'
         f'<span class="gita-lang" data-lang="{lang}">{esc(LANGS[lang]["label"])}</span></a>'
@@ -719,8 +721,8 @@ def write_root_index(chapters):
         choices,
         '</div>',
         '',
-        '<div class="site-note">',
-        f'<p>{esc(ROOT_HOME_INTRO)}</p>',
+        f'<div class="site-note" lang="{DEFAULT_LANG}">',
+        *(f'<p>{intro_html(paragraph)}</p>' for paragraph in load_intro(DEFAULT_LANG)),
         '</div>',
         '',
         '## Capitoli in italiano',

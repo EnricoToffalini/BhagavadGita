@@ -67,7 +67,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-maya">
 <h3>maya</h3>
 <p>Potere di apparenza, occultamento o manifestazione; dipende dal contesto.</p>
-<p class="glossary-variants">Forme nel testo: Maya, maya, yoga-maya</p>
+<p class="glossary-variants">Forme nel testo: maya, Maya, yoga-maya</p>
 </section>
 <section class="glossary-entry" id="glossary-nirvana">
 <h3>nirvana</h3>
@@ -77,7 +77,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-prakriti">
 <h3>prakriti</h3>
 <p>Natura, processo materiale, o il campo del mutamento e della manifestazione.</p>
-<p class="glossary-variants">Forme nel testo: Prakriti, prakriti</p>
+<p class="glossary-variants">Forme nel testo: prakriti, Prakriti</p>
 </section>
 <section class="glossary-entry" id="glossary-purusha">
 <h3>purusha</h3>
@@ -87,7 +87,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-rajas">
 <h3>rajas</h3>
 <p>Il guna associato ad attività, passione, impulso e irrequietezza.</p>
-<p class="glossary-variants">Forme nel testo: Rajas, rajas, rajasica, rajasici, rajasico</p>
+<p class="glossary-variants">Forme nel testo: rajas, Rajas, rajasica, rajasici, rajasico</p>
 </section>
 <section class="glossary-entry" id="glossary-samsara">
 <h3>samsara</h3>
@@ -107,7 +107,7 @@ Una guida essenziale ai termini sanscriti traslitterati e ai nomi ricorrenti nel
 <section class="glossary-entry" id="glossary-sattva">
 <h3>sattva</h3>
 <p>Il guna associato a chiarezza, equilibrio e illuminazione.</p>
-<p class="glossary-variants">Forme nel testo: Sattva, sattva, sattvica, sattvici, sattvico</p>
+<p class="glossary-variants">Forme nel testo: sattva, Sattva, sattvica, sattvici, sattvico</p>
 </section>
 <section class="glossary-entry" id="glossary-tamas">
 <h3>tamas</h3>
